@@ -93,7 +93,7 @@ Hurtigt og målrettet arbejde med information inden for nødvendige områder
 IT-kompetencer
 --------------
 
-Erfaren bruger af Windows, Office-pakken, Mac OS X, Camtasia studio, Google Translator Toolkit
+Erfaren bruger af Windows, Office-pakken, Mac OS X, Camtasia studio, Google Translator Toolkit, Praat, Adobe Package
 
 Personlige kvalifikationer
 --------------------------
