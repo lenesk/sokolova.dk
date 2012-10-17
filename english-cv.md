@@ -14,7 +14,7 @@ Education
 Aarhus University, Denmark    
 MA in Linguistics (a full-time study programme in English)  
  
-*2011/03-2011/06*  
+*2011/03-present*  
 Institute for Pedagogical Training and Education (DPU), Denmark   Completed module "Second Language Pedagogy" as a part of a further training on teaching Danish as a second or foreign language for young and adult foreigners
 						
 *2005-2010*  
@@ -39,7 +39,9 @@ High school education (Certificate of Complete Secondary Education with advanced
 						
 Work Experience
 ---------------
-						
+
+*2012/09-present*
+Teacher of Danish as a second language at Studieskolen in Copenhagen 						
 *2010/10-2011/12*  						
 Teacher of Danish as a second language at Lærdansk Sønderborg including evening courses in Danish for international students at the University of Southern Denmark (in Sønderborg) and foreign employees at Danfoss Drives A/S (in Gråsten)
 									
