@@ -41,7 +41,8 @@ Work Experience
 ---------------
 
 *2012/09-present*
-Teacher of Danish as a second language at Studieskolen in Copenhagen 						
+Teacher of Danish as a second language at Studieskolen in Copenhagen
+
 *2010/10-2011/12*  						
 Teacher of Danish as a second language at Lærdansk Sønderborg including evening courses in Danish for international students at the University of Southern Denmark (in Sønderborg) and foreign employees at Danfoss Drives A/S (in Gråsten)
 									
