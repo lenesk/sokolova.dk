@@ -1,9 +1,6 @@
 Elena Dmitrievna Sokolova
 =========================
-
-Kollelevbakken 5C, 1. TH  
-2830 Virum  
-+ 45 60 18 53 21  
+  
 elena@sokolova.dk  
 
 						
