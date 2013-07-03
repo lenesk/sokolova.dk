@@ -12,7 +12,8 @@ Aarhus University, Denmark
 MA in Linguistics (a full-time study programme in English)  
  
 *2011/03-present*  
-Institute for Pedagogical Training and Education (DPU), Denmark   Completed module "Second Language Pedagogy" as a part of a further training on teaching Danish as a second or foreign language for young and adult foreigners
+Institute for Pedagogical Training and Education (DPU)
+Danish as a second or foreign language for young and adult foreigners
 						
 *2005-2010*  
 Moscow State Linguistic University, Russian Federation  
@@ -82,24 +83,6 @@ Danish 		Fluent both orally and in writing
 English 	Fluent both orally and in writing  
 French 		Good level, both orally and in writing  
 						
-Special professional competencies
----------------------------------
-						
-- simultaneous, consecutive and whispered interpreting, translation, editing, proofreading;
-- ability to produce a high-quality texts which do not need further editing;
-- ultimate understanding of language theory: phonetics and phonology, grammar, usage, terminology building, morphology and syntax, etc.;
-- solid knowledge of and practice in intercultural communication;
-- working knowledge of statistics;
-- knowledge of history, culture and politics in the English-speaking countries and Denmark;
-- good understanding of business relations and processes, economics, corporate culture and international politics;
-- fast and targeted work with information in the required fields, including effective skills information search;
-- perfect ability to acquire knowledge in new fields of translation.
-						 					
-Personal competencies
----------------------
-
-I am a good team player, an initiative colleague whom one can rely on, and a person willingly taking challenges. I am able to work under pressure and a Deadline is a word always written in an uppercase for me. To be result-oriented and quality-conscious is a must for me.
-		
 IT skills
 ---------
 
