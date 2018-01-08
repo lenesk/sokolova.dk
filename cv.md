@@ -1,7 +1,6 @@
 # Elena Sokolova
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 +45 6018 5321<br/>
-Dronningens Vænge 6, 2. TV<br/>
 2800 Kgs. Lyngby
 
 ## Erhvervserfaring
