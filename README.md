@@ -1,7 +1,5 @@
 * [Curriculum vitae](./cv.md)
 
-##
-
 ## Video tutorials on pronunciation rules in Danish
 
 * [Danish consonants and diphthongs](https://youtu.be/eD3BYwY6jDE)
