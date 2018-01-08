@@ -8,7 +8,7 @@
 
 ## Papers and writings
 * [Narrative competence of children with migrant background](./sokolova-2010-narration-in-migrant-children.pdf)
-* [Perfective and imperfective aspect in Russian and its translation into Danish](./sokolova-2011-russian-verb-aspect-in-danish)
-* [Russian accent in Russian native speakers of Danish as a second and foreign language](./sokolova-2012-ma-thesis)
-* [Interaktions rolle i post-task ordgenkendelse hos begyndere](sokolova-2013-interaktion-og-tasks-ordtilegnelse)
-* [Kulturmøder og pædagogiske implikationer i forberedelse til Prøve i Dansk 3](./sokolova-2014-dpu-diplomopgave)
+* [Perfective and imperfective aspect in Russian and its translation into Danish](./sokolova-2011-russian-verb-aspect-in-danish.pdf)
+* [Russian accent in Russian native speakers of Danish as a second and foreign language](./sokolova-2012-ma-thesis.pdf)
+* [Interaktions rolle i post-task ordgenkendelse hos begyndere](sokolova-2013-interaktion-og-tasks-ordtilegnelse.pdf)
+* [Kulturmøder og pædagogiske implikationer i forberedelse til Prøve i Dansk 3](./sokolova-2014-dpu-diplomopgave.pdf)
