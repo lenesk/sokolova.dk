@@ -1,3 +1,7 @@
+* [Curriculum vitae](./cv.md)
+
+##
+
 ## Video tutorials on pronunciation rules in Danish
 
 * [Danish consonants and diphthongs](https://youtu.be/eD3BYwY6jDE)
@@ -12,3 +16,4 @@
 * [Russian accent in Russian native speakers of Danish as a second and foreign language](./sokolova-2012-ma-thesis.pdf)
 * [Interaktions rolle i post-task ordgenkendelse hos begyndere](sokolova-2013-interaktion-og-tasks-ordtilegnelse.pdf)
 * [Kulturmøder og pædagogiske implikationer i forberedelse til Prøve i Dansk 3](./sokolova-2014-dpu-diplomopgave.pdf)
+
