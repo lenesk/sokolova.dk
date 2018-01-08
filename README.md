@@ -20,3 +20,6 @@
 * [Interaktions rolle i post-task ordgenkendelse hos begyndere](sokolova-2013-interaktion-og-tasks-ordtilegnelse.pdf)
 * [Kulturmøder og pædagogiske implikationer i forberedelse til Prøve i Dansk 3](./sokolova-2014-dpu-diplomopgave.pdf)
 
+* * * 
+
+![Lisp](./lisp-bunny.png)
