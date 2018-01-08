@@ -1,3 +1,8 @@
+# Elena Sokolova
+[elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
++45 6018 5321<br/>
+2800 Kgs. Lyngby, Denmark
+
 * [Curriculum vitae](./cv.md)
 
 ## Video tutorials on pronunciation rules in Danish
