@@ -8,7 +8,7 @@ Dansklærer, 2012/09–i dag	<br>
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København
 
 Dansklærer, 2017/09–10/2018 <br/>
-[Speak School of Danish (DTU campus & Microsoft)](https://speakspeak.dk/da/fvu-kurser/fvu-dtu/), Lyngby
+[Speak, School of Danish (DTU campus & Microsoft)](https://speakspeak.dk/da/fvu-kurser/fvu-dtu/), Lyngby
 
 Freelance russisk tolk, 2012/08–2013/12<br/> 
 International Tolkeservice, København og omegn
