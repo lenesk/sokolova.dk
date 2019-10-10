@@ -1,15 +1,14 @@
 # Elena Sokolova
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 +45 6018 5321<br/>
-2800 Kgs. Lyngby
+2830 Virum
 
 ## Erhvervserfaring
-
-Dansklærer, 2017/09–i dag <br/>
-[Sprogcenter Hellerup (DTU campus)](http://sprogcenterhellerup.dk/danskkurser-pa-dtu/), Lyngby
-
 Dansklærer, 2012/09–i dag	<br>		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København
+
+Dansklærer, 2017/09–10/2018 <br/>
+[Speak School of Danish (DTU campus & Microsoft)](https://speakspeak.dk/da/fvu-kurser/fvu-dtu/), Lyngby
 
 Freelance russisk tolk, 2012/08–2013/12<br/> 
 International Tolkeservice, København og omegn
@@ -32,7 +31,7 @@ UEFA Championship i Moskva
 
 ## Primære kompetencer
 
-* en solid erfaring (7 år) i interkulturel kommunikation med internationale studerende og udenlandske medarbejdere, der lærer dansk som andet- eller fremmedsprog; 
+* interkulturel kommunikation med internationale studerende og udenlandske medarbejdere, der lærer dansk som andet- eller fremmedsprog; 
 
 * voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer;
 
@@ -40,7 +39,7 @@ UEFA Championship i Moskva
 
 * evner til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for universitetsområdet;
 
-* evne til at selvstændigt planlægge og strukturere min hverdag, samt at arbejde med lidt supervision;
+* evne til at selvstændigt planlægge og strukturere arbejdsopgaver, samt at arbejde med lidt supervision;
 
 * kendskab til didaktik og vejledningsmetoder;
 
