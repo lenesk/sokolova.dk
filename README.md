@@ -1,7 +1,7 @@
 # Elena Sokolova
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 +45 6018 5321<br/>
-2800 Kgs. Lyngby, Denmark
+2830 Virum
 
 * [Curriculum vitae](./cv.md)
 
