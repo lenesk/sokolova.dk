@@ -3,7 +3,7 @@
 +45 6018 5321<br/>
 2830 Virum, Denmark
 
-* [Curriculum vitae](./cv.md)
+* [Curriculum vitae (Danish version)](./cv.md)
 
 ## Video tutorials on pronunciation rules in Danish
 
