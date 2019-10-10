@@ -96,7 +96,7 @@ UEFA Championship i Moskva
 
 ## Øvrige interesser
 
-Atletik, langrend, oversættelse af børnelitteratur, datalingvistik, Natural Language processing
+Atletik, langrend, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
 
 * * *
 
