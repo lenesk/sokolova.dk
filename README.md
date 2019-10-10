@@ -1,7 +1,7 @@
 # Elena Sokolova
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 +45 6018 5321<br/>
-2830 Virum
+2830 Virum, Danmark
 
 * [Curriculum vitae](./cv.md)
 
