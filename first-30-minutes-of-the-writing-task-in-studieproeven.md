@@ -30,7 +30,11 @@ To write a coherent essay, you need to understand the context of the Writing tas
 
 1. Read and make sure that you have understood the explanatory sentences under the data material first (e.g., a table or the diagram) before looking at the data set. They often contain food for thought and hints towards what to pick up for data description. In other words, they cast the light on the issue and give the contextual and non-statistical summary of the issue. The explanatory sentences look like this in Opgave 1 ‘Land og By’ from winter 2019 (see under the to tables): 
 
-![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
+[Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
+Explanatory sentences
 
+*Den igangværende urbanisering har i flere år været genstand for en del debat. Man har især diskuteret det bekymrende i, at der hos den yngre del af befolkningen er en udtalt bevægelse fra landdistrikterne ind mod byerne. 
+Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt. 
+*
 
 
