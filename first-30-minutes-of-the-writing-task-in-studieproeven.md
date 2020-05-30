@@ -34,7 +34,6 @@ To write a coherent essay, you need to understand the context of the Writing tas
 Explanatory sentences
 
 *Den igangværende urbanisering har i flere år været genstand for en del debat. Man har især diskuteret det bekymrende i, at der hos den yngre del af befolkningen er en udtalt bevægelse fra landdistrikterne ind mod byerne. 
-Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt. 
-*
+Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt.*
 
 
