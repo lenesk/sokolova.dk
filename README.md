@@ -3,6 +3,10 @@
 
 * [Curriculum vitae (Danish version)](./cv.md)
 
+## Blog  
+   Prepare for the Studieprøven exam
+ * [# How to start the Writing task in Studieprøven exam?](how-to-start-the-essay-task-at-the-studieproeven-exam)
+
 ## Video tutorials on pronunciation rules in Danish
 
 * [Danish consonants and diphthongs](https://youtu.be/eD3BYwY6jDE)
