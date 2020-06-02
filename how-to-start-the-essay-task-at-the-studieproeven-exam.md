@@ -87,15 +87,15 @@ Explanatory sentences
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png)
 
-During the first 15 minutes, it is possible to conclude from the explanatory sentences and data material the following: 
+During the first 15 minutes, it is possible to conclude from the explanatory sentences and data material the following. 
 
- * almost half of the population in the survey across the three age groups believes that there has been committed more crimes over the last five years, that is why the crime rate increased in general. 
+ * Almost half of the population in the survey across the three age groups believes that there has been committed more crimes over the last five years, that is why the crime rate increased in general. 
  
  * The participants of the survey have impressions that do not correspond to the official statistics on the number of crimes, as shown in the diagram, published in the report by the Ministry of Justice in 2017. So this deviation is the second main feature you can choose to describe. 
  
  * You may also extend on the deviation point, and say what the real crime rate is. 
  
- * Another significant feature in the data, is that the age does not play a massive role on the impression in the groups, who overestimate the crime rate or believe, that the rate remained the same. However, there are significantly more young people, who believe that the crime rate has fallen over the five years (Think already about the reasons, why people judge so?)
+ * Another significant feature in the data, is that the age does not play a massive role on the impression in the groups, who overestimate the crime rate or believe, that the rate remained the same. However, there are significantly more young people, who believe that the crime rate has fallen over the five years (Think already about the reasons, why people judge so?).
 
 ## The rule of next 15 minutes
 
