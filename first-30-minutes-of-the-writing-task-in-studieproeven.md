@@ -49,6 +49,8 @@ To write a coherent essay, you need to understand the context of the Writing tas
    
    > *4. Tag stilling til udsagnet: ”Mændene bliver tabere i kampen om de gode jobs!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
 
+   > **Du skal skrive minimum 400 ord.**
+   
     ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
 
 4. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
@@ -83,20 +85,21 @@ Take an example and look at the Studieprøven’s Writing set from November-Dece
 
 Explanatory sentences
 
-*Problematikkerne omkring kriminalitet og straf bliver jævnligt taget op i medierne, og de har været anledning til mange politiske diskussioner, marketing og initiativer. Nogle mener dog, at debatten om kriminalitet og straf er meget unuanceret og skaber unødig bekymring i befolkning.*
+> *Problematikkerne omkring kriminalitet og straf bliver jævnligt taget op i medierne, og de har været anledning til mange politiske diskussioner, marketing og initiativer. Nogle mener dog, at debatten om kriminalitet og straf er meget unuanceret og skaber unødig bekymring i befolkning.*
+
+*Opgave* 
+
+> *1. Gør ud fra faktainformationen kort rede for udviklingen i befolkningens opfattelse af antallet af straffe- lovsovertrædelser samt for antallet af anmeldte straffelovsovertrædelser i perioden 2011-2015.*
+
+> *2. Hvad kan årsagerne være til de forskelle, som faktainformationen viser?*
+
+> *3. Hvordan mener du, folks bekymring for kriminalitet vil udvikle sig i fremtiden?*
+
+> *4. Tag stilling til udsagnet: ”Vi bruger for mange ressourcer på overvågning og straf!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
+
+> **Du skal skrive minimum 400 ord.**
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png)
-
-![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019-questions.png)
-
-> ## Opgave
->
-> * Gør ud fra faktainformationen…
-> * Hvad kan…
-> * Hvad mener du…
-> * Tag stilling…
->
-> **Du skal skrive minimum 400 ord.**
 
 During the first 15 minutes, it is possible to conclude from the explanatory sentences and data material the following: 
 almost half of the population in the survey across the three age groups believes that there has been committed more crimes over the last five years, that is why the criminality rate increased in general. 
