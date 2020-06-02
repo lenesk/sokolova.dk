@@ -6,7 +6,7 @@ In this blog post, you will learn about the rule of the first 30 minutes for the
 
 ## How to get started with the Writing task of the Studieprøven exam?
 
-In this blog post, you will learn about the rule of the first 30 minutes for the Writing Task (*Skriftlig fremstilling*) in the written part of the Studieprøven exam. This rule will help you to complete the Writing task in the rest 2,5 hours. The three hours of the Writing task fly during the exam! Proper planning and understanding of the task questions and even data titles can save time for writing a coherent text on the topic. 
+In this blog post, you will learn about the rule of the first 30 minutes for the Writing task (*Skriftlig fremstilling*) in the written part of the Studieprøven exam. This rule will help you to complete the Writing task in the rest 2,5 hours. The three hours of the Writing task fly during the exam! Proper planning and understanding of the task questions and even data titles can save time for writing a coherent text on the topic. 
 
 ## Describing data is a compulsory part of any Writing task of the Studieprøven exam
 
@@ -49,7 +49,7 @@ To write a coherent essay, you need to understand the context of the Writing tas
    
    > *4. Tag stilling til udsagnet: ”Mændene bliver tabere i kampen om de gode jobs!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
 
-   > **Du skal skrive minimum 400 ord.**
+   > ***Du skal skrive minimum 400 ord.***
    
     ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
 
@@ -97,7 +97,7 @@ Explanatory sentences
 
 > *4. Tag stilling til udsagnet: ”Vi bruger for mange ressourcer på overvågning og straf!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
 
-> **Du skal skrive minimum 400 ord.**
+> ***Du skal skrive minimum 400 ord.***
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png)
 
