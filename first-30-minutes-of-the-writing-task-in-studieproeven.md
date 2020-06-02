@@ -47,6 +47,30 @@ Denne udvikling har konsekvenser for befolkningens alderssammensætning i henhol
 5. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse).  
 6. Pick up 3-5 features from the data set, which are significant. 
 7. By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
+8. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
+9. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse).  
+10. Pick up 3-5 features from the data set, which are significant. 
+By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
+
+## How to choose data features for description
+Choose the features, which can work as reference points, when you later get to explaining the reasons of an issue or a trend development from data set and can predict the consequences of the issue or suggest a solution to the problem/issue - in question 2 and 3 of the task. 
+
+Your first task question is to describe the most significant points/features in the statistics, so do not describe all the percentage levels for every single year or every single percentage for each group or each question/comparison variable as a long list. Instead unite similar rates and find regularities and systematics in the data, according to given comparison parameters or variables: for instance, unite data features by age, gender, income, education level as if you were making mini conclusions.
+
+You can choose from three to five main points from the data set, depending on the significance. For example: 
+describe the main trends in the development during the whole given period: the highest, the middle and the lowest rates precisely e.g., in percentage, number, amount; the difference in the percentage, for each or focus year/category of comparison/each or several united groups of population in the survey (e.g., groups by gender or location). Using mathematical precision to show that you understand data, formulate this trends in terms of an increase (en stigning på 5%; the corresponding verb is: at stige/steg/er steget med 5%) vs. a decrease (et fald på 5%; at falde/faldt/er faldet med 5%); a growth (en vækst) vs. a fall/drop(et fald). 
+
+Choose other features, which you can describe in general words, or approximately with less mathematical precision as a trend over time or a given period. It can be a prediction (en fremskrivning) or a measured level over a past period, for example, the decrease in the number of registered crimes.  
+Choose the features that show distinct differences or similarities in the population groups or geographical regions. 
+By selecting different trends, you can show you master different linguistic means, such as f.x. not always sticking to the percentage, but also telling about the global changes and development. Linguistic variety, precise and nuanced word choice is one of the assessment criteria for the Writing Task. 
+
+Take an example and look at the Studieprøven’s Writing set from November-December 2019 and try to plan the first paragraph (before you start writing), in other words choose data for description. 
+
+![Opgave 1 'Land og by' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-og-by-from-winter-2019.png)
+
+
+
+
 
 
 
