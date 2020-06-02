@@ -123,7 +123,7 @@ Now you are ready to start writing the first sentence!
 
 * * *
 
-**In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! You will also learn how to write the first sentence**
+**In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! You will also learn how to write the first sentence.**
 
 Do you have questions, comments or suggestions - email to me to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
