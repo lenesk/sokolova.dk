@@ -5,7 +5,7 @@
 
 ## Blog  
    Prepare for the Studieprøven exam
- * [# How to start the Writing task in Studieprøven exam?](how-to-start-the-essay-task-at-the-studieproeven-exam)
+ * [How to start the Writing task in Studieprøven exam?](how-to-start-the-essay-task-at-the-studieproeven-exam)
 
 ## Video tutorials on pronunciation rules in Danish
 
