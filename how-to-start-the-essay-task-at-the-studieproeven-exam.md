@@ -38,13 +38,13 @@ To write a coherent essay, you need to understand the context of the Writing tas
 3. Read the four questions in the task description **before** you look at the data or visually analyze them. It will already help you to look at the data set afterwards with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from *Opgave 1 ‘Land og By’* from winter 2019):
 
    > *1. Gør ud fra faktainformationen kort rede for kønsfordelingen blandt unge mænd og kvinder i de udvalgte kommuner samt for aldersgrupperne 20-29-årige og 60-69-åriges andele af kommunernes befolkning.*
-   
+   >
    > *2. Hvad kan årsagerne være til den udvikling, som faktainformationen viser?*
-   
+   >
    > *3. Hvad mener du, der kan gøre landkommunerne mere attraktive for de unge?*
-   
+   >
    > *4. Tag stilling til udsagnet: ”Mændene bliver tabere i kampen om de gode jobs!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
-
+   >
    > ***Du skal skrive minimum 400 ord.***
    
     ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
@@ -74,19 +74,15 @@ By selecting different trends, you can show you master different linguistic mean
 Take an example and look at the Studieprøven’s Writing set from November-December 2019 and try to plan the first paragraph in the first 15 minutes (before you start writing), in other words choose data for description.
 
 Explanatory sentences
-
+ 
 > *Problematikkerne omkring kriminalitet og straf bliver jævnligt taget op i medierne, og de har været anledning til mange politiske diskussioner, marketing og initiativer. Nogle mener dog, at debatten om kriminalitet og straf er meget unuanceret og skaber unødig bekymring i befolkning.*
-
-*Opgave* 
-
-> *1. Gør ud fra faktainformationen kort rede for udviklingen i befolkningens opfattelse af antallet af straffe- lovsovertrædelser samt for antallet af anmeldte straffelovsovertrædelser i perioden 2011-2015.*
-
-> *2. Hvad kan årsagerne være til de forskelle, som faktainformationen viser?*
-
-> *3. Hvordan mener du, folks bekymring for kriminalitet vil udvikle sig i fremtiden?*
-
-> *4. Tag stilling til udsagnet: ”Vi bruger for mange ressourcer på overvågning og straf!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
-
+> ### Opgave 
+>
+> 1. *Gør ud fra faktainformationen kort rede for udviklingen i befolkningens opfattelse af antallet af straffe- lovsovertrædelser samt for antallet af anmeldte straffelovsovertrædelser i perioden 2011-2015.*
+> 2. *Hvad kan årsagerne være til de forskelle, som faktainformationen viser?*
+> 3. *Hvordan mener du, folks bekymring for kriminalitet vil udvikle sig i fremtiden?*
+> 4. *Tag stilling til udsagnet: ”Vi bruger for mange ressourcer på overvågning og straf!” (Besvarelsen af dette punkt skal udgøre mindst 25 % af den samlede besvarelse).*
+> 
 > ***Du skal skrive minimum 400 ord.***
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png)
