@@ -43,6 +43,12 @@ Denne udvikling har konsekvenser for befolkningens alderssammensætning i henhol
 
 ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
 
+4. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
+5. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse).  
+6. Pick up 3-5 features from the data set, which are significant. 
+7. By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
+
+
 
 
 
