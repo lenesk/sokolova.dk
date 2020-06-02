@@ -6,11 +6,11 @@ In this blog post, you will learn about the rule of the first 30 minutes for the
 
 ## Describing data is a compulsory part of any Writing task of the Studieprøven exam
 
-For the Writing task (let us call it further an essay), you receive an exam set with three structurally similar tasks but given on three different topics. You can choose between the three tasks, depending on what topic seems more comfortable to write about or familiar to you. So you only should write one essay on the topic you choose during three hours. However, no matter which of the three topics you choose, you will have to answer a compulsory question in the assignment description (let us call it further task questions):
+For the Writing task (let us call it further an essay), you receive an exam set with three structurally similar tasks but given on three different topics. You can choose between the three tasks, depending on what topic seems more comfortable to write about or familiar to you. So you only should write one essay on the topic you choose during three hours. However, no matter which of the three topics you choose, the first assignemnt element of the task is to describe the main features of the data set (let us call it further task questions):
 
-> *Punkt 1: Gør ud fra faktainformationen kort rede for* …
+> *Punkt 1: Gør ud fra faktainformationen kort rede for* … .
 
-So in the first task question you are asked to describe the main points in the data usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. This data description is usually the first logical part of the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover).
+The data material is usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. The data description part is usually the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover).
 
 ## Why describing data is the most predictable part of the essay?
 
@@ -26,7 +26,7 @@ Since the whole essay should be a minimum of 400 words, the data description par
 
 To write a coherent essay, you need to understand the context of the Writing task in whole and how the data set correlates with the title of the task. In this way, the data description will not stand as a paragraph without connection to the other questions in the task. Here is the plan for the first 15 minutes of your Writing task. 
 
-1. Read the explanatory sentences under the data material and make sure that you have understood them before looking at the data set. They often contain food for thought and hints towards what to pick up for data description. In other words, they cast the light on the issue and give the contextual and non-statistical summary of the issue. The explanatory sentences may look like this in *Opgave 1 ‘Land og By’* from winter 2019 (see under the to tables): 
+1. Read the explanatory sentences under the data material and make sure that you have understood them before looking at the data set. They often contain food for thought and hints towards what to pick up for data description. In other words, they cast the light on the issue and give the contextual and non-statistical summary of the issue. The explanatory sentences may look like this in *Opgave 1 ‘Land og By’* from winter 2019: 
 
    Explanatory sentences:
 
@@ -49,7 +49,7 @@ To write a coherent essay, you need to understand the context of the Writing tas
    
     ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
 
-4. Correlate the four task questions with the title of the data set. The data (a table, a diagram, a figure, a graph ect.) usually has a title . 
+4. Correlate the four task questions with the title of the data set. The data (a table, a diagram, a figure, a graph ect.) usually has a title. 
 
 5. Find out where the data comes from. Does the information come from an interview (*et interview*), research, a survey or analytical article (*en undersøgelse, en analyse*, *en artikel*) in a scientific journal or a newspaper (*en tidsskrift/en avis*) or is it an authority’s report (*en rapport udgivet af et ministerium*/*en styrelse*). 
 
