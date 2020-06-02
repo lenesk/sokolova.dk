@@ -101,9 +101,9 @@ chosen main features in the data material;
 decided what issue/trend, in general, the data material reflects. 
 In the next 15 minutes, you have sketched a plan of the whole essay with keywords for all the four questions in the task to logically interconnected them. 
 
-Now you are ready to start writing the first sentence!
+##Now you are ready to start writing the first sentence!
 
-In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
+##In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
 
 
 
