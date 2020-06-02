@@ -1,4 +1,4 @@
-# The first 30 minutes of the Writing task in Studieprøven
+# How to start the essay task at the Studieprøven exam?
 
 *Elena Sokolova, June 2<sup>nd</sup> 2020*
 
