@@ -80,6 +80,32 @@ Explanatory sentences
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019-questions.png)
 
+During the first 15 minutes, it is possible to conclude from the explanatory sentences and data material the following: 
+almost half of the population in the survey across the three age groups believes that there has been committed more crimes over the last five years, that is why the criminality rate increased in general. 
+The participants of the survey have impressions that do not correspond to the official statistics on the number of crimes, as shown in the diagram, published in the report by the Ministry of Justice in 2017. So this deviation is the second main feature you can choose to describe. You may also extend on the deviation point, and say what the real crime rate is. 
+Another significant feature in the data, is that the age does not play a massive role in the groups, who overestimate the crime rate or believe, that the rate remained the same. However, there are significantly more young people, who believe that the criminality rate has fallen over the five years (Think already about the reasons, why people judge so?)
+
+##The rule of next 15 minutes
+
+Now that you have chosen the data for description, sketch ideas for the next 3 questions of the task in the form of key fords. Use arrows and bullets to organise your ideas on a draft paper. Choose 2-3 reasons with examples for the trends, you have chosen from in the data, while planning question 2 of the essay task. For question three connect them with 2-3 consequences of the issue or a trend development or (depending on the task questions ) choose 2-3 suggestions to solve the problem. Mind, that the third question may differ from topic to topic in the exam set. For question 4 you will need to decide, whether you agree with the given citation or opinion, so include you attitude in the plan sketch, so that you know in advance, what you first three logical parts three of the essay do not contradict to you own attitude. It’s easy to avoid self-contradiction, when you decide what you think about the issue in advance, but not in the middle of writing you text!  Finally, formulate in a couple of key words the conclusion to make sure, all the whole plan makes sense for you and the parts are interconnected. 
+
+## What was it all about?
+
+In the first 15 minutes, you have
+####understood the explanatory sentences under the data material; 
+####read the task questions; 
+####understood the title of the data set;
+####visually analyzed the data set;
+####correlated it with the explanatory sentences under the data material, the quetions in the task and the data title;
+####chosen main features in the data material;
+####decided what issue/trend, in general, the data material reflects. 
+In the next 15 minutes, you have sketched a plan of the whole essay with keywords for all the four questions in the task to logically interconnected them. 
+
+Now you are ready to start writing the first sentence!
+
+In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
+
+
 
 
 
