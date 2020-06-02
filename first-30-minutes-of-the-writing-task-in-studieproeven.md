@@ -35,20 +35,26 @@ Explanatory sentences
 *Den igangværende urbanisering har i flere år været genstand for en del debat. Man har især diskuteret det bekymrende i, at der hos den yngre del af befolkningen er en udtalt bevægelse fra landdistrikterne ind mod byerne. 
 Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt.*
 
-![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
-
 2. Make sure you have understood all the words and terms in the explanatory sentences. Look the unknown words up in the Danish-Danish dictionary with definitions, if in doubt. Try even to translate the sentences to your native language, to make sure you’ve understood them. If you can also interpret them with your own words, then you have understood them! 
 
 3. Read the four questions in the task description before you look at the data or visually analyze them. It will already help you to look at the data set with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from Opgave 1 ‘Land og By’ from winter 2019):
 
 ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
 
+![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
+
 4. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
-5. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse).  
+
+5. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse). 
+
 6. Pick up 3-5 features from the data set, which are significant. 
+
 7. By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
+
 8. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
-9. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse).  
+
+9. Find out where the data comes from. Does the information come from an interview (et interview), research, a survey or analytical article (en undersøgelse, en analyse) in a scientific journal or a newspaper (en tidsskrift/en avis) or it is an authority’s report (en rapport udgivet af et ministerium/en styrelse). 
+
 10. Pick up 3-5 features from the data set, which are significant. 
 By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
 
@@ -64,9 +70,15 @@ Choose other features, which you can describe in general words, or approximately
 Choose the features that show distinct differences or similarities in the population groups or geographical regions. 
 By selecting different trends, you can show you master different linguistic means, such as f.x. not always sticking to the percentage, but also telling about the global changes and development. Linguistic variety, precise and nuanced word choice is one of the assessment criteria for the Writing Task. 
 
-Take an example and look at the Studieprøven’s Writing set from November-December 2019 and try to plan the first paragraph (before you start writing), in other words choose data for description. 
+Take an example and look at the Studieprøven’s Writing set from November-December 2019 and try to plan the first paragraph in the first 15 minutes(before you start writing), in other words choose data for description.
 
-![Opgave 1 'Land og by' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-og-by-from-winter-2019.png)
+Explanatory sentences
+
+*Problematikkerne omkring kriminalitet og straf bliver jævnligt taget op i medierne, og de har været anledning til mange politiske diskussioner, marketing og initiativer. Nogle mener dog, at debatten om kriminalitet og straf er meget unuanceret og skaber unødig bekymring i befolkning.*
+
+![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png)
+
+![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019-questions.png)
 
 
 
