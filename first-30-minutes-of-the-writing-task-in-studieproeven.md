@@ -92,21 +92,22 @@ Now that you have chosen the data for description, sketch ideas for the next 3 q
 ## What was it all about?
 
 In the first 15 minutes, you have
-understood the explanatory sentences under the data material; 
-read the task questions; 
-understood the title of the data set;
-visually analyzed the data set;
-correlated it with the explanatory sentences under the data material, the quetions in the task and the data title;
-chosen main features in the data material;
-decided what issue/trend, in general, the data material reflects. 
+
+ * understood the explanatory sentences under the data material; 
+ * read the task questions; 
+ * understood the title of the data set;
+ * visually analyzed the data set;
+ * correlated it with the explanatory sentences under the data material, the quetions in the task and the data title;
+ * chosen main features in the data material;
+ * decided what issue/trend, in general, the data material reflects. 
+ 
 In the next 15 minutes, you have sketched a plan of the whole essay with keywords for all the four questions in the task to logically interconnected them. 
 
-##Now you are ready to start writing the first sentence!
+## Now you are ready to start writing the first sentence!
 
-##In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
+## In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
 
-
-
+Do you have questions og suggestions - email to me to elena@sokolova.dk. 
 
 
 
