@@ -41,7 +41,7 @@ Denne udvikling har konsekvenser for befolkningens alderssammensætning i henhol
 
 Read the four questions in the task description before you look at the data or visually analyze them. It will already help you to look at the data set with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from Opgave 1 ‘Land og By’ from winter 2019):
 
-
+![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
 
 
 
