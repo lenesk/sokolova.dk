@@ -1,6 +1,6 @@
 # The first 30 minutes of the Writing task in Studieprøven
 
-Elena Sokolova, June 2nd 2020
+*Elena Sokolova, June 2<sup>nd</sup> 2020*
 
 In this blog post, you will learn about the rule of the first 30 minutes for the Writing task (Skriftlig fremstilling) in the written part of the Studieprøven exam. This rule will help you to complete the Writing task in the rest 2,5 hours. The three hours of the Writing task fly during the exam! Proper planning and understanding of the task questions and even data titles can save time for writing a coherent text on the topic. 
 
@@ -12,9 +12,9 @@ In this blog post, you will learn about the rule of the first 30 minutes for the
 
 For the Writing task (let us call it further an essay), you receive an exam set with three structurally similar tasks but given on three different topics. You can choose between the three tasks, depending on what topic seems more comfortable to write about or familiar to you. All three tasks contain a compulsory question in the assignment description:
 
-*‘Punkt 1: Gør ud fra faktainformationen kort rede for …’*
+> Punkt 1: Gør ud fra faktainformationen kort rede for …
 
-So the task is to describe the main points in the data set usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. This data description is usually the first logical part of the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: Studieprøven, November-December 2019. https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
+So the task is to describe the main points in the data set usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. This data description is usually the first logical part of the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover).
 
 ## Why describing data is the most predictable part of the Writing task?
 
@@ -32,18 +32,18 @@ To write a coherent essay, you need to understand the context of the Writing tas
 
 1. Read and make sure that you have understood the explanatory sentences under the data material first (e.g., a table or the diagram) before looking at the data set. They often contain food for thought and hints towards what to pick up for data description. In other words, they cast the light on the issue and give the contextual and non-statistical summary of the issue. The explanatory sentences look like this in Opgave 1 ‘Land og By’ from winter 2019 (see under the to tables): 
 
-Explanatory sentences
+   Explanatory sentences:
 
-*Den igangværende urbanisering har i flere år været genstand for en del debat. Man har især diskuteret det bekymrende i, at der hos den yngre del af befolkningen er en udtalt bevægelse fra landdistrikterne ind mod byerne. 
-Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt.*
+   > Den igangværende urbanisering har i flere år været genstand for en del debat. Man har især diskuteret det bekymrende i, at der hos den yngre del af befolkningen er en udtalt bevægelse fra landdistrikterne ind mod byerne. 
+   > Denne udvikling har konsekvenser for befolkningens alderssammensætning i henholdsvis land og by, og da det især er de unge kvinder, der vælger at flytte til byerne, har den også konsekvenser for kønsfordelingen blandt de unge. Spørgsmålet er, hvad denne tendens vil betyde på lidt længere sigt.
 
 2. Make sure you have understood all the words and terms in the explanatory sentences. Look the unknown words up in the Danish-Danish dictionary with definitions, if in doubt. Try even to translate the sentences to your native language, to make sure you’ve understood them. If you can also interpret them with your own words, then you have understood them! 
 
 3. Read the four questions in the task description before you look at the data or visually analyze them. It will already help you to look at the data set with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from Opgave 1 ‘Land og By’ from winter 2019):
 
-![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
+    ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
 
-![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
+    ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019.png)
 
 4. Correlate the four questions in the task with the title of the data set. The data usually has a title (a table, a diagram, a figure, a graph ect.). 
 
@@ -61,6 +61,7 @@ Denne udvikling har konsekvenser for befolkningens alderssammensætning i henhol
 By correlating the explanatory sentences, the questions in the task, and the title of the data set with the main features of the data, you’ll already form an ‘idea summary’ of your text.  
 
 ## How to choose data features for description
+
 Choose the features, which can work as reference points, when you later get to explaining the reasons of an issue or a trend development from data set and can predict the consequences of the issue or suggest a solution to the problem/issue - in question 2 and 3 of the task. 
 
 Your first task question is to describe the most significant points/features in the statistics, so do not describe all the percentage levels for every single year or every single percentage for each group or each question/comparison variable as a long list. Instead unite similar rates and find regularities and systematics in the data, according to given comparison parameters or variables: for instance, unite data features by age, gender, income, education level as if you were making mini conclusions.
@@ -82,6 +83,15 @@ Explanatory sentences
 
 ![Opgave 2 'Danskernes-opfattelse-af-kriminalitet' winter 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019-questions.png)
 
+> ## Opgave
+>
+> * Gør ud fra faktainformationen…
+> * Hvad kan…
+> * Hvad mener du…
+> * Tag stilling…
+>
+> **Du skal skrive minimum 400 ord.**
+
 During the first 15 minutes, it is possible to conclude from the explanatory sentences and data material the following: 
 almost half of the population in the survey across the three age groups believes that there has been committed more crimes over the last five years, that is why the criminality rate increased in general. 
 The participants of the survey have impressions that do not correspond to the official statistics on the number of crimes, as shown in the diagram, published in the report by the Ministry of Justice in 2017. So this deviation is the second main feature you can choose to describe. You may also extend on the deviation point, and say what the real crime rate is. 
@@ -89,7 +99,7 @@ Another significant feature in the data, is that the age does not play a massive
 
 ## The rule of next 15 minutes
 
-Now that you have chosen the data for description, sketch ideas for the next 3 questions of the task in the form of key fords. Use arrows and bullets to organise your ideas on a draft paper. Choose 2-3 reasons with examples for the trends, you have chosen from in the data, while planning question 2 of the essay task. For question three connect them with 2-3 consequences of the issue or a trend development or (depending on the task questions ) choose 2-3 suggestions to solve the problem. Mind, that the third question may differ from topic to topic in the exam set. For question 4 you will need to decide, whether you agree with the given citation or opinion, so include you attitude in the plan sketch, so that you know in advance, what you first three logical parts three of the essay do not contradict to you own attitude. It’s easy to avoid self-contradiction, when you decide what you think about the issue in advance, but not in the middle of writing you text!  Finally, formulate in a couple of key words the conclusion to make sure, all the whole plan makes sense for you and the parts are interconnected. 
+Now that you have chosen the data for description, sketch ideas for the next 3 questions of the task in the form of key fords. Use arrows and bullets to organise your ideas on a draft paper. Choose 2-3 reasons with examples for the trends, you have chosen from in the data, while planning question 2 of the essay task. For question three connect them with 2-3 consequences of the issue or a trend development or (depending on the task questions) choose 2-3 suggestions to solve the problem. Mind, that the third question may differ from topic to topic in the exam set. For question 4 you will need to decide, whether you agree with the given citation or opinion, so include you attitude in the plan sketch, so that you know in advance, what you first three logical parts three of the essay do not contradict to you own attitude. It’s easy to avoid self-contradiction, when you decide what you think about the issue in advance, but not in the middle of writing you text!  Finally, formulate in a couple of key words the conclusion to make sure, all the whole plan makes sense for you and the parts are interconnected. 
 
 ## What was it all about?
 
@@ -105,11 +115,13 @@ In the first 15 minutes, you have
  
 In the next 15 minutes, you have sketched a plan of the whole essay with keywords for all the four questions in the task to logically interconnected them. 
 
-## Now you are ready to start writing the first sentence!
+Now you are ready to start writing the first sentence!
 
-## In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular! 
+* * *
 
-Do you have questions og suggestions - email to me to elena@sokolova.dk. 
+**In my upcoming blog post, you will learn about relevant linguistic features for writing about data and the first question in particular!**
+
+Do you have questions og suggestions - email to me to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
 
 
