@@ -39,7 +39,7 @@ Denne udvikling har konsekvenser for befolkningens alderssammensætning i henhol
 
 2. Make sure you have understood all the words and terms in the explanatory sentences. Look the unknown words up in the Danish-Danish dictionary with definitions, if in doubt. Try even to translate the sentences to your native language, to make sure you’ve understood them. If you can also interpret them with your own words, then you have understood them! 
 
-Read the four questions in the task description before you look at the data or visually analyze them. It will already help you to look at the data set with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from Opgave 1 ‘Land og By’ from winter 2019):
+3. Read the four questions in the task description before you look at the data or visually analyze them. It will already help you to look at the data set with the perspective of what you should write about in these four questions. The questions for the task can be as follows (e.g. from Opgave 1 ‘Land og By’ from winter 2019):
 
 ![Opgave 1 'Land og by' winter 2019](opgave-1-land-og-by-from-winter-2019_questions.png)
 
