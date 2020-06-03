@@ -1,4 +1,4 @@
-# How to start the essay task at the Studieprøven exam?
+# How to start the essay task at the Studieprøven exam
 
 *Elena Sokolova, June 2<sup>nd</sup> 2020*
 
