@@ -1,6 +1,5 @@
 # Elena Sokolova
 
-(FullSizeRender-2.jpg)
 ## About me
 
 I moved to Denmark in 2010 to do my Master's Degree in Linguistics at Aarhus University after living five years in Moscow, where I had studied Translation, Interpreting, and Linguistics majoring in English and Danish. During the last ten years, I have been teaching Danish as a second and foreign language in Denmark, mostly in Copenhagen. I have experience in teaching Danish at all levels (online in Zoom, blended courses, regular classroom groups, as well as I give individual lessons). I have been tutoring students, preparing for the Danish language B2 and C1 exams (Prøve i Dansk 3 og Studieprøven). 
