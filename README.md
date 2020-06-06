@@ -1,4 +1,14 @@
 # Elena Sokolova
+
+## About me
+
+I moved to Denmark in 2010 to do my Master's Degree in Linguistics at Aarhus University after living five years in Moscow, where I studied Translation, Interpreting and Linguistics.
+
+I have always been intereseted in bilingualism as a socio-linguistic phenomenon, so I have chosen a bilingual track in my life. When you build a second, third og whatever a new language personality over a time, your start feeling the language. But nothing comes from nothing, so percoanl efforts and basic guidance and scaffold should support you in learning a new language. Various neurological studies show that adults do not learn a new languge as children.
+
+I believe, that adults can master a foreign language and become near-native users of this language through a concious learning, living into the langauge and using it acively. During the last ten years I have been teaching Danish as a second and foreign language. My teahcing approach is to teach a student to feel then langauge thought concious learning, when you for instance understand the grammar not for the sake of grammar rules, but to use it functionally. 
+
+
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 * [Curriculum vitae (Danish version)](./cv.md)
