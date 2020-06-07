@@ -3,7 +3,7 @@
 
 ## Erhvervserfaring
 Dansklærer, 2012/09–i dag	<br>		
-[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. Jeg undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive på Prøve i Dansk 3-forberedende hold og et hold forberedende til Studieprøven). 
+[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive forberedelse til Prøve i Dansk 3 og Studieprøven). 
 
 Dansklærer, 2017/09–10/2018 <br/>
 [Speak, School of Danish (DTU campus & Microsoft)](https://speakspeak.dk/da/fvu-kurser/fvu-dtu/), Lyngby
