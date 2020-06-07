@@ -60,6 +60,27 @@ UEFA Championship i Moskva
 
 * serviceminded og fleksibel.
 
+##
+Relevante erfaringer, jeg bringer
+
+I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig til projektledelse og pædagogisk udviklingsarbejde. Jeg har bl.a.
+
+* været medlem af pædagogisk udvalg (med to andre kolleger) og stået for planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen; 
+
+* udarbejdet referater af møder, samt indholdsmæssigt anvendt resultaterne af lærermøder i udviklingsarbejde;
+i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
+
+* udviklet modeller af nye kurser og holdtyper, samt aktivt arbejdet med markedsanalysen, udarbejdelsen og analysen af kundeundersøgelser;
+ 
+* bidraget til fastholdelsen af nuværende kursister gennem kommunikationsarbejdet;
+
+* afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator;
+
+* tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses;
+altid anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic;
+undervist via Zoom, både aften- og daghold. 
+
+
 ## Sprog
 
 * Dansk–Flydende, både mundtligt og skriftligt
