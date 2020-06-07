@@ -1,9 +1,12 @@
 # Elena Sokolova
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
+## Min undervisningserfaring 
+Siden 2012 har jeg undervist i dansk som andet- og fremmedsprog på [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/). Jeg startede som KUA-lærer for de internationale studerende på aftenkurser i oktober 2012, og siden da havde jeg undervist på Danskuddannelse 3 på alle moduler, indtil Studieskolens samarbejde med Københavns Kommune stoppede. Siden september 2018 har jeg undervist på kursistbetalte hold på Studieskolen på alle CEFRL-trin (inklusive PD3-forberedende hold og et hold forberedende til Studieprøven). 
+
 ## Erhvervserfaring
 Dansklærer, 2012/09–i dag	<br>		
-[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København
+[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
 
 Dansklærer, 2017/09–10/2018 <br/>
 [Speak, School of Danish (DTU campus & Microsoft)](https://speakspeak.dk/da/fvu-kurser/fvu-dtu/), Lyngby
