@@ -7,7 +7,7 @@ Dansklærer, 2012/09–i dag	<br>
 Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven). 
 
 Dansklærer, 2017/09–10/2018 <br/>
-[Speak, School of Danish (DTU campus & Microsoft)], Lyngby
+Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
 Freelance russisk tolk, 2012/08–2013/12<br/> 
 International Tolkeservice, København og omegn
