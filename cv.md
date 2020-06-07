@@ -4,7 +4,9 @@
 ## Erhvervserfaring
 Dansklærer, 2012/09–i dag	<br>		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
-Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven. 
+
+### Primære opagaver: 
+Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; altid anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
 Dansklærer, 2017/09–10/2018 <br/>
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
@@ -60,10 +62,9 @@ UEFA Championship i Moskva
 
 * serviceminded og fleksibel.
 
-##
-Relevante erfaringer, jeg bringer
+## Relevante erfaringer, jeg bringer
 
-I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig til projektledelse og pædagogisk udviklingsarbejde. Jeg har bl.a.
+I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig også til pædagogisk udviklingsarbejde. Jeg har bl.a.
 
 * været medlem af pædagogisk udvalg (med to andre kolleger) og stået for planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen; 
 
@@ -73,13 +74,6 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 * udviklet modeller af nye kurser og holdtyper, samt aktivt arbejdet med markedsanalysen, udarbejdelsen og analysen af kundeundersøgelser;
  
 * bidraget til fastholdelsen af nuværende kursister gennem kommunikationsarbejdet;
-
-* afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator;
-
-* tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses;
-altid anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic;
-undervist via Zoom, både aften- og daghold. 
-
 
 ## Sprog
 
