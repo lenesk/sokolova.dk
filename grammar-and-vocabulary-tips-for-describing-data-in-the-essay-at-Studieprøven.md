@@ -1,7 +1,7 @@
 
 # Grammar and vocabulary tips for describing data in the essay at Studieprøven
 
-*Elena Sokolova, June 2<sup>nd</sup> 2020*
+*Elena Sokolova, June 9<sup>nd</sup> 2020*
 
 In this blog post, you will learn about how to write the title and the first sentence in the essay at Studieprøven. 
 I give an overview of the terms used to represent data graphically. I provide examples of verb tenses you may need for data description and expressions for describing prediction and prognosis. 
@@ -53,7 +53,7 @@ Do not mix the name or title of the article or data material with the author or 
 
 Since data or statistics can be given in different graphical representations, it's essential to decide what graphical representation is applied in the task material. You cannot suddenly change the type of graphical representation in the middle of the paragraph to another term, so do not call 'a diagram' 'a table' or vice versa. It's quite normal that you stick to the same term throughout the whole paragraph. Here below are some options you may choose from, depending on the exam materials:  
 
-> *Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren /cirkeldiagrammet = according to the diagram, table, histogram (=the bar chart)/figure/circle diagram…  
+> *Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren /cirkeldiagrammet = according to the diagram, table, histogram (=the bar chart)/figure/circle diagram…* 
 
 [An example of a histogram (et søjlediagram)fra Wikipedia, den frie encyklopædi)](https://da.wikipedia.org/wiki/Søjlediagram)
 
@@ -73,7 +73,6 @@ The words *beregning* or *fremskrivning* are often used to prognoses or predict 
 
 Finally, it may be sometimes relevant to use the word *'opgørelse'*, if the data set is a final calculation or a final numerical result, e.g., in *årsopgørelse, refusionsopgørelse, resultatopgørelse*. 
 > *Ved opgørelse af de 120 sygedage medregnes samtlige sygedage fra datoen for sygemeldingen til raskmeldingen. (Fra ordnet.dk)*
-
 
 
 ## What grammatical tense of the verbs to use?
@@ -123,47 +122,48 @@ See more examples with 'procent':
 
 > *Ifølge tabellen er det lidt over 30 ptc. af de adspurgte i hver aldersgruppe, der synes, antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig. Note, that you cannot use the plural form 'procenter', if you have a preceding numeral.*
 
-> *De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel. (https://ordnet.dk/korpusdk/teksteksempler/kontekst)
+> *De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel.* (Fra ordnet.dk)
 
-> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.https://ordnet.dk/korpusdk/teksteksempler/kontekst
+> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater. (Fra ordnet.dk)
 
-'Procentpoint' is used to express the difference in the percentage for the group/issue/comparison element. E.g., as based on the set from Studieprøven could be (November-December 2019) 
+####*Procentpoint* is used to express the difference in the percentage for the group/issue/comparison element. 
+E.g., as based on the set from Studieprøven could be (November-December 2019):
 
-Andelen af 24-årige unge, der hverken er i beskæftigelse eller under uddannelse er steget fra ca. 12 pct. til 14 pct., dvs. med ca. 2 procentpoint i perioden fra 2008 til 2016. 
+> *Andelen af de 24-årige unge, der hverken er i beskæftigelse eller under uddannelse er steget fra ca. 12 pct. til 14 pct., dvs. med ca. 2 procentpoint i perioden fra 2008 til 2016.* 
 
-Det fremgår tydeligt af søjlediagrammet, at andelen af unge, der ikke er i job eller under uddannelse er faldet for de 16-, 17- og 18-årige med 2 procentpoint  i gennemsnit, men andelen af de ældre grupper af unge i undersøgelsen er steget ubetydelig. 
+> *Det fremgår tydeligt af søjlediagrammet, at andelen af unge, der ikke er i job eller under uddannelse er faldet for de 16-, 17- og 18-årige med 2 procentpoint  i gennemsnit, men andelen af de ældre grupper af unge i undersøgelsen er steget ubetydelig.* 
 
 Incorrect usage
-De konservative mister 0,1 procent af stemmerne og taber dermed to mandater. (Fra ordnet.dk) https://ordnet.dk/ddo/ordbog?query=procent
+> *De konservative mister 0,1 procent af stemmerne og taber dermed to mandater.* 
 
 Sometimes you may see 'procent' used instead of 'procentpoint', but this usage may be considered wrong. 
 
-There should have instead been used 'procentpoint'.  You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
+There should have instead been used 'procentpoint'. You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
 
-Correct usage 
-84,5 procent af vælgerne stemte ved folketingsvalget. Det er 1,3 procentpoint lavere end for fire år siden. (fra dr.dk)
+Examples of correct usage
 
-De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel. https://ordnet.dk/korpusdk/teksteksempler/kontekst
+> *84,5 procent af vælgerne stemte ved folketingsvalget. Det er 1,3 procentpoint lavere end for fire år siden.* (fra dr.dk)
 
-Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.https://ordnet.dk/korpusdk/teksteksempler/kontekst
+> *De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel.* (Fra ordnet.dk)
 
-Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport. 
-https://ordnet.dk/korpusdk/teksteksempler/kontekst 
+> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater*. (Fra ordnet.dk)
 
-Procentvis = counted in percents
-Procentvis er kriminaliteten meget større i Christiania end i resten af samfundet, ligesom de sociale forskelle er større… https://ordnet.dk/korpusdk/teksteksempler/kontekst
+> *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport. * (Fra ordnet.dk)
 
-The verbs used with percentage are often:
-at udgøre/tegne sig for 30 %
-at stige med 5 %
-at falde med 5 %
-at vokse med 5 pct.
-at øge noget med ... pct. 
-at mindske/reducere med ... pct. 
+####*Procentvis* means 'counted in percents' 
+> *Procentvis er kriminaliteten meget større i Christiania end i resten af samfundet, ligesom de sociale forskelle er større…* (Fra ordnet.dk)
+
+####The verbs used with percentage are often:
+> * *at udgøre/tegne sig for 30 %*
+> * *at stige med 5 %*
+> * *at falde med 5 %*
+> * *at vokse med 5 pct.*
+> * *at øge noget med ... pct.*
+> * *at mindske/reducere med ... pct.* 
 
 Note that sometimes the preposition with the word percentage will be different for a noun combination. 
-E.g. en stigning/et fald på 5%
-       en forskel/ændring på 5 %
+E.g. *en stigning/et fald på 5%*
+      *en forskel/ændring på 5 %*
 
-Learn about more useful tips to write the essay at Studieprøven in my upcoming blog posts. 
+Learn more useful tips to write the essay at Studieprøven in my upcoming blog posts. 
 
