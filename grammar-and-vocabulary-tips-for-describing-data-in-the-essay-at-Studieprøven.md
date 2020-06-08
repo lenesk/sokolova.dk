@@ -126,7 +126,7 @@ See more examples with 'procent':
 
 > *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater. (Fra ordnet.dk)
 
-####*Procentpoint* is used to express the difference in the percentage for the group/issue/comparison element. 
+#### *Procentpoint* is used to express the difference in the percentage for the group/issue/comparison element. 
 E.g., as based on the set from Studieprøven could be (November-December 2019):
 
 > *Andelen af de 24-årige unge, der hverken er i beskæftigelse eller under uddannelse er steget fra ca. 12 pct. til 14 pct., dvs. med ca. 2 procentpoint i perioden fra 2008 til 2016.* 
@@ -150,10 +150,10 @@ Examples of correct usage
 
 > *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport. * (Fra ordnet.dk)
 
-####*Procentvis* means 'counted in percents' 
+#### *Procentvis* means 'counted in percents' 
 > *Procentvis er kriminaliteten meget større i Christiania end i resten af samfundet, ligesom de sociale forskelle er større…* (Fra ordnet.dk)
 
-####The verbs used with percentage are often:
+#### The verbs used with percentage are often:
 > * *at udgøre/tegne sig for 30 %*
 > * *at stige med 5 %*
 > * *at falde med 5 %*
