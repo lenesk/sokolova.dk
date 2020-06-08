@@ -13,19 +13,19 @@ Write the title as the title without inverted commas.
 
 ## Example from the titles of the tasks:
 
-> *Kvinder i overordnet ledelse* 
-> *Danskernes opfattelse af kriminalitet*
-> *Uddannelse og social arv*
-> *Geografisk fordeling af arbejdskraften*
-> *Europæiske unge uden job*
+> * *Kvinder i overordnet ledelse* 
+> * *Danskernes opfattelse af kriminalitet*
+> * *Uddannelse og social arv*
+> * *Geografisk fordeling af arbejdskraften*
+> * *Europæiske unge uden job*
 
 ## Introduction and the first sentence
 
 Itroduction is not a compalsory part of the essay and is not assessed as a criterium, but it makes a coherent start of your essay. It may be general sentence that is relevant for the topic of the task. 
 
 For example:
-> *Kvinder i Danmark er stadigvæk tilbagesat, hvad angår deres repræsentation i lederstillinger.*
-> *Danske kvinder tager langt mere uddannelse end mænd.*
+> * *Kvinder i Danmark er stadigvæk tilbagesat, hvad angår deres repræsentation i lederstillinger.*
+> * *Danske kvinder tager langt mere uddannelse end mænd.*
 
 You can also get ideas to write an introductory sentence from the explanatory sentences under the data material, but never copy them directly, rendering of the view on the issue from them is ok, though. 
 
