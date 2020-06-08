@@ -9,9 +9,9 @@
 ## Blog  
    Prepare for the Studieprøven exam
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
+ * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-    data-in-the-essay-at-Studieprøven) 
 
 ## About me
-
 <img src="elena-sokolova.jpg" style="float:right" width="300" height="300" />
 
 I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in Translation, Interpreting, and Linguistics. During the last ten years, I have been teaching Danish to foreigners. I have experience in teaching Danish at all levels (online in Zoom, blended courses, regular classroom groups and one-to-one). I have been tutoring students, preparing for the Danish language exams on levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
