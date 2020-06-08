@@ -43,9 +43,9 @@ Mind that the period indication/time phrase/the year cannot be standing at the b
 
 Remember always to cite or mention the source of the data, e.g.:
 
-> * ... undersøgelsen foretaget af analysebureauet Ipsos; * 
-> * ... artiklen publiceret i Politiken;*
-> * ... rapporten udgivet af Justitsministeriet.*
+> *... undersøgelsen foretaget af analysebureauet Ipsos;* 
+> *... artiklen publiceret i Politiken;*
+> *... rapporten udgivet af Justitsministeriet.*
 
 Do not mix the name or title of the article or data material with the author or authority.  
 
@@ -53,54 +53,54 @@ Do not mix the name or title of the article or data material with the author or 
 
 Since data or statistics can be given in different graphical representations, it's essential to decide what graphical representation is applied in the task material. You cannot suddenly change the type of graphical representation in the middle of the paragraph to another term, so do not call 'a diagram' 'a table' or vice versa. It's quite normal that you stick to the same term throughout the whole paragraph. Here below are some options you may choose from, depending on the exam materials:  
 
-> * Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren /cirkeldiagrammet = according to the diagram, table, histogram (=the bar chart)/figure/circle diagram…  
+> *Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren /cirkeldiagrammet = according to the diagram, table, histogram (=the bar chart)/figure/circle diagram…  
 
-[An eksample of a histogram (et søjlediagram)fra Wikipedia, den frie encyklopædi)](https://da.wikipedia.org/wiki/Søjlediagram)
+[An example of a histogram (et søjlediagram)fra Wikipedia, den frie encyklopædi)](https://da.wikipedia.org/wiki/Søjlediagram)
 
-### Note grammatical forms: 
-*et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form "the diagram"=diagrammet, since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne*.  
+#### Note grammatical forms: 
+*et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form 'the diagram' (*diagrammet*), since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne*.  
 
 Sometimes the word *'graf, -en, -er'* is used, which may contain a mathematical diagram, e.g., a curve (*en kurv*), which shows the connection between two or more variables. Sometimes a combination of both a histogram (*et histogram*) and a graf (*en graf*) can be used. 
 
-### Note grammatical forms:  
+#### Note grammatical forms:  
 *en graf, grafen, grafer, graferne over noget.*
-
 > *E.g. *En graf over det gennemsnitlige antal ledige i procent måned for måned*. (Fra ordnet.dk)
 
-*'En figur'* can also be applicable in the description of the data as a general synonym for the word 'diagram' or any other visual representation of data. 'En figur' is less specific than 'tabel', and works well in books. 
+*En figur* can also be applicable in the description of the data as a general synonym for the word 'diagram' or any other visual representation of data. 'En figur' is less specific than 'tabel', and works well in books. 
+> *Mælkebøtte er en flerårig urt med fjerfligede blade (se figuren side 11) (Fra ordnet.dk)*
 
-> * Mælkebøtte er en flerårig urt med fjerfligede blade (se figuren side 11) (Fra ordnet.dk)*
+The words *beregning* or *fremskrivning* are often used to prognoses or predict data development. 
 
-Finally, it may be sometimes relevant to use the word 'opgørelse', if the data set is a final calculation or a final numerical result, e.g., in 'årsopgørelse, refusionsopgørelse, resultatopgørelse'. 
+Finally, it may be sometimes relevant to use the word *'opgørelse'*, if the data set is a final calculation or a final numerical result, e.g., in *årsopgørelse, refusionsopgørelse, resultatopgørelse*. 
+> *Ved opgørelse af de 120 sygedage medregnes samtlige sygedage fra datoen for sygemeldingen til raskmeldingen. (Fra ordnet.dk)*
 
-Ved opgørelse af de 120 sygedage medregnes samtlige sygedage fra datoen for sygemeldingen til raskmeldingen.  (Fra ordnet.dk)
 
-The words 'beregning' or fremskrivning' are often used to prognoses or predict data development. 
 
-What grammatical tense of the verbs to use?
+## What grammatical tense of the verbs to use?
 
-As based on the set from Studieprøven (November-December 2019) the following to examples are possible: 
+As based on the set from [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover), the following to examples are possible: 
 
-Ifølge tabellen fra 'Danskernes opfattelse af kriminalitet i samfundet' udgivet af Justitsministeriet i 2017 svarede næsten halvdelen af de adspurgte, at de syntes, at der var forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.
+> *Ifølge tabellen fra 'Danskernes opfattelse af kriminalitet i samfundet' udgivet af Justitsministeriet i 2017 svarede næsten halvdelen af de adspurgte, at de syntes, at der var forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.*
 
-Det fremgår af tabellen baseret på undersøgelsen foretaget i 2016, at næsten halvdelen af de adspurgte fra tre aldersgrupper (16-24, 25-39, 40-74 år) tror, at der er forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.
+> *Det fremgår af tabellen baseret på undersøgelsen foretaget i 2016, at næsten halvdelen af de adspurgte fra tre aldersgrupper (16-24, 25-39, 40-74 år) tror, at der er forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.*
 
-You can both use as in example a) present indefinite (nutid) and as in b) past  indefinite tense (datid). The latter is relevant,  if the data comes from an interview or a study from precious years, especially long ago, and when you give the exact time indication (i 2009, i oktober 2018, i juni 2019). Be consistent inside the same sentence. Do not jump from present to past tenses inside the same sentence. Remember to switch from present perfect (førnutid) to past perfect (førdatid), while describing the data over a period in the preceding context. 
+You can both use as in example a) present indefinite (nutid) and as in b) past  indefinite tense (datid). The latter is relevant,  if the data comes from an interview or a study from precious years, especially long ago, and when you give the exact time indication (*i 2009, i oktober 2018, i juni 2019*). Be consistent inside the same sentence. Do not jump from present to past tenses inside the same sentence. Remember to switch from present perfect (*førnutid*) to past perfect (*førdatid*), while describing the data over a period in the preceding context. 
 
 It's possible to use both past and present tenses, though in separate sentences. 
 
-E.g. Tabellen viser fordelingen af svar blandt tre grupper fra et repræsentativt udsnit af befolkningen i 2016. Ifølge tabellen er/var der kun 13 pct. af de adspurgte i gruppen af 40-74 årige, som tror/troede, at der er/var forekommet færre eller meget færre overtrædelser af straffeloven i perioden fra 2011 til 2016.
+For example: 
 
-Remember to use present perfect (førnutid) or past perfect (førdatid) if you describe data over a period. 
+> *Tabellen viser fordelingen af svar blandt tre grupper fra et repræsentativt udsnit af befolkningen i 2016. Ifølge tabellen er/var der kun 13 pct. af de adspurgte i gruppen af 40-74 årige, som tror/troede, at der er/var forekommet færre eller meget færre overtrædelser af straffeloven i perioden fra 2011 til 2016.*
 
-Det fremgår af tabellen baseret på undersøgelsen foretaget i 2016, at næsten halvdelen af de adspurgte fra tre aldersgrupper (16-24, 25-39, 40-74 år) tror, at der er forekommet/er sket flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016. 
-(The main verb 'fremgår' is in the present tense, so all the following verbs are in either present or presest perfect tense.sent or )
+Remember to use present perfect (*førnutid*) or past perfect (*førdatid*) if you describe data over a period. 
+ 
+> *Det fremgår af tabellen baseret på undersøgelsen foretaget i 2016, at næsten halvdelen af de adspurgte fra tre aldersgrupper (16-24, 25-39, 40-74 år) tror, at der er forekommet/er sket flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.* 
+The main verb *fremgår* is in the present tense, so all the following verbs are in either present or presest perfect tense.
 
 I 2016 troede næsten halvdelen af de adspurgte fra tre aldersgrupper (16-24, 25-39, 40-74 år), at der var forekommet/var sket flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016. 
-(The main verb 'fremgår' is in the past tense, so all the following verbs are in either past or past perfect tense.)
+The main verb 'fremgår' is in the past tense, so all the following verbs are in either past or past perfect tense.
 
-
-Data showing prognosis or prediction: what tense and modality to choose?
+## Data showing prognosis or prediction: what tense and modality to choose?
 
 Some data show the prediction of the trend development or a prognosis. It's called 'en fremskrivning'. In this case, while describing the trends, the words 'en fremskrivningn/en prognose' can be used as synonyms. The modal verb 'vil' in the present tense (nutid) is relevant for expressing prediction of possible events and the real future (realis).  
 
