@@ -41,10 +41,12 @@ Another example of initiate sentences:
 
 Mind that the period indication/time phrase/the year cannot be standing at the beginning of the subordinate clause. A subordinate clause normally starts with conjunction followed by a subject, or directly with a subject, if there is no conjunction). 
 
-Remember always to cite or mention the source of the data, e.g., 
-> * ... undersøgelsen foretaget af analysebureauet Ipsos;* 
+Remember always to cite or mention the source of the data, e.g.:
+
+> * ... undersøgelsen foretaget af analysebureauet Ipsos; * 
 > * ... artiklen publiceret i Politiken;*
 > * ... rapporten udgivet af Justitsministeriet.*
+
 Do not mix the name or title of the article or data material with the author or authority.  
 
 ## How the data material may be graphically shown, and what word to choose?
@@ -55,17 +57,19 @@ Since data or statistics can be given in different graphical representations, it
 
 [An eksample of a histogram (et søjlediagram)fra Wikipedia, den frie encyklopædi)](https://da.wikipedia.org/wiki/Søjlediagram)
 
-### Note grammatical forms: *et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form "the diagram"=diagrammet, since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne*.  
+### Note grammatical forms: 
+*et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form "the diagram"=diagrammet, since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne*.  
 
 Sometimes the word *'graf, -en, -er'* is used, which may contain a mathematical diagram, e.g., a curve (*en kurv*), which shows the connection between two or more variables. Sometimes a combination of both a histogram (*et histogram*) and a graf (*en graf*) can be used. 
 
-### Note grammatical forms:  *en graf, grafen, grafer, graferne over noget.*
+### Note grammatical forms:  
+*en graf, grafen, grafer, graferne over noget.*
 
 > *E.g. *En graf over det gennemsnitlige antal ledige i procent måned for måned*. (Fra ordnet.dk)
 
 *'En figur'* can also be applicable in the description of the data as a general synonym for the word 'diagram' or any other visual representation of data. 'En figur' is less specific than 'tabel', and works well in books. 
 
-Mælkebøtte er en flerårig urt med fjerfligede blade (se figuren side 11) (Fra ordnet.dk)
+> * Mælkebøtte er en flerårig urt med fjerfligede blade (se figuren side 11) (Fra ordnet.dk)*
 
 Finally, it may be sometimes relevant to use the word 'opgørelse', if the data set is a final calculation or a final numerical result, e.g., in 'årsopgørelse, refusionsopgørelse, resultatopgørelse'. 
 
