@@ -37,7 +37,7 @@ E.g., my first sentence as based on the set from Studieprøven (November-Decembe
 
 Another example of initiate sentences: 
 
-> *Justitsministeriets statistik fra 2017 viser, hvordan danskerne fra tre aldersgrupper (16-24 år, 25-39 år, 40-74 år), opfatter ændringer i kriminalitetsniveauet i perioden fra 2011 til 2016. Det fremgår tydeligt af tabellen over fordelingen af de adspurgtes svar, at omkring halvdelen af de adspurgte i hver aldersgruppe tror, at der er forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016."* (62 words)
+> *Justitsministeriets statistik fra 2017 viser, hvordan danskerne fra tre aldersgrupper (16-24 år, 25-39 år, 40-74 år), opfatter ændringer i kriminalitetsniveauet i perioden fra 2011 til 2016. Det fremgår tydeligt af tabellen over fordelingen af de adspurgtes svar, at omkring halvdelen af de adspurgte i hver aldersgruppe tror, at der er forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.* (62 words)
 
 Mind that the period indication/time phrase/the year cannot be standing at the beginning of the subordinate clause. A subordinate clause normally starts with conjunction followed by a subject, or directly with a subject, if there is no conjunction). 
 
@@ -102,26 +102,30 @@ The main verb 'fremgår' is in the past tense, so all the following verbs are in
 
 ## Data showing prognosis or prediction: what tense and modality to choose?
 
-Some data show the prediction of the trend development or a prognosis. It's called 'en fremskrivning'. In this case, while describing the trends, the words 'en fremskrivningn/en prognose' can be used as synonyms. The modal verb 'vil' in the present tense (nutid) is relevant for expressing prediction of possible events and the real future (realis).  
+Some data show the prediction of the trend development or a prognosis. It's called *fremskrivning*. In this case, while describing the trends, the words *en fremskrivningn/en prognose* can be used as synonyms. The modal verb *vil* in the present tense (*nutid*) is relevant for expressing prediction of possible events and the real future (*realis*).  
 
 Other examples of expressing prognosis may be: 
-Der forventes, at … - It is expected that...
-Antallet af mennesker/ældre/arbejdsløse forventes at stige/falde - The number of … is expected to rise/fall.
-Procentdelen af A og B kommer til at vokse/stige/falde. 
-Iføgle fremskrivningen vil andelen af danskerne, der… ,  komme til stige.
-Iføgle fremskrivningen vil andelen af danskerne, der… ,  stige.  
-Man forudser i prognosen, at… – It is predicted in the prognosis that…
+> * *Der forventes, at … - It is expected that...*
+> * *Antallet af mennesker/ældre/arbejdsløse forventes at stige/falde - The number of … is expected to rise/fall.*
+> * *Procentdelen af A og B kommer til at vokse/stige/falde.*
+> * *Iføgle fremskrivningen vil andelen af danskere, der… , komme til stige*.
+> * *Iføgle fremskrivningen vil andelen af danskerne, der… , stige med ... pct*.  
+> * *Man forudser i prognosen, at… – It is predicted in the prognosis that…*
 
-Describing percentage: 'procent, procentdel/procentandel & procentpoint' 
+## Describing percentage: *procent, procentdel/procentandel & procentpoint* 
 
-You will need words 'procent, procentdel/procentandel & procentpoint' eller procentvis
+You will need words *procent, procentdel/procentandel, procentpoint* and *procentvis*
 
-en procent (plural indefinite 'procent' after a number), also 'pct.' 
-Ifølge tabellen er det lidt over 30 ptc. af de adspurgte i hver aldersgruppe, der synes, antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig. Note, that you cannot use the plural form 'procenter', if you have a preceding numeral.
+#### Note grammatical forms: 
+*en procent* (plural indefinite is also *procent* after a number: 30 procent), also *30 pct.*' 
 
-De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel. https://ordnet.dk/korpusdk/teksteksempler/kontekst
+See more examples with 'procent':
 
-Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.https://ordnet.dk/korpusdk/teksteksempler/kontekst
+> *Ifølge tabellen er det lidt over 30 ptc. af de adspurgte i hver aldersgruppe, der synes, antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig. Note, that you cannot use the plural form 'procenter', if you have a preceding numeral.*
+
+> *De tre lande tegner sig altså for ca. 28 procent af vores udenrigshandel. (https://ordnet.dk/korpusdk/teksteksempler/kontekst)
+
+> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.https://ordnet.dk/korpusdk/teksteksempler/kontekst
 
 'Procentpoint' is used to express the difference in the percentage for the group/issue/comparison element. E.g., as based on the set from Studieprøven could be (November-December 2019) 
 
