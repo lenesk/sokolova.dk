@@ -9,7 +9,8 @@
 ## Blog  
    Prepare for the Studieprøven exam
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
- * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-    data-in-the-essay-at-Studieprøven) 
+ 
+ * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing- data-in-the-essay-at-Studieprøven) 
 
 ## About me
 <img src="elena-sokolova.jpg" style="float:right" width="300" height="300" />
