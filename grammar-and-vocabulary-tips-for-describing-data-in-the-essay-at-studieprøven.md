@@ -1,7 +1,7 @@
 
 # Grammar and vocabulary tips for describing data in the essay at Studieprøven
 
-*Elena Sokolova, June 9<sup>nd</sup> 2020*
+*Elena Sokolova, June 9<sup>th</sup> 2020*
 
 In this blog post, you will learn about how to write the title and the first sentence in the essay at Studieprøven. 
 I give an overview of the terms used to represent data graphically. I provide examples of verb tenses you may need for data description and expressions for describing prediction and prognosis. 
