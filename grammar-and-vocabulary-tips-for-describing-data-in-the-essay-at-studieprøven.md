@@ -112,8 +112,8 @@ Other examples of expressing prognosis may be:
 > * *Arbejdsstyrken forventes at stige med omkring 180.000 personer frem mod år 2025.* (Fra Arbejderbevægelsens Erhvervsråd) 
 > * *Antallet af mennesker/ældre/arbejdsløse forventes at stige/falde - The number of … is expected to rise/fall.*
 > * *Procentdelen af A og B kommer til at vokse/stige/falde.*
-> * *Iføgle fremskrivningen vil andelen af danskere, der … , komme til stige*.
-> * *Iføgle prognosen vil procentdelen af danskerne, der … , stige med ... pct*.  
+> * *Ifølge fremskrivningen vil andelen af danskere, der … , komme til stige*.
+> * *Ifølge prognosen vil procentdelen af danskerne, der … , stige med ... pct*.  
 > * *Man forudser i prognosen, at… – It is predicted in the prognosis that…*
 
 ## Describing percentage: *procent, procentdel/procentandel, procentpoint & procentvis* 
