@@ -189,7 +189,9 @@ If you use *antal* in the indefinite form stating alone or in the any case with 
 > *I det omfang et faldende antal konkurser er udtryk for et sundhedstegn i erhvervslivet... * (Fra ordnet.dk)
 
 
-Learn more about useful tips to write the essay at Studieprøven in my upcoming blog posts. 
+**Learn more about other tips for Studieprøven in my upcoming blogs**
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
 
