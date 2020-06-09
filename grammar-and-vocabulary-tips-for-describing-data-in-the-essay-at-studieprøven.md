@@ -172,9 +172,9 @@ There should have instead been used *procentpoint*. You can read more here: http
 
 Note that sometimes the preposition with the word percentage will be different for a noun combination. 
 E.g. *en stigning/et fald på 5%*
-      *en forskel/ændring på 5 %*
+     *en forskel/ændring på 5%*
       
-> *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport. * (Fra ordnet.dk)
+> * *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport.* (Fra ordnet.dk)
 
 Finally, if you need to describe data in numbers, instead of percentage, you can use *antal* (for countables) or *mængde* (for uncountables). 
 
@@ -183,7 +183,7 @@ The defininte form *antallet* (the number) requires the preposition *af*, and is
 
 > *Antallet af boligsøgende er reduceret fra 28.000 til 18.400.* (Fra ordnet.dk) 
 
-If you use *antal* in the indefinite form stating alone or in the any case with a preceeding adjective/participium, the form antallet af is incorrect. Use indefinite or defintie form article et/det instead in front og *antal*, and without preposition *af*.
+If you use *antal* in the indefinite form standing alone or with a preceeding adjective/participium, the form *antallet af* is incorrect. Use the indefinite or defintie article *et/det* instead in front og *antal*, and use it without preposition *af*.
 
 > *Der er et stort antal adspurgte, der fokuserer på dette tema*. (Fra ordnet.dk)
 > *I det omfang et faldende antal konkurser er udtryk for et sundhedstegn i erhvervslivet ...* (Fra ordnet.dk)
