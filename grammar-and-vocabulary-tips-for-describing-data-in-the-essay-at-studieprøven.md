@@ -104,7 +104,7 @@ The main verb 'fremgår' is in the past tense in the latter example, so all the 
 
 ## Data showing prognosis or prediction: what tense and modality to choose?
 
-Some data show the prediction of the trend development or a prognosis. It's called *fremskrivning*. In this case, while describing the trends, the words *en fremskrivning/en prognose* can be used as synonyms. The modal verb *ville* in the present tense *vil* (*nutid*) is relevant for expressing prediction of possible events and the real future (*realis*). As for 'kunne' in the present tense *kan*, it rahter expresses a plausible scenario, so it's better suited for the second question of the task whether you are asked to reason upon possible consequences of the issue status or development.
+Some data show the prediction of the trend development or a prognosis. It's called *fremskrivning*. In this case, while describing the trends, the words *en fremskrivning/en prognose* can be used as synonyms. The modal verb *ville* in the present tense *vil* (*nutid*) is relevant for expressing prediction of possible events and the real future (*realis*). As for 'kunne' in the present tense *kan*, it rahter expresses a plausible scenario, so it's better suited for the second question of the task where you are asked to reason about possible consequences of the issue status or its development.
 
 Other examples of expressing prognosis may be: 
 
