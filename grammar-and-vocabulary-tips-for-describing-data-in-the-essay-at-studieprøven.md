@@ -154,7 +154,7 @@ There should have instead been used *procentpoint*. You can read more here: http
 
 > *Procentvis er kriminaliteten meget større i Christiania end i resten af samfundet, ligesom de sociale forskelle er større…* (Fra ordnet.dk)
 
-##### *Procentdelen/procentandelen expresses the share of a whole number/unit/group, indicated in percent. The verb *udgøre* is often used with *procentdel*. 
+##### *Procentdelen/procentandelen* expresses the share of a whole number/unit/group, indicated in percent. The verb *udgøre* is often used with *procentdel*. 
 
 > *Den religiøse aktivitet, der angår folkekirken måles ofte som den procentdel af befolkningen, der går i kirke regelmæssigt*. (Fra ordnet.dk)
 
