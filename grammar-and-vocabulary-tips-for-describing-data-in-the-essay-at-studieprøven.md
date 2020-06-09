@@ -50,9 +50,9 @@ Distinguish and cite precisely the title of the article/survey, the title of the
 
 Since data or statistics can be given in different graphical representations, it's essential to decide what graphical representation is applied in the task material. You cannot suddenly change the type of graphical representation in the middle of the paragraph to another term, so do not call 'a diagram' 'a table' or vice versa, the two are not interchangeable. It's quite reasonable that you stick to the same term throughout the whole paragraph. Here below are some options you may choose from, depending on the exam materials:  
 
-> *Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren/cirkeldiagrammet = according to the diagram, table, histogram (=the bar chart)/figure/circle diagram…* 
+> *Ifølge diagrammet/tabellen/histogrammet (eller søjlediagrammet)/figuren/cirkeldiagrammet = according to the diagram, table, histogram ( = the bar chart)/figure/circle diagram…* 
 
-[An example of a histogram (*et søjlediagram*)fra Wikipedia, den frie encyklopædi) (https://da.wikipedia.org/wiki/Søjlediagram)
+[*Et søjlediagram* fra Wikipedia](https://da.wikipedia.org/wiki/Søjlediagram)
 
 ### Note grammatical forms: 
 *et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form 'the diagram' (*diagrammet*), since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne af undersøgelsen*.  
