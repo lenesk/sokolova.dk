@@ -186,11 +186,13 @@ The defininte form *antallet* (the number) requires the preposition *af*, and is
 If you use *antal* in the indefinite form stating alone or in the any case with a preceeding adjective/participium, the form antallet af is incorrect. Use indefinite or defintie form article et/det instead in front og *antal*, and without preposition *af*.
 
 > *Der er et stort antal adspurgte, der fokuserer på dette tema*. (Fra ordnet.dk)
-> *I det omfang et faldende antal konkurser er udtryk for et sundhedstegn i erhvervslivet... * (Fra ordnet.dk)
+> *I det omfang et faldende antal konkurser er udtryk for et sundhedstegn i erhvervslivet ...* (Fra ordnet.dk)
 
 
 **Learn more about other tips for Studieprøven in my upcoming blogs**
+
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
+
 
 <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
