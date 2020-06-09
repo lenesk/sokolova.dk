@@ -46,7 +46,7 @@ Remember always to cite or mention the source of the data, e.g.:
 
 Distinguish and cite precisely the title of the article/survey, the title of the data material, and the author or authority, even though they may contain similar terms.   
 
-## Graphical representation of data material - and what word to choose?
+## Graphical representation of data material - what word to choose?
 
 Since data or statistics can be given in different graphical representations, it's essential to decide what graphical representation is applied in the task material. You cannot suddenly change the type of graphical representation in the middle of the paragraph to another term, so do not call 'a diagram' 'a table' or vice versa, the two are not interchangeable. It's quite reasonable that you stick to the same term throughout the whole paragraph. Here below are some options you may choose from, depending on the exam materials:  
 
