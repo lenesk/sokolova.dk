@@ -61,7 +61,7 @@ Sometimes the word *graf* is used, which may contain a mathematical diagram, e.g
 
 ###### Note grammatical forms:  
 *en graf, grafen, grafer, graferne over noget.*
-> * *En graf over det gennemsnitlige antal ledige i procent måned for måned*. (Fra ordnet.dk)
+> *En graf over det gennemsnitlige antal ledige i procent måned for måned*. (Fra ordnet.dk)
 
 *En figur* can also be applicable in the description of the data as a general synonym for the word 'diagram' or any other visual representation of data. *En figur* is less specific than 'tabel', and works well in books. 
 
