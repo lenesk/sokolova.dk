@@ -54,12 +54,12 @@ Since data or statistics can be given in different graphical representations, it
 
 [An example of a histogram (*et søjlediagram*)fra Wikipedia, den frie encyklopædi) (https://da.wikipedia.org/wiki/Søjlediagram)
 
-###### Note grammatical forms: 
+### Note grammatical forms: 
 *et diagram* (= a diagram), *diagrammet* (the diagram), *diagrammer* (diagrams), *diagrammerne* (the diagrams). You would usually use the definite form 'the diagram' (*diagrammet*), since you refer to the particular and unique diagram in a survey/study. Correspondingly, the definite forms for other types of data are *tabellen, undersøgelsen, interviewet, resultatet, resultaterne af undersøgelsen*.  
 
 Sometimes the word *graf* is used, which may contain a mathematical diagram, e.g., a curve (*en kurv*), which shows the connection between two or more variables. Sometimes a combination of both a histogram (*et histogram*) and a graf (*en graf*) can be used. 
 
-###### Note grammatical forms:  
+### Note grammatical forms:  
 *en graf, grafen, grafer, graferne over noget.*
 > *En graf over det gennemsnitlige antal ledige i procent måned for måned*. (Fra ordnet.dk)
 
@@ -120,7 +120,7 @@ Other examples of expressing prognosis may be:
 
 You will defintely need words *procent, procentdel/procentandel, procentpoint* and *procentvis* while describing the data material. 
 
-###### Note grammatical forms: 
+### Note grammatical forms: 
 *En procent* (plural indefinite is also *procent* after a number: 30 procent), also *30 pct.* You cannot use the plural form 'procenter', if you have a preceding numeral.*
 
 See more examples with *procent*:
@@ -131,7 +131,7 @@ See more examples with *procent*:
 
 > *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.* (Fra ordnet.dk)
 
-##### *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
+### *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
 
 E.g., as based on the set from Studieprøven could be (November-December 2019):
 
@@ -139,30 +139,33 @@ E.g., as based on the set from Studieprøven could be (November-December 2019):
 
 > *Det fremgår tydeligt af søjlediagrammet, at andelen af unge, der ikke er i job eller under uddannelse er faldet for de 16-, 17- og 18-årige med 2 procentpoint  i gennemsnit, men andelen af de ældre grupper af unge i undersøgelsen er steget ubetydelig.* 
 
-###### Incorrect usage
+#### Incorrect usage
 > *De konservative mister 0,1 procent af stemmerne og taber dermed to mandater.* 
 
 Sometimes you may see *procent* used instead of *procentpoint*, but this usage may be considered wrong. 
 
 There should have instead been used *procentpoint*. You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
 
-###### Examples of correct usage
+#### Examples of correct usage
 
 > *84,5 procent af vælgerne stemte ved folketingsvalget. Det er 1,3 procentpoint lavere end for fire år siden.* (fra dr.dk)
 
-##### *Procentvis* means 'counted in percents' 
+### *Procentvis* means 'counted in percents' 
 
 > *Procentvis er kriminaliteten meget større i Christiania end i resten af samfundet, ligesom de sociale forskelle er større…* (Fra ordnet.dk)
 
-##### *Procentdelen/procentandelen* expresses the share of a whole number/unit/group, indicated in percent. The verb *udgøre* is often used with *procentdel*. 
+### *Procentdelen/procentandelen* 
+
+The two terms express the share of a whole number/unit/group, indicated in percent. The verb *udgøre* is often used with *procentdel*. 
 
 > *Den religiøse aktivitet, der angår folkekirken måles ofte som den procentdel af befolkningen, der går i kirke regelmæssigt*. (Fra ordnet.dk)
 
-> *Først beregner vi, hvor stor en procentdel af det samlede stemmetal hvert parti har fået. (Fra ordnet.dk) 
+> *Først beregner vi, hvor stor en procentdel af det samlede stemmetal hvert parti har fået*. (Fra ordnet.dk) 
 
 > *For langt de fleste lande gælder det således, at der er en højere procentdel af arbejdsløse blandt de unge, der bor hjemme, end i aldersgruppen i al almindelighed.* (fra dst.dk)
 
-##### The verbs used with percentage are often:
+### The verbs used with *procent* are often:
+
 > * *at udgøre/tegne sig for 30 %*
 > * *at stige med 5 %*
 > * *at falde med 5 %*
@@ -170,20 +173,19 @@ There should have instead been used *procentpoint*. You can read more here: http
 > * *at øge noget med ... pct.*
 > * *at mindske/reducere med ... pct.* 
 
-Note that sometimes the preposition with the word percentage will be different for a noun combination. 
+Note that sometimes the preposition with the word *procent* will be different for a noun combination. 
 E.g. *en stigning/et fald på 5%*
      *en forskel/ændring på 5%*
       
 > * *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport.* (Fra ordnet.dk)
 
-Finally, if you need to describe data in numbers, instead of percentage, you can use *antal* (for countables) or *mængde* (for uncountables). 
+### Antallet af/et antal
 
-###### Note grammatical forms: 
-The defininte form *antallet* (the number) requires the preposition *af*, and is usually followed by a noun in the indefininte form e.g.:
+Finally, if you need to describe data in numbers, instead of percentage, you can use *antal* (for countables) or *mængde* (for uncountables). The defininte form *antallet* (the number of) requires the preposition *af*, and is usually followed by a noun in the indefininte form e.g.:
 
 > *Antallet af boligsøgende er reduceret fra 28.000 til 18.400.* (Fra ordnet.dk) 
 
-If you use *antal* in the indefinite form standing alone or with a preceeding adjective/participium, the form *antallet af* is incorrect. Use the indefinite or defintie article *et/det* instead in front og *antal*, and use it without preposition *af*.
+If you use *antal* in the indefinite form standing alone or with a preceeding adjective/participium, the form *antallet af* is incorrect. Use the indefinite or defintie article *et/det* instead, in front of *antal*, and use it without preposition *af*.
 
 > *Der er et stort antal adspurgte, der fokuserer på dette tema*. (Fra ordnet.dk)
 > *I det omfang et faldende antal konkurser er udtryk for et sundhedstegn i erhvervslivet ...* (Fra ordnet.dk)
