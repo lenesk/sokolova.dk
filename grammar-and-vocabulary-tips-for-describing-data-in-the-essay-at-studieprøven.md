@@ -125,11 +125,11 @@ You will defintely need words *procent, procentdel/procentandel, procentpoint* a
 
 See more examples with *procent*:
 
-> *Ifølge tabellen er det lidt over 30 pct. af de adspurgte i hver aldersgruppe, der tror, at antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig. 
+> *Ifølge tabellen er det lidt over 30 pct. af de adspurgte i hver aldersgruppe, der tror, at antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig*. 
 
 > *De tre lande tegner sig for ca. 28 procent af vores udenrigshandel.* (Fra ordnet.dk)
 
-> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater. (Fra ordnet.dk)
+> *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.* (Fra ordnet.dk)
 
 ##### *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
 
