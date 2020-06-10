@@ -2,7 +2,7 @@
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 ## Erhvervserfaring
-Dansklærer, 2012/09–i dag	<br>		
+Dansklærer, 2012/09–2020/06	<br>		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
 ### Primære opagaver: 
