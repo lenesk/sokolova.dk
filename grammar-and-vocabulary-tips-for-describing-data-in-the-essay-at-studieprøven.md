@@ -173,9 +173,7 @@ The two terms express the share of a whole number/unit/group, indicated in perce
 > * *at øge noget med ... pct.*
 > * *at mindske/reducere med ... pct.* 
 
-Note that sometimes the preposition with the word *procent* will be different for a noun combination. 
-E.g. *en stigning/et fald på 5%*
-     *en forskel/ændring på 5%*
+Note that sometimes the preposition with the word *procent* will be different for a noun combination. E.g. *en stigning/et fald på 5%*/*en forskel/en ændring på 5%*. 
       
 > * *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport.* (Fra ordnet.dk)
 
