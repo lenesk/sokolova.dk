@@ -1,8 +1,11 @@
 # Elena Sokolova
 
-## Contact info
+## Contact info 
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
+
+## Private teaching online (in Zoom)
+#### Feel free to contact me for private lessons or exam training (PD3/Studieprøven). Price per 45 min. 600 DKK 
 
 ## [Curriculum vitae (Danish version)](./cv.md)
 
