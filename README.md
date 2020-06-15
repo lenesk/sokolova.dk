@@ -5,10 +5,13 @@
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 ## Private teaching online, including exam training (PD3/Studieprøven)
+
+#### Please, contact me by mail elena@sokolova.dk, if you would like to schedule private lessons or sign up for a group course. 
+   You can choose 
  * 1 x one-to-one Zoom lesson/exam training session (45 min.): 500 DKK
  * 5 x one-to-one Zoom sessons (45 min.): 2250 DKK 
  * 20 x 45 min. group sessions (8-10 students) in Zoom (all levels): 2900 DKK 
- * Studieprøven online course on Saturdays 9:00-12:30 (8-10 students)
+ * Studieprøven online course on Saturdays 9:00-12:30 (8-10 students
  
    *Duration: 05.09.2020-14.11.2020 (44 academic hours) 4900 DKK*
    
@@ -16,7 +19,6 @@
  
    *Duration: 24.08.2020-02.11.2020 (44 academic hours) 4900 DKK*
  
-   Please, contact me by mail elena@sokolova.dk, if you would like to schedule private lessons or sign up for a group course. 
    
 ## [Curriculum vitae (Danish version)](./cv.md)
 
