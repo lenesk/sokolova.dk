@@ -13,6 +13,7 @@ I offer Danish online classes in Zoom for individuals and companies. Please, con
 * 1 x one-to-one Zoom lesson/exam training session (45 min.): 500 DKK
 * 5 x one-to-one Zoom sessions (45 min.): 2250 DKK
 * 10 x 45 min. in Zoom (all levels): 4000 DKK 
+
 *Companies pay VAT, private individuals do not pay VAT*
 
  
