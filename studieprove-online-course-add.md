@@ -19,14 +19,14 @@ The sign up deadline for both groups is August 1<sup>st</sup>.
 
 #### *Duration 05.09.2020-14.11.2020*
  
-#### *Total price for 44 academic lessons 5900 DKK* (134 DKK X 45 min. lesson)*
+#### *Total price for 44 academic lessons 5900 DKK (134 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible*
    
 -----------------
  #### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
  #### *Duration 24.08.2020-02.11.2020*
- #### *Total price for 44 academic lessons 5900 DKK* (134 DKK X 45 min. lesson)*
+ #### *Total price for 44 academic lessons 5900 DKK (134 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible*
 
