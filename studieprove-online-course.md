@@ -3,26 +3,14 @@
 
 ### Are you heading for Studieprøven in November-December 2020?  
 
-I offer a Saturday morning or Monday evening class once per week. 
+I offer a Saturday morning or Monday evening class once per week.
 
-### Five reasons to take a training course running right up to the exam:
+#### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up for one of the courses below.
 
-* you get ready for the exam in a smaller group class (8-10 students);
-* prep curriculum is streched over 11 sessions for an efficient assimilation of material;
-* access to preparing materials;
-* well-structured lessons with a focus on all the aspects of the exam content;
-* a closed admission course - no current enrollment to ensure the homogeneity of the class.
+* Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
-Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up.
-
-### Admission requirements
-This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
-It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent at Danish level B2, escpesially in writing. 
-
-### See the course options below:
-Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
-The sign up deadline for both groups is August 1<sup>st</sup>. 
-
+* The sign up deadline for both groups is August 1<sup>st</sup>. 
+---------------------------------------------------------------------------------
 #### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
 
 #### *Duration 05.09.2020-14.11.2020 (44 academic lessons)*
@@ -31,7 +19,7 @@ The sign up deadline for both groups is August 1<sup>st</sup>.
  
  *Only purchase of the whole course is possible*
    
------------------
+------------------------------------------------------------------------------------
  #### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
  
  #### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
@@ -43,6 +31,20 @@ The sign up deadline for both groups is August 1<sup>st</sup>.
 #### Payments via bank transfer
 
 #### Companies pay VAT, private individuals do not pay VAT
+
+
+### Five reasons to take a training course running right up to the exam:
+
+* you get ready for the exam in a smaller group class (8-10 students);
+* prep curriculum is streched over 11 sessions for an efficient assimilation of material;
+* access to preparing materials;
+* well-structured lessons with a focus on all the aspects of the exam content;
+* a closed admission course - no current enrollment to ensure the homogeneity of the class.
+
+### Admission requirements
+This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
+It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent at Danish level B2, escpesially in writing. 
+
 
 ### Why choose a once-per-week course? 
 
