@@ -1,8 +1,8 @@
 # Elena Sokolova
 
-## Contact info 
+## Contact info [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
+## ## [Curriculum vitae (Danish version)](./cv.md)
 
-[elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 ## Private Danish language lessons online in Zoom
 
@@ -20,7 +20,7 @@ I offer Danish online classes in Zoom for individuals and companies. Please, con
 ### I offer a Saturday morning or Monday evening class once per week. 
 ### [See more information her](studieprove-online-course-add)
 
-## [Curriculum vitae (Danish version)](./cv.md)
+
 
 ## Blog  
    Prepare for the Studieprøven exam
