@@ -1,5 +1,5 @@
 
-## Individual Danish language lessons online in Zoom
+## Private Danish language lessons online in Zoom
 
 I have been teaching Danish as a foreign language in groups and individually for 10 years. 
 My academic backgroud convers MA in Lnguistics, BA in Translation and Interpreting Studies, as well as a Master's level program on teaching Danish as a second and foreign language to adult. 
