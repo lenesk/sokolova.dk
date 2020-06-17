@@ -40,8 +40,9 @@ The sign up deadline for both groups is August 1<sup>st</sup>.
  
  *Only purchase of the whole course is possible due to closes admission*
 
-Payments via bank transfer
-Companies pay VAT, private individuals do not pay VAT
+#### Payments via bank transfer
+
+#### Companies pay VAT, private individuals do not pay VAT
 
 ### Why choose a once-per-week course? 
 
