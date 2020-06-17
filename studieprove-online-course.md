@@ -7,7 +7,7 @@ I offer a Saturday morning or Monday evening class once per week.
 
 
 ### Admission requirements
-This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
+This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
 #### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up for one of the courses below.
 
