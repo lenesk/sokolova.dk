@@ -13,7 +13,7 @@ I offer a Saturday morning or Monday evening class once per week.
 * well-structured lessons with a focus on all the aspects of exam content;
 * a closed admission course - no current enrollment to ensure the homogeneity of the class.
 
-Please, contact me by mail elena@sokolova.dk to sign up.
+Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up.
 
 ### Admission requirements
 This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
