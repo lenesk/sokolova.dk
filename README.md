@@ -6,20 +6,12 @@
 
 ## Private Danish language lessons online in Zoom
 
-### Individual lessons at all levels according to the Common European Framework of Reference for Languages
+* Individual lessons at all levels according to the Common European Framework of Reference for Languages. 
+[See more information] (private-danish-language-lessons-online-in-zoom)
 
-I offer Danish online classes in Zoom for individuals and companies. Please, contact me by mail elena@sokolova.dk, if you would like to schedule private lessons. Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. See the prices below for individual classes tailored to your needs:
-
-* 1 x one-to-one Zoom lesson/exam training session (45 min.): 500 DKK
-* 5 x one-to-one Zoom sessions (45 min.): 2250 DKK
-* 10 x 45 min. in Zoom (all levels): 4000 DKK 
-
-*Companies pay VAT, private individuals do not pay VAT*
-
-### Are you heading for Studieprøven in November-December 2020?
-### I offer a Saturday morning or Monday evening class once per week. 
+## Are you heading for Studieprøven in November-December 2020?
+### I offer a Saturday morning or Monday evening class once per week in August-November 2020. 
 ### [See more information her](studieprove-online-course-add)
-
 
 
 ## Blog  
