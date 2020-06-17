@@ -7,17 +7,17 @@ I offer a Saturday morning or Monday evening class once per week.
 
 ### Five reasons to take a training course running right up to the exam:
 
-* you get ready for the exam in a smaller group class;
-* book only one day per week for a Danish class;
+* you get ready for the exam in a smaller group class (8-10 students);
+* prep curriculum is streched over 11 sessions for an efficient assimilation of material;
 * access to preparing materials;
-* well-structured lessons with a focus on all the aspects of exam content;
+* well-structured lessons with a focus on all the aspects of the exam content;
 * a closed admission course - no current enrollment to ensure the homogeneity of the class.
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up.
 
 ### Admission requirements
 This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
-It is not a prerequisite to pass PD3, but you should have completed level B2 in your Danish studies. 
+It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent at Danish level B2, escpesially in writing. 
 
 ### See the course options below:
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
