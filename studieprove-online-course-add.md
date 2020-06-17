@@ -1,11 +1,21 @@
 
-# Studieprøven online course (Zoom) on Saturdays or Mondays
+# Studieprøven online course (Zoom) once a week on Saturdays or Mondays
 
+### Are you heading for Studieprøven in November-December 2020?  
 
+I offer a Saturday morning or Monday evening class once per week. 
+
+### Five reasons to take a training course running right up to the exam:
+
+* you get ready for the exam in a smaller group class; 
+* book only one day per week for a Danish class;
+* access to preparing materials;
+* well-stuructured lessons with focus on all the aspects of exam content;
+* a closed admission course - no current enrollment to ensure the homogenity of the class.
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up. 
 
-### Admission criteria
+### Admission requirements
 This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
 It is not a prerequisite to pass PD3, but you should have completed level B2 in your Danish studies. 
 
