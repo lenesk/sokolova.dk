@@ -2,28 +2,27 @@
 # Studieprøven online course (Zoom) on Saturdays or Mondays
 
 
-### Are you heading for Studieprøven in November-December 2020?
-
-I offer a Saturday morning or Monday evening class once per week. 
+### Are you heading for Studieprøven in November-December 2020? 
+I offer a Saturday morning or Monday evening class once per week to prepare you for the Studieprøven exam. 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/> to sign up. 
 
-### Admission criteria: this course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
+### Admission criteria
+This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
 It is not a prerequisite to pass PD3, but you should have completed level B2 in your Danish studies. 
 
 ### See the course options below:
-
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 The sign up deadline for both groups is August 1<sup>st</sup>. 
 
  #### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
  *Duration 05.09.2020-14.11.2020*
- *Total price for 44 academic lessons 5900 DKK* (134 DKK per lesson)*
+ *Total price for 44 academic lessons 5900 DKK* (134 DKK X 45 min. lesson)*
  *Only purchase of the whole course is possible*
    
 -----------------
  #### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
- *Duration 05.09.2020-14.11.2020*
- *Total price for 44 academic lessons 5900 DKK* (134 DKK per lesson)*
+ *Duration 24.08.2020-02.11.2020*
+ *Total price for 44 academic lessons 5900 DKK* (134 DKK X 45 min. lesson)*
  *Only purchase of the whole course is possible*
 
 Payments via bank transfer
