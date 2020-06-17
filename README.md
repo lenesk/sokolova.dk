@@ -16,7 +16,10 @@ I offer Danish online classes in Zoom for individuals and companies. Please, con
 
 *Companies pay VAT, private individuals do not pay VAT*
 
- 
+### Are you heading for Studieprøven in November-December 2020?
+### I offer a Saturday morning or Monday evening class once per week. 
+### [See more information her](studieprove-online-course-add)
+
 ## [Curriculum vitae (Danish version)](./cv.md)
 
 ## Blog  
