@@ -12,7 +12,7 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
 
 * Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
-* The sign up deadline for both groups is August 1<sup>st</sup>. 
+#### The sign up deadline for both groups is August 1<sup>st</sup>. 
 
 ---------------------------------------------------------------------------------
 #### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
