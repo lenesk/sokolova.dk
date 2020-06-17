@@ -3,7 +3,7 @@
 
 
 
-I offer private online Danish classesin Zoom for individuals and companies' employees with a flexible start date and an individually tailored curriculum.I teach Danish at all levels according to the Common European Framework of Reference for Languages. 
+I offer private online Danish classes in Zoom for individuals and companies' employees with a flexible start date and an individually tailored curriculum.I teach Danish at all levels according to the Common European Framework of Reference for Languages. 
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you would like to schedule private lessons.
 Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. 
