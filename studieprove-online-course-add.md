@@ -2,8 +2,6 @@
 # Studieprøven online course (Zoom) on Saturdays or Mondays
 
 
-### Are you heading for Studieprøven in November-December 2020? 
-I offer a Saturday morning or Monday evening class once per week to prepare you for the Studieprøven exam. 
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up. 
 
