@@ -6,7 +6,7 @@
 
 * [Individual lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
 
-* [Online Studieprøven group course in November-December 2020 on Saturdays or Mondays](studieprove-online-course-add)
+* [Online Studieprøven course in November-December 2020 on Saturdays or Mondays](studieprove-online-course-add)
 
 ## Blog  
    Prepare for the Studieprøven exam
