@@ -1,7 +1,9 @@
 
 # Studieprøven online course (Zoom) once a week on Saturdays or Mondays
 
-Are you heading for Studieprøven in November-December 2020? I offer a Saturday morning or Monday evening class once per week.
+Are you heading for Studieprøven in November-December 2020? 
+
+I offer a Saturday morning or Monday evening class once per week.
 
 ### Admission requirements
 This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
