@@ -1,8 +1,6 @@
 # Elena Sokolova
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
-[Curriculum vitae (Danish version)](./cv.md)
-
 
 ## Private Danish language lessons online in Zoom
 
@@ -17,6 +15,7 @@
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
 
 ## About me
+[Curriculum vitae (Danish version)](./cv.md)
 <img src="elena-sokolova.jpg" style="float:right" width="300" height="300" />
 
 I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in Translation, Interpreting, and Linguistics. During the last ten years, I have been teaching Danish to foreigners. I have experience in teaching Danish at all levels (online in Zoom, blended courses, regular classroom groups and one-to-one). I have been tutoring students, preparing for the Danish language exams on levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
