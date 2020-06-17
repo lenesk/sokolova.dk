@@ -62,9 +62,10 @@ It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent 
 
 * A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.  
 
-### Why 11 sessions? 
+### Why 11 sessions?
 
 It takes time to get ready to Studieprøven, to understand the structure of the exam, and try writing an essay one step at a time. Think that you had to get ready to write an academic essay about genetically modified foods or analyze statistics about the education policy in Denmark? Think of the length of the exam - 3 hours for Writing the essay part of the written exam and the Reading of 1,5 hours. Hence, you need time to practice the language and accumulate vocabulary to develop reading, writing, and speaking skills in academic Danish (C1). You have probably been learning English for years to master a language, so the time matters. 
+
 --------------------------------------------
 ### The focus of the course
  
@@ -72,6 +73,7 @@ It takes time to get ready to Studieprøven, to understand the structure of the 
 * You will receive personal feedback on the Writing part of the exam (Skriftlig fremstilling).
 * You will regularly practice doing Reading tasks from previous years’ exam sheets. 
 * You will learn how to structure your presentation for the oral exam based on the official assessment criteria. 
+* You will learn how to manage your time during the examination, and will try to complete all the tasks of the exam in the exam time limits. 
 
 The course has a focus on building a substantial vocabulary at C1 level and practicing pragmatic skills in Danish, needed to pass the exam. You will do much more than just discussing the answers to exam sets. You will work with various language inputs (latest newspaper articles, tv-programs, podcasts, topic-related texts for High Schools natives), functional grammar, and syntax. All the study materials have a focus on preparing you to Studieprøven. All materials are provided free of charge.
 
