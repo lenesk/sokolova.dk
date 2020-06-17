@@ -1,7 +1,7 @@
 # Elena Sokolova
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
-## ## [Curriculum vitae (Danish version)](./cv.md)
+[Curriculum vitae (Danish version)](./cv.md)
 
 
 ## Private Danish language lessons online in Zoom
