@@ -13,7 +13,7 @@ It is not a prerequisite to pass PD3, but you should have completed B2 in your D
 ### See the course options below:
 
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
-The sign up deadline for both groups is August 1st. 
+The sign up deadline for both groups is August 1<sup>st</sup>. 
 
  #### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
  *Duration 05.09.2020-14.11.2020*
