@@ -4,7 +4,7 @@
 
 ## Online Danish language lessons in Zoom
 
-* [Individual lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
+* [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
 
 * [Studieprøven Prep Course in November-December 2020 on Saturdays or Mondays](studieprove-online-course)
 
