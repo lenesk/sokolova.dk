@@ -1,4 +1,4 @@
-# Online Studieprøven Prep Course in September-November 2020 on Saturdays or Mondays
+# Online Studieprøven Prep Course on Saturdays or Mondays
 
 Are you heading for Studieprøven in November-December 2020? 
 
