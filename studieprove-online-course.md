@@ -1,9 +1,11 @@
 
 # Studieprøven online course (Zoom) once a week on Saturdays or Mondays
 
-### Are you heading for Studieprøven in November-December 2020?  
+Are you heading for Studieprøven in November-December 2020? I offer a Saturday morning or Monday evening class once per week.
 
-I offer a Saturday morning or Monday evening class once per week.
+### Admission requirements
+This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
+It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent at Danish level B2, escpesially in writing. 
 
 #### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up for one of the courses below.
 
@@ -19,7 +21,8 @@ I offer a Saturday morning or Monday evening class once per week.
  
  *Only purchase of the whole course is possible*
    
-------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------
+
  #### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
  
  #### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
@@ -27,11 +30,15 @@ I offer a Saturday morning or Monday evening class once per week.
  #### *Total price 4800 DKK (109 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible due to closes admission*
+ 
+ ------------------------------------------------------------------------------------
 
 #### Payments via bank transfer
 
 #### Companies pay VAT, private individuals do not pay VAT
 
+ ------------------------------------------------------------------------------------
+ 
 
 ### Five reasons to take a training course running right up to the exam:
 
@@ -40,11 +47,6 @@ I offer a Saturday morning or Monday evening class once per week.
 * access to preparing materials;
 * well-structured lessons with a focus on all the aspects of the exam content;
 * a closed admission course - no current enrollment to ensure the homogeneity of the class.
-
-### Admission requirements
-This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
-It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent at Danish level B2, escpesially in writing. 
-
 
 ### Why choose a once-per-week course? 
 
