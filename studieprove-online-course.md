@@ -14,6 +14,7 @@ It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent 
 * Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
 * The sign up deadline for both groups is August 1<sup>st</sup>. 
+
 ---------------------------------------------------------------------------------
 #### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
 
@@ -23,23 +24,23 @@ It is not a prerequisite to pass Prøve i Dansk 3, but you should be confindent 
  
  *Only purchase of the whole course is possible*
    
- ------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 
- #### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
+#### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
  
- #### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
+#### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
  
- #### *Total price 4800 DKK (109 DKK X 45 min. lesson)*
+#### *Total price 4800 DKK (109 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible due to closes admission*
  
- ------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 
 #### Payments via bank transfer
 
 #### Companies pay VAT, private individuals do not pay VAT
 
- ------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
  
 
 ### Five reasons to take a training course running right up to the exam:
