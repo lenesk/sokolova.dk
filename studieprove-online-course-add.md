@@ -7,13 +7,13 @@ I offer a Saturday morning or Monday evening class once per week.
 
 ### Five reasons to take a training course running right up to the exam:
 
-* you get ready for the exam in a smaller group class; 
+* you get ready for the exam in a smaller group class;
 * book only one day per week for a Danish class;
 * access to preparing materials;
-* well-stuructured lessons with focus on all the aspects of exam content;
-* a closed admission course - no current enrollment to ensure the homogenity of the class.
+* well-structured lessons with a focus on all the aspects of exam content;
+* a closed admission course - no current enrollment to ensure the homogeneity of the class.
 
-Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up. 
+Please, contact me by mail elena@sokolova.dk to sign up.
 
 ### Admission requirements
 This course is for those who had acquired Danish level B2 or passed Prøve i Dansk 3. 
@@ -73,6 +73,6 @@ The course has a focus on building a substantial vocabulary at C1 level and prac
 Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark. 
 You can find samples of exam sets from last year here to assess the level of complexity: https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
 
-### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>, if you have any questions concerning the course. We can even schedule a short meeting in zoom, if you want to ask questions in person. 
+### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can even schedule a short meeting in zoom, if you want to ask questions in person. 
 
 
