@@ -2,7 +2,7 @@
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
-## Private Danish language lessons online in Zoom
+## Online Danish language lessons in Zoom
 
 * [Individual lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
 
