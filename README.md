@@ -1,6 +1,6 @@
 # Elena Sokolova
 
-## Contact info [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
+Contact info [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 ## ## [Curriculum vitae (Danish version)](./cv.md)
 
 
