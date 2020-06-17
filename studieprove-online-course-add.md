@@ -51,7 +51,8 @@ Companies pay VAT, private individuals do not pay VAT
 * You will regularly practice doing Reading tasks from previous years’ exam sheets. 
 * You will learn how to structure your presentation for the oral exam based on the official assessment criteria. 
 
-The course has a focus on building a substantial vocabulary at C1 level and practicing pragmatic skills in Danish, needed to pass the exam. You will do much more than just discussing the answers to exam sets. You will work with various language inputs (latest newspaper articles, tv-programs, podcasts, topic-related texts for High Schools natives), functional grammar, and syntax. All the study materials have a focus on preparing you to Studieprøven. All materials are provided free of charge.  
+The course has a focus on building a substantial vocabulary at C1 level and practicing pragmatic skills in Danish, needed to pass the exam. You will do much more than just discussing the answers to exam sets. You will work with various language inputs (latest newspaper articles, tv-programs, podcasts, topic-related texts for High Schools natives), functional grammar, and syntax. All the study materials have a focus on preparing you to Studieprøven. All materials are provided free of charge.
+
 -----------------------------------------
 
 ### What is Studieprøven? 
@@ -59,6 +60,6 @@ The course has a focus on building a substantial vocabulary at C1 level and prac
 Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark. 
 You can find samples of exam sets from last year here to assess the level of complexity: https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
 
-### Do not hesitate to write me a mail, if you have any questions concerning the course. We can even schedule a short meeting in zoom, if you want to ask questions in person. 
+### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>, if you have any questions concerning the course. We can even schedule a short meeting in zoom, if you want to ask questions in person. 
 
 
