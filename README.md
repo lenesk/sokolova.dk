@@ -33,7 +33,7 @@ I have always been interested in bilingualism, so I have chosen a bilingual trac
 
 ## PDF files for video tutorials
 
-[Gender and grammatical forms of nouns in Danish](./grammar-nouns.pdf)
+[Gender and grammatical forms of nouns in Danish](./sokolova-grammar-nouns.pdf)
 
 
 ## Papers and writings
