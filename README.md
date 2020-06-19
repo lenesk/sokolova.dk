@@ -23,12 +23,17 @@ I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University
 I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts and essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
 
 
-## Video tutorials on pronunciation rules in Danish
+## Video tutorials on youtube
 
 * [Danish consonants and diphthongs](https://youtu.be/eD3BYwY6jDE)
 * [Danish vowels part 1: front, unlabialized](https://youtu.be/gs1maKrlBEw)
 * [Danish vowels part 2: front, labialized](https://youtu.be/IG1LCKSYbxI)
 * [Danish vowels part 3: back labialized](https://youtu.be/cQX8SRfQ9Z8)
+* [Gender and grammatical forms of nouns in Danish](https://www.youtube.com/watch?v=94aFjF9Z6QY)
+
+## PDF files for video tutorials
+
+[Gender and grammatical forms of nouns in Danish](grammar-nouns)
 
 
 ## Papers and writings
