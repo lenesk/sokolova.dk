@@ -28,7 +28,7 @@ Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK
 * You get socialized with the same people, rather than changing a class, say every 6 weeks. 
 * All my courses have closed admission - no current enrollment to ensure the homogeneity of the class, not for personal * reasons, but for the sake of continuity in the curriculum. 
 
-* Why longer classes at B1, B2, C1 once per week?
+## Why longer classes at B1, B2, C1 once per week?
 * Your language becomes more advanced and elaborated. You need to concentrate less on pronunciation drilling and require more focus on having time to speak in several rounds. 
 * You practice under your teacher's supervision in a group and get immediate feedback from the teacher. 
 * You need time to go through a more extended explanation or a repetition round each class. 
