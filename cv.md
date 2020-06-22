@@ -19,7 +19,7 @@ International Tolkeservice, København og omegn
 uddrag fra ‘Kronprinsessen’ af Hanne-Vibeke Holst
 
 ### Dansklærer, 2010/10–2011/12<br/>
-[Lærdansk Sønderborg](http://laerdansk.dk/en/schools/soenderborg), Syddansk Universitet, Danfoss Drives A/S
+Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
 ### Simultantolk fra dansk til engelsk, 2011/10<br/>
 EU-kontrolbesøg i Sønderborg Kommune
