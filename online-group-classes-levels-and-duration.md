@@ -1,6 +1,6 @@
 # Online group classes 
 
-Below you can find information about CEFR levels of the groupd courses I teach and their duration 
+### Below you can find information about CEFR levels of the groupd courses I teach and their duration 
 
 
 CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
@@ -38,5 +38,8 @@ Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK
 * A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.
 
 
+### Study book even for a Zoom class 
+To follow the course, you need to buy a study book. I have selected the most structured book, since it is an only course, so you need to have a book with a recognazable format of lessons, so that you can catch up or review it on your own. Your book is your offline residence for doing homework and reviewing. I strive to integrate the best practices and methods from a usual physical class into an online course. The langugage input should be feasible, even if you go offline. 
 
+All the books, I have selected for my courses have a home page, where you have an unlimited and free access to audio & video (including transcripts), reading and grammrar exercies.
 
