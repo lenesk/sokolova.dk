@@ -43,3 +43,17 @@ To follow the course, you need to buy a study book. I have selected the most str
 
 All the books, I have selected for my courses have a home page, where you have an unlimited and free access to audio & video (including transcripts), reading and grammrar exercies.
 
+### Here is the list of book I build up my groupd courses upon: 
+
+A1
+
+A2
+
+B1.1
+B1.2
+
+B2.1
+B2.1 
+C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
+
+
