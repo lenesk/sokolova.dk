@@ -2,31 +2,32 @@
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 ## Erhvervserfaring
-Dansklærer, 2012/09–2020/06	<br>		
+
+### Dansklærer, 2012/09–2020/06	<br>		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-### Primære opagaver: 
+Primære opagaver: 
 Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; altid anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
-Dansklærer, 2017/09–10/2018 <br/>
+### Dansklærer, 2017/09–10/2018 <br/>
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
-Freelance russisk tolk, 2012/08–2013/12<br/> 
+### Freelance russisk tolk, 2012/08–2013/12<br/> 
 International Tolkeservice, København og omegn
 
-Oversætter (dansk-russisk), 2011/05–2011/07<br/>	
+### Oversætter (dansk-russisk), 2011/05–2011/07<br/>	
 uddrag fra ‘Kronprinsessen’ af Hanne-Vibeke Holst
 
-Dansklærer, 2010/10–2011/12<br/>
+### Dansklærer, 2010/10–2011/12<br/>
 [Lærdansk Sønderborg](http://laerdansk.dk/en/schools/soenderborg), Syddansk Universitet, Danfoss Drives A/S
 
-Simultantolk fra dansk til engelsk, 2011/10<br/>
+### Simultantolk fra dansk til engelsk, 2011/10<br/>
 EU-kontrolbesøg i Sønderborg Kommune
 
-Praktik & feltarbejde, 2011/03<br/>
+### Praktik & feltarbejde, 2011/03<br/>
 AOF Aabenraa, VUC Sønderborg 
 
-Freelance oversætter & tolk 2008-2010<br/>
+### Freelance oversætter & tolk 2008-2010<br/>
 Danmarks Kongelige Ambassade i Moskva<br/>
 UEFA Championship i Moskva
 
@@ -38,7 +39,7 @@ UEFA Championship i Moskva
 
 * tilrettelæggelse af undervisningsforløb; udarbejdelse af kursusprogrammer, samt evaluering, test- og eksamensafvikling; rapportskrivning;
 
-* evner til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for universitetsområdet;
+* evne til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for universitetsområdet;
 
 * evne til at selvstændigt planlægge og strukturere arbejdsopgaver, samt at arbejde med lidt supervision;
 
