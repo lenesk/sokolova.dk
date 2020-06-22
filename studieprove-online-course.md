@@ -19,7 +19,7 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
 
 #### *Duration 05.09.2020-14.11.2020 (44 academic lessons)*
  
-#### *Total price 4800 DKK (109 DKK X 45 min. lesson)*
+#### *Total price 4796 DKK (109 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible*
    
@@ -29,7 +29,7 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
  
 #### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
  
-#### *Total price 4800 DKK (109 DKK X 45 min. lesson)*
+#### *Total price 4796 DKK (109 DKK X 45 min. lesson)*
  
  *Only purchase of the whole course is possible due to closes admission*
  
