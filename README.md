@@ -2,11 +2,11 @@
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
-## Online Danish language lessons in Zoom
+## Online Danish language lessons in Zoom 
+
+* [Group classes](online-group-classes-levels-and-duration)
 
 * [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
-
-* [Online Studieprøven Prep Course on Saturdays or Mondays in autumn 2020](studieprove-online-course)
 
 ## Blog  
    Prepare for the Studieprøven exam
