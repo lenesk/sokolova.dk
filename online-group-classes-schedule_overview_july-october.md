@@ -1,9 +1,10 @@
 ### Online group classes 
 
+Levels and duration of the group courses
+
 Schedule for the courses available for sign up in July-November
 
 Price per lesson (45 min.) in a group of 6-8 students is 109 DKK
-
 
 CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
 -- | -- | -- | -- | --
