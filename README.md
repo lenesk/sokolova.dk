@@ -4,7 +4,8 @@
 
 ## Online Danish language lessons in Zoom 
 
-* [Group classes](online-group-classes-levels-and-duration)
+* [Group classes]
+(online-group-classes-levels-and-duration)
 
 * [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom)
 
