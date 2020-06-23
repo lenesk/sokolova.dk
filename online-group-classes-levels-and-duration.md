@@ -41,41 +41,41 @@ The course price always includes the price for the study book.
 * A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.
 
 
-### We use a study book even for a Zoom class 
+## We use a study book even for a Zoom class 
 Group classes use a study book. The book's price is included in the course price. I have selected the best structured book, with a recognazable format of lessons from chapter to chapter, so that you can catch up or review it on your own, in case you have missed the class. Your book is your offline material for doing homework and reviewing. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I beliven that the langugage input should be feasible, even if you go offline, moreover, you avoind having a hundred of photocopies. All the materials and exercisex from my the online sessions will be available for a download. 
 
 All the books, I have selected for my courses have a home page, where you have free access to audio & video (including transcripts), reading and grammrar exercies.
 
-### Here is the list of study books I build up my group courses upon: 
+## Here is the list of study books we use: 
 
-* Level A1
+### * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
   ![Sådan 1](forside-saadan1-png.png)
   
-* Level A2
+### * Level A2
   * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
   ![Sådan 2](forside-saadan2-.png)
   
-* Level B1
+### * Level B1
    * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
    * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
   ![Så kan du lære det](saa-kan-du-lære-det.png)
 
-* Level B1
+### * Level B1
    * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
    * Level B2.2 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
 
   ![Pæredansk](forside-pæredansk.png)
   
   
-* Level B2
+### * Level B2
   * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
 
   ![Højt til loftet](hoejt-til-loftet.png)
 
-* Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
+### * Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
 
 
