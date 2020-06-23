@@ -73,7 +73,7 @@ All the books, I have selected for my courses have a home page, where you have f
   
   
  * Level B2
-  * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
+   * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
 
   ![Højt til loftet](hoejt-til-loftet.png)
 
