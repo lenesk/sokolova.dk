@@ -46,14 +46,18 @@ Group classes use a study book. The book's price is included in the course price
 
 All the books, I have selected for my courses have a home page, where you have free access to audio & video (including transcripts), reading and grammrar exercies.
 
-### Here is the list of book I build up my group courses upon: 
+### Here is the list of study books I build up my group courses upon: 
 
 * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
   ![Sådan 1](forside-saadan1-png.png)
   
-  * A2 *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland
+  * Level A2
+  * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
+  
+  ![Sådan 2](forside-saadan2-.png)
+  
 
 * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
 * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
