@@ -58,9 +58,9 @@ All the books, I have selected for my courses have a home page, where you have f
   
   ![Sådan 2](forside-saadan2-.png)
   
-
-* Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
-* Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
+* Level B1
+  * * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
+  * * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
   ![Så kan du lære det](saa-kan-du-lære-det.png)
   
