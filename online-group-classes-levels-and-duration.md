@@ -13,10 +13,13 @@ B1.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 B2.1 | 10 weeks | 1 class | 4 | 4 hours
 B2.2 | 10 weeks | 1 class | 4 | 4 hours
+B2.2 | 10 weeks | 1 class | 4 | 4 hours
+B2.4 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
 
 Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK
+The course price always includes the price for the study book. 
 
 [Courses available for current sign up in July-November](current-courses-for-sign-up.md)
 
@@ -39,21 +42,24 @@ Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK
 
 
 ### We use a study book even for a Zoom class 
-To follow the course, you need to buy a study book. I have selected the most structured book, since it is an only course, so you need to have a book with a recognazable format of lessons, so that you can catch up or review it on your own. Your book is your offline residence for doing homework and reviewing. I strive to integrate the best practices and methods from a usual physical class into an online course. The langugage input should be feasible, even if you go offline. 
+Group classes use a study book. The book's price is included in the course price. I have selected the best structured book, with a recognazable format of lessons from chapter to chapter, so that you can catch up or review it on your own, in case you have missed the class. Your book is your offline material for doing homework and reviewing. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I beliven that the langugage input should be feasible, even if you go offline, moreover, you avoind having a hundred of photocopies. All the materials and exercisex from my the online sessions will be available for a download. 
 
-All the books, I have selected for my courses have a home page, where you have an unlimited and free access to audio & video (including transcripts), reading and grammrar exercies.
+All the books, I have selected for my courses have a home page, where you have free access to audio & video (including transcripts), reading and grammrar exercies.
 
-### Here is the list of book I build up my groupd courses upon: 
+### Here is the list of book I build up my group courses upon: 
 
-A1
+### Level A1 [Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx) af Frank Sebastian Hansen og Einar Helleland
 
-A2
+### Level A2 [Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx) af Frank Sebastian Hansen og Einar Helleland
 
-B1.1
-B1.2
+### Level B1.1 [Så kan du lære det](https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
+### Level B1.2 [Så kan du lære det](https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
-B2.1
-B2.1 
-C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
+### Level B2.1 [Pæredansk](https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 1-3*)
+### Level B2.1 [Pæredansk](https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 4-5*)
+### Level B2.2 [Højt til loftet](https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard 
+### Level B2.2 [Højt til loftet](https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard
+
+### C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
 
 
