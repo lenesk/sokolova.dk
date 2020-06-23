@@ -57,6 +57,7 @@ Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebas
 
 Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
 Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
+
 Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
 Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard
 
