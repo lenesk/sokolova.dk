@@ -48,18 +48,18 @@ All the books, I have selected for my courses have a home page, where you have f
 
 ### Here is the list of book I build up my group courses upon: 
 
-### Level A1 [Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx) af Frank Sebastian Hansen og Einar Helleland
+Level A1 *[Sådan 1]*(http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx) af Frank Sebastian Hansen og Einar Helleland
 
-### Level A2 [Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx) af Frank Sebastian Hansen og Einar Helleland
+Level A2 *[Sådan 2]*(http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx) af Frank Sebastian Hansen og Einar Helleland
 
-### Level B1.1 [Så kan du lære det](https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
-### Level B1.2 [Så kan du lære det](https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
+Level B1.1 *[Så kan du lære det]*(https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
+Level B1.2 *[Så kan du lære det]*(https://laerdet.gyldendal.dk) af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
-### Level B2.1 [Pæredansk](https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 1-3*)
-### Level B2.1 [Pæredansk](https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 4-5*)
-### Level B2.2 [Højt til loftet](https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard 
-### Level B2.2 [Højt til loftet](https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard
+Level B2.1 *[Pæredansk]*(https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 1-3*)
+Level B2.1 *[Pæredansk]*(https://paeredansk.gyldendal.dk) af Birte Langgaard (*Kapitler 4-5*)
+Level B2.2 *[Højt til loftet]*(https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard 
+Level B2.2 *[Højt til loftet]*(https://hoejttilloftet.gyldendal.dk/#) af Birte Langgaard
 
-### C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
+C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
 
 
