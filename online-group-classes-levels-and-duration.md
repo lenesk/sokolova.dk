@@ -63,14 +63,18 @@ All the books, I have selected for my courses have a home page, where you have f
   * * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
   ![Så kan du lære det](saa-kan-du-lære-det.png)
-  
-* Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
-* Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
+
+* Level B1
+  * * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
+  * * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
 
   ![Pæredansk](forside-pæredansk.png)
   
-* Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
-* Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard
+  
+* Level B2
+  * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
+
+  ![Højt til loftet](hoejt-til-loftet.png)
 
 * Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
 
