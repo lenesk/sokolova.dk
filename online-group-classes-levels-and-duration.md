@@ -13,7 +13,7 @@ B1.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 B2.1 | 10 weeks | 1 class | 4 | 4 hours
 B2.2 | 10 weeks | 1 class | 4 | 4 hours
-B2.2 | 10 weeks | 1 class | 4 | 4 hours
+B2.3 | 10 weeks | 1 class | 4 | 4 hours
 B2.4 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
@@ -66,6 +66,9 @@ All the books, I have selected for my courses have a home page, where you have f
   
 * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
 * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
+
+  ![Pæredansk](forside-pæredansk.png)
+  
 * Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
 * Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard
 
