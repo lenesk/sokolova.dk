@@ -1,7 +1,6 @@
 # Online group classes 
 
-### Below you can find information about CEFR levels of the groupd courses I teach and their duration 
-
+### Below you can find information about CEFR levels of the group courses I teach and their duration. 
 
 CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
 -- | -- | -- | -- | --
@@ -30,7 +29,8 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 * Every class session starts with the repetition of the previous class, and the new aspects are then introduced. 
 * You thrive with the same teaching style throughout the level.
 * You get socialized with the same people, rather than changing a class, say every 6 weeks. 
-* All my courses have closed admission - no current enrollment to ensure the homogeneity of the class, not for personal * reasons, but for the sake of continuity in the curriculum. 
+* All my courses have а closed admission. No current enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
+
 
 ## Why longer classes at B1, B2, C1 once per week?
 * Your language becomes more advanced and elaborated. You need to concentrate less on pronunciation drilling and require more focus on having time to speak in several rounds. 
@@ -78,6 +78,6 @@ All the books I have selected for my courses have a home page. There you have fr
    
    <img src="hoejt-til-loftet.png" alt="Højt til loftet" width="200" height="300" />
 
- * Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed     for grammar and vocabulary training on the level, based on authentic texts. 
+ * Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed for grammar and vocabulary training on the level, based on authentic texts. 
 
 
