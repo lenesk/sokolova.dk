@@ -19,9 +19,9 @@ B2.4 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
 
-*Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.*
+### Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.
 
-*The course price always includes the price for the study book. 
+### The course price always includes the price for the study book. 
 
 # [Courses available for current sign up in July-November](current-courses-for-sign-up.md)
 
