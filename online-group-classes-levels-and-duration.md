@@ -11,13 +11,14 @@ A2 | 12 weeks | 2 classes | 4 | 3-4 hours
 B1.1 | 10 weeks | 1 class | 4 | 4 hours
 B1.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
-  *B2 courses can be traken in any order*
 B2.1 | 10 weeks | 1 class | 4 | 4 hours
 B2.2 | 10 weeks | 1 class | 4 | 4 hours
 B2.3 | 10 weeks | 1 class | 4 | 4 hours
 B2.4 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
+
+### B2 courses can be traken in any order
 
 ### Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.
 
