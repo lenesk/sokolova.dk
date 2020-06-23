@@ -11,6 +11,7 @@ A2 | 12 weeks | 2 classes | 4 | 3-4 hours
 B1.1 | 10 weeks | 1 class | 4 | 4 hours
 B1.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
+  *B2 courses can be traken in any order*
 B2.1 | 10 weeks | 1 class | 4 | 4 hours
 B2.2 | 10 weeks | 1 class | 4 | 4 hours
 B2.3 | 10 weeks | 1 class | 4 | 4 hours
