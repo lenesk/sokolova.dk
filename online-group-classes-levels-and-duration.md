@@ -3,20 +3,6 @@
 ### Below you can find information about CEFR levels of the groupd courses I teach and their duration 
 
 
-CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
--- | -- | -- | -- | --
-A1 | 12 weeks | 2 classes | 4 | 3-4 hours
-A2 | 12 weeks | 2 classes | 4 | 3-4 hours
-  |   |   |   |  
-B1.1 | 10 weeks | 1 class | 4 | 4 hours
-B1.2 | 10 weeks | 1 class | 4 | 4 hours
-  |   |   |   |  
-B2.1 | 10 weeks | 1 class | 4 | 4 hours
-B2.2 | 10 weeks | 1 class | 4 | 4 hours
-B2.3 | 10 weeks | 1 class | 4 | 4 hours
-B2.4 | 10 weeks | 1 class | 4 | 4 hours
-  |   |   |   |  
-C1 | 11 weeks | 1 class | 4 | 8 hours
 
 ### B2 courses can be traken in any order
 
