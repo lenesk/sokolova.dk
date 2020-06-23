@@ -62,6 +62,8 @@ All the books, I have selected for my courses have a home page, where you have f
 * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
 * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
 
+  ![Så kan du lære det](saa-kan-du-lære-det.png)
+  
 * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
 * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
 * Level B2.2 *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
