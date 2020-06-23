@@ -49,9 +49,7 @@ All the books, I have selected for my courses have a home page, where you have f
 ### Here is the list of book I build up my group courses upon: 
 
 * Level A1
-  * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland
-  ![Sådan 1](forside-saadan1-png.png)
-  
+  * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland ![Sådan 1](forside-saadan1-png.png)
   * A2 *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland
 
 * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
