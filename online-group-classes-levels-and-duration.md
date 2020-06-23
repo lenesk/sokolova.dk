@@ -15,7 +15,7 @@ B2.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
 
-### B2 courses can be traken in any order
+### B2 courses can be taken in any order
 
 ### Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.
 
