@@ -43,7 +43,7 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 
 
 ## We use a study book even for a Zoom class 
-Group classes use a study book. The book's price is included in the course price. I have selected the best-structured books, with a recognizable format of lessons from chapter to chapter. You can catch up or review it on your own, in case you have missed the class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I beliven that the language input should be feasible, even if you go offline, moreover, you avoid having a hundred of photocopies. All the materials and exercises from my online sessions will be available for a download. 
+Group classes use a study book. The book's price is included in the course price. I have selected the best-structured books, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own, in case you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I belive that the language input should be feasible, even if you go offline, moreover, you avoid having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
