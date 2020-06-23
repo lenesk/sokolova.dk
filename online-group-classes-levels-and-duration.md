@@ -58,13 +58,14 @@ All the books, I have selected for my courses have a home page, where you have f
 * Level A2
   * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
-  ![Sådan 2](forside-saadan2-.png)
+  <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
+ 
   
 * Level B1
    * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
    * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
-
-  ![Så kan du lære det](saa-kan-du-lære-det.png)
+   
+   <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
 
 * Level B1
    * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
