@@ -70,9 +70,8 @@ All the books, I have selected for my courses have a home page, where you have f
 * Level B1
    * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
    * Level B2.2 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
-
-  ![Pæredansk](forside-pæredansk.png)
-  
+   
+   <img src="forside-pæredansk.png" alt="Pæredansk" width="200" height="300" />
   
  * Level B2
    * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
