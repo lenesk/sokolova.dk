@@ -21,7 +21,7 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK
 The course price always includes the price for the study book. 
 
-[Courses available for current sign up in July-November](current-courses-for-sign-up.md)
+# [Courses available for current sign up in July-November](current-courses-for-sign-up.md)
 
 ## Why 12 weeks for A1 and A2 and two classes per week?
 * It is crucial to have shorter but more frequent classes to have time between classes to assimilate the material. 
