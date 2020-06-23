@@ -75,8 +75,8 @@ All the books, I have selected for my courses have a home page, where you have f
   
  * Level B2
    * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
-
-  ![Højt til loftet](hoejt-til-loftet.png)
+   
+   <img src="hoejt-til-loftet.png" alt="Højt til loftet" width="200" height="300" />
 
  * Level C1 - combinations of news and newspaper articles, video materials, podcasts, Studieprøven exam sets from previous years, my own study materials developed     for grammar and vocabulary training on the level, based on authentic texts. 
 
