@@ -53,7 +53,7 @@ All the books, I have selected for my courses have a home page, where you have f
   
   ![Sådan 1](forside-saadan1-png.png)
   
-  * Level A2
+* Level A2
   * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
   ![Sådan 2](forside-saadan2-.png)
