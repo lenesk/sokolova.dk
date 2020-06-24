@@ -3,16 +3,15 @@
 
 ## Enrol & Pay <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
 
-## Emner
-* Hverdagsliv i Danmark (familieformer, fritidsaktiviteter og feriemuligheder, den digitale borger).
-* Danmark i geografi og tal, den danske natur.
-* Arbejde og uddannelse (din egen uddannelse og joberfaring, uddannelsessystem i Danmark).
-* Boligformer i Danmark (min boligsituation, boligformer & boligindretning).
+## Topics for conversational practice
+* Everyday life in Denmark (family forms, leisure activities and holiday opportunities, the digital citizen).
+* Denmark in geography and numbers, Danish nature.
+* Work and education (your own education and job experience, education system in Denmark).
+* Housing types in Denmark (my housing situation, housing types & interior design).
 
-
-## Fokus på udtale
-Der er løbende fokus på mundtlighed og mundtlig automatisering; arbejde med udtale udgør ca. 20% af undervisningstid, som enten en integreret del af en undervisningsaktivitet eller en separat øvelse; der undervises bl.a. i enkeltlyd. 
-Der øves i udtale af konsonanter (stumme konsonanter, blødt ‘d’, stød på sonoranter); der arbejdes med udgangspunkt i vokalskemaet inklusive vokallængde og eventuelt stød; tryk (ordtryk og syntaktisk tryk), rytme og melodi; assimilation og reduktion.
+## Focus on pronunciation
+There is an ongoing focus on oral language production and pronuncation; pronunciation fokus amounts to approx. 20% of teaching time, as either an integral part of a teaching activity or a separate exercise; 
+Practice in pronunciation of consonants is focused on particual sounds that ; work is based on the vocal scheme, including vocal length and possible shock; print (wordpress and syntactic print), rhythm and melody; assimilation and reduction.
 
 ## Fokus på lytning
 Regelmæssigt arbejde med lyttestrategier via bl.a.: 
