@@ -5,6 +5,7 @@
 ## Online Danish language lessons in Zoom  - learn Danish from any place in the world
 
 * [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom) 
+* [Online group classes (6-10 students)](online-group-classes-levels-and-duration)
 * [Sign up for Online Studieprøven Prep Course on Saturdays or Mondays](studieprove-online-course)
 
 ## Blog  
