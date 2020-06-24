@@ -1,4 +1,8 @@
 
+# A2 Danish Online  
+
+## [Enrol & Pay](<script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>)
+
 ## Emner
 * Hverdagsliv i Danmark (familieformer, fritidsaktiviteter og feriemuligheder, den digitale borger).
 * Danmark i geografi og tal, den danske natur.
@@ -8,10 +12,7 @@
 
 ## Fokus på udtale
 Der er løbende fokus på mundtlighed og mundtlig automatisering; arbejde med udtale udgør ca. 20% af undervisningstid, som enten en integreret del af en undervisningsaktivitet eller en separat øvelse; der undervises bl.a. i enkeltlyd. 
-1) øves i udtale af konsonanter (stumme konsonanter, blødt ‘d’, stød på sonoranter);
-2) arbejdes med udgangspunkt i vokalskemaet inklusive vokallængde og eventuelt stød;
-- tryk (ordtryk og syntaktisk tryk), rytme og melodi;
-- assimilation og reduktion.
+Der øves i udtale af konsonanter (stumme konsonanter, blødt ‘d’, stød på sonoranter); der arbejdes med udgangspunkt i vokalskemaet inklusive vokallængde og eventuelt stød; tryk (ordtryk og syntaktisk tryk), rytme og melodi; assimilation og reduktion.
 
 ## Fokus på lytning
 Regelmæssigt arbejde med lyttestrategier via bl.a.: 
