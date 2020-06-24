@@ -1,4 +1,6 @@
-# A1 Danish Online 
+# [A1 Danish Online] (<script src="https://cdn.podia.com/embeds.js" async="async"></script>
+<a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>)
+
 
 ## Focus on correct language use from the beginning
 
@@ -6,7 +8,7 @@
 
 * You will learn Danish numbers, alphabet, and how to talk about times and dates. 
 
-* By the end of the course, you will be able to make simple everyday conversations about family, studies, accommodation, work, leisure activities, plans, and weekends; sickness and holidays as well as shopping.  
+* By the end of the course, you will be able to make simple everyday conversations about your background, family, studies, accommodation, work, leisure activities, plans, and weekends; sickness and holidays as well as shopping.  
 
 * Grammatical issues include grammatical forms of nouns and adjectives, personal and possessive pronouns, word order in main clauses; three main verb tenses; primary meanings of modal verbs.
 
