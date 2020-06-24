@@ -1,7 +1,7 @@
 
 # A2 Danish Online  
 
-## [Enrol & Pay](<script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>)
+## Enrol & Pay <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
 
 ## Emner
 * Hverdagsliv i Danmark (familieformer, fritidsaktiviteter og feriemuligheder, den digitale borger).
