@@ -2,8 +2,6 @@
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
-
-
 Level | Duration | Dates | Days | Lessons | Courseprice | Book price(ex. VAT) | Total price | Sign up & Pay
 -- | -- | -- | -- | -- | -- | -- | -- | --
 A1(6-8 students) | 12 weeks | 27th July - 14th October | Mondays & Wednesdays9:15-11:00 | 48 | 5232 DKK | 272 DKK | 5504 | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>
