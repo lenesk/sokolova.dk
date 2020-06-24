@@ -11,4 +11,3 @@ B1.1 (8-10 students) | 31.07 - 2.10 | Fri. 9:00-12:30 | 40 | 4752,5 DKK |  
 C1 Online Studieprøven Prep Course (8-10 students) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Saturday</a>
 C1 Online Studieprøven Prep Course (8-10 students) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course" data-podia-embed="button">Studieprøven Evening</a>
 
-
