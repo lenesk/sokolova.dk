@@ -28,7 +28,7 @@ Group classes use a study book. The book's price is included in the course price
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
-## Here is the book we use at level A1: 
+## Here is the book we use  
 
 * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
