@@ -29,7 +29,7 @@ If you have questions while signing up online for the course, e.g., if you are i
 ## Sign up deadline is August 1st for Studieprøven Prep Courses
 
 
-Level | Duration | Schedule | Lessons | Total price incl. book | Sign up & Pay
+Level | Duration | Schedule | Lessons | Total price incl. book | Enroll & Pay
 -- | -- | -- | -- | -- | --
 [A1 (6-8 students)](a1-danish-online) | 27.07 - 14.10 | Mon. & Wed. 9:15-11:00 | 48 | 5504 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>
 A2 (6-8 students) | 28.07 - 1.10 | Tue. & Thu. 17:30-19:15 | 40 | 4632 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
