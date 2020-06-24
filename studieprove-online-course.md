@@ -1,14 +1,13 @@
-# Online Studieprøven Prep Course on Saturdays or Mondays
+# Online Studieprøven Prep Course on Saturdays or Mondays 
 
 Are you heading for Studieprøven in November-December 2020? 
 
 I offer a Saturday morning or Monday evening class once per week.
 
-
 ### Admission requirements
 This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
-#### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk) to sign up for one of the courses below.
+#### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
 
 * Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
@@ -34,11 +33,7 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
  *Only purchase of the whole course is possible due to closes admission*
  
 ------------------------------------------------------------------------------------
-
-#### Payments via bank transfer
-
 #### Companies pay VAT, private individuals do not pay VAT
-
 ------------------------------------------------------------------------------------
  
 
@@ -50,8 +45,6 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
 * well-structured lessons with a focus on all the aspects of the exam content;
 * a closed admission course - no current enrollment to ensure the homogeneity of the class.
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
-
-* The sign up deadline for both groups is August 1<sup>st</sup>. 
 
 
 ### Why choose a once-per-week course? 
