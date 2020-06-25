@@ -1,6 +1,6 @@
-B1 Danish Online
+# B1 Danish Online
 
-# Conversation topics
+## Conversation topics
 By the end of the course you will be able to make interactions with Danish speakers on familiar topics. 
 The conversation topics we'll work on include:
  * Danish culture, politeness norms, stereotypes abour Danish culture; foreigners view on Danes and Danmark.
