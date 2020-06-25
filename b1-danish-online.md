@@ -47,10 +47,11 @@ All the books I have selected for my courses have a home page. There you have fr
 * Level B1
    * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
    * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
-   
+ 
+  <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
    
 ## Enroll and Pay for B1.1
 <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/b1-1-danish-online" data-podia-embed="button">B1.1 Danish Online</a>
 
    
-   <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
+  
