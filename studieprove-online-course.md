@@ -11,32 +11,6 @@ This course is for those who have acquired Danish level B2 or passed Prøve i Da
 
 * Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
-#### The sign up deadline for both groups is August 1<sup>st</sup>. 
-
----------------------------------------------------------------------------------
-#### *Studieprøven online course (Zoom) on Saturdays 9:00-12:30 (8-10 students)*
-
-#### *Duration 05.09.2020-14.11.2020 (44 academic lessons)*
- 
-#### *Total price 4796 DKK (109 DKK X 45 min. lesson)*
- 
- *Only purchase of the whole course is possible*
-   
--------------------------------------------------------------------------------------
-
-#### *Studieprøven online course (Zoom) on Mondays 17:00-20:30  (8-10 students)*
- 
-#### *Duration 24.08.2020-02.11.2020 (44 academic lessons)*
- 
-#### *Total price 4796 DKK (109 DKK X 45 min. lesson)*
- 
- *Only purchase of the whole course is possible due to closes admission*
- 
-------------------------------------------------------------------------------------
-#### Companies pay VAT, private individuals do not pay VAT
-------------------------------------------------------------------------------------
- 
-
 ### Five reasons to take a training course running right up to the exam:
 
 * you get ready for the exam in a smaller group class (8-10 students);
