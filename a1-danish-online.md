@@ -1,9 +1,5 @@
 # A1 Danish Online
 
-Enroll and Pay (<script src="https://cdn.podia.com/embeds.js" async="async"></script>
-<a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>)
-
-
 ## Focus on correct language use from the beginning
 
 * By the end of this A1 course, you will learn the fundamental rules of pronunciation (There are plenty of pronunciation rules in Danish!); you will know how to articulate the Danish sounds. 
@@ -38,3 +34,8 @@ All the books I have selected for my courses have a home page. There you have fr
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
   <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
+  
+## Enroll and Pay 
+<script src="https://cdn.podia.com/embeds.js" async="async"></script>
+<a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>
+
