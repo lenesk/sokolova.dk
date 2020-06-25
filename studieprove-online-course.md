@@ -59,7 +59,7 @@ You can find samples of exam sets from last year here to assess the level of com
 
 ### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can also schedule a short meeting in Zoom, if you want to ask questions in person. 
 
-##Enroll and Pay 
+## Enroll and Pay 
 ### Saturday morning group <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Online Sat.</a>
 
 ### Monday evening group <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course" data-podia-embed="button">Studieprøven Online Mon.</a>
