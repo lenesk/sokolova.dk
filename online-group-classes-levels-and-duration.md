@@ -21,7 +21,7 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 
 ### The course price always includes the price for the study book. 
 
-# [Courses available for current sign up in July-November](current-courses-for-sign-up)
+# Courses available for current sign up in July-November
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
