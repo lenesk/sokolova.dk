@@ -19,9 +19,9 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 
 ### Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.
 
-### The course price always includes the price for the study book. 
+### The course price does not include the price for the study book, and you need to order a book on your own.
 
-# Courses available for current sign up in July-November
+# Courses available for current sign up in August-November
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
