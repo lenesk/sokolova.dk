@@ -2,9 +2,11 @@
 
 ## You need to buy the study book before the course start. See the links below to order the book. 
 
-* Level A1 
+* Level A1
   * *[Sådan 1](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)* af Frank Sebastian Hansen og Einar Helleland 
-
+  
+  <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
+  
 ## What you will learn
 
 * By the end of this A1 course, you will learn the fundamental rules of pronunciation. Good news: there are plenty of pronunciation rules in Danish! You will know how to articulate the Danish sounds. 
@@ -31,22 +33,11 @@
 You will get instructions about Zoom install before the course start. You do not need to get a paid version of Zoom, but will be invited to join live session with me as a host. Video and chat materials are not saved on the Zoom server upon the end of each video session. 
 
 ## We use a study book even for a Zoom class 
-Group classes use a study book. The book's price is included in the course price. I have selected the best-structured books, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own, in case you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I belive that the language input should be feasible, even if you go offline, moreover, you avoid having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
-
-All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
-
-
-## We use a study book even for a Zoom class 
 Group classes use a study book. I have selected one of the best-structured books for this level, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own if you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into this online course. I believe that the language input should be feasible, even if you go offline, moreover, you avoid 
 having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
-
-* Level A1
-  * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
-  
-  <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
   
 ## Enroll and Pay 
 <script src="https://cdn.podia.com/embeds.js" async="async"></script>
