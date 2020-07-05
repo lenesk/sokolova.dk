@@ -35,7 +35,13 @@ Group classes use a study book. The book's price is included in the course price
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
-## Here is the book we use  
+
+## We use a study book even for a Zoom class 
+Group classes use a study book. I have selected one of the best-structured books for this level, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own if you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into this online course. I believe that the language input should be feasible, even if you go offline, moreover, you avoid 
+having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
+
+All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
+
 
 * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
