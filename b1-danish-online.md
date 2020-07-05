@@ -5,6 +5,9 @@
 * Level B1
    * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
    * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
+   
+   [Buy the book](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)
+   
    <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
 
 ## Conversation topics
