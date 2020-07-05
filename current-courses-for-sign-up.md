@@ -8,7 +8,6 @@ If you have questions while signing up online for the course, e.g., if you are i
 
 Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 -- | -- | -- | -- | -- | --
-[A1 (6-8 students)](a1-danish-online) | 03.08 - 21.10 | Mon. & Wed. 9:15-11:00 | 48 | 5232 DKK [Study book purchase] (https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)]| <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a1-danish-online" data-podia-embed="button">A1 Danish Online</a>
 [A2 (6-8 students)](a2-danish-online) | 04.08 - 08.10 | Tue. & Thu. 17:30-19:15 | 40 | 4360 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
 [B1.1 (8-10 students)](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 4360 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/b1-1-danish-online" data-podia-embed="button">B1.1 Danish Online</a>
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Online Sat.</a>
