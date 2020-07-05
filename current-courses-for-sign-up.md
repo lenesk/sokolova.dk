@@ -30,7 +30,6 @@ Buy the study book before the course start
  
   
 * Level B1.1 & B1.2
-
-[Så kan du lære det](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)* af Frank Sebastian Hansen og Einar Helleland 
+  * *[Så kan du lære det](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)* af Frank Sebastian Hansen og Einar Helleland 
  
    <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
