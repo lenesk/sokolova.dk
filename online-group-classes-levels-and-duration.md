@@ -70,7 +70,7 @@ All the books I have selected for my courses have a home page. There you have fr
   
   <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
   
-  
+
 * Level A2
   * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
   
