@@ -33,11 +33,6 @@ having hundreds of photocopies. All the materials and exercises from my online s
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
-* Level A2
-  * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
-  
-  <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
-  
   
 ## Enrol & Pay <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
  
