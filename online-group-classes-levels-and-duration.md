@@ -12,6 +12,8 @@ B1.2 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 B2.1 | 10 weeks | 1 class | 4 | 4 hours
 B2.2 | 10 weeks | 1 class | 4 | 4 hours
+B2.3 | 10 weeks | 1 class | 4 | 4 hours
+B2.4 | 10 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 8 hours
 
@@ -78,7 +80,7 @@ Group classes use a study book. The book's price is included in the course price
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
 
-## Here is the list of study books we use: 
+## Here is the list of the study books we use: 
 
 * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
@@ -98,13 +100,13 @@ All the books I have selected for my courses have a home page. There you have fr
    
    <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
 
-* Level B1
+* Level B2.1 & B2.2
    * Level B2.1 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 1-3*)
    * Level B2.2 *[Pæredansk](https://paeredansk.gyldendal.dk)* af Birte Langgaard (*Kapitler 4-5*)
    
    <img src="forside-pæredansk.png" alt="Pæredansk" width="200" height="300" />
   
- * Level B2
+ * Level B2.3 & B2.4
    * *[Højt til loftet](https://hoejttilloftet.gyldendal.dk/#)* af Birte Langgaard 
    
    <img src="hoejt-til-loftet.png" alt="Højt til loftet" width="200" height="300" />
