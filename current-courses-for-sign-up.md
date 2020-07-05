@@ -3,8 +3,7 @@
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
-## Sign up deadline is July 20th for A1, A2, B1.1
-## Sign up deadline is August 1st for Studieprøven Prep Courses
+## Sign up deadline is August 1st 
 
 Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 -- | -- | -- | -- | -- | --
