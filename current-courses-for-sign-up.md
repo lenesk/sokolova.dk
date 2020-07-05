@@ -14,11 +14,9 @@ Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Online Sat.</a>
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course" data-podia-embed="button">Studieprøven Online Mon.</a>
 
-Buy the study book before the course start
+## You need to buy the study book before the course start
 
-
-
-* Level A1
+* Level A1 
   * *[Sådan 1](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)* af Frank Sebastian Hansen og Einar Helleland 
   
   <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
