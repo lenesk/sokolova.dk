@@ -1,12 +1,10 @@
 # A1 Danish Online
 
 ## You need to buy the study book before the course start. See the links below to order the book. 
-
-## You need to buy the study book before the course start. See the links below to order the book. 
 * Level A1
   * *[Sådan 1](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
-  
-  <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
+
+<img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
 
 [Buy the book](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)
 
