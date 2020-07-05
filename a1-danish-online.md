@@ -1,8 +1,13 @@
 # A1 Danish Online
 
-## Focus on correct language use from the beginning
+## You need to buy the study book before the course start. See the links below to order the book. 
 
-* By the end of this A1 course, you will learn the fundamental rules of pronunciation (There are plenty of pronunciation rules in Danish!); you will know how to articulate the Danish sounds. 
+* Level A1 
+  * *[Sådan 1](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)* af Frank Sebastian Hansen og Einar Helleland 
+
+## What you will learn
+
+* By the end of this A1 course, you will learn the fundamental rules of pronunciation. Good news: there are plenty of pronunciation rules in Danish! You will know how to articulate the Danish sounds. 
 
 * You will learn Danish numbers, alphabet, and how to talk about times and dates. 
 
@@ -14,10 +19,12 @@
 
 ## Admission requirement for the course:
 * you should be above 18 years old;
+* you should be able to order a study material on your own;
+[Sådan 1](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)
 * you should at least have completed a High School (12 years of schooling);
 * you should speak fluent English;
 * you need a high-speed internet connection and earphones with a microphone;
-* it's most efficient to follow the course using a desktop computer or iPad.
+* you need to use a desktop computer or an iPad.
 
 ## Zoom required to be installed on your device
 
