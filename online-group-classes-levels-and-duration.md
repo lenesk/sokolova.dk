@@ -37,24 +37,7 @@ Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Online Sat.</a>
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course" data-podia-embed="button">Studieprøven Online Mon.</a>
 
-## You need to buy the study book before the course start. See the links below to order the book. 
-
-* Level A1 
-  * *[Sådan 1](https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds)* af Frank Sebastian Hansen og Einar Helleland 
-  
-  <img src="forside-saadan1-png.png" alt="Sådan 1" width="200" height="300" />
-  
-* Level A2
-  * *[Sådan 2](https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277)* af Frank Sebastian Hansen og Einar Helleland 
-  
-  <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
- 
-  
-* Level B1.1 & B1.2
-  * *[Så kan du lære det](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)* af Frank Sebastian Hansen og Einar Helleland 
- 
-   <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
-
+## You need to buy the study book before the course start.
 
 ## Why 12 weeks for A1 and A2 and two classes per week?
 * It is crucial to have shorter but more frequent classes to have time between classes to assimilate the material. 
@@ -93,7 +76,7 @@ All the books I have selected for my courses have a home page. There you have fr
   
   <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
  
-  
+ 
 * Level B1
    * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
    * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
