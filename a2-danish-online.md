@@ -2,9 +2,10 @@
 
 ## You need to buy the study book before the course start. See the links below to order the book. 
 
-[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)* af Frank Sebastian Hansen og Einar Helleland 
+[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan1.aspx)af Frank Sebastian Hansen og Einar Helleland 
   
 [Buy the book](https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277)
+ 
   <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
 
 ## Conversation topics during the course
