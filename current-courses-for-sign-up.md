@@ -24,8 +24,6 @@ If you have questions while signing up online for the course, e.g., if you are i
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Studieprøven Online Mon.</a>
-
 ## Sign up deadline for A1, A2, B1.1. is August 1st.
 
 ## Sign up deadline for C1 is August 17th.
@@ -50,7 +48,6 @@ Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
   
   <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
  
-  
 * Level B1.1 & B1.2
   * *[Så kan du lære det](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)* af Frank Sebastian Hansen og Einar Helleland 
  
