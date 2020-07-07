@@ -2,8 +2,6 @@
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
-<a class="btn" href="current-courses-for-sign-up">Sign up for group courses in August-November 2020</a>
-
 
 <style>
 .btn {
@@ -32,6 +30,9 @@
 <a class="btn" href="private-danish-language-lessons-online-in-zoom">Private lessons at all levels according to the Common European Framework of Reference for Languages</a>
 
 <a class="btn" href="online-group-classes-levels-and-duration">Online group classes (6-10 students)</a>
+
+
+<a class="btn" href="current-courses-for-sign-up">Sign up for group courses in August-November 2020</a>
 
 ## Blog  
    Prepare for the Studieprøven exam
