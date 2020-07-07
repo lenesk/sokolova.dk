@@ -1,7 +1,7 @@
 <img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="300" height="300" />
 
-# Elena Sokolova [elena@sokolova.dk]
-(mailto:elena@sokolova.dk)<br/>
+# Elena Sokolova 
+[elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 I have graduate-level degrees in translation, linguistics and second language pedagogy. 
 I have been teaching Danish for ten years (online in Zoom, blended courses, regular classroom groups and one-to-one), including levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
