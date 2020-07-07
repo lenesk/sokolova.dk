@@ -40,7 +40,7 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 * Six days between the classes will give you time to accumulate material and work at your own pace.
 * A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.
 
-# [Online group classes available for sign up in August-November 2020](current-courses-for-sign-up)
+# [Online group classes starting in August 2020](current-courses-for-sign-up)
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
