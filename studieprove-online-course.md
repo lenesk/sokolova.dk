@@ -1,15 +1,35 @@
 # Online Studieprøven Prep Course on Saturdays or Mondays 
 
-Are you heading for Studieprøven in November-December 2020? 
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
 
-I offer a Saturday morning or Monday evening class once per week.
+<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 Saturday</a>
+
+<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
+
 
 ### Admission requirements
 This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
 #### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
-
-* Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
 ### Five reasons to take a training course running right up to the exam:
 
@@ -58,10 +78,5 @@ Studieprøven is the Higher Education Examination and the last level on Danish L
 You can find samples of exam sets from last year here to assess the level of complexity: https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
 
 ### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can also schedule a short meeting in Zoom, if you want to ask questions in person. 
-
-## Enroll and Pay 
-### Saturday morning group <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course" data-podia-embed="button">Studieprøven Online Sat.</a>
-
-### Monday evening group <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course" data-podia-embed="button">Studieprøven Online Mon.</a>
 
 
