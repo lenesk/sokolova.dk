@@ -1,12 +1,33 @@
-# A2 Danish Online  
+# A2 Danish Online 
 
-## You need to buy the study book before the course start. See the links below to order the book. 
-* Level A2
-  * *[Sådan 2](http://guga.gyldendal.dk/Sprog/dsa/saadan2.aspx)* af Frank Sebastian Hansen og Einar Helleland 
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
+<a class="btn" href="https://elenasokolova.podia.com/a2-danish-online">Enroll & pay</a>
+
+## You need to order and buy the study book before the course start on your own. The course price does not include the book.
+
+* Level A2 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277>Buy *Sådan 2*</a>
   
-  <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
-
-[Buy the book](https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277)
+<img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
 
 ## Admission requirement for the course:
 * you should be above 18 years old;
@@ -41,8 +62,3 @@ Group classes use a study book. I have selected one of the best-structured books
 having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
-
-  
-## Enrol & Pay <script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/a2-danish-online" data-podia-embed="button">A2 Danish Online</a>
- 
-  
