@@ -1,4 +1,26 @@
 # A1 Danish Online
+
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
 <a class="btn" href="https://elenasokolova.podia.com/a1-danish-online">Enroll & pay</a>
 
 ## You need to order and buy the study book before the course start on your own. The course price does not include the book.
