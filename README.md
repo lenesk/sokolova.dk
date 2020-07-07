@@ -1,12 +1,36 @@
-# Elena Sokolova
+# Elena Sokolova                                                                                
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
-## Online Danish language lessons in Zoom  - learn Danish from any place in the world
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
 
-<!-- * [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom) 
+
+## Online Danish language lessons in Zoom
+
+<a class="btn" href="private-danish-language-lessons-online-in-zoom">Private lessons at all levels according to the Common European Framework of Reference for Languages</a>
+
+* [Private lessons at all levels according to the Common European Framework of Reference for Languages](private-danish-language-lessons-online-in-zoom) 
 * [Online group classes (6-10 students)](online-group-classes-levels-and-duration)
-* [Sign up for Online Studieprøven Prep Course on Saturdays or Mondays](studieprove-online-course)-->
+* [Online group classes available for sign up in August-November 2020](current-courses-for-sign-up)
 
 ## Blog  
    Prepare for the Studieprøven exam
