@@ -30,13 +30,13 @@ I have graduate-level degrees in translation, linguistics and second language pe
 </style>
 
 
-> ## Online Danish language lessons in Zoom 
->
-> [Private lessons](private-danish-language-lessons-online-in-zoom)
->
-> [Online group classes (6-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
->
-> Group courses starting in August 2020 <a class="btn" href="current-courses-for-sign-up">Sign up</a>
+## Online Danish language lessons in Zoom 
+
+[Private lessons](private-danish-language-lessons-online-in-zoom)
+
+[Online group classes (6-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
+
+<a class="btn" href="current-courses-for-sign-up">Sign up for group courses starting in August 2020 </a>
 
 ## Blog  
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
