@@ -2,7 +2,7 @@
 
 I have graduate-level degrees in translation, linguistics and second language pedagogy. I have been teaching Danish for 10 years (online in Zoom, blended courses, regular classroom groups and one-to-one), including levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
 
-[CV Danish](cv.md)
+[CV (Danish)](cv.md)
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
