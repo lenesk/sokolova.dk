@@ -4,7 +4,7 @@
 ## Erhvervserfaring
 
 ### Dansklærer 2020/07–present <br>		
-SokolovaDK (CVR-nummer 41433876) 
+[SokolovaDK (CVR-nummer 41433876)](https://sokolova.dk) 
 
 ### Dansklærer, 2012/09–2020/06	<br>		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
