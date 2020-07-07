@@ -25,16 +25,25 @@
 </style>
 
 
-## Online Danish language lessons in Zoom with SokolovaDK (CVR-nr.: 41433876)
+## Online Danish language lessons in Zoom 
 
-<a class="btn" href="private-danish-language-lessons-online-in-zoom">Online private lessons</a>
+[Private lessons](private-danish-language-lessons-online-in-zoom)
 
-<a class="btn" href="online-group-classes-levels-and-schedule">Online group classes (6-10 students)</a>
+[Online group classes (6-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
 
-<a class="btn" href="current-courses-for-sign-up">Current sign up in August 2020</a>
+<a class="btn" href="current-courses-for-sign-up">Sign up for courses starting in August 2020</a>
+
+* [A1 (6-8 students)](a1-danish-online) <a class="btn" href="https://elenasokolova.podia.com/a1-danish-online">Enroll and pay</a>
+
+[A2 (6-8 students)](a2-danish-online) | 04.08 - 08.10 | Tue. & Thu. 17:30-19:15 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/a2-danish-online">A2 Danish Online</a>
+[B1.1 (8-10 students)](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">B1.1 Danish Online</a>
+[C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Studieprøven Online Sat.</a>
+[C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Studieprøven Online Mon.</a>
+
+## You need to buy the study book before the course start. See the links below to order the book. 
+  
 
 ## Blog  
-   Prepare for the Studieprøven exam
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
  
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
@@ -72,3 +81,5 @@ I have always been interested in bilingualism, so I have chosen a bilingual trac
 * * * 
 
 ![Lisp](./lisp-bunny.png)
+
+SokolovaDK CVR-nr.: 41433876
