@@ -24,7 +24,7 @@ If you have questions while signing up online for the course, e.g., if you are i
 }
 </style>
 
-## Sign up deadline for A1, A2, B1.1. is August 1st.
+## Sign up deadline for A1, A2, B1.1 is August 1st.
 
 ## Sign up deadline for C1 is August 17th.
 
