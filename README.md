@@ -36,8 +36,7 @@
 * [A1 (6-8 students)](a1-danish-online) 
 * [A2 (6-8 students)](a2-danish-online) 
 * [B1.1 (8-10 students)](b1-danish-online)
-* [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) 
-* [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) 
+* [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course)  
 
 ## Blog  
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
