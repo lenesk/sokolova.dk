@@ -29,7 +29,7 @@
 
 <a class="btn" href="private-danish-language-lessons-online-in-zoom">Online private lessons</a>
 
-<a class="btn" href="online-group-classes-levels-and-duration">Online group classes (6-10 students)</a>
+<a class="btn" href="online-group-classes-levels-and-schedule">Online group classes (6-10 students)</a>
 
 <a class="btn" href="current-courses-for-sign-up">Current sign up in August 2020</a>
 
