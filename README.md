@@ -27,7 +27,7 @@
 
 ## Online Danish language lessons in Zoom with SokolovaDK (CVR-nr.: 41433876)
 
-<a class="btn" href="private-danish-language-lessons-online-in-zoom">Private lessons</a>
+<a class="btn" href="private-danish-language-lessons-online-in-zoom">Online private lessons</a>
 
 <a class="btn" href="online-group-classes-levels-and-duration">Online group classes (6-10 students)</a>
 
