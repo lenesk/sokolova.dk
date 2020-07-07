@@ -25,7 +25,7 @@
 
 ## You need to order and buy the study book before the course start on your own. The course price does not include the book.
 
-* Level B1.1 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676">Buy*Så kan du lære det*</a>
+* Level B1.1 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676">Buy *Så kan du lære det*</a>
 
 <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
    
