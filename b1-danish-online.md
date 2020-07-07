@@ -9,6 +9,14 @@
    [Buy the book](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)
    
    <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
+   
+## Admission requirement for the course:
+* you should be above 18 years old;
+* you should be able to order a study material on your own;
+* you should at least have completed a High School (12 years of schooling);
+* you should speak fluent English;
+* you need a high-speed internet connection and earphones with a microphone;
+* you need to use a desktop computer or an iPad.
 
 ## Conversation topics
 By the end of the course, you will be able to make interactions with Danish speakers on familiar topics. 
