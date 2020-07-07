@@ -25,7 +25,7 @@
 
 ## You need to order and buy the study book before the course start on your own. The course price does not include the book.
 
-* Level A2 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277>Buy *Sådan 2*</a>
+* Level A2 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277">Buy *Sådan 2*</a>
   
 <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
 
