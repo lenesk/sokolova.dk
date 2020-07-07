@@ -27,12 +27,11 @@
 
 ## Online Danish language lessons in Zoom
 
-<a class="btn" href="private-danish-language-lessons-online-in-zoom">Private lessons at all levels according to the Common European Framework of Reference for Languages</a>
+<a class="btn" href="private-danish-language-lessons-online-in-zoom">Private lessons</a>
 
 <a class="btn" href="online-group-classes-levels-and-duration">Online group classes (6-10 students)</a>
 
-
-<a class="btn" href="current-courses-for-sign-up">Sign up for group courses in August-November 2020</a>
+<a class="btn" href="current-courses-for-sign-up">Current sign up in August 2020</a>
 
 ## Blog  
    Prepare for the Studieprøven exam
