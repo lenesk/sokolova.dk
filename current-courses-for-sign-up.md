@@ -26,7 +26,9 @@ If you have questions while signing up online for the course, e.g., if you are i
 
 <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Studieprøven Online Mon.</a>
 
-## Sign up deadline is August 1st 
+## Sign up deadline for A1, A2, B1.1. is August 1st.
+
+## Sign up deadline for C1 is August 17th.
 
 Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 -- | -- | -- | -- | -- | --
