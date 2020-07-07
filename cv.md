@@ -3,17 +3,17 @@
 
 ## Erhvervserfaring
 
-### Dansklærer 2020/07–present <br>		
+### Dansklærer 2020/07–present 	
 [SokolovaDK (CVR-nummer 41433876)](https://sokolova.dk) 
 
-### Dansklærer, 2012/09–2020/06	<br>		
+### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
 *Primære opagaver*
 
 Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; altid anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
-### Dansklærer, 2017/09–10/2018 <br/>
+### Dansklærer, 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
 ### Freelance russisk tolk, 2012/08–2013/12<br/> 
