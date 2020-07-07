@@ -1,14 +1,33 @@
 # B1 Danish Online
 
-## You need to buy the study book before the course start. See the links below to order the book. 
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
 
-* Level B1
-   * Level B1.1 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 1-5*)
-   * Level B1.2 *[Så kan du lære det](https://laerdet.gyldendal.dk)* af Frank Sebastian Hansen og Einar Helleland (*Kapitler 6-10*)
-   
-   [Buy the book](https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676)
-   
-   <img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
+<a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
+
+## You need to order and buy the study book before the course start on your own. The course price does not include the book.
+
+* Level B1.1 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sa-kan-du-lare-det-bog-40351-9788702185676">Buy*Så kan du lære det*</a>
+
+<img src="saa-kan-du-lære-det.png" alt="Så kan du lære det" width="200" height="300" />
    
 ## Admission requirement for the course:
 * you should be above 18 years old;
@@ -59,10 +78,3 @@ Group classes use a study book. I have selected one of the best-structured books
 having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
 
 All the books I have selected for my courses have a home page. There you have free access to audio & video (including transcripts), reading, and grammar exercises.
-
-
-## Enroll and Pay for B1.1
-<script src="https://cdn.podia.com/embeds.js" async="async"></script><a href="https://elenasokolova.podia.com/b1-1-danish-online" data-podia-embed="button">B1.1 Danish Online</a>
-
-   
-  
