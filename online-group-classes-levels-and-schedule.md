@@ -31,7 +31,6 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 * You get socialized with the same people, rather than changing a class, say every 6 weeks. 
 * All my courses have а closed admission. No current enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
 
-
 ## Why longer classes at B1, B2, C1 once per week?
 * Your language becomes more advanced and elaborated. You need to concentrate less on pronunciation drilling and require more focus on having time to speak in several rounds. 
 * You practice under your teacher's supervision in a group and get immediate feedback from the teacher. 
@@ -44,8 +43,6 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 # [Online group classes available for sign up in August-November 2020](current-courses-for-sign-up)
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
-
-## You need to buy the study book before the course start. 
 
 ## We use a study book even for a Zoom class 
 Group classes use a study book. The book's price is included in the course price. I have selected the best-structured books, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own, in case you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I belive that the language input should be feasible, even if you go offline, moreover, you avoid having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
