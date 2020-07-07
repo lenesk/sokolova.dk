@@ -5,8 +5,8 @@
 
 * Level A1 <a class="btn" href="https://gyldendal-uddannelse.dk/products/sadan-1-bog-35032-9788702144260?gclid=Cj0KCQjw9IX4BRCcARIsAOD2OB2ORKliBuOlNZSx9lSi3LTTOLF6rPKOiEX8ZeZP80hL9_r6EOKI3LkaAt_JEALw_wcB&gclsrc=aw.ds">Buy *Sådan 1*</a>
 
-## Admission requirement for the course:
-* you should be above 18 years old;
+## Admission requirement for the course
+* You should be above 18 years old;
 * you should be able to order a study material on your own;
 * you should at least have completed a High School (12 years of schooling);
 * you should speak fluent English;
