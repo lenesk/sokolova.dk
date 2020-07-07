@@ -1,4 +1,4 @@
-# Elena Sokolova   
+# [Elena Sokolova](./cv.md)   
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
@@ -45,7 +45,6 @@
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
 
 ## About me
-[Curriculum vitae (Danish version)](./cv.md)
 
 <img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="300" height="300" />
 
