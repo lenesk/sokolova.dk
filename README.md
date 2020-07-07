@@ -1,4 +1,4 @@
-<img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="300" height="300" />
+<img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="200" height="200" />
 
 # Elena Sokolova 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
