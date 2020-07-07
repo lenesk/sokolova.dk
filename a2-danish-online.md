@@ -7,6 +7,14 @@
   <img src="forside-saadan2-.png" alt="Sådan 2" width="200" height="300" />
 
 [Buy the book](https://gyldendal-uddannelse.dk/products/sadan-2-bog-35033-9788702144277)
+
+## Admission requirement for the course:
+* you should be above 18 years old;
+* you should be able to order a study material on your own;
+* you should at least have completed a High School (12 years of schooling);
+* you should speak fluent English;
+* you need a high-speed internet connection and earphones with a microphone;
+* you need to use a desktop computer or an iPad.
  
 ## Conversation topics during the course
 * Everyday life in Denmark (family forms, leisure activities, holiday opportunities and travelling).
