@@ -2,6 +2,7 @@
 
 I have graduate-level degrees in translation, linguistics and second language pedagogy. I have been teaching Danish for 10 years (online in Zoom, blended courses, regular classroom groups and one-to-one), including levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
 
+<img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="300" height="300" />
 [CV (Danish)](cv.md)
 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
@@ -43,8 +44,6 @@ I have graduate-level degrees in translation, linguistics and second language pe
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
 
 ## About me
-
-<img src="elena-sokolova.jpg" alt="Elena Sokolova" style="float:right" width="300" height="300" />
 
 My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in translation and interpreting. During the last ten years, I have been teaching Danish to foreigners. I have experience in teaching Danish at all levels (online in Zoom, blended courses, regular classroom groups and one-to-one). I have been tutoring students, preparing for the Danish language exams on levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
 
