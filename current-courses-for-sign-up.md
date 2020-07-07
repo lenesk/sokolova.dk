@@ -34,8 +34,7 @@ Level | Duration | Schedule | Lessons | Total price | Enroll & Pay
 [A2 (6-8 students)](a2-danish-online) | 04.08 - 08.10 | Tue. & Thu. 17:30-19:15 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/a2-danish-online">A2 Danish Online</a>
 [B1.1 (8-10 students)](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">B1.1 Danish Online</a>
 [C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Studieprøven Online Sat.</a>
-[C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | 
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Studieprøven Online Mon.</a>
+[C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Studieprøven Online Mon.</a>
 
 ## You need to buy the study book before the course start. See the links below to order the book. 
 
