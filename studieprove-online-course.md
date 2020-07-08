@@ -1,4 +1,10 @@
-# Online Studieprøven Prep Course on Saturdays or Mondays 
+# Online Studieprøven Prep Course
+
+<img src="studieproven-picture.png" alt="Studieprøven preparation" width="200" height="300" />
+
+C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay</a>
+
+C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay</a>
 
 <style>
 .btn {
@@ -29,7 +35,7 @@
 ### Admission requirements
 This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
-#### Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
+Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
 
 ### Five reasons to take a training course running right up to the exam:
 
