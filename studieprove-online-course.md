@@ -2,8 +2,7 @@
 
 C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 Saturday</a>
 
-C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | 
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
+C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
 
 The course has a first-come-first-served admission. 
 
