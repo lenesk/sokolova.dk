@@ -1,8 +1,11 @@
 # Online Studieprøven Prep Course
 
-C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay</a>
+C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 Saturday</a>
 
-C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay</a>
+C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | 
+<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
+
+The course has a first-come-first-served admission. 
 
 <style>
 .btn {
@@ -25,24 +28,21 @@ C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:3
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 Saturday</a>
-
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
-
 
 ### Admission requirements
 This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
 
-### Five reasons to take a training course running right up to the exam:
+After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
+Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
+
+### Four reasons to take a training course running right up to the exam:
 
 * you get ready for the exam in a smaller group class (8-10 students);
 * prep curriculum is stretched over 11 sessions for efficient assimilation of material;
 * access to preparing materials;
-* well-structured lessons with a focus on all the aspects of the exam content;
-* a closed admission course - no current enrollment to ensure the homogeneity of the class.
-Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
+* well-structured lessons with a focus on all the aspects of the exam content. 
 
 
 ### Why choose a once-per-week course? 
