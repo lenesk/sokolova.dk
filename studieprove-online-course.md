@@ -1,6 +1,6 @@
 # Online Studieprøven Prep Course
 
-<img src="studieproven-picture.png" alt="Studieprøven preparation" width="200" height="300" />
+<img src="studieproven-picture.png" alt="Studieprøven preparation" width="700" height="700" />
 
 C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay</a>
 
