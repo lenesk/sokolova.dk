@@ -1,12 +1,12 @@
 # Learn Danish online
 
-I have been teaching Danish at all levels to foreigners in langugae schools in Copenhagen for eight years. 
-In July 2020, I established my own tutoring studio [SokolovaDK](https://sokolova.dk/online-group-classes-levels-and-schedule). 
-I offer online Danish courses to groups and individuals. 
+I have been teaching Danish at all levels to foreigners in language schools in Copenhagen for eight years. 
+In July 2020, I established my tutoring studio [SokolovaDK](https://sokolova.dk/online-group-classes-levels-and-schedule). 
+I offer Danish online courses to groups and individuals. 
 
 [You can sign up for online group courses starting in August directly on my homepage](https://sokolova.dk/current-courses-for-sign-up).
 
-All the courses has a first-come-first-served admission. See the scedule below. 
+All the courses have a first-come-first-served admission. See the schedule below. 
 
 ## A1 Online (6-8 students) 
    * *03.08 - 21.10*  
