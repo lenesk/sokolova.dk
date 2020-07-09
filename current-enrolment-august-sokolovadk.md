@@ -1,6 +1,6 @@
 # Learn Danish online
 
-I have been teaching Danish at alle levels to foreigners in langugae schools in Copenhagen for eight years. 
+I have been teaching Danish at all levels to foreigners in langugae schools in Copenhagen for eight years. 
 In July 2020, I established my own language studio [SokolovaDK](https://sokolova.dk/online-group-classes-levels-and-schedule). 
 I offer online Danish courses to groupds and individuals. 
 
