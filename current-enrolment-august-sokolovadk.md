@@ -19,18 +19,18 @@ All the courses has a first-come-first-served admission.
   * *Price for 40 lessons/10 weeks 4360 DKK*
   
 ## B1.1 Online (8-10 students)
-* *07.08 - 09.10 
-* *Fri. 9:00-12:30 
-* *Price for 40lessons/10 weeks 4360 DKK*
+  * *07.08 - 09.10 
+  * *Fri. 9:00-12:30 
+  * *Price for 40lessons/10 weeks 4360 DKK*
 
 ## C1 Online Saturday Studieprøven Prep Course (8-10 students)
-* *5.09 - 14.11 
-* *Sat. 9:00-12:30 
-* *Price for 44 lessons/11 weeks 4796 DKK*
+  * *5.09 - 14.11 
+  * *Sat. 9:00-12:30 
+  * *Price for 44 lessons/11 weeks 4796 DKK*
 
 ## C1 Monday Studieprøven Prep Course (8-10 students) 
-* *24.08 - 2.11
-* *Mon. 17:00-20:30
-* *Price for 44 lessons/11 weeks 4796 DKK* 
+  * *24.08 - 2.11
+  * *Mon. 17:00-20:30
+  * *Price for 44 lessons/11 weeks 4796 DKK* 
 
 
