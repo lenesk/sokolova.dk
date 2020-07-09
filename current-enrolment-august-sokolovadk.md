@@ -28,7 +28,7 @@ All the courses have a first-come-first-served admission. See the schedule below
   * *Sat. 9:00–12:30* 
   * *Price for 44 lessons/11 weeks 4796 DKK*
 
-## C1 Monday Studieprøven Prep Course (8-10 students) 
+## C1 Monday Studieprøven Prep Course (8–10 students) 
   * *24.08–2.11*
   * *Mon. 17:00–20:30*
   * *Price for 44 lessons/11 weeks 4796 DKK* 
