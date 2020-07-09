@@ -8,29 +8,29 @@ I offer Danish online courses to groups and individuals.
 
 All the courses have a first-come-first-served admission. See the schedule below. 
 
-## A1 Online (6-8 students) 
-   * *03.08 - 21.10*  
-   * *Mon. & Wed. 9:15-11:00*  
+## A1 Online (6–8 students) 
+   * *03.08–21.10*  
+   * *Mon. & Wed. 9:15–11:00*  
    * *Price for 48 lessons/12 weeks  5532 DKK*
 
-## A2 Online (6-8 students) 
-  * *04.08 - 08.10*  
+## A2 Online (6–8 students) 
+  * *04.08–08.10*  
   * *Tue. & Thu. 17:30-19:15*
   * *Price for 40 lessons/10 weeks 4360 DKK*
   
-## B1.1 Online (8-10 students)
-  * *07.08 - 09.10* 
-  * *Fri. 9:00-12:30* 
+## B1.1 Online (8–10 students)
+  * *07.08–09.10* 
+  * *Fri. 9:00–12:30* 
   * *Price for 40 lessons/10 weeks 4360 DKK*
 
-## C1 Online Saturday Studieprøven Prep Course (8-10 students)
-  * *5.09 - 14.11* 
-  * *Sat. 9:00-12:30* 
+## C1 Online Saturday Studieprøven Prep Course (8–10 students)
+  * *5.09–14.11* 
+  * *Sat. 9:00–12:30* 
   * *Price for 44 lessons/11 weeks 4796 DKK*
 
 ## C1 Monday Studieprøven Prep Course (8-10 students) 
-  * *24.08 - 2.11*
-  * *Mon. 17:00-20:30*
+  * *24.08–2.11*
+  * *Mon. 17:00–20:30*
   * *Price for 44 lessons/11 weeks 4796 DKK* 
 
 
