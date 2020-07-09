@@ -14,7 +14,7 @@ All the courses have a first-come-first-served admission. See the schedule below
    * *Price for 48 lessons/12 weeks  5532 DKK*
 
 ## A2 Online (6-8 students) 
-  * * 04.08 - 08.10*  
+  * *04.08 - 08.10*  
   * *Tue. & Thu. 17:30-19:15*
   * *Price for 40 lessons/10 weeks 4360 DKK*
   
