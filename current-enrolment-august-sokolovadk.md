@@ -1,8 +1,10 @@
 # Learn Danish online
 
-After ten years of teaching Danish to foreigners in langugae schools, I have now opened enrollment to online group courses starting in August in my private language studio [SokolovaDK](https://sokolova.dk/online-group-classes-levels-and-schedule). You can find more information about courses and study materials at [sokolova.dk](https://sokolova.dk/current-courses-for-sign-up). 
+I have been teaching Danish at alle levels to foreigners in langugae schools in Copenhagen for eight years. 
 
-[You can sign up directly on my homepage](https://sokolova.dk/current-courses-for-sign-up)
+In July 2020, I opened enrollment to online group courses starting in August in my private language studio [SokolovaDK](https://sokolova.dk/online-group-classes-levels-and-schedule). You can find more information about courses and study materials at [sokolova.dk](https://sokolova.dk/current-courses-for-sign-up). 
+
+[You can sign up directly on my homepage](https://sokolova.dk/current-courses-for-sign-up).
 
 Sign up deadline for A1, A2, B1.1 is August 1st. Sign up deadline for C1 is August 17th.
 
