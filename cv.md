@@ -5,13 +5,13 @@
 
 ### Dansklærer 2020/07– i dag 	
 [SokolovaDK (CVR-nummer 41433876)](https://sokolova.dk) 
-Ejer og stifter af en personligt ejet kursusvirksomhed inden for undervisning af undlændinge i dansk som andet- og fremmedsprog
+Ejer og stifter af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog.
 
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
 *Primære opagaver*
-Sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
+Sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
 
 Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
@@ -47,7 +47,7 @@ UEFA Championship i Moskva
 
 * evne til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for universitetsområdet;
 
-* evne til at selvstændigt planlægge og strukturere arbejdsopgaver, samt at arbejde med lidt supervision;
+* evne til at planlægge og strukturere arbejdsopgaver, samt at arbejde med lidt supervision;
 
 * kendskab til didaktik og vejledningsmetoder;
 
@@ -96,30 +96,19 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 [Cand.mag. i lingvistik](http://kandidat.au.dk/lingvistik/)<br/>
 2010/09–2012/04 Aarhus Universitet
 
-**Eksaminer & opbygning:**
-
-* Speciale i dansk som fremmed- og andetsprogs fonetik og fonologi: “Russisk accent hos russisk-talende der lærer dansk som fremmed- og andetsprog”;
-
-* Udvidet grammatisk disciplin: “Perfective and Imperfective aspect in Russian and its translation into Danish”;
-
-* Anvendt lingvistik: “Neurolinguistic peculiarities of lexical processing in bilinguals”;
-
-* Temaer i Sociolingvistik/Antropologisk lingvistik: “Narrative competence of children with migrant background”;
-
-* Udvidet tværfaglig disciplin:“Language acquisition in special populations: post-aphasia language recovery mechanisms and aphasia therapy”.
-
 [Cand.phil. i oversættelse, tolkning, lingvistik og simultantolkning
 (engelsk, dansk, fransk)](https://www.linguanet.ru/en/studies/programmes-courses/masters/linguistics-45-04-02-translation-and-interpreting-studies/)<br/>
 2005–2010 Moskvas Statslige Lingvistiske Universitet, Rusland, Moskva
 
 2003–2005 		gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
-##It-kundskaber
-Windows, Mac OS, Linux, GitHub, LMS (Moodle), Office 365
+## It-kundskaber
+
+Windows, Mac OS, GitHub, LMS (Moodle), Office 365
 
 ## Øvrige interesser
 
-Atletik, langrend, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
+Atletik, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
 
 * * *
 
