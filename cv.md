@@ -18,22 +18,22 @@ Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannel
 ### Dansklærer, 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
-### Freelance russisk tolk, 2012/08–2013/12<br/> 
+### Freelance russisk tolk, 2012/08–2013/12 
 International Tolkeservice, København og omegn
 
-### Oversætter (dansk-russisk), 2011/05–2011/07<br/>	
+### Oversætter (dansk-russisk), 2011/05–2011/07	
 uddrag fra ‘Kronprinsessen’ af Hanne-Vibeke Holst
 
-### Dansklærer, 2010/10–2011/12<br/>
+### Dansklærer, 2010/10–2011/12
 Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
-### Simultantolk fra dansk til engelsk, 2011/10<br/>
+### Simultantolk fra dansk til engelsk, 2011/10
 EU-kontrolbesøg i Sønderborg Kommune
 
-### Praktik & feltarbejde, 2011/03<br/>
+### Praktik & feltarbejde, 2011/03
 AOF Aabenraa, VUC Sønderborg 
 
-### Freelance oversætter & tolk 2008-2010<br/>
+### Freelance oversætter & tolk 2008-2010
 Danmarks Kongelige Ambassade i Moskva<br/>
 UEFA Championship i Moskva
 
@@ -112,8 +112,10 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 (engelsk, dansk, fransk)](https://www.linguanet.ru/en/studies/programmes-courses/masters/linguistics-45-04-02-translation-and-interpreting-studies/)<br/>
 2005–2010 Moskvas Statslige Lingvistiske Universitet, Rusland, Moskva
 
-
 2003–2005 		gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
+
+##It-kundskaber
+Windows, Mac OS, Linux, GitHub, LMS (Moodle), Office 365
 
 ## Øvrige interesser
 
