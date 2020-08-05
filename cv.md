@@ -11,8 +11,7 @@ Ejer og stifter af kursusvirksomhed inden for undervisning af udlændinge i dans
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-*Primære opagaver*
-Sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
+*Primære opagaver*: sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
 
 Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
