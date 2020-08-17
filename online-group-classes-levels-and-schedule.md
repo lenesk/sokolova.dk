@@ -4,18 +4,18 @@
 
 CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
 -- | -- | -- | -- | --
-A1 | 12 weeks | 2 classes | 4 | 3-4 hours
-A2 | 12 weeks | 2 classes | 4 | 3-4 hours
+A1 | 10 weeks | 2 classes | 4 | 3-4 hours
+A2 | 10 weeks | 2 classes | 4 | 3-4 hours
   |   |   |   |  
-B1.1 | 10 weeks | 1 class | 4 | 4 hours
-B1.2 | 10 weeks | 1 class | 4 | 4 hours
+B1.1 | 8 weeks | 1 class | 4 | 4 hours
+B1.2 | 8 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
-B2.1 | 10 weeks | 1 class | 4 | 4 hours
-B2.2 | 10 weeks | 1 class | 4 | 4 hours
-B2.3 | 10 weeks | 1 class | 4 | 4 hours
-B2.4 | 10 weeks | 1 class | 4 | 4 hours
+B2.1 | 8 weeks | 1 class | 4 | 4 hours
+B2.2 | 8 weeks | 1 class | 4 | 4 hours
+B2.3 | 8 weeks | 1 class | 4 | 4 hours
+B2.4 | 8 weeks | 1 class | 4 | 4 hours
   |   |   |   |  
-C1 | 11 weeks | 1 class | 4 | 8 hours
+C1 | 11 weeks | 1 class | 4 | 4 hours
 
 ### B2 courses can be taken in any order.
 
@@ -23,7 +23,7 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 
 ### The course price does not include the price for the study book, and you need to order a book on your own.
 
-## Why 12 weeks for A1 and A2 and two classes per week?
+## Why 10 weeks for A1 and A2 and two classes per week?
 * It is crucial to have shorter but more frequent classes to have time between classes to assimilate the material. 
 * You avoid being overwhelmed with new vocabulary, grammar, and pronunciation rules per class if you have two classes.
 * Every class session starts with the repetition of the previous class, and the new aspects are then introduced. 
@@ -31,16 +31,8 @@ C1 | 11 weeks | 1 class | 4 | 8 hours
 * You get socialized with the same people, rather than changing a class, say every 6 weeks. 
 * All my courses have а closed admission. No current enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
 
-## Why longer classes at B1, B2, C1 once per week?
-* Your language becomes more advanced and elaborated. You need to concentrate less on pronunciation drilling and require more focus on having time to speak in several rounds. 
-* You practice under your teacher's supervision in a group and get immediate feedback from the teacher. 
-* You need time to go through a more extended explanation or a repetition round each class. 
-* It is one of the best time options for busy professionals and motivated students.
-* Having a full-time job, you will be happy you have scheduled one day in your weekly calendar for the Danish course.
-* Six days between the classes will give you time to accumulate material and work at your own pace.
-* A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.
 
-# [Online group classes starting in August 2020](current-courses-for-sign-up)
+# [Online group classes starting in August/September 2020](current-courses-for-sign-up)
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
