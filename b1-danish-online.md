@@ -1,4 +1,4 @@
-# B1 Danish Online
+# B1.1 Danish Online
 
 <style>
 .btn {
@@ -43,13 +43,8 @@ We'll focus on the following topics:
  * Danish culture, politeness norms, stereotypes about Danish culture; foreigners view on Danes and Danmark.
  * Various experiences: traveling, holidays, leisure.
  * Culture at Danish workplaces and unwritten rules.
- * Familiy life and relations.
  * Sports and body.
- * Health and lifestyle.
- * Injuries and accidents.
- * Extracts from Danish history.
- * Danish literature.
- * Youth culture in Denmark.
+ * Health and lifestyle & Injuries and accidents.
  
 ## Pragmatical competences
 You will practice such speech acts as: 
@@ -57,14 +52,6 @@ You will practice such speech acts as:
 * briefly giving reasons and explanations for opinions and plans;
 * discussing your personal and professional aspirations for the future;
 * expression of your judgment or attitude to facts, events, and ideas. 
-
-## You will learn vocabulary for:
-* arranging a job interview and interview for a job in your area of expertise;
-* talking about your television viewing habits and favorite programs.
-* describe your education and your plans for future training;
-* talking about your favorite music, maintaining a healthy lifestyle and healthy habits;
-* talking about relationships and dating, including meeting people through social media;
-* talking about cooking and food traditions. 
 
 ## Grammar 
 The grammatical focus is aimed at elaborating your speech by means of training set structures and automatizing word order in complex sentences. You will also learn the necessary connectors to make your oral and written Danish sound logical, coherent, and nuanced.
