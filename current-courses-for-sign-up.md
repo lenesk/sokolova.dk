@@ -29,5 +29,5 @@ If you have questions while signing up online for the course, e.g., if you are i
 
 Level | Duration | Schedule | Lessons | Total price | Register
 -- | -- | -- | -- | -- | --
-B1.1 (8-10 students) [Course Info](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 3486 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
+B1.1 (8-10 students) [Course Info](b1-danish-online) | 08.09.20 - 27.10.20 | Tue. 17:00-20:00 | 24 | 2616 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
 
