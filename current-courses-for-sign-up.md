@@ -1,7 +1,11 @@
 
-# Sing up for online group classes starting in August & September
+# Sing up for online group classes starting in September
 
-Sign up deadline for B1.1 is September 1st.
+No current enrollement for group classes. 
+
+Please, contact me by mail elena@sokolova.dk, if you would like to schedule private lessons. 
+
+Sign up deadline for B1.1 was September 1st.
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the right level. 
 
@@ -29,5 +33,5 @@ If you have questions while signing up online for the course, e.g., if you are i
 
 Level | Duration | Schedule | Lessons | Total price | Register
 -- | -- | -- | -- | -- | --
-B1.1 (8-10 students) [Course Info](b1-danish-online) | 08.09.20 - 27.10.20 | Tue. 17:00-20:00 | 24 | 2616 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
+B1.1 (8-10 students) [Course Info](b1-danish-online) | 08.09.20 - 27.10.20 | Tue. 17:00-20:00 | 24 | 2616 DKK | Not active
 
