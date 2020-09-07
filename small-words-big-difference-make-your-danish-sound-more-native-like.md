@@ -1,5 +1,7 @@
 # Small words – big difference: make your Danish sound more native-like
 
+*Elena Sokolova, September 7<sup>th</sup> 2020*
+
 *Du har jo nok hørt dem i dansk tale- og skriftsprog, ikke?* 
 
 You have probably heard about modal verbs in Danish, but have you heard about modal adverbs or small emotional words, which bear а significant attitude charge? 
