@@ -135,13 +135,9 @@ What examples with modal adverbs have you heard?
 
 Keep listening to the spoken Danish, and you will catch plenty of modal adverbs in everyday speech! 
 
-Det er da ikke svært at lære dem!
-
-
-**Learn more about other tips for Studieprøven in my upcoming blogs**
+**Det er da ikke svært at lære dem!**
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
-
 
 <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
