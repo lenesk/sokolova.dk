@@ -101,21 +101,20 @@ Speaker-oriented modal adverbs reflect the speaker's modality, understanding, at
 > * *Stella, du har vel ikke tænkt dig at gå i skole i de nye Nike-sko?* - Stell, I hope/I suppose you are not going to put your new Nikes on to school, are you?
 
 
-
-* *Vel*
+* *Vist*
 
 *Vist* (certainly) expresses that the speaker does not have enough knowledge about the context, and shows to the receiver that other people also grasp the context as truth. *Vistnok* can be translated as 'I guess/I assume'. 
 
 > * *Sådan er det vist at blive gammel. Man bliver lidt skør*. – That’s how it must be to be old - you become a bit weird. 
 
 
-### * *Vel*
+* *Nok*
 
-By choosing *nok* (I assume/I am sure) the speaker expresses his or her subjective judgment as to the probability of whether the situation is true.   
+By choosing *nok* (I assume/I am sure) the speaker expresses his or her subjective judgment as to the probability of whether the situation is true.  
+
 > * *Jeg synes nok, at det er et meget lille tilskud, som din kommune er parat til at yde dig* . - I am sure this is a very small supplement payment that your municipality can offer you to pay. 
 
-Often *nok* is used in the following expressions: 
-*paradoksalt nok*; *forståeligt nok*; *mærkelig(t) nok*; *naturligt nok*; *logisk nok*; *sjovt nok*. 
+Often *nok* is used in the following expressions: *paradoksalt nok*; *forståeligt nok*; *mærkelig(t) nok*; *naturligt nok*; *logisk nok*; *sjovt nok*. 
 
 The difference between *nok*, *vel* and *vist* lies mainly in the degree of the speaker’s involvement.
 
@@ -123,18 +122,19 @@ The difference between *nok*, *vel* and *vist* lies mainly in the degree of the 
 
 The modal adverbs are usually unstressed syntactically (have no phrasal stress) and take the position of a traditional central adverb. However, when they function as adverbs without particular modality, they do bear syntactic stress, may initiate the clause, and as a rule, have a different meaning from that in the modal function. 
 
-Nu (time adverb) har jeg spist min morgenmad.
-Indtil da (time adverb) havde jeg ikke lagt mærke til noget.
-Vi har penge nok (enough).
-Lev vel (well)!
-Nok se, men ikke røre.
+> * *Nu (time adverb) har jeg spist min morgenmad*.
+> * *Indtil da* (time adverb 'then') havde jeg ikke lagt mærke til noget.
+> * *Vi har penge nok* (enough).
+> * *Lev vel* (Liv well)!
 
 As for the word order, the receiver-oriented precedes the speaker-oriented adverbs.  
-Det er da nok en fejl. 
 
+> * *Det er da (receiver-oriented) nok (speaker-oriented adverbs) en fejl*. 
 
+What examples with modal adverbs have you heard? 
 
+Keep listening to the spoken Danish, and you will catch plenty of modal adverbs in everyday speech! Det er da ikke svært at lære dem!
 
-
+ 
 
 
