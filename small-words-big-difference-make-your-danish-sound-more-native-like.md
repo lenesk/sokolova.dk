@@ -140,7 +140,7 @@ Keep listening to the spoken Danish, and you will catch plenty of modal adverbs 
 
 **Det er da ikke svært at lære dem!**
 
-**(Rendered from and inspired by *'Det er sgu da nu vist en misforståelse. Om nogle svære småord på dansk'* by *Niels Davidsen-Nielsen*, *Nyt fra Sprognævnet 1993/3*). 
+**Freely rendered from and inspired by *'Det er sgu da nu vist en misforståelse. Om nogle svære småord på dansk'* by *Niels Davidsen-Nielsen*, *Nyt fra Sprognævnet 1993/3*. 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
