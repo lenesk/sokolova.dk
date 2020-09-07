@@ -1,9 +1,10 @@
-# A few words about modal adverbs in Danish
-(Rendered from and inspired by *'Det er sgu da nu vist en misforståelse. Om nogle svære småord på dansk'* by *Niels Davidsen-Nielsen*, *Nyt fra Sprognævnet 1993/3*). 
+# Small words – big load: make your Danish sound more native-like
 
 *Du har jo nok hørt dem i dansk tale- og skriftsprog, ikke?* 
 
-You have heard about modal verbs in Danish, but have you heard about modal adverbs? These are short one-syllable adverbs like *da*, *dog*, *jo*, *nok*, *nu*, *skam*, *vel* and *vist*. Sometimes they seem to work like interjections, but strictly speaking, they belong to adverbs and behave syntactically like adverbs. 
+You have probably heard about modal verbs in Danish, but have you heard about modal adverbs or small emotional words, which are usually not stressed but bear significant attitude charge? 
+
+In this blog post, you will learn about the differences in usage of short one-syllable adverbs like *da*, *dog*, *jo*, *nok*, *nu*, *skam*, *vel* and *vist*. Sometimes they may seem to work like interjections, but strictly speaking, they belong to adverbs. They behave syntactically like for example central adverbs *ikke*, *også*.
 
 They can be both used in written and spoken language, where there is an interactional component, so they either express the attitude of the speaker or send a pragmatic/modal load in the phrase to the receiver of the utterance. So depending on who the modality is directed to or from whom it comes from, these modal adverbs can be divided into two groups: receiver-oriented and speaker-oriented (self-reflected). 
 
@@ -136,6 +137,8 @@ What examples with modal adverbs have you heard?
 Keep listening to the spoken Danish, and you will catch plenty of modal adverbs in everyday speech! 
 
 **Det er da ikke svært at lære dem!**
+
+**(Rendered from and inspired by *'Det er sgu da nu vist en misforståelse. Om nogle svære småord på dansk'* by *Niels Davidsen-Nielsen*, *Nyt fra Sprognævnet 1993/3*). 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
