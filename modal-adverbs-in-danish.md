@@ -11,7 +11,7 @@ They can be both used in written and spoken language, where there is an interact
 
 The receiver-oriented modal adverbs  are *da*, *jo*, *nu*, *skam* and they reflect the speaker's reaction to what the speaker assumes about the receiver's understanding of the contextual load in the utterance (phrase).
 
-> * *Jo* 
+* *Jo* 
 
 The speaker assumes, that the receiver knows and accepts what is being said, so the receiver is supposed to be knowledgeable about and the situation and accepts it. *Jo* may be translated as 'you know/you see'.
 
@@ -22,43 +22,86 @@ The speaker assumes, that the receiver knows and accepts what is being said, so 
 *Jo* expresses that something is clear and is a sort of universal truth, and is usually used in affirmative sentences.
 Sometimes *jo* means rather that the speaker expresses a surprise and wants to emphasize it. Still, again, the receiver will at once understand, that 'the unexpected' will be accepted, but not rejected/negated. 
 
-> * *Det er jo min dreng, der kommer hjem - allerede*. That’s my boy, who is coming back home - already. 
+> * *Det er jo min dreng, der kommer hjem - allerede*. That’s my boy, who is coming back home - already.
 
 
-> * *Da*
+* *Da*
 
-*Da* express disagreement of the speaker with the receiver of the information, and the speaker by saying that, tries to reassure the receiver who might be in doubt or suspicious. *Da* would express the modality of reassuring hope, so *da* may be translated as 'surely', 'of course', 'for sure, really'. 
+*Da* express disagreement of the speaker with the receiver of the information, and the speaker by saying that, tries to reassure the receiver who might be in doubt or suspicious. *Da* would express the modality of reassuring hope, so *da* may be translated as 'surely', 'of course', 'for sure, really'. So *da* can function as a persuading adverb.  
 
-Du har da glemt det. - I know for sure that you should know that, but maybe you have forgotten that. So da can function as a persuading adverb.   
+> * *Du har da glemt det*. - I know for sure that you should know that, but maybe you have forgotten that. 
 
-Vi skal da have en juleaften, som vi plejer, ikke mor. - We ARE (stressed) going to celebrate Christmas, aren’t we? 
-Der er da ikke noget i vejen, vel? - Everything is fine, isn’t it/right?
-Kommer min mor og henter mig? .. – Ja, det gør hun da rigtignok. (a child to a caregiver in a kindergarten) - Will my mom come and take me home? - Yes, of course, 
+> * *Vi skal da have en juleaften, som vi plejer, ikke mor*. - We ARE (stressed) going to celebrate Christmas, aren’t we. 
 
-Da may be used to show that the speaker disagrees with the receiver, and thus wants to take a distance from the situation, but still judges it. In this case it may be translated as ‘at least’, which would be close to ‘i hvert fald’. 
+> * *Der er da ikke noget i vejen, vel?* - Everything is fine, isn’t it?
 
-Du kunne da købt en lille gave til hende. - You could have at least boght her a small gift. 
+> * *Kommer min mor og henter mig? – Ja, det gør hun da rigtignok*. (a child to a caregiver in a kindergarten) - Will my mom come and take me home? - Of course, she will.  
 
-Vi har da noget kage tilbage. (But at least we have some cake left)
+*Da* may be used to show that the speaker disagrees with the receiver, and thus wants to take a distance from the situation, but still judges it. In this case it may be translated as ‘at least’, which would be close to *i hvert fald*. 
 
-Dog, which can also be translated as ‘however’, may also have a modal charge. Unlike jo, dog can be used in interrogative and imperative sentences, as well as exclamation utterances. 
+> * *Du kunne da købt en lille gave til hende*. - You could have at least boght her a small gift. 
+
+> * *Vi har da noget kage tilbage*. (But at least we have some cake left)
+
+
+* *Dog*
+
+*Dog* can be translated in many ways:
+> * *Jeg ved han var der, men jeg så ham dog ikke*. (though) 
+> * *De bekymrede sig dog*. (however)
+> * *Det ser ikke lovende ud, dog håber jeg stadig at det vil virke*. (yet) 
+> * *Det er ikke så galt dog*.(after all)
+> * *Jeg hader det, men jeg gør det dog alligevel*. (but)
+> * *Han er ikke en idiot, dog er han ikke så smart*. (still)
+
+It may also have a modal charge and be a modal adverb. Unlike *jo*, *dog* can be used not only in the affirmative, but alslo in interrogative and imperative sentences, as well as exclamation utterances. 
 
 In questions, it may express surprise or reprimand. 
-Hvorfor dog det? - But why?
-Kan du dog ikke høre til ende?
-Hvor er det dog dejligt at se dig!
+> * *Hvorfor dog det?* - But why?
+> * *Kan du dog ikke høre til ende?*
+> * *Hvor er det dog dejligt at se dig!*
 
 In affirmative sentences, it is often used with the verb in the past tense and expresses surprise.
 
-Det var dog virkelig uheldigt!
+> * *Det var dog virkelig uheldigt!*
 
-Possible translations of ‘dog’
-= though  Jeg ved han var der, men jeg så ham dog ikke.
-= however -De bekymrede sig dog. 
-= yet -Det ser ikke lovende ud, dog håber jeg stadig at det vil virke. 
-= after all - Det er ikke så galt dog.
-= but - Jeg hader det, men jeg gør det dog alligevel.
-= still -Han er ikke en idiot, dog er han ikke så smart.
+
+* *Nu*
+
+Nu expresses that the speaker corrects the receiver in what has just be said. 
+
+> * *Det ville jeg nu ikke være så glad for*. - You know/see, I would not be so happy about that. 
+
+*Nu* in questioning sentences means surprise, doubt, annoyance, or may have an emphatic function.  
+
+> * *Hvordan kunne det nu være at han blev fyret?* - How could it be on earth, that he got fired? 
+> * *Hvorfor skal han nu ødelægge det hele?* - Why on earth should he on destroy everything? 
+
+
+* *Skam*
+
+*Skam* expresses often a clarification of a truth or a fact, which the receiver is in doubt about. In English there would be often an auxiliary verb for reassuring. But unlike *da*, *skam* is rather explaning than showing the disagreement. 
+
+> * *Jeg elsker dig skam, sagde hun til sin tvivlende mand*. - I DO love you, she said to her sceptical husband.
+
+
+## Speaker-oriented modal adverbs
+
+Speaker-oriented modal adverbs reflect the speaker's modality, understanding, attitude to or the own knowledge about the situation or the interactional context. The Speaker-oriented modal adverbs are nok, vel og vist, and their translation into English, as a rule, has ‘I’ element, as 'I suppose', 'I guess', 'I am sure', 'I assume'. Speaker-oriented modal adverbs are *nok*, *vel*, *vist*.
+
+
+* *Vel*
+
+*Vel* adds a questioning element to the utterance. It expresses that the speaker wants to include the receiver in the judgment of the statement or the interaction context. Often *vel* is used in negative sentences as a tag question marker. 
+
+> * *Du kan vel godt drikke en kop kaffe?* - You can stay for coffee, can’t you?
+
+> * *John er ikke i London, vel?* - John is not in London, is he?
+
+> * *Stella, du har vel ikke tænkt dig at gå i skole i de nye Nike-sko?* - Stell, I hope/I suppose you are not going to put your new Nikes on to school, are you?
+
+
+
 
 
 
