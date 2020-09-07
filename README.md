@@ -43,7 +43,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
  
- * [Small words – big difference: make your Danish sound more native-like](modal-adverbs-in-danish)
+ * [Small words – big difference: make your Danish sound more native-like](small-words-big-difference-make-your-Danish-sound-more-native-like)
 
 ## About me
 
