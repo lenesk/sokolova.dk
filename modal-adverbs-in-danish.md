@@ -7,18 +7,19 @@ You have heard about modal verbs in Danish, but have you heard about modal adver
 
 They can be both used in written and spoken language, where there is an interactional component, so they either express the attitude of the speaker or send a pragmatic/modal load in the phrase to the receiver of the utterance. So depending on who the modality is directed to or from whom it comes from, these modal adverbs can be divided into two groups: receiver-oriented and speaker-oriented (self-reflected). 
 
+Receiver-oriented modal adverbs are *da*, *jo*, *nu*, *skam* and they reflect the speaker's reaction to what the speaker assumes about the receiver's understanding of the contextual load in the utterance (phrase).
 
-Receiver-oriented modal adverbs are da, jo, nu, skam and they reflect the speaker's reaction to what the speaker assumes about the receiver's understanding of the contextual load in the utterance (phrase).
+> * *jo* = you see, you know. The speaker assumes, that the receiver knows and accepts what is being said, so the receiver is supposed to be knowledgeable about and the situation and accepts it. 
 
-1) jo = you see, you know. I assume, that the receiver knows and accepts what I am saying, so the receiver is supposed to be knowledgeable about and the situation and accepts it. 
+> *Selv om de er rare at have, er penge jo ikke alt her i livet*. - Even though it's nice to have money, they are not the only thing in life, you know. 
 
-e.g. Selv om de er rare at have, er penge jo ikke alt her i livet. - Even though it's nice to have money, they are not the only thing in life, you know. 
+> *Det er jo ikke første gang, du har glemt dit kørekort*. – You see, it’s not the first time, you have forgotten your driving licence. 
 
-e.g. Det er jo ikke første gang, du har glemt dit kørekort. – You see, it’s not the first time, you have forgotten your driving licence. 
+*Jo* expresses that something is clear and is a sort of universal truth, and is usually used in affirmative sentences.  
 
-'Jo' expresses that something is clear and is a sort of universal truth, and is usually used in affirmative sentences.  
+Sometimes *jo* means rather that the speaker expresses a surprise and wants to emphasize it. Still, again, the receiver will at once understand, that 'the unexpected' will be accepted, but not rejected/negated. 
 
-Sometimes jo means rather that the speaker expresses a surprise and wants to emphasize it. Still, again, the receiver will at once understand, that 'the unexpected' will be accepted, but not rejected/negated. 
+2
 
 
 
