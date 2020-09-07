@@ -1,4 +1,4 @@
-# Small words – big load: make your Danish sound more native-like
+# Small words – big difference: make your Danish sound more native-like
 
 *Du har jo nok hørt dem i dansk tale- og skriftsprog, ikke?* 
 
