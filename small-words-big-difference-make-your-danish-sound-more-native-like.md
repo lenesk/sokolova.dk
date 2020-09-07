@@ -2,7 +2,7 @@
 
 *Du har jo nok hørt dem i dansk tale- og skriftsprog, ikke?* 
 
-You have probably heard about modal verbs in Danish, but have you heard about modal adverbs or small emotional words, which are usually not stressed but bear significant attitude charge? 
+You have probably heard about modal verbs in Danish, but have you heard about modal adverbs or small emotional words, which bear а significant attitude charge? 
 
 In this blog post, you will learn about the differences in usage of short one-syllable adverbs like *da*, *dog*, *jo*, *nok*, *nu*, *skam*, *vel* and *vist*. Sometimes they may seem to work like interjections, but strictly speaking, they belong to adverbs. They behave syntactically like for example central adverbs *ikke*, *også*.
 
