@@ -4,9 +4,9 @@
 
 You have probably heard about modal verbs in Danish, but have you heard about modal adverbs or small emotional words, which bear а significant attitude charge? 
 
-In this blog post, you will learn about the differences in usage of short one-syllable adverbs like *da*, *dog*, *jo*, *nok*, *nu*, *skam*, *vel* and *vist*. Sometimes they may seem to work like interjections, but strictly speaking, they belong to adverbs. They behave syntactically like for example central adverbs *ikke*, *også*.
+In this blog post, you will learn about the differences in usage of short one-syllable adverbs like *da*, *dog*, *jo*, *nok*, *nu*, *skam*, *vel* and *vist*. Sometimes they may seem to work like interjections, but strictly speaking, they belong to adverbs. They behave syntactically like central adverbs for example *ikke*, *også*.
 
-They can be both used in written and spoken language, where there is an interactional component, so they either express the attitude of the speaker or send a pragmatic/modal load in the phrase to the receiver of the utterance. So depending on who the modality is directed to or from whom it comes from, these modal adverbs can be divided into two groups: receiver-oriented and speaker-oriented (self-reflected). 
+They can be both used in written and spoken language, where there is an interactional component, so they either express the attitude of the speaker or send a pragmatic/modal load in the phrase to the receiver of the utterance. So depending on whom the modality is directed to or who has said the utterance, these modal adverbs can be divided into two groups: receiver-oriented and speaker-oriented (self-reflected). 
 
 ### Receiver-oriented modal adverbs 
 
@@ -14,25 +14,25 @@ The receiver-oriented modal adverbs  are *da*, *jo*, *nu*, *skam* and they refle
 
 * *Jo* 
 
-The speaker assumes, that the receiver knows and accepts what is being said, so the receiver is supposed to be knowledgeable about and the situation and accepts it. *Jo* may be translated as 'you know/you see'.
+The speaker assumes, that the receiver knows and accepts what is being said, so the receiver is supposed to be knowledgeable about the situation and accepts it. *Jo* may be translated as 'you know/you see'.
 
 > *Selv om de er rare at have, er penge jo ikke alt her i livet*. – Even though it's nice to have money, they are not the only thing in life, you know. 
 
 > *Det er jo ikke første gang, du har glemt dit kørekort*. – You see, it’s not the first time, you have forgotten your driving licence. 
 
 *Jo* expresses that something is clear and is a sort of universal truth, and is usually used in affirmative sentences.
-Sometimes *jo* means rather that the speaker expresses a surprise and wants to emphasize it. Still, again, the receiver will at once understand, that 'the unexpected' will be accepted, but not rejected/negated. 
+Sometimes *jo* means rather that the speaker expresses a surprise and wants to emphasize it. Still, again, the receiver will at once understand, that 'the unexpected component' will be accepted, but not rejected/negated. 
 
-> * *Det er jo min dreng, der kommer hjem - allerede*. That’s my boy, who is coming back home - already.
+> * *Det er jo min dreng, der kommer hjem - allerede*. – That’s my boy, who is coming back home - already.
 
 
 * *Da*
 
-*Da* express disagreement of the speaker with the receiver of the information, and the speaker by saying that, tries to reassure the receiver who might be in doubt or suspicious. *Da* would express the modality of reassuring hope, so *da* may be translated as 'surely', 'of course', 'for sure, really'. So *da* can function as a persuading adverb.  
+*Da* expresses disagreement of the speaker with the receiver of the information, and the speaker by saying that, tries to reassure the receiver who might be in doubt or suspicious. *Da* would express the modality of reassuring hope, so *da* may be translated as 'surely', 'of course', 'for sure', 'really'. So *da* can function as a persuading adverb.  
 
 > * *Du har da glemt det*. – I know for sure that you should know that, but maybe you have forgotten that. 
 
-> * *Vi skal da have en juleaften, som vi plejer, ikke mor*. - We are going to celebrate Christmas, aren’t we. 
+> * *Vi skal da have en juleaften, som vi plejer, ikke mor*. - We are going to celebrate Christmas, aren’t we? 
 
 > * *Der er da ikke noget i vejen, vel?* - Everything is fine, isn’t it?
 
@@ -40,7 +40,7 @@ Sometimes *jo* means rather that the speaker expresses a surprise and wants to e
 
 *Da* may be used to show that the speaker disagrees with the receiver, and thus wants to take a distance from the situation, but still judges it. In this case it may be translated as ‘at least’, which would be close to *i hvert fald*. 
 
-> * *Du kunne da købt en lille gave til hende*. - You could have at least boght her a small gift. 
+> * *Du kunne da købt en lille gave til hende*. - You could have at least bought her a small gift. 
 
 > * *Vi har da noget kage tilbage*. – But at least we have some cake left.
 
@@ -52,7 +52,7 @@ Sometimes *jo* means rather that the speaker expresses a surprise and wants to e
 > * *Jeg ved han var der, men jeg så ham dog ikke*. (though) 
 > * *De bekymrede sig dog*. (however)
 > * *Det ser ikke lovende ud, dog håber jeg stadig at det vil virke*. (yet) 
-> * *Det er ikke så galt dog*.(after all)
+> * *Det er ikke så galt dog*. (after all)
 > * *Jeg hader det, men jeg gør det dog alligevel*. (but)
 > * *Han er ikke en idiot, dog er han ikke så smart*. (still)
 
@@ -71,26 +71,27 @@ In affirmative sentences, it is often used with the verb in the past tense and e
 
 * *Nu*
 
-Nu expresses that the speaker corrects the receiver in what has just be said. 
+*Nu* expresses that the speaker corrects the receiver in what has just be said. 
 
-> * *Det ville jeg nu ikke være så glad for*. - You know/see, I would not be so happy about that. 
+> * *Det ville jeg nu ikke være så glad for*. - You know/You see, I would not be so happy about that. 
 
 *Nu* in questioning sentences means surprise, doubt, annoyance, or may have an emphatic function.  
 
 > * *Hvordan kunne det nu være at han blev fyret?* - How could it be on earth, that he got fired? 
+
 > * *Hvorfor skal han nu ødelægge det hele?* - Why on earth should he on destroy everything? 
 
 
 * *Skam*
 
-*Skam* expresses often a clarification of a truth or a fact, which the receiver is in doubt about. In English there would be often an auxiliary verb for reassuring. But unlike *da*, *skam* is rather explaning than showing the disagreement. 
+*Skam* expresses often a clarification of a truth or a fact, which the receiver is in doubt about. In English, there would be often an auxiliary verb for reassuring. But unlike *da*, *skam* is rather an explaning one than showing the disagreement. 
 
 > * *Jeg elsker dig skam, sagde hun til sin tvivlende mand*. - I DO love you, she said to her sceptical husband.
 
 
 ## Speaker-oriented modal adverbs
 
-Speaker-oriented modal adverbs reflect the speaker's modality, understanding, attitude to or the own knowledge about the situation or the interactional context. The Speaker-oriented modal adverbs are nok, vel og vist, and their translation into English, as a rule, has ‘I’ element, as 'I suppose', 'I guess', 'I am sure', 'I assume'. Speaker-oriented modal adverbs are *nok*, *vel*, *vist*.
+Speaker-oriented modal adverbs reflect the speaker's modality, understanding, attitude to or the own knowledge about the situation or the interactional context. The speaker-oriented modal adverbs are *nok*, *vel* and *vist*, and their translation into English, as a rule, has ‘I’ element, as 'I suppose', 'I guess', 'I am sure', 'I assume'. Speaker-oriented modal adverbs are *nok*, *vel*, *vist*.
 
 
 * *Vel*
@@ -123,7 +124,7 @@ The difference between *nok*, *vel* and *vist* lies mainly in the degree of the 
 
 ## Pronunciation & syntax remarks
 
-The modal adverbs are usually unstressed syntactically (have no phrasal stress) and take the position of a traditional central adverb. However, when they function as adverbs without particular modality, they do bear syntactic stress, may initiate the clause, and as a rule, have a different meaning from that in the modal function. 
+It is impornat to distinguish modal adverbs from the corresponding adverbs, which are not specific modal word. The modal adverbs are usually unstressed syntactically (have no phrasal stress) and take the position of a traditional central adverb. However, when they function as adverbs without particular modality, they **do** bear syntactic stress, may initiate the clause, and as a rule, have a different meaning from that in the modal function. 
 
 > * *Nu (time adverb) har jeg spist min morgenmad*.
 > * *Indtil da* (time adverb 'then') havde jeg ikke lagt mærke til noget.
@@ -134,9 +135,7 @@ As for the word order, the receiver-oriented precedes the speaker-oriented adver
 
 > * *Det er da (receiver-oriented) nok (speaker-oriented adverbs) en fejl*. 
 
-What examples with modal adverbs have you heard? 
-
-Keep listening to the spoken Danish, and you will catch plenty of modal adverbs in everyday speech! 
+**What examples with modal adverbs have you heard? Keep listening to spoken Danish, and you will catch plenty of modal adverbs in everyday speech. Add them to your vocabulary and use actively to sound more native-like!**
 
 **Det er da ikke svært at lære dem!**
 
