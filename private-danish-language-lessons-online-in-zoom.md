@@ -14,7 +14,7 @@ Then, you will get a link to a Zoom meeting, where we can have a conversation ab
 * 10 x 45 min. in Zoom (all levels): 3900 DKK 
 * 15 x 45 min.: 4500 DKK
 * 20 x 45 min.: 5400 DKK
-* 25 x 45 min.: 600 DKK
+* 25 x 45 min.: 6000 DKK
 * 30 x 45 min.: 6300 DKK
 
 Private students do not pay VAT, companies pay VAT of 25% added to the above mentioned prices.
