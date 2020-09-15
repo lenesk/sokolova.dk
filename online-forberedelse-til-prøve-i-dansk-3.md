@@ -1,6 +1,30 @@
-# Online Forberedelse til Prøve i Dansk 3/Turbo Prep Course for the Writing task at PD3
+# Online Forberedelse til Prøve i Dansk 3
 
-Bliv klar til den skriftlige fremstilling  
+### Bliv klar til den skriftlige fremstilling  
+
+If you have questions while signing up online for this course, e.g., do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk).
+
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
 
 ## Datoer og tid
          * den 21. september - 9. November
@@ -25,6 +49,15 @@ Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der,
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
 
 ## Kursets program
+
+Dag | Dato | Time | Dagens program | Total price | Register
+-- | -- | -- | -- | -- | --
+A1 (6-8 students) [Course Info](a1-danish-online) | 03.08 - 21.10 | Mon. & Wed. 9:15-11:00 | 48 | 5532 DKK | <a class="btn" href="https://elenasokolova.podia.com/a1-danish-online">Enroll & pay</a>
+A2 (6-8 students) [Course Info](a2-danish-online) | 04.08 - 08.10 | Tue. & Thu. 17:30-19:15 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/a2-danish-online">Enroll & pay</a>
+B1.1 (8-10 students) [Course Info](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
+C1 Saturday Studieprøven Prep Course (8-10 students) [Course Info](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay</a>
+C1 Monday Studieprøven Prep Course (8-10 students) [Course Info](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay</a>
+
 
 > * Dag 1 Mandag den 21. septemeber kl. 17:00-19:00
 
