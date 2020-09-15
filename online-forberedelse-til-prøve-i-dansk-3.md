@@ -3,30 +3,30 @@
 Bliv klar til den skriftlige fremstilling  
 
 ### Datoer og tid
-         * ### den 21. september - 9. November
-         * ### 7 online mødegange online i Zoom 
-         * ### Mandag 17:00-19:00
-         * ### 2 timer med 15 minutters pause hver mødegang 
-         * ### Hele kurset: 20 lektioner
+         * den 21. september - 9. November
+         * 7 online mødegange online i Zoom 
+         * mandage 17:00-19:00
+         * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
+         * hele kurset: 20 lektioner
          
-### Fleksibel tilmelding
+> * ### Fleksibel tilmelding
 Du har mulighed at vælge: tilmeld dig hele kurset eller vælg at tilmelde sig enkelte dage. 
 Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
 Efter dagens program for du tilsendt en skriftlig opgave som hjemmearbejde. Det er frivilligt at lave opgaven, men du får individuel feedback med i prisen. 
 
-### Undervisningsmaterialet
+> * ### Undervisningsmaterialet
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
 Du kan enten bruge bogen i trykt form https://www.alfabetaforlag.dk/skrive# eller bruge en i-bog, som kan købes her med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#
 
 Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant. 
 
-### Niveauet
+> * ### Niveauet
 
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
 
-### Kursets program
+> * ### Kursets program
 
-#### Dag 1 Mandag den 21. septemeber kl. 17:00-19:00
+> * #### Dag 1 Mandag den 21. septemeber kl. 17:00-19:00
 Introduktion til den Skriftlige fremstilling: du vil lære om opgavetyper og strategier til tidsplanlægning under prøven. 
 Forbinderord & tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
 Du vil øve dig i at kategorisere forbindeord og vil øve dig i at konstruere sætninger med forbidenord. 
