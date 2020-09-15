@@ -2,7 +2,9 @@
 
 Bliv klar til den skriftlige fremstilling  
 
-7 online mødegang online i Zoom Mandag 17:00-19:00
+Hvornår: den 21.september - 
+7 online mødegange online i Zoom 
+         Mandag 17:00-19:00
 
 Undervisningsmaterialet er bogen ‘At skrive’ . Du skal selv anskaffe dig bogen. 
 Du kan enten bruge bogen i trykt udgave https://www.alfabetaforlag.dk/skrive# eller bruge en i-bog, som kan købes her til privat abonnement. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#
@@ -15,7 +17,7 @@ Du har mulighed at vælge: tilmeld dig hele kurset eller vælg at tilmelde sig e
 
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
 
-Dag 1
+Dag 1 
 Introduktion til den Skriftlige fremstilling: du vil lære om opgavetyper og strategier til tidsplanlægning under prøven. 
 Forbinderord & tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
 Du vil øve dig i at kategorisere forbindeord og vil øve dig i at konstruere sætninger med forbidenord. 
