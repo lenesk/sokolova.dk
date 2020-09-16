@@ -1,5 +1,12 @@
 # Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
 
+## Datoer og tid
+* den 21. september - 9. November
+* 7 online mødegange online i Zoom 
+* mandage 17:00-19:00
+* 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
+* hele kurset: 14 lektioner
+
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
 <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld hele kurset kr.2800</a>
@@ -29,35 +36,6 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
   text-decoration: none;
 }
 </style>
-
-
-## Datoer og tid
-
-* den 21. september - 9. November
-* 7 online mødegange online i Zoom 
-* mandage 17:00-19:00
-* 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
-* hele kurset: 14 lektioner
-         
-## Fleksibel tilmelding 
-* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
-* Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
-* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
-
-## Undervisningsmaterialet
-<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
-
-Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
-Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
-Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
-
-## Niveauet
-
-Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
-Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt DU3 modul 5. 
 
 # Kursusprogram
 
@@ -111,6 +89,27 @@ Mandag den 9. november kl. 17:00-19:00
 *  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 *  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mailopgaven (at fortælle om fremtiden og fortiden). 
 *  Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
+
+## Fleksibel tilmelding 
+* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
+* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
+* Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
+* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
+* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
+
+## Undervisningsmaterialet
+<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
+
+Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
+Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
+Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
+Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+
+## Niveauet
+
+Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
+Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt DU3 modul 5. 
+
 
 
 
