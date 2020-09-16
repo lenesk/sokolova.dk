@@ -44,7 +44,7 @@ If you have questions while signing up online for this course, e.g., do not hesi
 ## Undervisningsmaterialet
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
 
-<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300"/>
+<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300" />
 
 Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
 eller bruge/købe en i-bog med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. 
