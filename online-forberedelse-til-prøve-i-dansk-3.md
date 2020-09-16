@@ -2,7 +2,7 @@
 
 ## Datoer og tid
 * den 21. september - 9. November
-* 7 online mødegange online i Zoom 
+* 7 online mødegange i Zoom 
 * mandage 17:00-19:00
 * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
 * hele kurset: 14 lektioner
