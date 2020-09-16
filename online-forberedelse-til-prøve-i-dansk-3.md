@@ -1,6 +1,6 @@
-# Online Forberedelse til Prøve i Dansk 3
+# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3:  
 
-### Bliv klar til den skriftlige fremstilling  
+### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
 If you have questions while signing up online for this course, e.g., do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk).
 
@@ -43,7 +43,11 @@ If you have questions while signing up online for this course, e.g., do not hesi
 
 ## Undervisningsmaterialet
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
-Du kan enten bruge bogen i trykt form https://www.alfabetaforlag.dk/skrive# eller bruge en i-bog, som kan købes her med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#
+
+<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300" />
+Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#>Køb *At skrive*</a>
+eller bruge/købe en i-bog med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. 
+<a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#>Køb i-bog *At skrive*</a>
 
 Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant. 
 
