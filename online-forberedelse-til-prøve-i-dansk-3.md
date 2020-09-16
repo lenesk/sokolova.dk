@@ -34,7 +34,7 @@ If you have questions while signing up online for this course, e.g., do not hesi
 * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
 * hele kurset: 20 lektioner
          
-## Fleksibel tilmelding
+## Fleksibel tilmelding 
 
 * Du kan vælge at tilmelde dig hele kurset på en gang eller enkelte dage. 
 * Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
@@ -44,8 +44,9 @@ If you have questions while signing up online for this course, e.g., do not hesi
 ## Undervisningsmaterialet
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
 
-<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300" />
-Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#>Køb *At skrive*</a>
+<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300"/>
+
+Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
 eller bruge/købe en i-bog med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. 
 <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#>Køb i-bog *At skrive*</a>
 
@@ -56,15 +57,6 @@ Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der,
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
 
 ## Kursets program
-
-Dag | Dato | Time | Dagens program | Total price | Register
--- | -- | -- | -- | -- | --
-A1 (6-8 students) [Course Info](a1-danish-online) | 03.08 - 21.10 | Mon. & Wed. 9:15-11:00 | 48 | 5532 DKK | <a class="btn" href="https://elenasokolova.podia.com/a1-danish-online">Enroll & pay</a>
-A2 (6-8 students) [Course Info](a2-danish-online) | 04.08 - 08.10 | Tue. & Thu. 17:30-19:15 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/a2-danish-online">Enroll & pay</a>
-B1.1 (8-10 students) [Course Info](b1-danish-online) | 07.08 - 09.10 | Fri. 9:00-12:30 | 40 | 4360 DKK | <a class="btn" href="https://elenasokolova.podia.com/b1-1-danish-online">Enroll & pay</a>
-C1 Saturday Studieprøven Prep Course (8-10 students) [Course Info](studieprove-online-course) | 5.09 - 14.11 | Sat. 9:00-12:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay</a>
-C1 Monday Studieprøven Prep Course (8-10 students) [Course Info](studieprove-online-course) | 24.08 - 2.11 | Mon. 17:00-20:30 | 44 | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay</a>
-
 
 > * Dag 1 Mandag den 21. septemeber kl. 17:00-19:00
 
