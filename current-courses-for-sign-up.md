@@ -5,17 +5,25 @@
 
 ## Datoer og tid
 * den 21. september - 9. November
-* 7 online mødegange online i Zoom 
+* 7 online mødegange i Zoom 
 * mandage 17:00-19:00
 * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
 * hele kurset: 14 lektioner
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.2800</a>
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld hele kurset kr.2800</a>
 
-<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig enkelte dage kr.200</a>
-Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor). Prisen er kr.200. 
+<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
+Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang. 
+
+
+## Fleksibel tilmelding 
+* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
+* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
+* Hvis du ønsker at tilmelde dig en enkelt dag, skal du gøre det senest 3 dage før dagens program. 
+* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
+* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -100,16 +108,6 @@ Mandag den 9. november kl. 17:00-19:00
 *  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mailopgaven (at fortælle om fremtiden og fortiden). 
 *  Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
 
-
-
-
-## Fleksibel tilmelding 
-* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
-* Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
-* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
-
 ## Undervisningsmaterialet
 <img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
 
@@ -125,32 +123,3 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 
 SokolovaDK CVR-nr.: 41433876
-
-If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the right level. 
-
-<style>
-.btn {
-  color: white;
-  background-color: #2ea44f;
-  border-color: rgba(27,31,35,.1);
-  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
-  position: relative;
-  display: inline-block;
-  padding: 5px 16px;
-  font-size: 14px
-  font-weight: 500;
-  line-height: 20px;
-  white-space: nowrap;
-  vertical-align: middle;
-  cursor: pointer;
-  border: 1px solid;
-  border-radius: 6px;
-  text-decoration: none;
-}
-</style>
-
-
-Level | Duration | Schedule | Lessons | Total price | Register
--- | -- | -- | -- | -- | --
-B1.1 (8-10 students) [Course Info](b1-danish-online) | 08.09.20 - 27.10.20 | Tue. 17:00-20:00 | 24 | 2616 DKK | Not active
-
