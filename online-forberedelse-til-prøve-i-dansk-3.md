@@ -2,9 +2,9 @@
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.2800</a>
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld hele kurset kr.2800</a>
 
-Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor)
+Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor). Prisen er kr.200
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -60,7 +60,7 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 # Kursusprogram
 
-## Dag 1 Forbindeord & syntaks og tekstsammenhæng
+## Dag 1 Forbindeord & syntaks og tekstsammenhæng <a class="btn" href="https://elenasokolova.podia.com/fdd45ce4-2e0e-4eac-b21a-9c49471ab098/buy"> Tilmeld * betal kr.200</a>
 Mandag den 21. septemeber kl. 17:00-19:00
 
 * Introduktion til den Skriftlige fremstilling i PD3.
