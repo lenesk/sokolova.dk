@@ -4,7 +4,7 @@
 
 <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig hele kurset kr.2800</a>
 
-Tilmeld dig en enkelt dags program (se programmet nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -58,8 +58,7 @@ Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse 
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
 Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt DU3 modul 5. 
 
-# Kursets program
-
+# Kursusprogram
 
 ## Dag 1 Forbindeord & syntaks og tekstsammenhæng
 Mandag den 21. septemeber kl. 17:00-19:00
