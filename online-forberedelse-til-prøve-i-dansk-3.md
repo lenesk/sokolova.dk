@@ -2,6 +2,9 @@
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
+Tilmeld dig hele kurset <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb for *2800*</a>
+Tilmeld dig en enkelt dags program (se nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+
 If you have questions while signing up online for this course, e.g., do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk).
 
 <style>
