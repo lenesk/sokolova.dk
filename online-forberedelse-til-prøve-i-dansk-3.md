@@ -11,8 +11,16 @@
 
 <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld hele kurset kr.2800</a>
 
-<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld enkelte dage kr.200</a>
-Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor). Prisen er kr.200. 
+<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
+Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang. 
+
+
+## Fleksibel tilmelding 
+* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
+* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
+* Hvis du ønsker at tilmelde dig en enkelt dag, skal du gøre det senest 3 dage før dagens program. 
+* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
+* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -96,16 +104,6 @@ Mandag den 9. november kl. 17:00-19:00
 *  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 *  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mailopgaven (at fortælle om fremtiden og fortiden). 
 *  Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
-
-
-
-
-## Fleksibel tilmelding 
-* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
-* Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
-* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
 
 ## Undervisningsmaterialet
 <img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
