@@ -62,7 +62,7 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 
 ## Dag 1 Forbindeord & syntaks og tekstsammenhæng
-## Mandag den 21. septemeber kl. 17:00-19:00
+Mandag den 21. septemeber kl. 17:00-19:00
 
 * Introduktion til den Skriftlige fremstilling i PD3.
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
@@ -71,20 +71,20 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 
 ## Dag 2  Forbindeordenes betydning
-## Mandag den 28. septemeber kl. 17:00-19:00    
+Mandag den 28. septemeber kl. 17:00-19:00    
 * Du vil lære, hvad enkelte forbindeord betyder.
 * Forbindeord med samme betydning: du lærer, hvordan man bruger synonymer på tværs af forskellige grupper forbindeord. 
 * Du vil lære at skrive komplekse sætninger. 
 
 
 ## Dag 3   Quiz og øvelser til forbindeord
-## Mandag den 5. oktober kl. 17:00-19:00
+Mandag den 5. oktober kl. 17:00-19:00
 *  Quiz og øvelser - vi arbejder med forskellige minitekster og laver indsætningsøvelser med forbindeord. 
 * Alle tekster er opbygget sådan, at du også øver 2 Delprøve 2B i Læseforståelse . 
 
 
 ## Dag 4   Argumenterende tekst 
-## Mandag den 19. oktober kl. 17:00-19:00
+Mandag den 19. oktober kl. 17:00-19:00
 *  Modeltekst. Vi arbejder med at analysere et eksempel på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
 *  Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst. 
 *  Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
@@ -92,20 +92,20 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 
 ## Dag 5  Onlne Skriveværksted    
-## Mandag den 26. oktober kl. 17:00-19:00
+Mandag den 26. oktober kl. 17:00-19:00
 *  Onlne Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
 *  Du vil bagefter have mulighed for at skrive en hel argumenterende tekst LIVE online og få løbende individuel hjælp og vejledning af læreren. 3) *  Efter dagens undervisning får du mulighed at sende din opgave og få den rettet. 
 
 
 ## Dag 6  Statistiksprog 
-## Mandag den 2. november kl. 17:00-19:00
+Mandag den 2. november kl. 17:00-19:00
 *  Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
 *  Du lærer at forstå statistikkerne og beskrive dem. 
 *  Du får konkrete eksempler på, hvordan man kan starte opgaven. 
 *  Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
 
 ## Dag 7 E-mail skrivning         
-## Mandag den 9. november kl. 17:00-19:00
+Mandag den 9. november kl. 17:00-19:00
 
 *  Du lærer at strukturere din e-mail kommunikativt relevant. 
 *  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
