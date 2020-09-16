@@ -39,7 +39,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 # Kursusprogram
 
-## Dag 1 Forbindeord & syntaks og tekstsammenhæng 
+## Dag 1 Forbindeord, syntaks og tekstsammenhæng 
 <a class="btn" href="https://elenasokolova.podia.com/fdd45ce4-2e0e-4eac-b21a-9c49471ab098/buy"> Tilmelding kr.200</a>
 Mandag den 21. septemeber kl. 17:00-19:00
 * Introduktion til den Skriftlige fremstilling i PD3.
