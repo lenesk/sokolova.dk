@@ -1,10 +1,10 @@
-# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3  
+# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
-<a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig hele kurset kr.2800</a>
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.2800</a>
 
-Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+Tilmeld dig en enkelt dags program (se kursusprogrammet nedenfor)
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -39,7 +39,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * hele kurset: 14 lektioner
          
 ## Fleksibel tilmelding 
-
+* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
 * Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
 * Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
 * Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
