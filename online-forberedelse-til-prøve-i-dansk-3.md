@@ -27,16 +27,19 @@ If you have questions while signing up online for this course, e.g., do not hesi
 
 
 ## Datoer og tid
-         * den 21. september - 9. November
-         * 7 online mødegange online i Zoom 
-         * mandage 17:00-19:00
-         * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
-         * hele kurset: 20 lektioner
+
+* den 21. september - 9. November
+* 7 online mødegange online i Zoom 
+* mandage 17:00-19:00
+* 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
+* hele kurset: 20 lektioner
          
 ## Fleksibel tilmelding
-Du har mulighed at vælge: tilmeld dig hele kurset eller vælg at tilmelde sig enkelte dage. 
-Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
-Efter dagens program for du tilsendt en skriftlig opgave som hjemmearbejde. Det er frivilligt at lave opgaven, men du får individuel feedback med i prisen. 
+
+* Du kan vælge at tilmelde dig hele kurset på en gang eller enkelte dage. 
+* Hvis du ønsker at tilmelde dig en enkelt dags program, skal du gøre det senest 3 dage før dagens program. 
+* Efter dagens program for du tilsendt en skriftlig opgave som hjemmearbejde. 
+* Det er frivilligt at lave opgaven, men du får individuel feedback med i prisen. 
 
 ## Undervisningsmaterialet
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
