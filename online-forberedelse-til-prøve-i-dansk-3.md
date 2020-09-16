@@ -1,4 +1,4 @@
-# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3:  
+# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3  
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
@@ -50,7 +50,9 @@ Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabeta
 eller bruge/købe en i-bog med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. 
 <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
 
-Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant. 
+Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
+
+at-skrive-forside
 
 ## Niveauet
 
