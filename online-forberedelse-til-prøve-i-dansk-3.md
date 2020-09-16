@@ -2,11 +2,11 @@
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
-<a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig hele kurset 2800 DKK</a>
+<a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig hele kurset kr.2800</a>
 
 Tilmeld dig en enkelt dags program (se programmet nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
 
-If you have questions while signing up online for this course, e.g., do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk).
+Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
 <style>
 .btn {
@@ -60,7 +60,8 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 
 # Kursets program
 
-## Dag 1 Mandag den 21. septemeber kl. 17:00-19:00           
+## Dag 1 <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig for 218 </a>
+Mandag den 21. septemeber kl. 17:00-19:00           
 
 1) Introduktion til den Skriftlige fremstilling i PD3.
 2) Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
