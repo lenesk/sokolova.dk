@@ -120,5 +120,4 @@ Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
 Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt DU3 modul 5. 
 
 
-
-
+SokolovaDK CVR-nr.: 41433876
