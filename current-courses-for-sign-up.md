@@ -4,7 +4,7 @@
 # Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
 
 ## Datoer og tid
-* den 21. september - 9. November
+* den 21. september - 9. november
 * 7 online mødegange i Zoom 
 * mandage 17:00-19:00
 * 2 lektioner á 45 min. med 10 minutters pause hver mødegang 
