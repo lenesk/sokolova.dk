@@ -95,7 +95,8 @@ Mandag den 9. november kl. 17:00-19:00
 *  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 *  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mailopgaven (at fortælle om fremtiden og fortiden). 
 *  Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 ## Fleksibel tilmelding 
