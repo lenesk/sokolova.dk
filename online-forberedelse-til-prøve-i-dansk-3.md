@@ -2,7 +2,7 @@
 
 ### Bliv klar til den skriftlige fremstilling på 14 lektioner
 
-Tilmeld dig hele kurset <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb for *2800*</a>
+<a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#"> Tilmeld dig hele kurset 2800 DKK</a>
 
 Tilmeld dig en enkelt dags program (se programmet nedenfor) <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
 
