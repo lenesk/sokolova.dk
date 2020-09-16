@@ -76,7 +76,7 @@ C1 Monday Studieprøven Prep Course (8-10 students) [Course Info](studieprove-
 1) Quiz og øvelser - vi arbejder med forskellige minitekster og lave indsætningsøvelser med forbinderord. 
 2) Alle tekster er opbygget sådan, at du også øver 2 Delprøve 2B i Læseforståelse . 
 
-> * Dag 4 Mandag den 5. oktober kl. 17:00-19:00
+### Dag 4 Mandag den 5. oktober kl. 17:00-19:00
 
 1) Modeltekst. Vi arbejder med at analysere et eksempel på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
 2) Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst. Du øver dig i at begrunde dit argumentation og udtrykke holdninger. 
