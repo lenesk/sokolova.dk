@@ -42,17 +42,14 @@ If you have questions while signing up online for this course, e.g., do not hesi
 * Det er frivilligt at lave opgaven, men du får individuel feedback med i prisen. 
 
 ## Undervisningsmaterialet
+Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
 
-<img src="at-skrive-forside.png" alt="At skrive" width="200" height="300" />
+<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
 
 Du kan bruge/købe bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
 eller bruge/købe en i-bog med enkeltbrugerlicens. Du vil kunne bruge bogen online og offline. Købet kræver profiloprettelse. 
 <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
-
-Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
-
-at-skrive-forside
 
 ## Niveauet
 
