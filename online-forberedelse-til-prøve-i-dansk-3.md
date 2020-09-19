@@ -48,7 +48,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 ## Dag 1 Forbindeord, syntaks og tekstsammenhæng 
 <a class="btn" href="https://elenasokolova.podia.com/fdd45ce4-2e0e-4eac-b21a-9c49471ab098/buy"> Tilmelding kr.200</a>
-Mandag den 21. septemeber kl. 17:00-19:00
+Mandag den 21. septemeber kl. 17:00-18:45
 * Introduktion til den Skriftlige fremstilling i PD3.
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
 * Forbindeord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
@@ -57,7 +57,7 @@ Mandag den 21. septemeber kl. 17:00-19:00
 
 ## Dag 2  Forbindeordenes betydning 
 <a class="btn" href="https://elenasokolova.podia.com/5a3c68d4-8ff6-4aab-b191-03ad1b783b1f/buy"> Tilmelding kr.200</a>
-Mandag den 28. septemeber kl. 17:00-19:00    
+Mandag den 28. septemeber kl. 17:00-18:45    
 * Du vil lære, hvad enkelte forbindeord betyder.
 * Forbindeord med samme betydning: du lærer, hvordan man bruger synonymer på tværs af forskellige grupper forbindeord. 
 * Du vil lære at skrive komplekse sætninger. 
@@ -65,14 +65,14 @@ Mandag den 28. septemeber kl. 17:00-19:00
 
 ## Dag 3   Quiz og øvelser til forbindeord
 <a class="btn" href="https://elenasokolova.podia.com/8da85aef-e544-403b-8eb5-9d30467fd409/buy"> Tilmelding kr.200</a>
-Mandag den 5. oktober kl. 17:00-19:00
+Mandag den 5. oktober kl. 17:00-18:45
 *  Quiz og øvelser - vi arbejder med forskellige minitekster og laver indsætningsøvelser med forbindeord. 
 * Alle tekster er opbygget sådan, at du også øver 2 Delprøve 2B i Læseforståelse . 
 
 
 ## Dag 4   Argumenterende tekst
 <a class="btn" href="https://elenasokolova.podia.com/fe5a2497-0c04-4f86-bd69-f7c25c30ff94/buy"> Tilmelding kr.200</a>
-Mandag den 19. oktober kl. 17:00-19:00
+Mandag den 19. oktober kl. 17:00-18:45
 *  Modeltekst. Vi arbejder med at analysere et eksempel på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
 *  Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst. 
 *  Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
@@ -81,7 +81,7 @@ Mandag den 19. oktober kl. 17:00-19:00
 
 ## Dag 5  Onlne Skriveværksted
 <a class="btn" href="https://elenasokolova.podia.com/15095b33-3179-4138-a7d4-3be0ec2ec292/buy"> Tilmelding kr.200</a>
-Mandag den 26. oktober kl. 17:00-19:00
+Mandag den 26. oktober kl. 17:00-18:45
 *  Onlne Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
 *  Du vil bagefter have mulighed for at skrive en hel argumenterende tekst LIVE online og få løbende individuel hjælp og vejledning af læreren.  
 *  Efter dagens undervisning får du mulighed at sende din opgave og få den rettet. 
@@ -89,7 +89,7 @@ Mandag den 26. oktober kl. 17:00-19:00
 
 ## Dag 6  Statistiksprog
 <a class="btn" href="https://elenasokolova.podia.com/0972aeb2-796e-4571-9b2a-597739df98c4/buy"> Tilmelding kr.200</a>
-Mandag den 2. november kl. 17:00-19:00
+Mandag den 2. november kl. 17:00-18:45
 *  Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
 *  Du lærer at forstå statistikkerne og beskrive dem. 
 *  Du får konkrete eksempler på, hvordan man kan starte opgaven. 
@@ -97,7 +97,7 @@ Mandag den 2. november kl. 17:00-19:00
 
 ## Dag 7 E-mail skrivning
 <a class="btn" href="https://elenasokolova.podia.com/6ddc3293-f17c-4f64-8758-a54f99076ef5/buy"> Tilmelding kr.200</a>
-Mandag den 9. november kl. 17:00-19:00
+Mandag den 9. november kl. 17:00-18:45
 
 *  Du lærer at strukturere din e-mail kommunikativt relevant. 
 *  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
