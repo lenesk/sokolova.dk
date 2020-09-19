@@ -79,10 +79,10 @@ Mandag den 19. oktober kl. 17:00-18:45
 *  Du vil øve dig i at formulere dele af en argumenterende tekst. 
 
 
-## Dag 5  Onlne Skriveværksted
+## Dag 5  Online Skriveværksted
 <a class="btn" href="https://elenasokolova.podia.com/15095b33-3179-4138-a7d4-3be0ec2ec292/buy"> Tilmelding kr.200</a>
 Mandag den 26. oktober kl. 17:00-18:45
-*  Onlne Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
+*  Online Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
 *  Du vil bagefter have mulighed for at skrive en hel argumenterende tekst LIVE online og få løbende individuel hjælp og vejledning af læreren.  
 *  Efter dagens undervisning får du mulighed at sende din opgave og få den rettet. 
 
