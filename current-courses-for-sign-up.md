@@ -1,6 +1,4 @@
 
-# Sing up for online group classes starting in September
-
 # Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
 
 ## Datoer og tid
