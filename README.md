@@ -44,6 +44,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
  
  * [Small words – big difference: make your Danish sound more native-like](small-words-big-difference-make-your-danish-sound-more-native-like)
+ * [Så - is not just a function word: learn how the word order may change the meaning](saa-is-not-just-a-function-word.md)
 
 ## About me
 
