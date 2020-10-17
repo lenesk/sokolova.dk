@@ -1,4 +1,4 @@
-# Så - is not just a function word: learn how the word order may change the meaning
+# *Så* - is not just a function word: learn how the word order may change the meaning
 
 *Elena Sokolova, October 17th 7<sup>th</sup> 2020*
 
