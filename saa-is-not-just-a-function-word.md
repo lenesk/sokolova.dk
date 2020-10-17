@@ -74,7 +74,7 @@ When *så* expresses 'so that/with the purpose of (that)' - it stands in the dep
 
 You can always check, if *så* means 'so that' by asking the question ‘Why, for which purpose?’ to the main clause. E.g.:
 
-> * Hvorfor har Marina valgt at skifte til fleksible arbejdstider? => Så hun altid kan få fri tidligere fri nogle dage*.
+> * Hvorfor har Marina valgt at skifte til fleksible arbejdstider? => *Så hun altid kan få fri tidligere fri nogle dage*.
 
 Note, that in the clause of purpose, the order SAV applies. Very often a preverbal position of an adverb is mistakenly taken for inversion. I always advise my students to think about inversion only applicable to verbs. 
 
