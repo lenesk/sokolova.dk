@@ -72,7 +72,7 @@ When *så* expresses 'so that/with the purpose of (that)' - it stands in the dep
 
 > * Maria har valgt at skifte til fleksible arbejdstider (main clause), så hun sommetider/altid kan få tidligere fri, hvis det er nødvendigt (dependent clause)*.
 
-You can always check if *så* means 'so that' by asking the question ‘Why, for which purpose?’ to the main clause. E.g.:
+You can always check, if *så* means 'so that' by asking the question ‘Why, for which purpose?’ to the main clause. E.g.:
 
 > * Hvorfor har Marina valgt at skifte til fleksible arbejdstider? => Så hun altid kan få fri tidligere fri nogle dage*.
 
