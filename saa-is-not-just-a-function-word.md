@@ -1,6 +1,6 @@
 # *Så* - is not just a function word: learn how the word order may change the meaning
 
-*Elena Sokolova, October 17th 7<sup>th</sup> 2020*
+*Elena Sokolova, October 17<sup>th</sup> 2020*
 
 Are you doing a written assignment and still not sure whether you should make inversion (i.e. put the verb before the subject) in the part of the sentence containing *så*? 
 In this blog post, you’ll learn to see in the depth of ‘så’-meanings and will see, how the word order can change the meaning of the phrase. 
