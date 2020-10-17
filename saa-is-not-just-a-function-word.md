@@ -13,7 +13,7 @@ The main trick is that you need to distinguish, whether *så* is used in the sen
 
 There are three adverbial meanings of *så* you need to distinguish. 
 
-* 1. Addition/sequence/order of activities/phenomena or objects.
+* Addition/sequence/order of activities/phenomena or objects.
 The check word is often *bagefter* (then, afterwards, after that, plus, on top of that). 
 *Så* triggers inversion just like any other time-phrase (i dag/for nogle år siden...), e.g.: 
 
@@ -22,18 +22,20 @@ The check word is often *bagefter* (then, afterwards, after that, plus, on top o
 > *Der er flere faktorer, der spiller ind, om man får negativ social arv, f.eks. forældrenes uddannelsesniveau og kulturvaner, og så betyder det ligeledes meget, om det at uddannese sig er en værdi i sig selv i familien*. 
 
 
-* 2. Degree or emphasis.
+* Degree or emphasis.
 The check word is often *meget* (very/that much/so), e.g.:
+
 > *Jeg var så træt, da jeg kom hjem fra arbejde i går*. 
-Inversion applies only in case the sentence starts with e.g. *så* + adverb of manner or an adjective: 
+  Inversion applies only in case the sentence starts with e.g. *så* + adverb of manner or an adjective: 
 
 > *Så hurtigt kan man da ikke lære et fremmedsprog*.  
 
-* 3. Conditioned consequence. *Så* is placed in the main clause, after a dependent ‘hvis’- clause.
+* Conditioned consequence. *Så* is placed in the main clause, after a dependent ‘hvis’- clause.
 The check phrase is often in that case, then.
 'Hvis A..., så B... -structure' is often used in a colloquial/oral language, but can be and should be preferably omitted in the written language. 
 
-> *Hvis det ikke regner, (så) tager jeg på stranden*. 
+> *Hvis det ikke regner, (så) tager jeg på stranden*.
+
 > *Hvis vi kun diskuterer et aspekt af problemstillingen, får vi ikke alle argumenter med*.
 
 ### How to see that ‘så’ is conjunction?
