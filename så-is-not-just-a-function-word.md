@@ -64,7 +64,7 @@ If you have a central adverb in the clause with *så*, then the main sentence ru
 
 > *Der er mange ulemper ved skiftende arbejdstider, så der er ikke så mange familiemennesker, der vælger et job uden faste arbejdstider*. 
 
-### ‘Så’ in the meaning ‘til formål at gøre noget’ ‘so that/with the purpose of’
+### ‘Så’ in the meaning *til formål at gøre noget* (so that/with the purpose of)
 
 When *så* expresses 'so that/with the purpose of (that)' - it stands in the dependent clause, which does not have meaning when staying alone (it's a way to check, whether you have a dependent or an indepenent clause). This *så*-clause can never have inversion (the verb never comes before the subject) as in any other dependent clause (*ledsætning*). *Så* is sometimes used with *at* - *så at*, very similar to English 'so that'.  In Danish, however, *at* is not compulsory and is often considered heavy/too formal.   
 
