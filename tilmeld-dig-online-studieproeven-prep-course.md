@@ -1,7 +1,7 @@
 # C1 Studieprøven Prep Course i Zoom (8-10 students)
 
 ### Tirsdag & Torsdag 
-### kl. 9:30-12:15
+### kl. 9:50-12:25
 ### den 27. oktober-den 12. november
 
 <a class="btn" href="https://elenasokolova.podia.com/studieproven-prep-course-i-zoom">Enroll & pay </a>
