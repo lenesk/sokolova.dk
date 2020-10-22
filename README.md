@@ -36,7 +36,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 [Online group classes (6-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
 
-<a class="btn" href="current-courses-for-sign-up">Sign up for group courses </a>
+<a class="btn" href="current-courses-for-sign-up">Sign up for Online forberedelse til PD3 </a>
+<a class="btn" href="tilmeld-dig-online-studieproeven-prep-course.md">Sign up forStudieprøven Prep Course i Zoom  </a>
 
 ## Blog  
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
