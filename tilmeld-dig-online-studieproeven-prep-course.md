@@ -4,7 +4,7 @@
 ### kl. 9:30-12:15
 ### den 27. oktober-den 12. november
 
-<a class="btn" href="https://elenasokolova.podia.com/studieproven-prep-course-i-zoom">Enroll & pay for C1 </a>
+<a class="btn" href="https://elenasokolova.podia.com/studieproven-prep-course-i-zoom">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
