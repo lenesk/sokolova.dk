@@ -1,4 +1,9 @@
-# C1 Studieprøven Prep Course i Zoom (8-10 students) 
+# C1 Studieprøven Prep Course i Zoom (8-10 students)
+
+### Tirsdag & Torsdag 
+### kl. 9:30-12:15
+### den 27. oktober-den 12. november
+
 <a class="btn" href="https://elenasokolova.podia.com/studieproven-prep-course-i-zoom">Enroll & pay for C1 </a>
 
 The course has a first-come-first-served admission. 
@@ -26,7 +31,8 @@ The course has a first-come-first-served admission.
 
 
 ### Admission requirements
-This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
+This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. 
+It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
 
