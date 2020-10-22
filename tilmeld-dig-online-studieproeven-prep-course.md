@@ -1,5 +1,5 @@
 # C1 Studieprøven Prep Course i Zoom (8-10 students) 
-<a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 </a>
+<a class="btn" href="https://elenasokolova.podia.com/studieproven-prep-course-i-zoom">Enroll & pay for C1 </a>
 
 The course has a first-come-first-served admission. 
 
