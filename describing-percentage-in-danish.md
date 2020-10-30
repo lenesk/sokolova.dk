@@ -1,5 +1,7 @@
 # Describing percentage in Danish: *procent, procentdel/procentandel, procentpoint & procentvis* 
 
+*Elena Sokolova, October 30<sup>th</sup> 2020*
+
 Are you writing a PD3 or a Studieprøven essay? 
 You will need words like *procent, procentdel/procentandel, procentpoint* and *procentvis*, while describing the data material during the exam. 
 In this blog post, you'll learn how you describe percentage correctly. 
