@@ -1,11 +1,13 @@
 # Describing percentage in Danish: *procent, procentdel/procentandel, procentpoint & procentvis* 
 
-Are you writing a PD3 or a Studieprøven essay?
-You will defintely need words *procent, procentdel/procentandel, procentpoint* and *procentvis*, while describing the data material during the exam. In this short blob post, you'll learnt how you desctibe percentage correctly. 
+Are you writing a PD3 or a Studieprøven essay? 
+You will need words like *procent, procentdel/procentandel, procentpoint* and *procentvis*, while describing the data material during the exam. 
+In this blog post, you'll learn how you desctibe percentage correctly. 
 
-## Note grammatical forms: 
-*En procent* (plural indefinite is also *procent* after a number: 30 procent), also *30 pct.* You cannot use the plural form 'procenter', if you have a preceding numeral.
+## Grammatical forms 
 
+*En procent* (plural indefinite is also *procent* after a number: 30 procent), also *30 pct.* 
+You cannot use the plural form 'procenter', if you have a preceding numeral.
 See more examples with *procent*:
 
 > *Ifølge tabellen er det lidt over 30 pct. af de adspurgte i hver aldersgruppe, der tror, at antallet af overtrædelser af straffeloven i perioden fra 2011 til 2016 ikke har ændret sig*. 
@@ -16,9 +18,10 @@ See more examples with *procent*:
 
 ## *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
 
-E.g., as based on the set from Studieprøven could be (November-December 2019):
+E.g., as based on the set from Studieprøven(November-December 2019):
 
-> *Andelen af de 24-årige unge, der hverken er i beskæftigelse eller under uddannelse er steget fra ca. 12 pct. til 14 pct., dvs. med ca. 2 procentpoint i perioden fra 2008 til 2016.* 
+> *Andelen af de 24-årige unge, der hverken er i beskæftigelse eller under uddannelse er steget fra ca. 12 pct. til 14 pct., dvs. med ca. 
+2 procentpoint i perioden fra 2008 til 2016.* 
 
 > *Det fremgår tydeligt af søjlediagrammet, at andelen af unge, der ikke er i job eller under uddannelse er faldet for de 16-, 17- og 18-årige med 2 procentpoint  i gennemsnit, men andelen af de ældre grupper af unge i undersøgelsen er steget ubetydelig.* 
 
@@ -27,7 +30,8 @@ E.g., as based on the set from Studieprøven could be (November-December 2019):
 
 Sometimes you may see *procent* used instead of *procentpoint*, but this usage may be considered wrong. 
 
-There should have instead been used *procentpoint*. You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
+There should have instead been used *procentpoint*. 
+You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
 
 ### Examples of correct usage
 
@@ -39,7 +43,8 @@ There should have instead been used *procentpoint*. You can read more here: http
 
 ### *Procentdelen/procentandelen* 
 
-The two terms express the share of a whole number/unit/group, indicated in percent. The verb *udgøre* is often used with *procentdel*. 
+The two terms express the share of a whole number/unit/group, indicated in percent. 
+The verb *udgøre* (=to stand for) is often used with *procentdel*. 
 
 > *Den religiøse aktivitet, der angår folkekirken måles ofte som den procentdel af befolkningen, der går i kirke regelmæssigt*. (Fra ordnet.dk)
 
@@ -55,11 +60,11 @@ The two terms express the share of a whole number/unit/group, indicated in perce
 > * *at øge noget med ... pct.*
 > * *at mindske/reducere med ... pct.* 
 
-Note that sometimes the preposition with the word *procent* will be different for a noun combination. E.g. *en stigning/et fald på 5%*/*en forskel/en ændring på 5%*. 
+Note that sometimes the preposition with the word *procent* will be different for a noun combination, other than for a combination with a related verb E.g. *en stigning/et fald på 5%*/*en forskel/en ændring på 5%*. 
       
 > * *Gælden på 40 procent af bruttonationalproduktet kan kun betales gennem bedre konkurrenceevne, som giver større eksport.* (Fra ordnet.dk)
-Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
 <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
