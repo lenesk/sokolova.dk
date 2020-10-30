@@ -2,7 +2,7 @@
 
 Are you writing a PD3 or a Studieprøven essay? 
 You will need words like *procent, procentdel/procentandel, procentpoint* and *procentvis*, while describing the data material during the exam. 
-In this blog post, you'll learn how you desctibe percentage correctly. 
+In this blog post, you'll learn how you describe percentage correctly. 
 
 ## Grammatical forms 
 
