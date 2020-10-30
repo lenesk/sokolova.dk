@@ -46,6 +46,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  * [Small words – big difference: make your Danish sound more native-like](small-words-big-difference-make-your-danish-sound-more-native-like)
  
  * [Så - is not just a function word: learn how the word order may change the meaning](saa-is-not-just-a-function-word.md)
+ 
+ * [Describing percentage in Danish](describing-percentage-in-danish.md)
 
 ## About me
 
