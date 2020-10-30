@@ -1,8 +1,9 @@
-## Describing percentage: *procent, procentdel/procentandel, procentpoint & procentvis* 
+# Describing percentage: *procent, procentdel/procentandel, procentpoint & procentvis* 
 
-You will defintely need words *procent, procentdel/procentandel, procentpoint* and *procentvis* while describing the data material. 
+Are you writing a PD3 or a Studieprøven essay?
+You will defintely need words *procent, procentdel/procentandel, procentpoint* and *procentvis* while describing the data material during the exam. In this short blob post, you'll learnt how you desctibe percentage correctly. 
 
-### Note grammatical forms: 
+## Note grammatical forms: 
 *En procent* (plural indefinite is also *procent* after a number: 30 procent), also *30 pct.* You cannot use the plural form 'procenter', if you have a preceding numeral.*
 
 See more examples with *procent*:
@@ -13,7 +14,7 @@ See more examples with *procent*:
 
 > *Efter optælling af 70 procent af stemmerne i de 2487 valgdistrikter var den uofficielle styrkefordeling blandt de demokratiske kandidater.* (Fra ordnet.dk)
 
-### *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
+## *Procentpoint* expresses the difference in two percentage rates within a group/comparison element.
 
 E.g., as based on the set from Studieprøven could be (November-December 2019):
 
@@ -21,14 +22,14 @@ E.g., as based on the set from Studieprøven could be (November-December 2019):
 
 > *Det fremgår tydeligt af søjlediagrammet, at andelen af unge, der ikke er i job eller under uddannelse er faldet for de 16-, 17- og 18-årige med 2 procentpoint  i gennemsnit, men andelen af de ældre grupper af unge i undersøgelsen er steget ubetydelig.* 
 
-#### Incorrect usage
+### Incorrect usage
 > *De konservative mister 0,1 procent af stemmerne og taber dermed to mandater.* 
 
 Sometimes you may see *procent* used instead of *procentpoint*, but this usage may be considered wrong. 
 
 There should have instead been used *procentpoint*. You can read more here: https://sproget.dk/raad-og-regler/artikler-mv/sprogbrevet-dr/sprogbrevetdr-nr-80/procent-og-procentpoints
 
-#### Examples of correct usage
+### Examples of correct usage
 
 > *84,5 procent af vælgerne stemte ved folketingsvalget. Det er 1,3 procentpoint lavere end for fire år siden.* (fra dr.dk)
 
