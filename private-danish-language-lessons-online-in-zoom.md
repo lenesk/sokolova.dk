@@ -7,16 +7,31 @@ Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you
 
 Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. 
 
-#### See the prices below for individual classes tailored to your needs:
+#### See the prices below for individual online classes tailored to your needs:
 
-* 1 x one-to-one Zoom lesson/exam training session for Prøve i Dansk 3 or Studieprøven (45 min.): 500 DKK
-* 5 x one-to-one Zoom sessions (45 min.): 2250 DKK
-* 10 x 45 min. in Zoom (all levels): 3900 DKK 
-* 15 x 45 min.: 4500 DKK
-* 20 x 45 min.: 5400 DKK
-* 25 x 45 min.: 6000 DKK
-* 30 x 45 min.: 6300 DKK
+Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
-Private students do not pay VAT, companies pay VAT of 25% added to the above mentioned prices.
+* 1 x one-to-one Zoom lesson/pre-exam training session for Prøve i Dansk 3 or Studieprøven (45 min.): 650 DKK
 
-#### Companies pay VAT, private individuals do not pay VAT
+* 5 x one-to-one Zoom sessions (45 min.): 3000 DKK
+
+* 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
+
+- online sessions on weekdays before 17:00: 410 DKK per 45 min. 
+
+- online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 512 DKK per 45 min. 
+
+When you take more than ten lessons, there is an option to split the payment, for example, you can divide the price for 20 lessons in two charges.  
+
+#### Cancellations 
+
+* The student can move the scheduled lesson to another time slot than the one agreed before the course starts only due to urgent issues or sickness; the same applies to the instructor.  No extra payment will be charged in this case. The price of the lesson remains the same. Even in case of the transfer from a morning to an evening/weekend time slot.
+
+* Any planned or work-related cancellations/changes to the schedule of a lesson should be informed to the instructor by email or SMS the day before the online session before 10.00 p.m. 
+
+### Other
+
+* All the teaching materials other than the coursebook are included in the price. 
+
+* Upon the wish of a student a free-of-charge language coaching session may be included in the course to evaluate the current progression of the
+student or have a detailed conversation about the student's needs and wishes for the classes. 
