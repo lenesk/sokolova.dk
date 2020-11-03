@@ -17,9 +17,9 @@ Private students do not pay VAT; companies pay VAT of 25% added to the listed pr
 
 #### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
-  * online sessions on weekdays before 17:00: 410 DKK per 45 min. 
+##### * online sessions on weekdays before 17:00: 410 DKK per 45 min. 
 
-  * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 512 DKK per 45 min. 
+##### * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 512 DKK per 45 min. 
 
 When you take more than ten lessons, there is an option to split the payment, for example, you can divide the price for 20 lessons in two charges.  
 
