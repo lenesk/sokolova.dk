@@ -7,15 +7,15 @@ Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you
 
 Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. 
 
-#### See the prices below for individual online classes tailored to your needs:
+## See the prices below for individual online classes tailored to your needs:
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
-##### * 1 x one-to-one Zoom lesson/pre-exam training session for Prøve i Dansk 3 or Studieprøven (45 min.): 650 DKK
+### 1 x one-to-one Zoom lesson/pre-exam training session for Prøve i Dansk 3 or Studieprøven (45 min.): 650 DKK
 
-##### * 5 x one-to-one Zoom sessions (45 min.): 3000 DKK
+### 5 x one-to-one Zoom sessions (45 min.): 3000 DKK
 
-##### * 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
+### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
   * online sessions on weekdays before 17:00: 410 DKK per 45 min. 
 
