@@ -29,6 +29,8 @@ When you take more than ten lessons, there is an option to split the payment, fo
 
 * Any planned or work-related cancellations/changes to the schedule of a lesson should be informed to the instructor by email or SMS the day before the online session before 10.00 p.m. 
 
+* In cases of a late cancellation or absence, the agreed price for the missed/not-cancelled-in-time lesson will be charged. 
+
 ## Other
 
 * All the teaching materials other than the coursebook are included in the price. 
