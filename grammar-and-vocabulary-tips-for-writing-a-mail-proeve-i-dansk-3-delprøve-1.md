@@ -158,7 +158,8 @@ You suggest to meet.
 > *Synes du ikke, vi kunne mødes, så vi kan tale mere om det?*
 
 
-### To clarify or explain the reason 
+### To clarify or explain the reason or mention the consequence
+
 In the PD3 email task, the original email may often contain a prompt to explaining things. In other words, you are checked whether you can write about the cause and consequence. 
 You can use *fordi* (*+ledsætning SAV*) or *for* (remember main clause word order SVA). The following connectors express clarification or give a reason. The minor difference between the two conjunctions is that ‘for’ provides a clarification, while ‘fordi’ describes the cause. 
 
@@ -167,11 +168,21 @@ Other structures used to describe the cause:
 > *Det skyldes, at… = Der er fordi ...* = It is cause by the fact, that… 
 
 E.g. 
-> * Min beslutning om at tage et sabbatår skyldes, at jeg ikke er sikker på, hvad jeg skal læse videre på universitetet.* 
+> *Min beslutning om at tage et sabbatår skyldes, at jeg ikke er sikker på, hvad jeg skal læse videre på universitetet.* 
 
-> * Der er flere årsager til det/til denne situation.* 
+> *Der er flere årsager til det/til denne situation.* 
 
-> * Der er flere årsager tit, at (+ SAV)...* 
+> *Der er flere årsager tit, at (+ SAV)...* 
+
+> *Peter sagde sin stilling op på grund af overarbejde.* 
+
+Very often, while describing the cause, you need to say a word about the consequences. You can use *derfor* and *så*. 
+derfor (an adverb) => VS Peter havde altid overarbejde, derfor besluttede han at sige op. 
+så (a main clause conjuntion) => SV Peter havde altid overarbejde, så han besluttede han at sige op. 
+e.g. 
+Du spurgte (datid) mig om, hvorfor jeg ville (datid) sige min stilling op. Jeg synes nemlig, at der er for mange ting samtidigt, som jeg er træt af. For det første/Det største problem er, at jeg næsten altid må arbejde over uden af få ekstra i løn. For det andet har jeg tit aftenvagter, hvilket ikke fungerer positivt for mit familieliv. Jeg synes også efterhånden, jeg har erfaring nok til at prøve at søge i en anden branche. Derfor har jeg sagt op og er på udkig efter nye udfordringer. 
+
+
 
 
 
