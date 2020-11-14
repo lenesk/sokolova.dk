@@ -49,7 +49,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
  * [Describing percentage in Danish](describing-percentage-in-danish.md)
  
- * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)] (grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
+ * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
 
 ## About me
 
