@@ -96,7 +96,7 @@ Remember that *ikke, også, altid, aldrig, gerne, måske* come immediately after
 
 ## Grammar tips fоr the communicative focus in the email writing
 
-### Verbal tenses for describing or telling a story (at beskrive & at fortælle)
+### Verbal tenses for describing or telling a story (*at beskrive & at fortælle*)
 Imagine such a sentence in the original mail: 
 > *Hvordan går det med din jobsøgning? Jeg håber, det går fremad, og det lykkedes (for) dig at finde et job.*
 
@@ -112,7 +112,7 @@ You give an exact time indication, so use *datid* = past simple.
 > * Nej, det lykkedes desværre ikke for mig i sommer. Jeg søger stadig, og nu har jeg snart været arbejdsløs i tre måneder. Men der er også gode nyheder - jeg har fået svar på en af mine mange ansøgninger fra et firma, og de vil gerne se mig til en jobsamtale om tre uger … 
 You tell about status as per today, so use *nutid* = present simple & *førnuti*d = present perfect.
 
-### To complain or express you are said about smth (at klage over noget)
+### To complain or express you are said about smth (*at klage over noget*)
 When you complain to an authorized institution or a shop, for instance, you need to persuade and call to action. 
 
 ###### A formal complaint: to a shop’s customers’ service. 
@@ -132,8 +132,7 @@ You list the things, which you did not like in genereal in the past - use past s
 You think back about what you should or should not have done in the past prior to the holiday - use past perfect (*førdatid*). 
 > *Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen …*
 
-## To make an offer/a suggestion or to suggest to meet/to do an activity together 
-(*at foreslå* - to suggest)
+## To make an offer/a suggestion or to suggest to meet/to do an activity together (*at foreslå*)
 You will mosty use modal verbes + infinitive: 
 
 > *Vi skal i biografen - hvad tror du, vi skal se.* 
@@ -158,7 +157,7 @@ You suggest to meet.
 > *Synes du ikke, vi kunne mødes, så vi kan tale mere om det?*
 
 
-### To clarify or explain the reason or mention the consequence
+### To clarify or explain the reason or mention the consequence (*at begrunge*)
 
 In the PD3 email task, the original email may often contain a prompt to explaining things. In other words, you are checked whether you can write about the cause and consequence. 
 You can use *fordi* (*+ledsætning SAV*) or *for* (remember main clause word order SVA). The following connectors express clarification or give a reason. The minor difference between the two conjunctions is that ‘for’ provides a clarification, while ‘fordi’ describes the cause. 
