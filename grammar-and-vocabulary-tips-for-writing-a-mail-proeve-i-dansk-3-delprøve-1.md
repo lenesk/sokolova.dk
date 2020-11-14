@@ -195,7 +195,7 @@ Possible questions in the task email: *Synes du, det er en god ide at sige ‘ja
 
 > *Jeg synes både, der er ulemper og fordele ved at lave praktik i udlandet. Men det er helt sikkert, at der er langt flere fordele. For det første vil du få ny faglig viden og få udvidet dit netværk. Det er altid en fordel at prøve, hvor omstillingsparat du er, og det kan du nemlig øve dig i, når du skal afsted i 6 måneder i et andet land uden familie eller venner. Jeg er helt sikker på, at det efterfølgende vil se attraktivt ud i dit CV, når skal søge et rigtigt fuldtidsjob. På den anden side kan det være lidt hårdt for dig at at bo et nyt sted uden familie eller venner i nærheden af, og lønnen er heller ikke særlig høj. Til gengæld er priser i Tyskland heller ikke så høje som i Danmark, så du kan strække dine opsparinger i længere tid. Det tager også tid at vænne sig til en anden kultur og et nyt sprog, men tysk er jo heller ikke så anderledes som dansk, især i ordforråd, så du vil kunne forstå meget. Så alt i alt er det værd at prøve, synes jeg.*
 
-I hope, you have learned some grammar and vocabulary tips for writing the Writing task at Prøve i Dansk 3 (Delprøve 1) and this blog post was useful. 
+I hope, you have learned some grammar and vocabulary tips for the Writing task at Prøve i Dansk 3 (Delprøve 1), and this blog post was useful. 
 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
