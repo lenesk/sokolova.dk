@@ -10,4 +10,5 @@ The focus of the email task is to answer the questions in the task email. That w
 
 Here below is the example of Delprøve 1 from May, 2020 ![Delprøve 1 from May, 2020](/delproeve-1-en-e-mail.png) (en-e-mail-opgave-pd3.png) 
 
+![Delprøve 1 from May, 2020](en-e-mail-opgave-pd3.png) 
 
