@@ -141,16 +141,21 @@ You think back about what you should or should not have done in the past prior t
 ### To make an offer/a suggestion or to suggest to meet/to do an activity together (*at foreslå*)
 You will mosty use modal verbes + infinitive: 
 
-> *Vi skal i biografen - hvad tror du, vi skal se.* 
+> *Vi skal i biografen - hvad tror du, vi skal se.*
+
 Mind, this sentence means, that you have already booked the tickets and want to surprise your friend. 
+
 
 > *Hvad synes du, vi skal se?*
 
 This sentence means, that you have not booked the tickets to the cinema yet, and is awaiting for your friend’s suggestion or any ideas for a movie.
 
+
 > *Hvad synes du om at mødes i weekenden?* = What to you think about meeting? 
 
 You suggest to meet. 
+
+Other ways to response to a suggestion: 
 
 > *Jeg synes også, det er en god ide at mødes i weekenden.* 
 
