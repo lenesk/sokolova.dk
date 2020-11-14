@@ -1,5 +1,6 @@
 # Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)
 
+*Elena Sokolova, November 14<sup>th</sup> 2020*
 
 In this blog post, you’ll learn some grammar and vocabulary tips for writing the Writing task at Prøve i Dansk 3 (Delprøve 1).
 
