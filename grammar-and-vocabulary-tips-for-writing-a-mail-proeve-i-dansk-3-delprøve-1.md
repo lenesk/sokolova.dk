@@ -115,13 +115,14 @@ You tell about status as per today, so use *nutid* = present simple & *førnuti*
 ### To complain or express you are said about smth (*at klage over noget*)
 When you complain to an authorized institution or a shop, for instance, you need to persuade and call to action. 
 
-###### A formal complaint: to a shop’s customers’ service. 
+A formal complaint: to a shop’s customers’ service. 
 
 > *Jeg må desværre meddele, at den vare/den sovesofa, som I har sendt til mig har flere produktionsfejl. For det første er der flere pletter på betrækket. For det andet mangler der et par skruer i pakken. Derudover er der nogle ridser på det ene af benene. Jeg vil derfor gerne høre om, hvorvidt det er muligt at få sofaen byttet til en anden i samme farve/model. Jeg håber også, jeg ikke selv vil skulle betale for afhentning af varen og levering af den nye. På forhånd tak for hjælpen.*
 
 When you complain to someone you know well or when you are telling about a bad experience, for instance replying a mail, where a person asks you, what was wrong with your holiday and why it was a bad experience. 
 
-###### An informal complaint:
+An informal complaint:
+
 > *Jeg var meget ked af at opdage, at mit værelse på hotellet ikke svarede til de billeder, som jeg havde set på nettet. Der stod meget slidte møbler og værelset var ikke ordentligt rengjort. Du ved jo godt, at jeg altid prøver at være venlig, men denne gang måtte jeg klage og fik heldigvis et andet værelse. Men det havde desværre udsigt over for en central gade med cafeer og barer, så der var meget larm, og der spillede høj musik, så vi kunne ikke engang sove om natten. Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen, så det vil jeg gøre næste gang… Men maden var fantastisk på hotellet, så det gjorde vores ophold nogenlunde ok. Dog ville jeg ønske, at der også havde været en mulighed for at tilkøbe ekstra måltider på stedet.*
 
 What verb tenses to choose?
@@ -132,7 +133,7 @@ You list the things, which you did not like in genereal in the past - use past s
 You think back about what you should or should not have done in the past prior to the holiday - use past perfect (*førdatid*). 
 > *Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen …*
 
-## To make an offer/a suggestion or to suggest to meet/to do an activity together (*at foreslå*)
+### To make an offer/a suggestion or to suggest to meet/to do an activity together (*at foreslå*)
 You will mosty use modal verbes + infinitive: 
 
 > *Vi skal i biografen - hvad tror du, vi skal se.* 
