@@ -49,9 +49,36 @@ or
 > *Hvor er det dejligt, at du har skrevet - tak for din sidste e-mail. Jeg håber også, alt er vel hos dig.* 
 ... 
 > *Mange hilsner/Venlige hilsner/Kærlig hilsen/Bedste hilsner/Med venlig hilsen*
-> *Lukas
+> *Lukas*
 
-Mind the plural and singular forms of *‘en hilsen’ - hilsner*
+Mind the plural and singular forms of *en hilsen - hilsner*
+
+## Tips to refer to the original mail and keep the communicative focus of your reply mail. 
+A good expression to use is *med hensyn til noget* = 'as far as something is concerned'. Mind the abbreviation is *mht.*, and no comma is needed after unless you have a built-in subordinate clause:
+
+Here below are several examples of how to refer to the original email:
+
+> *Med hensyn til ideer til, hvad man kan gøre for at lære dansk hurtigere, synes jeg, at man tilmelde sig et internsivt kursus på en sprogskole.*
+> *Mht. hvordan man kan lære dansk hurtigere, synes jeg, at det er en god ide at tilmelde sig et kursus på en sprogskole.* 
+
+Synonyms for *med hensyn til* are *angående* = 'regarding', and *Når det kommer til …*= 'when it comes to ...'
+For example:
+
+> *Angående min danskklasse tror jeg helt bestemt, jeg vil savne mine klassekammerater, for vi er blevet gode venner alle sammen.* 
+> *Når det kommer til at få danske venner, synes jeg helt bestemt, det kan hjælpe ham at tilmelde sig en fritidsaktivitet/en sportsklub. Jeg synes også, det er en god ide at deltage i forskellige sociale arrangementer på arbejde, hvor din kæreste kan have mulighed for at øve sig på dansk/at øve sit danske (sprog), når han allerede har lært noget dansk.* 
+
+It’s also possible to use the verb to ‘ask’ in its Danish equivalents: *at spørge* and *at bede*. 
+*At spørge* is used to ask about information or facts (='to interrogate') while *at bede* means to ask to do something or to give something or do a favour.*
+> *Du spørger om, hvordan (SV) jeg synes, (at) man kan lære dansk hurtigere. (nutid)*
+> *Du spurgte (datid) mig, om jeg ville (datid) komme til at savne skolen. (datid) Det tror jeg helt sikkert, jeg vil. (nutid, hvor jeg mener fremtiden).*
+> *Du spørger mig om (about), hvordan man kan tilmelde sig et danskkursus.* 
+> *Du spørger mig om, hvorvidt det er en god ide at melde sig ind i en sportsklub.*
+
+To avoid writing two times *om*, use *hvorvidt* in the subordinate clause in the meaning ‘if/whether’. 
+> *Jeg spørger, om (if/whether) det er en god ide.*
+> *Du spørger i din email om, hvorvidt det er en godt ide.*
+
+
 
 
 
