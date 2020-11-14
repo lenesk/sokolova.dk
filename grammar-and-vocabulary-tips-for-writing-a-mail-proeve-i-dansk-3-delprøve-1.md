@@ -177,12 +177,26 @@ E.g.
 > *Peter sagde sin stilling op på grund af overarbejde.* 
 
 Very often, while describing the cause, you need to say a word about the consequences. You can use *derfor* and *så*. 
+
 *Derfor* (an adverb) => VS 
 > *Peter havde altid overarbejde, derfor besluttede han at sige op.* 
 
-> *så* (a main clause conjuntion) => SV Peter havde altid overarbejde, så han besluttede han at sige op. 
-e.g. 
-Du spurgte (datid) mig om, hvorfor jeg ville (datid) sige min stilling op. Jeg synes nemlig, at der er for mange ting samtidigt, som jeg er træt af. For det første/Det største problem er, at jeg næsten altid må arbejde over uden af få ekstra i løn. For det andet har jeg tit aftenvagter, hvilket ikke fungerer positivt for mit familieliv. Jeg synes også efterhånden, jeg har erfaring nok til at prøve at søge i en anden branche. Derfor har jeg sagt op og er på udkig efter nye udfordringer. 
+> *Så* (a main clause conjuntion) => SV 
+> *Peter havde altid overarbejde, så han besluttede han at sige op.*
+
+When you make a list of reasons:
+
+> *Du spurgte (datid) mig om, hvorfor jeg ville (datid) sige min stilling op. Jeg synes nemlig, at der er for mange ting samtidigt, som jeg er træt af. For det første må jeg næsten altid arbejde over uden af få ekstra i løn. For det andet har jeg tit aftenvagter, hvilket (= 'which' referring to the whole previous main sentence) ikke fungerer positivt for mit familieliv. Jeg synes også efterhånden, jeg har erfaring nok til at prøve at søge i en anden branche. Derfor har jeg sagt op og er på udkig efter nye udfordringer.*
+
+
+### To argument for or against an idea (to assess a decision/idea in the original mail) (*at vurdere*)
+
+Possible questions in the task email: *Synes du, det er en god ide at sige ‘ja’ til et praktikforløb i Tyskland?*
+
+> *Jeg synes både, der er ulemper og fordele ved at lave praktik i udlandet. Men det er helt sikkert, at der er langt flere fordele. For det første vil du få ny faglig viden og få udvidet dit netværk. Det er altid en fordel at prøve, hvor omstillingsparat du er, og det kan du nemlig øve dig i, når du skal afsted i 6 måneder i et andet land uden familie eller venner. Jeg er helt sikker på, at det efterfølgende vil se attraktivt ud i dit CV, når skal søge et rigtigt fuldtidsjob. På den anden side kan det være lidt hårdt for dig at at bo et nyt sted uden familie eller venner i nærheden af, og lønnen er heller ikke særlig høj. Til gengæld er priser i Tyskland heller ikke så høje som i Danmark, så du kan strække dine opsparinger i længere tid. Det tager også tid at vænne sig til en anden kultur og et nyt sprog, men tysk er jo heller ikke så anderledes som dansk, især i ordforråd, så du vil kunne forstå meget. Så alt i alt er det værd at prøve, synes jeg.*
+
+
+
 
 
 
