@@ -160,13 +160,18 @@ You suggest to meet.
 
 ### To clarify or explain the reason 
 In the PD3 email task, the original email may often contain a prompt to explaining things. In other words, you are checked whether you can write about the cause and consequence. 
-You can use *fordi* (*+ledsætning SAV*) or *for* (remember main clause word order SVA). The following connectors to express clarification or to give a reason. The minor difference between the two conjunctions is that ‘for’ provides a clarification, while ‘fordi’ describes the cause. 
+You can use *fordi* (*+ledsætning SAV*) or *for* (remember main clause word order SVA). The following connectors express clarification or give a reason. The minor difference between the two conjunctions is that ‘for’ provides a clarification, while ‘fordi’ describes the cause. 
 
-Other structures used to describe the cause
-Det skyldes, at… = Der er fordi ... = It is cause by the fact, that… 
-e.g. Min beslutgning om at tage et sabbatår skyldes, at jeg ikke er sikker på, hvad jeg skal læse videre på universitetet. 
-Der er flere årsager til det/til denne situation. 
-Der er flere årsager tit, at (+ SAV)...
+Other structures used to describe the cause:
+
+> *Det skyldes, at… = Der er fordi ...* = It is cause by the fact, that… 
+
+E.g. 
+> * Min beslutning om at tage et sabbatår skyldes, at jeg ikke er sikker på, hvad jeg skal læse videre på universitetet.* 
+
+> * Der er flere årsager til det/til denne situation.* 
+
+> * Der er flere årsager tit, at (+ SAV)...* 
 
 
 
