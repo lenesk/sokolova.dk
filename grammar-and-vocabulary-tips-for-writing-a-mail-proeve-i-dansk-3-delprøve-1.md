@@ -141,7 +141,7 @@ Mind, this sentence means, that you have already booked the tickets and want to 
 > *Hvad synes du, vi skal se?*
 This sentence means, that you have not booked the tickets to the cinema yet, and is awaiting for your friend’s suggestion or any ideas for a movie.
 
-> *Hvad synes du om at mødes i weekenden? = What to you think about meeting? 
+> *Hvad synes du om at mødes i weekenden?* = What to you think about meeting? 
 You suggest to meet. 
 
 > *Jeg synes også, det er en god ide at mødes i weekenden.* 
