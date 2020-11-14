@@ -25,8 +25,11 @@ Here below is the example of Delprøve 1 from May, 2020 ![Delprøve 1 from May, 
 
 In the example from the exam paper given above you have to answer the following questions:  
 > *Tror du, du kommer til at savne skolen?*
+
 > *Har du nogen idéer til, hvad vi kan gøre, så Laszlo hurtigere lærer dansk?*
+
 > *Hvad gjorde du egentlig for at få nogle danske venner?*
+
 > *Og så glæder jeg mig til at ses næste weekend. Hvad synes du, vi skal lave?*
 
 ## Help your brain to think about one problem at a time
