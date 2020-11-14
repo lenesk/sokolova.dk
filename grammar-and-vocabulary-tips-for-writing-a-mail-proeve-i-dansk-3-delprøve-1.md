@@ -15,14 +15,19 @@ Here below is the example of Delprøve 1 from May, 2020 ![Delprøve 1 from May, 
 
 ![Delprøve 1 from May, 2020](en-e-mail-opgave-pd3.png) 
 
-## Make sure you have understood the original task mail
+## Make sure you have understood the original task email
 
-Read the whole original email of the task and make sure, you have understood all the words and the situation. It will be a fiasco to realize after the exam, you have misunderstood the email and wrote something irrelevant. Look up new words, if needed. 
-Count how many questions there are in the task email. They all are underlined. In the example from the exam paper above you have to answer the following questions: 
-Tror du, du kommer til at savne skolen?
-Har du nogen idéer til, hvad vi kan gøre, så Laszlo hurtigere lærer dansk?
-Hvad gjorde du egentlig for at få nogle danske venner?
-Og så glæder jeg mig til at ses næste weekend. Hvad synes du, vi skal lave?
+* Read the whole original email of the task and make sure, you have understood all the words and the situation. 
+* It will be a fiasco to realize after the exam, you have misunderstood the email and wrote something irrelevant. 
+* Look up new words, if needed. 
+* Count how many questions there are in the task email. 
+* They all are underlined. 
+
+In the example from the exam paper given above you have to answer the following questions:  
+> *Tror du, du kommer til at savne skolen?*
+> *Har du nogen idéer til, hvad vi kan gøre, så Laszlo hurtigere lærer dansk?*
+> *Hvad gjorde du egentlig for at få nogle danske venner?*
+> *Og så glæder jeg mig til at ses næste weekend. Hvad synes du, vi skal lave?*
 
 ## Help your brain to think about one problem at a time
 
