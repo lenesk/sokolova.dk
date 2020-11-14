@@ -177,8 +177,10 @@ E.g.
 > *Peter sagde sin stilling op på grund af overarbejde.* 
 
 Very often, while describing the cause, you need to say a word about the consequences. You can use *derfor* and *så*. 
-derfor (an adverb) => VS Peter havde altid overarbejde, derfor besluttede han at sige op. 
-så (a main clause conjuntion) => SV Peter havde altid overarbejde, så han besluttede han at sige op. 
+*Derfor* (an adverb) => VS 
+> *Peter havde altid overarbejde, derfor besluttede han at sige op.* 
+
+> *så* (a main clause conjuntion) => SV Peter havde altid overarbejde, så han besluttede han at sige op. 
 e.g. 
 Du spurgte (datid) mig om, hvorfor jeg ville (datid) sige min stilling op. Jeg synes nemlig, at der er for mange ting samtidigt, som jeg er træt af. For det første/Det største problem er, at jeg næsten altid må arbejde over uden af få ekstra i løn. For det andet har jeg tit aftenvagter, hvilket ikke fungerer positivt for mit familieliv. Jeg synes også efterhånden, jeg har erfaring nok til at prøve at søge i en anden branche. Derfor har jeg sagt op og er på udkig efter nye udfordringer. 
 
