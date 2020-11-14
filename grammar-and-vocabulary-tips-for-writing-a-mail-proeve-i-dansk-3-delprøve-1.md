@@ -94,7 +94,7 @@ You use *synes*, when you make a suggestion or propose an idea, which can be dis
 Remember that *ikke, også, altid, aldrig, gerne, måske* come immediately after *tro/synes.* 
 > *Jeg synes dog ikke, det giver mening eller er særlig nyttigt at se film eller tv-serier på dansk, hvis din kæreste er nybegynder. Jeg synes helt bestemt, at din kæreste først skal lære mere udtale, for hvis man kan udtale rigtigt, vil man også kunne forstå mere, når man lytter.> *
 
-## Grammar tips fоr the pragmatic focus in the email writing
+## Grammar tips fоr the communicative focus in the email writing
 
 ### Verbal tenses for describing or telling a story (at beskrive & at fortælle)
 Imagine such a sentence in the original mail: 
@@ -124,6 +124,31 @@ When you complain to someone you know well or when you are telling about a bad e
 ###### An informal complaint:
 > *Jeg var meget ked af at opdage, at mit værelse på hotellet ikke svarede til de billeder, som jeg havde set på nettet. Der stod meget slidte møbler og værelset var ikke ordentligt rengjort. Du ved jo godt, at jeg altid prøver at være venlig, men denne gang måtte jeg klage og fik heldigvis et andet værelse. Men det havde desværre udsigt over for en central gade med cafeer og barer, så der var meget larm, og der spillede høj musik, så vi kunne ikke engang sove om natten. Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen, så det vil jeg gøre næste gang… Men maden var fantastisk på hotellet, så det gjorde vores ophold nogenlunde ok. Dog ville jeg ønske, at der også havde været en mulighed for at tilkøbe ekstra måltider på stedet.*
 
+What verb tenses to choose?
+
+You list the things, which you did not like in genereal in the past - use past simple (*datid*): 
+> *Denne gang måtte jeg klage og fik heldigvis et andet værelse.*
+
+You think back about what you should or should not have done in the past prior to the holiday - use past perfect (*førdatid*). 
+> *Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen …> *
+
+## To make an offer/a suggestion or to suggest to meet/to do an activity together 
+(*at foreslå* - to suggest)
+You will mosty use modal verbes + infinitive: 
+> *Vi skal i biografen - hvad tror du, vi skal se.* 
+Mind, this sentence means, that you have already booked the tickets and want to surprise your friend. 
+
+> *Hvad synes du, vi skal se?*
+This sentence means, that you have not booked the tickets to the cinema yet, and is awaiting for your friend’s suggestion or any ideas for a movie.
+
+> *Hvad synes du om at mødes i weekenden? = What to you think about meeting? 
+You suggest to meet. 
+
+> *Jeg synes også, det er en god ide at mødes i weekenden.* 
+> *Hvad siger du til at tage i biografen sammen/tage på en skovtur sammen?*  
+> *Jeg synes helt bestemt, vi skal mødes! - You agree to meet or confirm, you also want to meet.*  
+> *Jeg vil så gerne mødes med dig og lære din nye kæreste at kende. Hvad med at tage hen på Cafe Blomsterberg fredag aften?*
+> *Synes du ikke, vi kunne mødes, så vi kan tale mere om det?*
 
 
 
