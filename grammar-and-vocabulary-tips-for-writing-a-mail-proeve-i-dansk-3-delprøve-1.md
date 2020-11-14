@@ -34,6 +34,25 @@ In the example from the exam paper given above you have to answer the following 
 Write down your ideas in keywords for each question. It will help you to focus your attention on accuracy and grammar when you will start writing. In other words, your exam stressed brain will have to multitask less. It’s a known fact that when you make up the sentence and think about what to write, it seems for necessary that making a correct word order. But you will free your mind of this ‘what-to-write-about’ load if you put down key words before formulating full sentences. 
 
 ## How to write the greeting
-It’s essential to keep the focus on what you are asked about in the task email, which you are writing an answer to. Anyway, any email should start with an informal greeting. 
-Never put a comma after the person you greet, unlike in English. An exclamations mark may be used, but some people consider it too emotional or old-fashioned. 
+* It’s essential to keep the focus on what you are asked about in the task email, which you are writing an answer to. 
+* Anyway, any email should start with an informal greeting. 
+* Never put a comma after the person you greet, unlike in English. 
+* An exclamations mark may be used, but some people consider it too emotional or old-fashioned. 
+
+E.g. 
+
+> *Kære Lukas*
+> *Tak for din e-mail. Det var godt at høre fra dig.* 
+___________________________
+or 
+> *Hej Lukas*
+> *Hvor er det dejligt, at du har skrevet - tak for din sidste e-mail. Jeg håber også, alt er vel hos dig.* 
+... 
+Mange hilsner/Venlige hilsner/Kærlig hilsen/Bedste hilsner/Med venlig hilsen
+Lukas
+
+Mind the plural and singular forms of ‘en hilsen’ - hilsner
+
+
+
 
