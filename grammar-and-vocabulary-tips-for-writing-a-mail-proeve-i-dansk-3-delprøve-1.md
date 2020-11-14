@@ -130,7 +130,7 @@ You list the things, which you did not like in genereal in the past - use past s
 > *Denne gang måtte jeg klage og fik heldigvis et andet værelse.*
 
 You think back about what you should or should not have done in the past prior to the holiday - use past perfect (*førdatid*). 
-> *Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen …> *
+> *Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen …*
 
 ## To make an offer/a suggestion or to suggest to meet/to do an activity together 
 (*at foreslå* - to suggest)
@@ -140,15 +140,21 @@ You will mosty use modal verbes + infinitive:
 Mind, this sentence means, that you have already booked the tickets and want to surprise your friend. 
 
 > *Hvad synes du, vi skal se?*
+
 This sentence means, that you have not booked the tickets to the cinema yet, and is awaiting for your friend’s suggestion or any ideas for a movie.
 
 > *Hvad synes du om at mødes i weekenden?* = What to you think about meeting? 
+
 You suggest to meet. 
 
 > *Jeg synes også, det er en god ide at mødes i weekenden.* 
+
 > *Hvad siger du til at tage i biografen sammen/tage på en skovtur sammen?*  
-> *Jeg synes helt bestemt, vi skal mødes! - You agree to meet or confirm, you also want to meet.*  
+
+> *Jeg synes helt bestemt, vi skal mødes! - You agree to meet or confirm, you also want to meet.*
+
 > *Jeg vil så gerne mødes med dig og lære din nye kæreste at kende. Hvad med at tage hen på Cafe Blomsterberg fredag aften?*
+
 > *Synes du ikke, vi kunne mødes, så vi kan tale mere om det?*
 
 
