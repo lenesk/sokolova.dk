@@ -80,6 +80,49 @@ To avoid writing two times *om*, use *hvorvidt* in the subordinate clause in the
 > *Du spørger i din email om, hvorvidt det er en godt ide.*
 > *Du beder mig/har bedt om at fortælle dig, hvad jeg gjorde for at lære dansk.* 
 
+## Tror or synes?
+
+You use *tro* about a prognosis, which you are not sure about because you do not have any personal experience with it or you do not know, what the factual information about it is like. Or you may not know whether the answer is true or false, and it may be based on facts and objective conditions. 
+
+E.g. 
+> *Jeg tror, jeg vil savne skolen.* => The time will show, whether I will miss the school.
+
+You use *synes*, when you make a suggestion or propose an idea, which can be discussed. In other words, what you suggest can be discussed and other people may think differently about  and is more based on your personal/subjective view. 
+> *Jeg synes, der er mange ting, (som) din kæreste kan gøre for at lære dansk hurtigere.* 
+> *Jeg synes f.eks./måske/heller ikke/næsten altid, at det kan hjælpe ham at gå til nogle fritidsaktiviteter, hvor man kan bruge sproget og få venner, som har samme interesser og er modersmålstalende.*
+
+Remember that *ikke, også, altid, aldrig, gerne, måske* come immediately after *tro/synes.* 
+> *Jeg synes dog ikke, det giver mening eller er særlig nyttigt at se film eller tv-serier på dansk, hvis din kæreste er nybegynder. Jeg synes helt bestemt, at din kæreste først skal lære mere udtale, for hvis man kan udtale rigtigt, vil man også kunne forstå mere, når man lytter.> *
+
+## Grammar tips fоr the pragmatic focus in the email writing
+
+### Verbal tenses for describing or telling a story (at beskrive & at fortælle)
+Imagine such a sentence in the original mail: 
+> *Hvordan går det med din jobsøgning? Jeg håber, det går fremad, og det lykkedes (for) dig at finde et job.*
+
+You will need to use present simple, past simple and present perfect.
+> *Er det lykkedes dig at finde et nyt job?* = Have you succeed in finding a job  - The questions is in the present perfect. What are the options to answer?
+
+> * Ja, det gjorde det. Jeg har endelig fået et nyt job hos Vestas.* 
+Focus on the result without exact time indication => *førnutid* = present perfect. 
+
+> * Ja, det lykkedes for mig, jeg fik heldigvis et nyt job i Vestas i sidste måned. 
+You give an exact time indication, so use *datid* = past simple. 
+
+> * Nej, det lykkedes desværre ikke for mig i sommer. Jeg søger stadig, og nu har jeg snart været arbejdsløs i tre måneder. Men der er også gode nyheder - jeg har fået svar på en af mine mange ansøgninger fra et firma, og de vil gerne se mig til en jobsamtale om tre uger … 
+You tell about status as per today, so use *nutid* = present simple & *førnuti*d = present perfect.
+
+### To complain or express you are said about smth (at klage over noget)
+When you complain to an authorized institution or a shop, for instance, you need to persuade and call to action. 
+
+###### A formal complaint: to a shop’s customers’ service. 
+
+> *Jeg må desværre meddele, at den vare/den sovesofa, som I har sendt til mig har flere produktionsfejl. For det første er der flere pletter på betrækket. For det andet mangler der et par skruer i pakken. Derudover er der nogle ridser på det ene af benene. Jeg vil derfor gerne høre om, hvorvidt det er muligt at få sofaen byttet til en anden i samme farve/model. Jeg håber også, jeg ikke selv vil skulle betale for afhentning af varen og levering af den nye. På forhånd tak for hjælpen.*
+
+When you complain to someone you know well or when you are telling about a bad experience, for instance replying a mail, where a person asks you, what was wrong with your holiday and why it was a bad experience. 
+
+###### An informal complaint:
+> *Jeg var meget ked af at opdage, at mit værelse på hotellet ikke svarede til de billeder, som jeg havde set på nettet. Der stod meget slidte møbler og værelset var ikke ordentligt rengjort. Du ved jo godt, at jeg altid prøver at være venlig, men denne gang måtte jeg klage og fik heldigvis et andet værelse. Men det havde desværre udsigt over for en central gade med cafeer og barer, så der var meget larm, og der spillede høj musik, så vi kunne ikke engang sove om natten. Det var selvfølgelig min skyld, at jeg ikke havde valgt et børnevenligt hotel lidt uden for byen, så det vil jeg gøre næste gang… Men maden var fantastisk på hotellet, så det gjorde vores ophold nogenlunde ok. Dog ville jeg ønske, at der også havde været en mulighed for at tilkøbe ekstra måltider på stedet.*
 
 
 
