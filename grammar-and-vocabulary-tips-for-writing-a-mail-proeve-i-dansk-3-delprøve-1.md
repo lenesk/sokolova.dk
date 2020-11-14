@@ -48,10 +48,10 @@ or
 > *Hej Lukas*
 > *Hvor er det dejligt, at du har skrevet - tak for din sidste e-mail. Jeg håber også, alt er vel hos dig.* 
 ... 
-Mange hilsner/Venlige hilsner/Kærlig hilsen/Bedste hilsner/Med venlig hilsen
-Lukas
+> *Mange hilsner/Venlige hilsner/Kærlig hilsen/Bedste hilsner/Med venlig hilsen*
+> *Lukas
 
-Mind the plural and singular forms of ‘en hilsen’ - hilsner
+Mind the plural and singular forms of *‘en hilsen’ - hilsner*
 
 
 
