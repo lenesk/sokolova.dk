@@ -42,10 +42,12 @@ Write down your ideas in keywords for each question. It will help you to focus y
 E.g. 
 
 > *Kære Lukas*
+
 > *Tak for din e-mail. Det var godt at høre fra dig.* 
 
 or 
 > *Hej Lukas*
+
 > *Hvor er det dejligt, at du har skrevet - tak for din sidste e-mail. Jeg håber også, alt er vel hos dig.* 
 ... 
 > *Mange hilsner/Venlige hilsner/Kærlig hilsen/Bedste hilsner/Med venlig hilsen*
