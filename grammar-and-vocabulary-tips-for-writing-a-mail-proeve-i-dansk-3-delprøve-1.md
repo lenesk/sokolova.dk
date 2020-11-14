@@ -8,7 +8,9 @@ Mail writing is the task where your writing skills for informal writing are asse
 
 The focus of the email task is to answer the questions in the task email. That would imply such speech acts as description, narration (elements of storytelling), suggestion, explanation and giving comments. Here below is a screenshot from the guidelines for PD3. There the task is described in terms of the focus aspects in it. These focus parts make the ground for the assessment criteria, not to mention the high level of general literacy and correct language use.
 
-Here below is the example of Delprøve 1 from May, 2020 ![Delprøve 1 from May, 2020](/delproeve-1-en-e-mail.png) (en-e-mail-opgave-pd3.png) 
+![Vejldening for Prøve i Dansk 3](proevegrundlag-delproeve-1.png)
+
+Here below is the example of Delprøve 1 from May, 2020 ![Delprøve 1 from May, 2020](/delproeve-1-en-e-mail.png)  
 
 ![Delprøve 1 from May, 2020](en-e-mail-opgave-pd3.png) 
 
