@@ -43,7 +43,7 @@ E.g.
 
 > *Kære Lukas*
 > *Tak for din e-mail. Det var godt at høre fra dig.* 
-___________________________
+
 or 
 > *Hej Lukas*
 > *Hvor er det dejligt, at du har skrevet - tak for din sidste e-mail. Jeg håber også, alt er vel hos dig.* 
@@ -69,6 +69,7 @@ For example:
 
 It’s also possible to use the verb to ‘ask’ in its Danish equivalents: *at spørge* and *at bede*. 
 *At spørge* is used to ask about information or facts (='to interrogate') while *at bede* means to ask to do something or to give something or do a favour.*
+> *Du beder mig/har bedt om at fortælle dig, hvad jeg gjorde for at lære dansk.* 
 > *Du spørger om, hvordan (SV) jeg synes, (at) man kan lære dansk hurtigere. (nutid)*
 > *Du spurgte (datid) mig, om jeg ville (datid) komme til at savne skolen. (datid) Det tror jeg helt sikkert, jeg vil. (nutid, hvor jeg mener fremtiden).*
 > *Du spørger mig om (about), hvordan man kan tilmelde sig et danskkursus.* 
@@ -77,7 +78,7 @@ It’s also possible to use the verb to ‘ask’ in its Danish equivalents: *at
 To avoid writing two times *om*, use *hvorvidt* in the subordinate clause in the meaning ‘if/whether’. 
 > *Jeg spørger, om (if/whether) det er en god ide.*
 > *Du spørger i din email om, hvorvidt det er en godt ide.*
-
+> *Du beder mig/har bedt om at fortælle dig, hvad jeg gjorde for at lære dansk.* 
 
 
 
