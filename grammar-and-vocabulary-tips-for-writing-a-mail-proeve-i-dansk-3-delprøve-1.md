@@ -135,6 +135,7 @@ You think back about what you should or should not have done in the past prior t
 ## To make an offer/a suggestion or to suggest to meet/to do an activity together 
 (*at foreslå* - to suggest)
 You will mosty use modal verbes + infinitive: 
+
 > *Vi skal i biografen - hvad tror du, vi skal se.* 
 Mind, this sentence means, that you have already booked the tickets and want to surprise your friend. 
 
