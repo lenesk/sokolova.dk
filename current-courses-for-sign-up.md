@@ -1,6 +1,6 @@
-# Online Studieprøven Prep Course/Online Forberedelse til Studieprøven (C1)
+# Online Studieprøven Prep Course (8-10 students)/Online Forberedelse til Studieprøven (C1)
 
-C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | Wednesdays 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
+C1 Studieprøven Prep Course | 06.01.2021 - 21.04.2021 | Wednesdays 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
@@ -29,7 +29,7 @@ The course has a first-come-first-served admission.
 ### Admission requirements
 This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
-Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
+Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would like to know more about the sign up.  
 
 After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
