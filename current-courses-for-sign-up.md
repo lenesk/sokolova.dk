@@ -1,6 +1,6 @@
 # Online Studieprøven Prep Course/Online Forberedelse til Studieprøven (C1)
 
-C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
+C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | Wednesdays 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
@@ -34,12 +34,13 @@ Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you
 After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
 Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
-### Four reasons to take a training course running right up to the exam:
+### Five reasons to take a training course running right up to the exam:
 
 * you get ready for the exam in a smaller group class (8-10 students);
-* prep curriculum is stretched over 11 sessions for efficient assimilation of material;
+* prep curriculum is stretched over 14 sessions for an efficient assimilation of the study material;
 * access to preparing materials;
-* well-structured lessons with a focus on all the aspects of the exam content. 
+* well-structured lessons with a focus on all the aspects of the exam content;
+* all the materials and feedback on home assignments are inlcuded in the prise. 
 
 
 ### Why choose a once-per-week course? 
