@@ -1,6 +1,6 @@
 # Online Studieprøven Prep Course (8-10 students)/Online Forberedelse til Studieprøven (C1)
 
-C1 Studieprøven Prep Course (small group) | 06.01.2021 - 21.04.2021 | Wednesdays 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
+C1 Studieprøven Prep Course (small group) | January 6th-April 21st (2021) | Wednesdays 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
