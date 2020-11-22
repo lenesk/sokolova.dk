@@ -36,7 +36,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 [Online group classes (8-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
 
-<a class="btn" href="current-courses-for-sign-up">Online Forberedelse til Studieprøven (C1) </a>
+<a class="btn" href="current-courses-for-sign-up"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
 
 ## Blog  
  * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
