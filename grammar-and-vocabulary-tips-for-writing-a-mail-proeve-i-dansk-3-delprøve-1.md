@@ -98,7 +98,8 @@ You use *synes*, when you make a suggestion or propose an idea, which can be dis
 > *Jeg synes f.eks./måske/heller ikke/næsten altid, at det kan hjælpe ham at gå til nogle fritidsaktiviteter, hvor man kan bruge sproget og få venner, som har samme interesser og er modersmålstalende.*
 
 Remember that *ikke, også, altid, aldrig, gerne, måske* come immediately after *tro/synes.* 
-> *Jeg synes dog ikke, det giver mening eller er særlig nyttigt at se film eller tv-serier på dansk, hvis din kæreste er nybegynder. Jeg synes helt bestemt, at din kæreste først skal lære mere udtale, for hvis man kan udtale rigtigt, vil man også kunne forstå mere, når man lytter.> *
+
+> *Jeg synes dog ikke, det giver mening eller er særlig nyttigt at se film eller tv-serier på dansk, hvis din kæreste er nybegynder. Jeg synes helt bestemt, at din kæreste først skal lære mere udtale, for hvis man kan udtale rigtigt, vil man også kunne forstå mere, når man lytter.*
 
 ## Grammar tips fоr the communicative focus in the email writing
 
