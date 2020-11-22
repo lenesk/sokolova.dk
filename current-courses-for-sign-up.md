@@ -1,28 +1,8 @@
+# Online Studieprøven Prep Course
 
-# Online Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
+C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
-## Datoer og tid
-* den 21. september - 9. november
-* 7 online mødegange i Zoom 
-* mandage 17:00-18:45
-* hele kurset: 14 lektioner
-
-### Bliv klar til den skriftlige fremstilling på 14 lektioner
-
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.2800</a>
-
-<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
-Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang. 
-
-
-## Fleksibel tilmelding 
-* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Du kan vælge at tilmelde dig hele kurset på én gang eller enkelt(e) dag(e). 
-* Hvis du ønsker at tilmelde dig en enkelt dag, skal du gøre det senest 3 dage før dagens program. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
-* Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
-
-Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
+The course has a first-come-first-served admission. 
 
 <style>
 .btn {
@@ -45,78 +25,59 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 }
 </style>
 
-# Kursusprogram
 
-## Dag 1 Forbindeord, syntaks og tekstsammenhæng 
-<a class="btn" href="https://elenasokolova.podia.com/fdd45ce4-2e0e-4eac-b21a-9c49471ab098/buy"> Tilmelding kr.200</a>
-Mandag den 21. septemeber kl. 17:00-19:00
-* Introduktion til den Skriftlige fremstilling i PD3.
-* Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
-* Forbindeord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
-* Du vil øve dig i at kategorisere forbindeord og vil øve dig i at konstruere sætninger med forbideord. 
+### Admission requirements
+This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
 
+Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
 
-## Dag 2  Forbindeordenes betydning 
-<a class="btn" href="https://elenasokolova.podia.com/5a3c68d4-8ff6-4aab-b191-03ad1b783b1f/buy"> Tilmelding kr.200</a>
-Mandag den 28. septemeber kl. 17:00-19:00    
-* Du vil lære, hvad enkelte forbindeord betyder.
-* Forbindeord med samme betydning: du lærer, hvordan man bruger synonymer på tværs af forskellige grupper forbindeord. 
-* Du vil lære at skrive komplekse sætninger. 
+After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
+Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
+
+### Four reasons to take a training course running right up to the exam:
+
+* you get ready for the exam in a smaller group class (8-10 students);
+* prep curriculum is stretched over 11 sessions for efficient assimilation of material;
+* access to preparing materials;
+* well-structured lessons with a focus on all the aspects of the exam content. 
 
 
-## Dag 3   Quiz og øvelser til forbindeord
-<a class="btn" href="https://elenasokolova.podia.com/8da85aef-e544-403b-8eb5-9d30467fd409/buy"> Tilmelding kr.200</a>
-Mandag den 5. oktober kl. 17:00-19:00
-*  Quiz og øvelser - vi arbejder med forskellige minitekster og laver indsætningsøvelser med forbindeord. 
-* Alle tekster er opbygget sådan, at du også øver 2 Delprøve 2B i Læseforståelse . 
+### Why choose a once-per-week course? 
+
+* Best time option for busy professionals and motivated students. 
+
+* From my teaching experience and from the feedback, I got from my students, I can say that it is most efficient to do a Studieprøve course when you can spread the homework, e.g., writing an essay or watching a tv-program another day over more than two days. You can plan and manage your time from class to class and probably even review your training essay twice. 
+
+* If you are thinking of doing the class, having a full-time job, you will be happy you have scheduled one day in your weekly calendar for the Danish course. 
+
+* Having six days between the classes would give you time to accumulate material and work at your own pace.
+
+* An online class/session of 3 academic hours per day in a small group will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.  
 
 
-## Dag 4   Argumenterende tekst
-<a class="btn" href="https://elenasokolova.podia.com/fe5a2497-0c04-4f86-bd69-f7c25c30ff94/buy"> Tilmelding kr.200</a>
-Mandag den 19. oktober kl. 17:00-19:00
-*  Modeltekst. Vi arbejder med at analysere et eksempel på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
-*  Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst. 
-*  Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
-*  Du vil øve dig i at formulere dele af en argumenterende tekst. 
+### Why 11 sessions?
+
+It takes time to get ready to Studieprøven, to understand the structure of the exam, and try writing an essay one step at a time. Think that you had to write an academic essay about genetically modified foods or analyze statistics about the education policy in Denmark? Think of the length of the exam - 3 hours for Writing the essay part of the written exam and the Reading part of 1,5 hours. Hence, you need time to practice the language and accumulate vocabulary to develop reading, writing, and speaking skills in academic Danish (C1). You have probably been learning English for years to master a language, so the time matters. 
+
+--------------------------------------------
+
+### The focus of the course
+ 
+* The course covers several broader topics that lay the foundation for the content of the exam materials. 
+* You will receive personal feedback on the Writing part of the exam (Skriftlig fremstilling).
+* You will regularly practice doing Reading tasks from previous years’ exam sheets. 
+* You will learn how to structure your presentation for the oral exam based on the official assessment criteria. 
+* You will learn how to manage your time during the exam and try to complete all the mock exam tasks in the exam time limits.  
+
+The course has a focus on building a substantial vocabulary at C1 level and practicing pragmatic skills in Danish, needed to pass the exam. You will do much more than just discussing the answers to exam sets. You will work with various language inputs (latest newspaper articles, tv-programs, podcasts, topic-related texts for High School natives), functional grammar, and syntax. All the study materials have a focus on preparing you to Studieprøven. All the study materials are provided free of charge.
+
+-----------------------------------------
+
+### What is Studieprøven? 
+
+Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark. 
+You can find samples of exam sets from last year here to assess the level of complexity: https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
+
+### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can also schedule a short meeting in Zoom, if you want to ask questions in person. 
 
 
-## Dag 5  Onlne Skriveværksted
-<a class="btn" href="https://elenasokolova.podia.com/15095b33-3179-4138-a7d4-3be0ec2ec292/buy"> Tilmelding kr.200</a>
-Mandag den 26. oktober kl. 17:00-19:00
-*  Onlne Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
-*  Du vil bagefter have mulighed for at skrive en hel argumenterende tekst LIVE online og få løbende individuel hjælp og vejledning af læreren.  
-*  Efter dagens undervisning får du mulighed at sende din opgave og få den rettet. 
-
-
-## Dag 6  Statistiksprog
-<a class="btn" href="https://elenasokolova.podia.com/0972aeb2-796e-4571-9b2a-597739df98c4/buy"> Tilmelding kr.200</a>
-Mandag den 2. november kl. 17:00-19:00
-*  Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
-*  Du lærer at forstå statistikkerne og beskrive dem. 
-*  Du får konkrete eksempler på, hvordan man kan starte opgaven. 
-*  Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
-
-## Dag 7 E-mail skrivning
-<a class="btn" href="https://elenasokolova.podia.com/6ddc3293-f17c-4f64-8758-a54f99076ef5/buy"> Tilmelding kr.200</a>
-Mandag den 9. november kl. 17:00-19:00
-
-*  Du lærer at strukturere din e-mail kommunikativt relevant. 
-*  Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
-*  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mailopgaven (at fortælle om fremtiden og fortiden). 
-*  Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
-
-## Undervisningsmaterialet
-<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
-
-Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
-Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
-Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
-
-## Niveauet
-
-Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
-Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt DU3 modul 5. 
-
-
-SokolovaDK CVR-nr.: 41433876
