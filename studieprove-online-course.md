@@ -1,8 +1,6 @@
 # Online Studieprøven Prep Course
 
-C1 Saturday Studieprøven Prep Course (8-10 students)| 5.09 - 14.11 | 9:00-12:30 | 44 lessons/11 weeks | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay for C1 Saturday</a>
-
-C1 Monday Studieprøven Prep Course (8-10 students)| 24.08 - 2.11 | 17:00-20:30 | 44 lessons/11 weeks  | 4796 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-prep-course">Enroll & pay for C1 Monday</a>
+C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-online-studieproven-saturday-prep-course">Enroll & pay y</a>
 
 The course has a first-come-first-served admission. 
 
@@ -54,7 +52,7 @@ Should you change your mind after the first class, you have an unconditional mon
 
 * Having six days between the classes would give you time to accumulate material and work at your own pace.
 
-* A class/session of 4 academic hours per day will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.  
+* An online class/session of 3 academic hours per day in a small group will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.  
 
 
 ### Why 11 sessions?
