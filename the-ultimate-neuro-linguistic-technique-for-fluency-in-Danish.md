@@ -14,7 +14,7 @@ I am not going to give you advice on how to improve your pronunciation, because 
 
 To say in advance, I always believed that nothing comes from nothing, as my teachers of Danish said once. So you need to put effort into at least trying, but the result will not wait long. Imagine, if you learn to ride a bike - it will not drive you on its own, even if it's an electric one, you need to train your brain to control it.  
 
-The secret technique, which may help any learner and what is most important at any level, is called shadowing. You do not need to have mastered a high level of Danish or passed PD3 with high grade to start practicing this technique every day or from time to time. I know some learners even started practising it in their mother tongue. The best thing about shadowing is that it's affordable for learners of all levels and will help you to boost your fluency at your level.  
+The secret technique, which may help any learner and what is most important at any level, is called shadowing. You do not need to have mastered a high level of Danish or passed PD3 with high grade to start practicing this technique every day or from time to time. I know some learners even started practicing it in their mother tongue. The best thing about shadowing is that it's affordable for learners of all levels and will help you to boost your fluency at your level.  
 
 ## What is shadowing?
 
@@ -26,7 +26,7 @@ I've been personally using the method during my training for a simultaneous inte
 
 ## What do you need for shadowing?
 
-To start shadowing, you'll need an audio track of a text/dialogue in Danish suitable for your level of proficiency, that you can play from a phone/computer in the headphones. The text/monologue is better to start training with.
+To start shadowing, you'll need an audio track of a text/dialogue in Danish suitable for your level of proficiency, that you can play from a phone/computer in the headphones. A text or a monologue is better to start training with.
 
 The length can be different, depending on how far you are in the shadowing training, but 2 minutes will be more than enough, to begin with. So you can decide to play only a part of the track if the original audio is too long. 
 
