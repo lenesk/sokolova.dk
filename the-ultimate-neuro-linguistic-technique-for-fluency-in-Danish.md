@@ -24,7 +24,7 @@ While shadowing, you listen to any text in your target language (Danish for Dani
 
 I've been personally using the method during my training for a simultaneous interpreter. I remember I was sweating in the beginning mumbling and missing words passing unrepeated by my ears. But then I had a lot of fun and thrill in the process, talking on adrenalin so to say. It gave me a real boot in fluency. 
 
-## What you need for shadowing?
+## What do you need for shadowing?
 
 To start shadowing, you'll need an audio track of a text/dialogue in Danish suitable for your level of proficiency, that you can play from a phone/computer in the headphones. The text/monologue is better to start training with.
 
