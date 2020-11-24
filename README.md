@@ -39,17 +39,20 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 <a class="btn" href="current-courses-for-sign-up"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
 
 ## Blog  
- * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
+
+* [The ultimate neuro-linguistic technique for fluency in Danish](the-ultimate-neuro-linguistic-technique-for-fluency-in-Danish)
+
+* [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
  
- * [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
+* [Grammar and vocabulary tips for describing data in the essay at Studieprøven](grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
  
- * [Small words – big difference: make your Danish sound more native-like](small-words-big-difference-make-your-danish-sound-more-native-like)
+* [Small words – big difference: make your Danish sound more native-like](small-words-big-difference-make-your-danish-sound-more-native-like)
  
- * [Så - is not just a function word: learn how the word order may change the meaning](saa-is-not-just-a-function-word.md)
+* [Så - is not just a function word: learn how the word order may change the meaning](saa-is-not-just-a-function-word.md)
  
- * [Describing percentage in Danish](describing-percentage-in-danish.md)
+* [Describing percentage in Danish](describing-percentage-in-danish.md)
  
- * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
+* [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
 
 ## About me
 
