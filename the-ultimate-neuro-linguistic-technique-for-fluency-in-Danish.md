@@ -47,7 +47,7 @@ Video input is not that suitable for shadowing unless you can turn the video off
 * Pre-phrase: get the audio feeling, not the content first!
 Listen to the whole text without pauses. Do not look in the text, just get the audio feeling of it. If it's a new text, you have never heard, never mind that you will not know a couple of words. 
 
-* Tune your self-discipline 
+* Tune your self-discipline.
 Make an agreement with yourself not to stand up from your chair in the next 2 minutes unless there is a fire, or someone needs your help urgently. 
 
 * You are as good or bad at as a native speaker is! 
