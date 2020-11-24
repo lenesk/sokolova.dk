@@ -36,7 +36,7 @@ It's also an excellent idea to have an audio recording program so that you can r
 
 So if you are a beginner/intermediate learner, it may even be a small text/dialogue from you study book, that you have already read and understood/discussed in class, and have a audio file for. That is to say - the native voicing for that. It may also be a new audio input, which you have not listened to before, but it must be suitable for your level. 
 
-You may have the text version of the audio, but it's important not to look in the text while repeating. You can look before you start shadowing or reread it between you 'shadowing trials', when you feel, that you have misunderstood something or did not catch some words.  
+You may have the text version of the audio, but it's important not to look in the text while repeating. You can look before you start shadowing or reread it between your 'shadowing trials', when you feel, that you have misunderstood something or did not catch some words.  
 
 It's not cheating, if you think, that you have already read the text and know all the words in it - even better for you - there will be less stress and more confidence to start with. 
 
