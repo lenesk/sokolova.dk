@@ -50,8 +50,8 @@ Listen to the whole text without pauses. Do not look in the text, just get the a
 * Tune your self-discipline.
 Make an agreement with yourself not to stand up from your chair in the next 2 minutes unless there is a fire, or someone needs your help urgently. 
 
-* You are as good or bad at as a native speaker is! 
-Say to yourself, that the first time of shadowing will definitely be a failure. Even native speakers cannot repeat a text they hear simultaneously. So you are qual on that point. 
+* You are as good or as bad at it as a native speaker! 
+Say to yourself, that the first time of shadowing will definitely be a failure. Even native speakers cannot repeat a text they hear simultaneously. So you are equal on that point. 
 
 * Now that you have listened once to the audio, you can start playing the track, repeating what the speaker says. So you need to repeat with least possible delay, what is being said.
 
