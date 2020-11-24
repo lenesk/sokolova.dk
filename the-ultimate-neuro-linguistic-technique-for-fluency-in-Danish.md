@@ -6,7 +6,9 @@ I am pretty sure you have met adult learners, who have mastered the Danish langu
 
 To put it clearly, I am not claiming that the knowledge of vocabulary and grammar is not essential in the context of fluency. No doubt that you may only learn to speak fluently when you also can respond fast and adequate to your interlocutor. To do so, your vocabulary and structuring the language communicatively relevant should be at the place. Everything works in symbiosis, but should often be trained for itself when you are an adult learner. 
 
-When adult learners mean fluency, they forget to take into account pure articulatory and auditive abilities, which they need to train. In this blog post, I am going to tell you about my personal experience with one technique, that helped me (and I know many other learners) in getting fluent and confident in speaking Danish. 
+## Articulation for fluency
+
+When adult learners mean 'fluency', they forget to take into account pure articulatory and auditive abilities, which they need to train. In this blog post, I am going to tell you about my personal experience with one technique, that helped me (and I know many other learners) in getting fluent and confident in speaking Danish.
 
 I am not going to give you advice on how to improve your pronunciation, because that would be enough for a whole book. I will only focus on the articulatory training or even more neuro-linguistic one when your brain is trained to speak fluently! And I am only writing about what I have tried myself. So it's not a retelling of a scientific paper. I fully understand, if someone may think it's too hard a way to fluency, and there may be an easier way, or that it's for the one for you. But I hope you get some inspiration at least. 
 
