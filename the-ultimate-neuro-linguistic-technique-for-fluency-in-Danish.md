@@ -55,13 +55,13 @@ Say to yourself, that the first time of shadowing will definitely be a failure. 
 
 * Now that you have listened once to the audio, you can start playing the track, repeating what the speaker says. So you need to repeat with least possible delay, what is being said.
 
-* Do not run ahead of the speaker, if you do not understand a sentence/phrase/a place in the sentence, say 'bla-bla' to keep the rhythm and speed going and not to lose the spirit. It's not a question of how precisely you have rendered the origin, but whether you can keep the pace and imitate the speaker's modulations of voice. (It's OK, if you may think, that you sound like an alien trying to imitate the Danish language). 
+* Do not run ahead of the speaker if you do not understand a sentence/phrase/a place in the sentence, say 'bla-bla' to keep the rhythm and speed going and not to lose the spirit. It's not a question of how precisely you have rendered the origin, but whether you can keep the pace and imitate the speaker's modulations of voice. (It's OK if you may think that you sound like an alien trying to imitate the Danish language). 
 
-* Keep repeating, and do not stop playing the track until the two minutes have gone. Why 2 minutes, you may wonder? Because of these two minutes you will be actually be repeating/producing Danish during one minute. The rest will be missed, at least, when you do it first times.
+* Keep repeating and do not stop playing the track until the two minutes have gone. Why 2 minutes you may wonder? Because of these two minutes you will be actually repeating/producing Danish during one minute. The rest will be missed, at least when you do it first times.
 
-* If you think, it goes to slow, and you cannot follow the rhythm, find another audio, that will be more comfortable for you to repeat. It should not be an exercise for pronunciation though, but a fluent monologue. Try another voice, sometimes it's harder to practice because of a particular dialect/personal rate of speech of the recorded voice.
+* If you think it goes too slow and you cannot follow the rhythm, find another audio that will be more comfortable for you to repeat. It should not be an exercise for pronunciation though, but a fluent monologue. Try another voice, sometimes it's harder to practice because of a particular dialect/personal rate of speech of the recorded voice.
 
-* When you have tried repeating with a delay for two minutes, (remember NO pausing the track), listen to the audio track again to calm yourself down understanding that now this text will remain in you head for at least several hours ahead, because you have almost lived through it.
+* When you have tried repeating with a delay for two minutes, (remember NO pausing the track) listen to the audio track again to calm yourself down understanding that now this text will remain in you head for at least several hours ahead, because you have almost lived through it.
 
 The fluency needs to be lived through. No one can explain to you how to make your brain get used to a new skill unless you just train it. 
 
