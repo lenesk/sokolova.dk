@@ -31,7 +31,7 @@ When you take more than ten lessons, there is an option to split the payment, fo
 
 * In cases of a late cancellation or absence by a student, the agreed price for the missed/not-cancelled-in-time lesson will be charged. 
 
-* In case of a cancellation/absence by the instructor on the day of the instruction, either the full price of the lesson(s) will be paid out or the missed number of classes may be offered alternatively free of charge added to the purchased package of classes. Cases of a prooven/evident urgent disease of the instructor do not apply for compensation. 
+* In case of a cancellation/absence by the instructor on the day of the instruction, either the full price of the lesson(s) will be paid out or the missed number of classes may be offered alternatively free of charge added to the purchased package of classes. Cases of a prooven/evident urgent disease of the instructor do not apply for compensation, and the student will not be charged for the lesson(s), but the lesson(s) will be transferred automatically to the next day of the agreed schedule. 
 
 ## Other
 
