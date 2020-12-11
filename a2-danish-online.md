@@ -27,7 +27,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-danish-crash-course-online">Enroll & pay 3924</a>
+<a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-danish-crash-course-online">Enroll & pay 3924 DKK </a>
 
 ## You need to order and buy the study book before the course start on your own. The course price does not include the book.
 
