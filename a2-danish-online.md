@@ -1,9 +1,10 @@
-# A2.1 Danish Online 
+# A2.1 + A2.2 Danish Online 
 
-## Monday & Wednesday 11:00-12:45 Start date October 5th
+## Monday & Wednesday, Thursday 9:30-11:00
+## January 4th
 
-## 6 weeks (4 lessons each week) 
-## Price for 24 lessons: 2616 DKK
+## 6 weeks (6 lessons each week) 
+## Price for 36 lessons: 3924 DKK
 
 <style>
 .btn {
