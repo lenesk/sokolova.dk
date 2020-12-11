@@ -1,7 +1,7 @@
 # A2.1 + A2.2 Danish Crash course Online 
 
-## Monday & Wednesday, Thursday 9:30-11:00
-## January 4th
+## Monday, Wednesday & Thursday 9:30-11:00
+## January 4th - February 11th
 
 ## 6 weeks (6 lessons each week) 
 ## Price for 36 lessons: 3924 DKK
