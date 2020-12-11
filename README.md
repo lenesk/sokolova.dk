@@ -36,7 +36,10 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 [Online group classes (8-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
 
-<a class="btn" href="current-courses-for-sign-up"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
+<a class="btn" href="studieprove-online-course"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
+
+<a class="btn" href="a2-danish-online">Sign uo for A2.1 + A2.2 Danish Crash course Online  </a>
+
 
 ## Blog  
 
