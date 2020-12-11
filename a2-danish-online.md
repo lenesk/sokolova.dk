@@ -1,4 +1,4 @@
-# A2.1 + A2.2 Danish Crash course Online 
+# A2.1 + A2.2 Danish Online Crash Course (8-10 students) 
 
 ## Monday, Wednesday & Thursday 9:30-11:00
 ## January 4th - February 11th
