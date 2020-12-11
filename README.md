@@ -38,7 +38,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 <a class="btn" href="studieprove-online-course"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
 
-<a class="btn" href="a2-danish-online">Sign up for A2.1+A2.2 Danish Crash course Online </a>
+<a class="btn" href="a2-danish-online">Sign up for A2.1+A2.2 Danish Online Crash Course </a>
 
 
 ## Blog  
