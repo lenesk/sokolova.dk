@@ -21,7 +21,7 @@ Private students do not pay VAT; companies pay VAT of 25% added to the listed pr
 
  * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 512 DKK per 45 min. 
 
-When you take ten or more lessons, there is an option to split the payment. For example, you can divide the price for 20 lessons in two charges. 
+When you buy ten or more lessons, there is an option to split the payment. For example, you can divide the price for 20 lessons in two charges. 
 
 Students purchasing 30 or more lessons (it applies both for private students and companies) are offered a discount of 15 %. 
 
