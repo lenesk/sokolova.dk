@@ -2,10 +2,9 @@
 
 ## Datoer og tid
 * den 21. september - 9. november
-* 12 uger med 5 lektioner om ugen (2X2,5 lektioner à 45 min)
-* mandage & fredage 19:00-21:00 
-* hele kurset: 60 lektioner
-
+* 60 lektioner i 12 uger
+* 5 lektioner om ugen (2X2,5 lektioner à 45 min)
+* mandage & fredage 18:50-21:30 
 
 <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.2800</a>
 
