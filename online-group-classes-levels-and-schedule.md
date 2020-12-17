@@ -19,7 +19,7 @@ C1 | 11 weeks | [see schedule](current-courses-for-sign-up) | 4 | 6–8 hours
 
 ### B2 courses can be taken in any order.
 
-### Price per lesson (45 min.) in a group of 6-8/8-10 students is 109 DKK.
+### Price per lesson (45 min.) in a group of 6-8/8-10 students is 120 DKK.
 
 ### The course price does not include the price for the study book, and you need to order a book on your own.
 
