@@ -15,7 +15,7 @@ B2.2 | 8 weeks | 1 class | 4 | 4 hours
 B2.3 | 8 weeks | 1 class   | 4 | 4 hours
 B2.4 | 8 weeks | 1 class  | 4 | 4 hours
   |   |   |   |  
-C1 | 11 weeks | [see schedule](current-courses-for-sign-up) | 4 | 6–8 hours
+C1 | 11 weeks | 1 class | 4 | 6–8 hours
 
 ### B2 courses can be taken in any order.
 
