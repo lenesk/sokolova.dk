@@ -17,8 +17,8 @@ Du skal have bestået modul 4(DU3) og være færdig med modul 5 eller være tilm
 ## Praktiske oplysnigner
 * Der er maksimum 10 deltagere på holdet. 
 * Tilmelding efter først–til–mølle–princippet.  
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
-* Det er obligatorisk at lave hjemmearbejde, og mand skal afsætte circa 8 timer om ugen til forberedelse hjemme.  
+* Efter dagens undervisning får du tilsendt hjemmearbejde på e-mail. 
+* Det er obligatorisk at lave hjemmearbejde, og man skal afsætte circa 8 timer om ugen til forberedelse hjemme.  
 
 ## Undervisningsmaterialet
 
@@ -67,12 +67,12 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du vil øve dig i at kategorisere forbindeord og vil øve dig i at konstruere sætninger med forbideord. 
 * Du vil lære, hvad enkelte forbindeord betyder.
 * Du vil lære at skrive komplekse sætninger.   
-* Modeltekst. Vi arbejder med at analysere et eksempel på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
-* Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
+* Vi arbejder med at analysere eksempeler på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
+* Du øver dig i at begrunde din argumentation og udtrykke holdninger, hvilket du skal bruge i Delprøve 2B i Skriftlig fremstilling.
 * Du vil øve dig i at formulere dele af en argumenterende tekst. 
 * Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
 * Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
-* Du lærer at strukturere din e-mail kommunikativt relevant (Delprøve 1). 
+* Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling. .
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
 * Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven. 
