@@ -63,9 +63,9 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 # Kursusprogram og fokusområder
 
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
-* Forbindeord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
-* Du vil øve dig i at kategorisere forbindeord og vil øve dig i at konstruere sætninger med forbideord. 
-* Du vil lære, hvad enkelte forbindeord betyder.
+* Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
+* Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbideord. 
+* Du vil lære, hvad enkelte forbinderord betyder.
 * Du vil lære at skrive komplekse sætninger.   
 * Vi arbejder med at analysere eksempeler på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
 * Du øver dig i at begrunde din argumentation og udtrykke holdninger, hvilket du skal bruge i Delprøve 2B i Skriftlig fremstilling.
