@@ -8,9 +8,6 @@
 
 <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3600 i 2 betalinger </a>
 
-<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
-Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang. 
-
 ## Niveauet
 
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
