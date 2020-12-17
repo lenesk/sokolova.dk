@@ -1,7 +1,7 @@
 # Online Forberedelse til Prøve i Dansk 3 (Aftenhold)
 
 ## Datoer og tid 
-* den 25. januar - 30. april
+* den 25. januar 2021 - 30. april 2021
 * 60 lektioner i 12 uger; pris per lektion 120 DKK.
 * 5 lektioner om ugen (2X2,5 lektioner à 45 min)
 * mandage & fredage 18:50-21:30 
