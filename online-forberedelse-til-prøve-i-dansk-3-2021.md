@@ -76,7 +76,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
 * Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven. 
 
-Du vil løbende arebjde med følgende hovedemner : Arbejde, Ligestilling, Uddannelse, Velfærdssystem & Velfærdsamfund, Klima (miljø og økologi), Det danske sundhedsvæsen 
+Kursusprogrammet er opbygget omkring følgende emner : arbejde, ligestilling, uddannelse, velfærdssystem & velfærdsamfund, klima (miljø og økologi), det danske sundhedsvæsen. 
 
 Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
 
