@@ -7,13 +7,13 @@ CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework
 A1 | 10 weeks | 2 classes | 4 | 3-4 hours
 A2 | 10 weeks | 2 classes | 4 | 3-4 hours
   |   |   |   |  
-B1.1 | 8 weeks |[see schedule](current-courses-for-sign-up) | 4 | 4 hours
-B1.2 | 8 weeks |[see schedule](current-courses-for-sign-up)  | 4 | 4 hours
+B1.1 | 8 weeks |2 class | 3 | 4 hours
+B1.2 | 8 weeks |2 class  | 3 | 4 hours
   |   |   |   |  
-B2.1 | 8 weeks | [see schedule](current-courses-for-sign-up)  | 4 | 4 hours
-B2.2 | 8 weeks | [see schedule](current-courses-for-sign-up)  | 4 | 4 hours
-B2.3 | 8 weeks | [see schedule](current-courses-for-sign-up)  | 4 | 4 hours
-B2.4 | 8 weeks | [see schedule](current-courses-for-sign-up)  | 4 | 4 hours
+B2.1 | 8 weeks | 1 class | 4 | 4 hours
+B2.2 | 8 weeks | 1 class | 4 | 4 hours
+B2.3 | 8 weeks | 1 class   | 4 | 4 hours
+B2.4 | 8 weeks | 1 class  | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | [see schedule](current-courses-for-sign-up) | 4 | 6–8 hours
 
