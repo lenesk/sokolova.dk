@@ -20,11 +20,14 @@ Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilme
 * Det er obligatorisk at lave hjemmearbejde, og mand skal afsætte circa 8 timer om ugen til forberedelse hjemme.  
 
 ## Undervisningsmaterialet
-<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
 
 Undervisningssproget er dansk.
 
 Undervisningsmaterialet er bøger ‘At skrive’ og 'Bliv klar til Prøve i Dansk 3'. Kursusdeltagere skal selv anskaffe sig begge bøger.
+
+<img src="bliv-klar-til-proeve-i-dansk-3_billede.jpg" alt="Bliv klar til Prøve i Dansk 3" width="200" height="300" />
+
+<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
 
 Bogen ‘At skrive’  i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
 Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
