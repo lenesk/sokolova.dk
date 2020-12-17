@@ -1,4 +1,4 @@
-# Online Forberedelse til Prøve i Dansk 3 (Aftenhold)
+# Online Forberedelse til Prøve i Dansk 3 (Aftenhold 6-8 deltagere)
 
 ## Datoer og tid 
 * den 25. januar 2021 - 30. april 2021
