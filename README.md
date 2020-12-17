@@ -40,6 +40,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 <a class="btn" href="a2-danish-online">Sign up for A2.1+A2.2 Danish Online Crash Course </a>
 
+<a class="btn" href="online-forberedelse-til-prøve-i-dansk-3-2021"> Online Forberedelse til Prøve i Dansk 3 (January-April 2021)(Aftenhold)
+ </a>
 
 ## Blog  
 
