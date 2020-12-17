@@ -11,7 +11,7 @@
 ## Niveauet
 
 Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
-Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt den sidste del af DU3 modul 5. 
+Du skal have bestået modul 4(DU3) og være færdig med modul 5 eller være tilmedlt den sidste del af DU3 modul 5. 
 
 ## Praktiske oplysnigner
 * Der er maksimum 10 deltagere på holdet. 
