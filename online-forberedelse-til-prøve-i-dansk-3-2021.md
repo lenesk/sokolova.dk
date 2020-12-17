@@ -1,8 +1,8 @@
 # Online Forberedelse til Prøve i Dansk 3 (Aftenhold)
 
 ## Datoer og tid
-* den 21. september - 9. november
-* 60 lektioner i 12 uger
+* den 25. januar - 30. april
+* 60 lektioner i 12 uger; pris per lektion 120 DKK.
 * 5 lektioner om ugen (2X2,5 lektioner à 45 min)
 * mandage & fredage 18:50-21:30 
 
@@ -13,11 +13,12 @@ Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang.
 
 ## Niveauet
 
-Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog. 
+Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
 Du skal have bestået modul 4(DU) og være færdig med modul 5 eller være tilmedlt den sidste del af DU3 modul 5. 
 
 ## Praktiske oplysnigner
-* Der er maksimum 10 deltagere på holdet. Tilmeld dig efter først–til–mølle–princippet.  
+* Der er maksimum 10 deltagere på holdet. 
+* Tilmelding efter først–til–mølle–princippet.  
 * Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. 
 * Det er obligatorisk at lave hjemmearbejde, og mand skal afsætte circa 8 timer om ugen til forberedelse hjemme.  
 
