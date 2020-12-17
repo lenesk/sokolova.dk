@@ -6,7 +6,7 @@
 * 5 lektioner om ugen (2X2,5 lektioner à 45 min)
 * mandage & fredage 18:50-21:30 
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.7200 eller 3600 i 2 betalinger </a>
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3600 i 2 betalinger </a>
 
 <a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
 Se kursusprogrammet nedenfor. Prisen er kr.200/mødegang. 
