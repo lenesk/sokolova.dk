@@ -30,19 +30,6 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 </style>
 
 
-## Online Danish language lessons in Zoom 
-
-[Private lessons](private-danish-language-lessons-online-in-zoom)
-
-[Online group classes (8-10 students): info about levels, duration & study materials](online-group-classes-levels-and-schedule)
-
-<a class="btn" href="studieprove-online-course"> Sign up for Online Forberedelse til Studieprøven (C1) </a>
-
-<a class="btn" href="a2-danish-online">Sign up for A2.1+A2.2 Danish Online Crash Course </a>
-
-<a class="btn" href="online-forberedelse-til-prøve-i-dansk-3-2021"> Online Forberedelse til Prøve i Dansk 3 (January-April 2021)(Aftenhold)
- </a>
-
 ## Blog  
 
 * [The ultimate neuro-linguistic technique for fluency in Danish](the-ultimate-neuro-linguistic-technique-for-fluency-in-Danish)
@@ -61,9 +48,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## About me
 
-My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in translation and interpreting. During the last ten years, I have been teaching Danish to foreigners. I have experience in teaching Danish at all levels (online in Zoom, blended courses, regular classroom groups and one-to-one). I have been tutoring students, preparing for the Danish language exams on levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
-
-I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts and essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
+My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in translation and interpreting. I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts and essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
 
 
 ## Video tutorials on youtube
@@ -91,5 +76,4 @@ I have always been interested in bilingualism, so I have chosen a bilingual trac
 
 ![Lisp](./lisp-bunny.png)
 
-SokolovaDK CVR-nr.: 41433876
 
