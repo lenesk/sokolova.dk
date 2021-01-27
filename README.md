@@ -84,3 +84,5 @@ My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Lingu
 ![Lisp](./lisp-bunny.png)
 
 
+SokolovaDK CVR-nr.: 41433876
+
