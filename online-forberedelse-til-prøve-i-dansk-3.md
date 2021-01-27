@@ -1,12 +1,11 @@
 # Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3 (maks. 10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
-* den 15. februar - 31. marts
+* den 15. februar - 31. marts 2021
 * mandage & onsdage kl. 19:00-20:30
 * 7 uger, 28 lektioner i alt
 
-### Bliv klar til den skriftlige fremstilling på 28 lektioner
-
+## Bliv klar til den skriftlige fremstilling på 28 lektioner
 <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Tilmeld dig hele kurset</a>
 
 
