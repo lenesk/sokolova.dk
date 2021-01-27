@@ -29,6 +29,13 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 }
 </style>
 
+## Learn Danish online with SokolovaDK
+* [One-to-one lessons in Zoom](private-danish-language-lessons-online-in-zoom)
+
+* [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
+
+* [Current group courses for sign-up](current-courses-for-sign-up)
+
 
 ## Blog  
 
