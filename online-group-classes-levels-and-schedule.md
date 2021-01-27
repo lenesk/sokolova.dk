@@ -1,6 +1,6 @@
 # Online group classes 
 
-### Below you can find information about CEFR levels of the group courses I teach and their duration 
+### Below you can find information about CEFR levels of the group courses I teach and their approximate duration 
 
 CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework load per week
 -- | -- | -- | -- | --
@@ -32,7 +32,7 @@ C1 | 11 weeks | 1 class | 4 | 6–8 hours
 * All my courses have а closed admission. No current enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
 
 
-# [Online group classes starting in August/September 2020](current-courses-for-sign-up)
+# [Online group classes starting soon](current-courses-for-sign-up)
 
 If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
