@@ -7,10 +7,7 @@
 
 ### Bliv klar til den skriftlige fremstilling på 28 lektioner
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3-b2-online/buy"> Tilmeld dig hele kurset</a>
-
-<a class="btn" href="https://elenasokolova.podia.com"> Tilmeld dig en enkelt dag kr.200</a>
-Se kursusprogrammet nedenfor. 
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Tilmeld dig hele kurset</a>
 
 
 ## Niveauet
