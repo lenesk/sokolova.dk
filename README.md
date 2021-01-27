@@ -35,7 +35,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
-* [Current group courses for sign up](online-forberedelse-til-prøve-i-dansk-3)<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Tilmeld dig hele kurset</a>
+* [Current group courses for sign up: Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](online-forberedelse-til-prøve-i-dansk-3)<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Tilmeld dig hele kurset</a>
 
 ## Blog  
 
