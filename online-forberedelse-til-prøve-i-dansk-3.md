@@ -5,7 +5,7 @@
 * mandage & onsdage kl. 19:00-20:30
 * 7 uger, 28 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Tilmeld dig hele kurset</a>
+<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Tilmeld dig kurset</a>
 
 
 ## Niveauet
