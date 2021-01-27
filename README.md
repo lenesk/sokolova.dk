@@ -34,8 +34,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
-* [Current group courses for sign-up](current-courses-for-sign-up)
-
+* [Current group courses for sign-up]
 
 ## Blog  
 
