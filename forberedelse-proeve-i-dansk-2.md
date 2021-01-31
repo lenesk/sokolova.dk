@@ -5,13 +5,13 @@
 * mandage & torsdage kl. 16:00-17:30
 * 12 uger; 48 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Tilmeld dig kurset</a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset</a>
 
 
 ## Niveauet
 
 Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog.
-Du skal f.eks. have bestået modul 3(DU)/'Danish for Intermediate learners' og være tilmedlt DU3 modul 4 eller have bestået DU2 2.5. 
+Du skal f.eks. have bestået modul 3 på DU3/'Danish for Intermediate learners' og være tilmedlt DU3 modul 4 eller have bestået DU2 modul 2.5. 
 
 
 ## Praktisk information  
@@ -42,12 +42,12 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 </style>
 
 ## Undervisningsmaterialet
-<img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
+<img src="bliv-klar-til-proeve-i-dansk-2-undervisning-online.png" alt="Bliv klar til prøve i dansk 2" width="200" height="300" />
 
 Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
-Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
-Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+Undervisningsmaterialet er bogen ‘Bliv klar til prøve i dansk 2’. Du skal selv anskaffe dig bogen. 
+Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar">Køb *At skrive*</a> 
+Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar-til-proeve-i-dansk-2-i-bog">Køb i-bog *Bliv klar til prøve i dansk 2*</a>
 Læreren vil også supplere undervisning med andre digitale materialer.
 
 
