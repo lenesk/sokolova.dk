@@ -15,8 +15,6 @@
 
 ## Praktisk information  
 * Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Du kan kun vælge at tilmelde dig hele kurset på én gang. 
-* Hvis du ønsker at tilmelde dig en enkelt dag, skal du gøre det senest 3 dage før dagens program. 
 * Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
