@@ -1,4 +1,5 @@
-# Forberedelse Prøve i Dansk 2 (maks. 10 deltagere på holdet online i Zoom)
+# Forberedelse Prøve i Dansk 2 
+(maks. 10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
 * den 22. februar - 13. maj 2021
