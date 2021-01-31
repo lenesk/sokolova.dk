@@ -47,7 +47,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
 Undervisningsmaterialet er bogen ‘Bliv klar til prøve i dansk 2’. Du skal selv anskaffe dig bogen. 
-Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar">Køb *At skrive*</a> 
+Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar">Køb *Bliv klar til prøve i dansk 2*</a> 
 Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar-til-proeve-i-dansk-2-i-bog">Køb i-bog *Bliv klar til prøve i dansk 2*</a>
 Læreren vil også supplere undervisning med andre digitale materialer.
 
