@@ -8,7 +8,7 @@ During my Danish teaching practice, I read plenty of written assignments at vari
 
 You may think the most common conclusion I would draw, would be self-expression. And it's even more logical to think, that if someone is writing about a topic which seems interesting, the assignment would even score a higher grade. Both factors are essential, but only partially. It may, of course, be a matter for a pedagogical discussion. Still, I would argue that there is a certain amount of motivation behind almost every written assignment to get rid of this assignment and hand it in.
 
-I am not writing this blog post to express my annoyance with hastily written assignments, often containing chunks of Google translated word combinations. And it's not because I am annoyed about correcting them. It's because I want to speak out for the benefit of many learners and help them understand why the way to passing an exam turns about to be longer than they would wish. 
+I am not writing this blog post to express my annoyance with hastily written assignments, often containing chunks of Google translated word combinations. And it's not because I am annoyed about correcting them. It's because I want to speak out for the benefit of many learners and help them understand why the way to passing an exam turns out to be longer than they would wish. 
 
 ## You need rather to follow your short-term goal while doing a written assignment
 
