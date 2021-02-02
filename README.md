@@ -44,6 +44,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Blog  
 
+* [How far would you ride on a bike without a frame?](how-far-would-you-ride-on-a-bike-without-a-frame)
+
 * [The ultimate neuro-linguistic technique for fluency in Danish](the-ultimate-neuro-linguistic-technique-for-fluency-in-Danish)
 
 * [How to start the essay task at the Studieprøven exam](how-to-start-the-essay-task-at-the-studieproeven-exam)
