@@ -119,7 +119,7 @@ You give an exact time indication, so use *datid* = past simple.
 > * Nej, det lykkedes desværre ikke for mig i sommer. Jeg søger stadig, og nu har jeg snart været arbejdsløs i tre måneder. Men der er også gode nyheder - jeg har fået svar på en af mine mange ansøgninger fra et firma, og de vil gerne se mig til en jobsamtale om tre uger … 
 You tell about status as per today, so use *nutid* = present simple & *førnuti*d = present perfect.
 
-### To complain or express you are said about smth (*at klage over noget*)
+### To complain or express you are sad about smth (*at klage over noget*)
 When you complain to an authorized institution or a shop, for instance, you need to persuade and call to action. 
 
 A formal complaint: to a shop’s customers’ service. 
