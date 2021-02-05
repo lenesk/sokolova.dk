@@ -170,7 +170,7 @@ Other ways to response to a suggestion:
 > *Synes du ikke, vi kunne mødes, så vi kan tale mere om det?*
 
 
-### To clarify or explain the reason or mention the consequence (*at begrunge*)
+### To clarify or explain the reason or mention the consequence (*at begrunde*)
 
 In the PD3 email task, the original email may often contain a prompt to explaining things. In other words, you are checked whether you can write about the cause and consequence. 
 You can use *fordi* (*+ledsætning SAV*) or *for* (remember main clause word order SVA). The following connectors express clarification or give a reason. The minor difference between the two conjunctions is that ‘for’ provides a clarification, while ‘fordi’ describes the cause. 
