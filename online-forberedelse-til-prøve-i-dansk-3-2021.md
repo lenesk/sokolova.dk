@@ -1,10 +1,10 @@
-# Online Forberedelse til Prøve i Dansk 3 (Aftenhold 6-8 deltagere)
+# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 6-8 deltagere)
 
 ## Datoer og tid 
-* den 25. januar 2021 - 30. april 2021
-* 60 lektioner i 12 uger; pris per lektion 120 DKK.
-* 5 lektioner om ugen (2X2,5 lektioner à 45 min)
-* mandage & fredage 18:50-21:30 
+* den 15. februar 2021 - den 5. maj 2021
+* 56 lektioner i 14 uger; pris per lektion 120 DKK.
+* 4 lektioner om ugen (2X lektioner à 45 min)
+* mandage & onsdage 19:00-20:45 
 
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-aftenhold/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3x kr.2400 </a>
 
@@ -62,6 +62,8 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 # Kursusprogram og fokusområder
 
+
+
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
 * Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbideord. 
@@ -75,9 +77,10 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling. .
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
-* Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven. 
+* Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven.
+* Du øver dig i samtale ud fra billeder. 
 
-Kursusprogrammet er opbygget omkring følgende emner : arbejde, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi), det danske sundhedsvæsen. 
+Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse og barndommen i Danmark, byer & cykelkultur, det danske frisind, det politiske system i Danmark. 
 
 Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
 
