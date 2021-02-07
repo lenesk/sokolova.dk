@@ -2,7 +2,7 @@
 
 ## Datoer og tid 
 * den 15. februar 2021 - den 5. maj 2021
-* 56 lektioner i 14 uger; pris per lektion 120 DKK.
+* 56 lektioner i 14 uger
 * 4 lektioner om ugen (2X lektioner à 45 min)
 * mandage & onsdage 19:00-20:45 
 
