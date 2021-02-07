@@ -6,7 +6,7 @@
 * 4 lektioner om ugen (2X lektioner à 45 min)
 * mandage & onsdage 19:00-20:45 
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-aftenhold/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3x kr.2400 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3x kr.2400 </a>
 
 ## Niveauet
 
@@ -64,7 +64,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
-* Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbideord. 
+* Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbindeord. 
 * Du vil lære, hvad enkelte forbinderord betyder.
 * Du vil lære at skrive komplekse sætninger.   
 * Vi arbejder med at analysere eksempeler på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
@@ -75,7 +75,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling. .
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
-* Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven.
+* Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
 * Du øver dig i samtale ud fra billeder. 
 
 Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse og barndommen i Danmark, byer & cykelkultur, det danske frisind, det politiske system i Danmark. 
