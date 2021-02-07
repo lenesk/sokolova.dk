@@ -62,10 +62,8 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 # Kursusprogram og fokusområder
 
-
-
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
-* Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbindeord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
+* Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
 * Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbideord. 
 * Du vil lære, hvad enkelte forbinderord betyder.
 * Du vil lære at skrive komplekse sætninger.   
@@ -76,7 +74,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
 * Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling. .
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
-* Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde.
+* Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
 * Du vil lære at struktere din mundtlige præsentation og øve dig i interviewopagven.
 * Du øver dig i samtale ud fra billeder. 
 
