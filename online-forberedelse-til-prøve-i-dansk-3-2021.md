@@ -1,4 +1,4 @@
-# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 6-8 deltagere)
+# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 4-8 deltagere)
 
 ## Datoer og tid 
 * den 15. februar 2021 - den 5. maj 2021
@@ -6,7 +6,7 @@
 * 4 lektioner om ugen (2X2 lektioner à 45 min)
 * mandage & onsdage 19:00-20:45 
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig hele kurset kr.7200 eller kr. 3x kr.2400 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.7200 eller kr. 3x kr.2400 </a>
 
 ## Niveauet
 
