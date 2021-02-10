@@ -40,7 +40,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
   * [Forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset</a>
 
-  * [Forberedelse til Prøve i Dansk 3: aftenhold 4-8 deltagere](online-forberedelse-til-prøve-i-dansk-3-2021)
+  * [Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig)](online-forberedelse-til-prøve-i-dansk-3-2021)
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset</a>
 
  * [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](online-forberedelse-til-proeve-i-dansk-3-skriftlig)
