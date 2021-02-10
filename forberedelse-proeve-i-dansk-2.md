@@ -12,7 +12,7 @@
 ## Niveauet
 
 Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog.
-Du skal f.eks. have bestået modul 3 på DU3/'Danish for Intermediate learners' og være tilmedlt DU3 modul 4 eller have bestået DU2 modul 2.5. 
+Du skal f.eks. have bestået modul 3 på DU3/'Danish for Intermediate learners' og være tilmeldt DU3 modul 4 eller have bestået DU2 modul 2.5. 
 
 
 ## Praktisk information  
