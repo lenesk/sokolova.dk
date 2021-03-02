@@ -1,6 +1,6 @@
 # A2.1 + A2.2 Danish Online Crash Course (8-10 students) 
 
-## Monday, Wednesday & Thursday 9:30-11:00
+## Monday, Wednesday & Friday 9:30-11:00
 ## April 5th - May 13th
 ## 6 weeks (6 lessonsx 45 min. each week) 
 ## Price for 36 lessons: 4320 DKK
