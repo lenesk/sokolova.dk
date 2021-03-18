@@ -2,7 +2,7 @@
 
 ## Monday, Wednesday & Friday 9:30-11:00
 ## April 5th - May 13th
-## 6 weeks (6 lessonsx 45 min. each week) 
+## 6 weeks (6 lessons x 45 min. each week) 
 ## Price for 36 lessons: 4320 DKK
 
 <style>
