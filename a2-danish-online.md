@@ -56,7 +56,7 @@ You will master pronunciation of consonants,  such as 'soft d'; and will learn t
 Pronunciation practice will be supported through listening exercises and spelling tasks, because listening, spelling, and pronunciation go hand in hand. There will be listening tasks on understanding small narratives, dialogues - with the focus on spelling.  
 
 ## Grammar and syntax
-The main grammar focus on this level will be aimed at automatizing word order and strucuting subordinate clauses, so your language will become more elaborated and complex. You will master verbal tenses as well as usage of modal verbs in different contexts. Besides, we shall work on adjective's grammar and pronouns. 
+The main grammar focus on this level will be aimed at automatizing word order and structuring subordinate clauses, so your language will become more elaborated and complex. You will master verbal tenses as well as usage of modal verbs in different contexts. Besides, we shall work on adjective's grammar and pronouns. 
 
 ## Reading and writing
 You will read longer texts on the given discussion topics and inputs. All the texts for reading tasks make a basis for grammar and vocabulary exercises, so developing reading speed will be supported by vocabulary extension. 
