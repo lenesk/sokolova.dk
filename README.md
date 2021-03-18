@@ -36,7 +36,9 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 * [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
 * Sign up for group courses
-  
+
+  * [A2.1 + A2.2 Crash Course (max.8 students)](a2-danish-online)<a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-crash-course/buy"> Tilmeld dig kurset</a>
+  *
   * [Forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset</a>
 
