@@ -2,11 +2,11 @@
 
 ## Datoer og tid 
 * den 15. februar 2021 - den 5. maj 2021
-* 56 lektioner i 14 uger
+* 48 lektioner i 12 uger
 * 4 lektioner om ugen (2X2 lektioner à 45 min)
 * mandage & onsdage 19:00-20:45 
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.7200 eller kr. 3x kr.2400 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.5760 </a>
 
 ## Niveauet
 
