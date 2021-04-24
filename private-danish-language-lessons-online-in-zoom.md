@@ -11,17 +11,17 @@ Then, you will get a link to a Zoom meeting, where we can have a conversation ab
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
-### 1 x one-to-one Zoom lesson/pre-exam training session for Prøve i Dansk 3 or Studieprøven (45 min.): 650 DKK
+### 1 x one-to-one Zoom lesson/pre-exam training session for Prøve i Dansk 3/Prøve i Dansk 2/Studieprøven (45 min.): 650 DKK
 
 ### 5 x one-to-one Zoom sessions (45 min.): 3000 DKK
 
 ### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
- * online sessions on weekdays before 17:00: 410 DKK per 45 min. 
+ * online sessions on weekdays before 17:00: 450 DKK per 45 min. 
 
- * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 512 DKK per 45 min. 
+ * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 550 DKK per 45 min. 
 
-When you buy ten or more lessons, there is an option to split the payment. For example, you can divide the price for 20 lessons in two charges. 
+When you buy ten or more lessons, there is an option to split the payment. For example, you can divide the price in two charges. 
 
 Students purchasing 30 or more lessons (it applies both for private students and companies) are offered a discount of 15 %. 
 
