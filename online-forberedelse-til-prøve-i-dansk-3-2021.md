@@ -79,8 +79,8 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
 * Du øver dig i samtale ud fra billeder. 
 
-Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse og barndommen i Danmark, byer & cykelkultur, det danske frisind, det politiske system i Danmark. 
+Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, byer & cykelkultur, det politiske system i Danmark. 
 
-Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
+Der er ca. 7 længere skriftlige afleveringer i løbet af kurset. 
 
 SokolovaDK CVR-nr.: 41433876
