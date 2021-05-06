@@ -7,7 +7,7 @@ Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you
 
 Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. 
 
-## See the prices below for individual online classes tailored to your needs:
+# Prices for individual online classes tailored to your needs:
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
