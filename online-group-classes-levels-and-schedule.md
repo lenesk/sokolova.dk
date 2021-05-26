@@ -7,13 +7,13 @@ CEFR Level | Duration | Classes per week | Lessons per week (45 min.) | Homework
 A1 | 10 weeks | 2 classes | 4 | 3-4 hours
 A2 | 10 weeks | 2 classes | 4 | 3-4 hours
   |   |   |   |  
-B1.1 | 8 weeks |2 class | 3 | 4 hours
-B1.2 | 8 weeks |2 class  | 3 | 4 hours
+B1.1 | 8 weeks |2 classes | 4 | 4 hours
+B1.2 | 8 weeks |2 classes  | 4 | 4 hours
   |   |   |   |  
-B2.1 | 8 weeks | 1 class | 4 | 4 hours
-B2.2 | 8 weeks | 1 class | 4 | 4 hours
-B2.3 | 8 weeks | 1 class   | 4 | 4 hours
-B2.4 | 8 weeks | 1 class  | 4 | 4 hours
+B2.1 | 8 weeks | 2 class | 4 | 4 hours
+B2.2 | 8 weeks | 2 class | 4 | 4 hours
+B2.3 | 8 weeks | 2 class   | 4 | 4 hours
+B2.4 | 8 weeks | 2 class  | 4 | 4 hours
   |   |   |   |  
 C1 | 11 weeks | 1 class | 4 | 6–8 hours
 
@@ -23,13 +23,15 @@ C1 | 11 weeks | 1 class | 4 | 6–8 hours
 
 ### The course price does not include the price for the study book, and you need to order a book on your own.
 
-## Why 10 weeks for A1 and A2 and two classes per week?
+## Why two classes per week is the best?
 * It is crucial to have shorter but more frequent classes to have time between classes to assimilate the material. 
 * You avoid being overwhelmed with new vocabulary, grammar, and pronunciation rules per class if you have two classes.
 * Every class session starts with the repetition of the previous class, and the new aspects are then introduced. 
-* You thrive with the same teaching style throughout the level.
-* You get socialized with the same people, rather than changing a class, say every 6 weeks. 
-* All my courses have а closed admission. No current enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
+* You thrive with the same teaching style throughout the level. 
+
+
+## No current admission is possible 
+* All my group courses have а closed admission. A no-current-enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
 
 
 # [Online group classes starting soon](current-courses-for-sign-up)
