@@ -37,7 +37,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Sign up for current enrollment
 
-  * [Mundtlig forberedelse til PD3/PD2/Studieprøven (en-til-en undervisning)]
+  * Mundtlig forberedelse til PD3/PD2/Studieprøven (en-til-en undervisning)
 <a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd3-studieproven_enkelt-lektion/buy"> Book en enkelt lektion</a>
   
   * [Forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)
