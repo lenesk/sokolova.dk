@@ -38,14 +38,11 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 ## Sign up for current enrollment
 
   * Mundtlig forberedelse til PD3/PD2/Studieprøven (en-til-en undervisning)
-<a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd3-studieproven_enkelt-lektion/buy"> Book en enkelt lektion</a>
-  
-  * [Forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset</a>
+<a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd3-studieproven_enkelt-lektion/buy"> Book en enkelt lektion 650 DKK </a>
 
-  * [Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig)](online-forberedelse-til-prøve-i-dansk-3-2021)
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset</a>
-
+ * Mundtlig forberedelse til PD3/PD2/Studieprøven (en-til-en undervisning)
+<a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd2-studieproven-5-lektioner/buy"> Book 5 lektioner 3000 DKK</a>
+ 
 
 ## Blog  
 
