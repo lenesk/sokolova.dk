@@ -40,6 +40,9 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * Mundtlig forberedelse til PD3/PD2/Studieprøven (en-til-en undervisning)
 <a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd2-studieproven-5-lektioner/buy"> Book 5 lektioner 3000 DKK</a>
+
+* [A2.1 + A2.2 Danish Online Course (4-8 students)](a2-danish-online)
+* <a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-crash-course/buy">Enroll & pay 5460 DKK or 3 X1820 DKK </a>
  
 
 ## Blog  
