@@ -1,4 +1,9 @@
-# B1.1 Danish Online
+# B1.1 Danish Online (4- 8 students) 
+
+## Monday, Wednesday & Friday 19:10-20:40
+## July 19th - August 27th
+## 6 weeks (6 lessons x 45 min. each week=3 session X 90 min.) 
+## Price for 36 lessons: 4320 DKK
 
 <style>
 .btn {
