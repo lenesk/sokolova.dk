@@ -1,4 +1,4 @@
-# Forberedelse til Prøve i Dansk 2 
+# Online forberedelse til Prøve i Dansk 2 
 (6-10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
