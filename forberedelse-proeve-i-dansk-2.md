@@ -2,11 +2,11 @@
 (maks. 10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
-* den 22. februar - 13. maj 2021
-* mandage & torsdage kl. 16:00-17:30
-* 12 uger; 48 lektioner i alt
+* den 6. september - 19. november 2021
+* mandage & fredage kl. 16:30-18:00
+* 10 uger; 40 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.5760 eller kr. 3x kr.1920 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.5660 eller kr. 2x kr.2800 </a>
 
 
 ## Niveauet
