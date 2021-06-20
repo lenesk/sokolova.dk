@@ -15,7 +15,7 @@ Private students do not pay VAT; companies pay VAT of 25% added to the listed pr
 
 If you decide to book 5 or more lessons, the tuition is as follows:
 
-### 5 or more x one-to-one Zoom sessions (45 min.): 3000 DKK (600 kr. per lesson)
+### 5 or more x one-to-one Zoom sessions (45 min.): 600 kr. per lesson
 
 ### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
