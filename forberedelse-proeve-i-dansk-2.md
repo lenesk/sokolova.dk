@@ -1,5 +1,5 @@
 # Forberedelse til Prøve i Dansk 2 
-(maks. 10 deltagere på holdet online i Zoom)
+(6-10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
 * den 6. september - 19. november 2021
