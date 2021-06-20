@@ -43,7 +43,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [A2.1 + A2.2 Danish Online Course (4-8 students)](a2-danish-online) <a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-crash-course/buy">Enroll & pay 5460 DKK or 3 X1820 DKK </a>
 
-* [Online forberedelse til Prøve i Dansk 2)](forberedelse-proeve-i-dansk-2)<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy">Enroll & pay 5600 DKK or 2 X2800 DKK </a>
+* [Online forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy">Enroll & pay 5600 DKK or 2 X2800 DKK </a>
 
  
 
