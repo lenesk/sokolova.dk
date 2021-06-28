@@ -1,6 +1,6 @@
-# Online Studieprøven Prep Course
+# Online skriftlig forberedelse til Studieprøven 
 
-C1 Studieprøven Prep Course (8-10 students)| 06.01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
+C1 Studieprøven Prep Course med fokus på den skriftlige fremstilling (8-10 students)| .01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
@@ -65,7 +65,7 @@ It takes time to get ready to Studieprøven, to understand the structure of the 
  
 * The course covers several broader topics that lay the foundation for the content of the exam materials. 
 * You will receive personal feedback on the Writing part of the exam (Skriftlig fremstilling).
-* You will regularly practice doing Reading tasks from previous years’ exam sheets. 
+* You will practice doing Reading tasks from previous years’ exam sheets. 
 * You will learn how to structure your presentation for the oral exam based on the official assessment criteria. 
 * You will learn how to manage your time during the exam and try to complete all the mock exam tasks in the exam time limits.  
 
