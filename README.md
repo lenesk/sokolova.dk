@@ -31,7 +31,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Learn Danish online 
 
-* [One-to-one lessons in Zoom](private-danish-language-lessons-online-in-zoom)
+* [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
 
 * [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
@@ -41,11 +41,11 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 * Mundtlig forberedelse til PD3/PD2/Studieprøven (enendervisning/one-to-one lessons)
 <a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-pd2-studieproven-5-lektioner/buy"> Book 5 lektioner 3000 DKK</a>
 
-* [A2.1 + A2.2 Danish Online Course (4-8 students)](a2-danish-online) <a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-crash-course/buy">Enroll & pay 5460 DKK or 3 X1820 DKK </a>
+* [A2.1 + A2.2 Danish Online Course (4-8 students)](a2-danish-online) <a class="btn" href="https://elenasokolova.podia.com/a2-1-a2-2-crash-course/buy"> Enroll & pay 5460 DKK or 3 X1820 DKK </a>
 
-* [Online forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy">Enroll & pay 5600 DKK or 2 X2800 DKK </a>
+* [Online forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Enroll & pay 5600 DKK or 2 X2800 DKK </a>
 
-* [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](online-forberedelse-til-proeve-i-dansk-3-skriftlig) <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy">Enroll & pay 4200 DKK or 2 X2100 DKK </a>
+* [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](online-forberedelse-til-proeve-i-dansk-3-skriftlig) <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Enroll & pay 4200 DKK or 2 X2100 DKK </a>
 
  
 
