@@ -45,6 +45,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Online forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy">Enroll & pay 5600 DKK or 2 X2800 DKK </a>
 
+* [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](online-forberedelse-til-proeve-i-dansk-3-skriftlig) <a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy">Enroll & pay 4200 DKK or 2 X2100 DKK </a>
+
  
 
 ## Blog  
