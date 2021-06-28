@@ -86,8 +86,8 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
 Undervisningsmaterialet er bogen ‘At skrive’. Du skal selv anskaffe dig bogen. 
-Bogen i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+Bogen i trykt form  <a class="btn" href="https://praxis.dk/skrive">Køb *At skrive*</a> 
+
 Læreren vil også supplere undervisning med andre digitale materialer.
 
 
