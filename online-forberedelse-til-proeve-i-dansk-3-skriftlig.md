@@ -1,7 +1,7 @@
 # Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3 (6-10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
-* den 6. september - den 29. oktober 2021 (ferie i uge 42)
+* den 7. september - den 28. oktober 2021 (ferie i uge 42)
 * tirsdage & torsdage kl. 19:00-20:30
 * 7 uger, 28 lektioner i alt
 
