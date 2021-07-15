@@ -1,4 +1,4 @@
-# A2.1 + A2.2 Danish Online Course (4-8 students) 
+# A2.1 + A2.2 Danish Online Course (6-8 students) 
 
 ## Monday, Wednesday & Friday 17:30-19:00
 ## July 19th - September 3rd
