@@ -63,7 +63,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 *  Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
 *  Du vil øve dig i at formulere dele af en argumenterende tekst. 
 
-## Dag 5  Online Skriveværksted
+## Uge 5  Online Skriveværksted
 
 *  Online Skriveværksted. Vi arbejder med at skrive en plan/ideer til teksten i plenum. 
 *  Du vil bagefter have mulighed for at skrive en hel argumenterende tekst LIVE online og få løbende individuel hjælp og vejledning af læreren.  
