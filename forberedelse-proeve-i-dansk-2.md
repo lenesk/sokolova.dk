@@ -3,7 +3,7 @@
 
 ## Datoer og tid
 * den 6. september - 19. november 2021
-* mandage & fredage kl. 16:30-18:00
+* tirsdage & fredage kl. 16:30-18:00
 * 10 uger; 40 lektioner i alt
 
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.5600 eller kr. 2x kr.2800 </a>
