@@ -6,12 +6,12 @@ In this blog post, you will learn how to use Danish adjectives in front of the n
 
 ## Grammatical gender matching 
 
-Danish adjectives usually match the grammatical gender of the noun in the singular indefinite, which they describe. There is no such phenomenon in English. En vej (=a way) is of 'en' (common) grammatical gender, et bord (=a table/desk) is of 'et' grammatical gender. So the same adjective 'lang' (=long) as the majority of the Danish adjectives will take a t-ending to describe an 'et’-gender noun, like et bord. In other words, Danish adjectives behave differently with 'en' and 'et' gender nouns in singular indefinite. 
+Danish adjectives usually match the grammatical gender of the noun in the singular indefinite, which they describe. There is no such phenomenon in English. *En vej* (a way) is of *'en'* grammatical gender, *et bord* (a table/desk) is of *'et'* grammatical gender. So the same adjective 'lang' (long) as the majority of the Danish adjectives will take a t-ending to describe an 'et’-gender noun, like *et bord*. In other words, Danish adjectives behave differently with 'en' and 'et' gender nouns in singular indefinite. When an adjective describes a singular indefininte noun of  *'en'* grammatical gender, nothing happens to this adjective, and it is used in its initial dictionary form, also known as 'n-form'.
 
 It will look like that: 
 
-*en lang vej* = a long way 
-*et langt bord* = a long table/desk
+> *en lang vej* = a long way 
+> *et langt bord* = a long table/desk
 
 ## When t-matching is not possible?
 
@@ -20,28 +20,28 @@ Adding '-t' to the adjective is a technical matching and should be remembered as
 As mentioned above, t-matching happens in most cases, but not always, because not all the adjectives are technically able to make the t-matching due to their initial form and phonetic regularities in the language. 
 
 See the example for the adjective *flot* (=excellent/gorgeous):
-*et flot resultat* = an excellent result
-*et flot præstation* = an excellent performance
+> *et flot resultat* = an excellent result
+> *et flot præstation* = an excellent performance
 
-The adjective *flot* will behave similarly with *et resultat* and *en præstation*, even though the two nouns belong to different grammatical genders. The adjective *flot* already ends in -t in its initial form, so no t-matching is possible. Due to Danish phonetic rules, the word cannot end in a double consonant letter having no vowel afterwards. So to say *et flott* resultat*, would be logically correct according to the rule but is wrong in language usage. However, the case is different with 'fuld', as it ends in two different consonants, so -t adding is possible. 
+The adjective *flot* will behave similarly with *et resultat* and *en præstation*, even though the two nouns belong to different grammatical genders. The adjective *flot* already ends in -t in its initial form, so no t-matching is possible. Due to Danish phonetic rules, the word cannot end in a double consonant letter having no vowel afterwards. So to say *et flott* resultat*, would be logically correct according to the rule but is wrong in language usage. However, the case is different with 'fuld', as it ends in two different consonants, so t-adding is possible. 
 
-*et fuldt hus* = a full house
-*et fuldt glas* = a full glass
+> *et fuldt hus* = a full house
+> *et fuldt glas* = a full glass
 
 Other cases then -t matching is not possible, is then the initial dictionary form of the adjective ends 
 in -e: 
-*en moderne lejlighed* = a modern flat
-*et moderne hus* = a modern house
+> *en moderne lejlighed* = a modern flat
+> *et moderne hus* = a modern house
 
-*en stille landsby* = a quite village
-*et stille område* = a quite area/neighbourhood;
+> *en stille landsby* = a quite village
+> *et stille område* = a quite area/neighbourhood;
 
 and in -sk/-s
-*en gammeldags tradition* = a old-fashioned tradition
-*et gammeldags komfur* = an old-fashioned stove
+> *en gammeldags tradition* = a old-fashioned tradition
+> *et gammeldags komfur* = an old-fashioned stove
 
-*en fælles stue* = a common/shared room
-*et fælles projekt* = a common projcet
+> *en fælles stue* = a common/shared room
+> *et fælles projekt* = a common projcet
 
 ## How to predict the behaviour of the adjective? 
 It is not possible to remember all the adjectives and all their peculiarities. 
