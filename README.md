@@ -64,6 +64,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
 * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
 
+* [Danish adjectives part 1: with nouns in the singular indefinite](danish-adjectives-part-1-in -front-of-the-noun-in-the-singular-indefinite.md)
+
 ## About me
 
 My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. Before, I lived in Moscow, where I majored in translation and interpreting. I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts and essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
