@@ -48,6 +48,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Blog  
 
+* [T-matching of adjectives in Danish](danish-adjectives-part-1-in -front-of-the-noun-in-the-singular-indefinite)
+
 * [How far would you ride on a bike without a frame?](how-far-would-you-ride-on-a-bike-without-a-frame)
 
 * [The ultimate neuro-linguistic technique for fluency in Danish](the-ultimate-neuro-linguistic-technique-for-fluency-in-Danish)
@@ -64,7 +66,6 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
 * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
 
-* [Danish adjectives part 1: with nouns in the singular indefinite](danish-adjectives-part-1-in -front-of-the-noun-in-the-singular-indefinite.md)
 
 ## About me
 
