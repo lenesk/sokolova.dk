@@ -42,7 +42,7 @@ and in -sk/-s
 *en fælles stue* = a common/shared room
 *et fælles projekt* = a common projcet
 
-##How to predict the behaviour of the adjective? 
+## How to predict the behaviour of the adjective? 
 It is not possible to remember all the adjectives and all their perularities. 
 A reliable tip is to learn the noun with its gender, so you will automatically make the right choice of the adjective form with a singular indefintie noun. Learn the noun gender goup - '*et*' or '*en*' and it will pay you off in the correct usage of adjectives. 
 Another way is to check out in the dictionary - especially adjectives, which may have not have -t matching. 
