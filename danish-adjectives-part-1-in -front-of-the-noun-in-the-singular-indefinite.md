@@ -27,21 +27,21 @@ See the example for the adjective *flot* (=excellent/gorgeous):
 The adjective *flot* will behave similarly with *et resultat* and *en præstation*, even though the two nouns belong to different grammatical genders. The adjective *flot* already ends in -t in its initial form, so no t-matching is possible. Due to Danish phonetic rules, the word cannot end in a double consonant letter having no vowel afterwards. So to say *et flott* resultat*, would be logically correct according to the rule but is wrong in language usage. However, the case is different with 'fuld', as it ends in two different consonants, so t-adding is possible. 
 
 > *et fuldt hus* = a full house <br>
-> *et fuldt glas* = a full glass;
+> *et fuldt glas* = a full glass
 
 Other cases then -t matching is not possible, is then the initial dictionary form of the adjective ends 
 in -e: 
-> *en moderne lejlighed* = a modern flat;
+> *en moderne lejlighed* = a modern flat <br>
 > *et moderne hus* = a modern house;
 
-> *en stille landsby* = a quite village;
-> *et stille område* = a quite area/neighbourhood;
+> *en stille landsby* = a quite village <br>
+> *et stille område* = a quite area/neighbourhood
 
 and in -sk/-s
-> *en gammeldags tradition* = a old-fashioned tradition;
+> *en gammeldags tradition* = a old-fashioned tradition <br>
 > *et gammeldags komfur* = an old-fashioned stove
 
-> *en fælles stue* = a common/shared room
+> *en fælles stue* = a common/shared room <br>
 > *et fælles projekt* = a common projcet
 
 ## How to predict the behaviour of the adjective? 
