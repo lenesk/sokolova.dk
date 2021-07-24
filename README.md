@@ -48,7 +48,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Blog  
 
-* [T-matching of adjectives in Danish](danish-adjectives-part-1-in -front-of-the-noun-in-the-singular-indefinite)
+* [T-matching of adjectives in Danish](t-matching-of-adjectives-in-danish-in-front-of-the-noun-in-the-singular-indefinite)
 
 * [How far would you ride on a bike without a frame?](how-far-would-you-ride-on-a-bike-without-a-frame)
 
