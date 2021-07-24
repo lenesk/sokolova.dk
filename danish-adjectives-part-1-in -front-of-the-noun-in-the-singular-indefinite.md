@@ -1,5 +1,7 @@
 # Danish adjectives Part 1 
 
+*Elena Sokolova, July 24<sup>th</sup> 2021*
+
 In this blog post, you will learn how to use Danish adjectives in front of the noun in the singular indefinite (like 'a big apple').
 
 ## Grammatical gender matching 
