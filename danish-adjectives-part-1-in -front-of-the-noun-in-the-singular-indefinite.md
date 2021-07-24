@@ -1,12 +1,12 @@
-# Danish adjectives Part 1 
+# T-matching of adjectives in Danish
 
 *Elena Sokolova, July 24<sup>th</sup> 2021*
 
-In this blog post, you will learn how to use Danish adjectives in front of the noun in the singular indefinite (like 'a big apple').
+In this blog post, you will learn how to use Danish adjectives in front of a countable noun in the singular indefinite form (like 'a big apple').
 
 ## Grammatical gender matching 
 
-Danish adjectives usually match the grammatical gender of the noun in the singular indefinite, which they describe. There is no such phenomenon in English. *En vej* (a way) is of *'en'* grammatical gender, *et bord* (a table/desk) is of *'et'* grammatical gender. So the same adjective 'lang' (long) as the majority of the Danish adjectives will take a t-ending to describe an 'et’-gender noun, like *et bord*. In other words, Danish adjectives behave differently with 'en' and 'et' gender nouns in singular indefinite. When an adjective describes a singular indefininte noun of  *'en'* grammatical gender, nothing happens to this adjective, and it is used in its initial dictionary form, also known as 'n-form'.
+Danish adjectives usually match the grammatical gender of the noun in the singular indefinite, which they describe. There is no such phenomenon in English. *En vej* (a way) is of *'en'* grammatical gender, *et bord* (a table/desk) is of *'et'* grammatical gender (you can learn more about it at [Gender and grammatical forms of nouns in Danish](https://www.youtube.com/watch?v=94aFjF9Z6QY). So the same adjective 'lang' (long) as the majority of the Danish adjectives will take a t-ending to describe an 'et’-gender noun, like *et bord*. In other words, Danish adjectives behave differently with 'en' and 'et' gender nouns in singular indefinite. When an adjective describes a singular indefininte noun of  *'en'* grammatical gender, nothing happens to this adjective, and it is used in its initial dictionary form, also known as 'n-form'.
 
 It will look like that: 
 
@@ -53,7 +53,6 @@ Another way is to check out in the dictionary - especially adjectives, which may
 
 <img src="t-mathcing-not-possible.jpg.png" alt="t-matching-not-possible"  width="400" height="400" />
 
-Learn more about the Danish adjectives in the upcoming blog posts at sokolova.dk. 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
