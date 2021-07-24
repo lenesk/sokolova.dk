@@ -48,7 +48,7 @@ A reliable tip is to learn the noun with its gender, so you will automatically m
 Another way is to check out in the dictionary - especially adjectives, which may have not have -t matching. 
 
 
-<img src="t-matching-possible.jpg.png" alt="t-matching-possible" />
+<img src="t-matching-is-possible.jpg.png" alt="t-matching-possible" />
 
 <img src="t-mathcing-not-possible.jpg.png" alt="t-matching-not-possible" />
 
