@@ -53,7 +53,8 @@ Another way is to check out in the dictionary - especially adjectives, which may
 <img src="t-mathcing-not-possible.jpg.png" alt="t-matching-not-possible"  width="400" height="400" />
 
 
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
-
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
 
