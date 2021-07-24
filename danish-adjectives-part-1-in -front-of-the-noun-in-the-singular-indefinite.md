@@ -10,34 +10,35 @@ Danish adjectives usually match the grammatical gender of the noun in the singul
 
 It will look like that: 
 
-> *en lang vej* = a long way 
+> *en lang vej* = a long way <br>
 > *et langt bord* = a long table/desk
 
 ## When t-matching is not possible?
 
-Adding '-t' to the adjective is a technical matching and should be remembered as a rule. The -t matching of adjectives happens when the noun is in the singular form. Often, this t-matching is called the t-form of the adjective. 
+Adding '-t' to the adjective is a technical matching and should be remembered as a rule. 
+The -t matching of adjectives happens when the noun is in the singular form. Often, this t-matching is called the t-form of the adjective. 
 
 As mentioned above, t-matching happens in most cases, but not always, because not all the adjectives are technically able to make the t-matching due to their initial form and phonetic regularities in the language. 
 
 See the example for the adjective *flot* (=excellent/gorgeous):
-> *et flot resultat* = an excellent result
+> *et flot resultat* = an excellent result <br>
 > *et flot præstation* = an excellent performance
 
 The adjective *flot* will behave similarly with *et resultat* and *en præstation*, even though the two nouns belong to different grammatical genders. The adjective *flot* already ends in -t in its initial form, so no t-matching is possible. Due to Danish phonetic rules, the word cannot end in a double consonant letter having no vowel afterwards. So to say *et flott* resultat*, would be logically correct according to the rule but is wrong in language usage. However, the case is different with 'fuld', as it ends in two different consonants, so t-adding is possible. 
 
-> *et fuldt hus* = a full house
-> *et fuldt glas* = a full glass
+> *et fuldt hus* = a full house <br>
+> *et fuldt glas* = a full glass;
 
 Other cases then -t matching is not possible, is then the initial dictionary form of the adjective ends 
 in -e: 
-> *en moderne lejlighed* = a modern flat
-> *et moderne hus* = a modern house
+> *en moderne lejlighed* = a modern flat;
+> *et moderne hus* = a modern house;
 
-> *en stille landsby* = a quite village
+> *en stille landsby* = a quite village;
 > *et stille område* = a quite area/neighbourhood;
 
 and in -sk/-s
-> *en gammeldags tradition* = a old-fashioned tradition
+> *en gammeldags tradition* = a old-fashioned tradition;
 > *et gammeldags komfur* = an old-fashioned stove
 
 > *en fælles stue* = a common/shared room
