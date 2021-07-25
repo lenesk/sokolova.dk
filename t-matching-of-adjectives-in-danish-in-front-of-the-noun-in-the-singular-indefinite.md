@@ -22,7 +22,7 @@ As mentioned above, t-matching happens in most cases, but not always, because no
 
 See the example for the adjective *flot* (=excellent/gorgeous):
 > *et flot resultat* = an excellent result <br>
-> *et flot præstation* = an excellent performance
+> *en flot præstation* = an excellent performance
 
 The adjective *flot* will behave similarly with *et resultat* and *en præstation*, even though the two nouns belong to different grammatical genders. The adjective *flot* already ends in -t in its initial form, so no t-matching is possible. Due to Danish phonetic rules, the word cannot end in a double consonant letter having no vowel afterwards. So to say *et flott* resultat*, would be logically correct according to the rule but is wrong in language usage. However, the case is different with 'fuld', as it ends in two different consonants, so t-adding is possible. 
 
