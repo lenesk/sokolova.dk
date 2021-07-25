@@ -29,8 +29,7 @@ The adjective *flot* will behave similarly with *et resultat* and *en præstatio
 > *et fuldt hus* = a full house <br>
 > *et fuldt glas* = a full glass
 
-Other cases then -t matching is not possible, is then the initial dictionary form of the adjective ends 
-in -e: 
+Other cases when t-matching is not possible, is when the initial dictionary form of the adjective ends in -e: 
 > *en moderne lejlighed* = a modern flat <br>
 > *et moderne hus* = a modern house;
 
