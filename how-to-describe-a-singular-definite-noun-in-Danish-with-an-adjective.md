@@ -53,8 +53,8 @@ In many grammar books you'll find the rule, saying that any possessive pronouns 
 
 > *Vores store spisebord af massivt træ var familiens samlingspunkt om aftenen.* = Our dining table of solid tree was the familys gathering point in the evening. 
 
-> * Byens historiske (e-ending after a noun with genetive ‘s’) centrum var berømt for sine hyggelige (e-ending after a possessive word) gader.* = The city’s historical center was famous for its cosy streets. 
-In *historiske *: e-ending after a noun with genetive *byens*, in *hyggelige* e-ending after a possessive word.
+> *Byens historiske centrum var berømt for sine hyggelige gader.* = The city’s historical center was famous for its cosy streets. 
+In *historiske*, e-ending after the noun in the genetive *byens*, in *hyggelige* e-ending after a possessive word.
 
 ## E-adding is not always possible
 
