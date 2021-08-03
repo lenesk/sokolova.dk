@@ -1,4 +1,4 @@
-# How to describe a singular definite noun in Danish with an adjective
+# How to describe a singular definite noun with an adjective in Danish 
 
 *Elena Sokolova, August 3 <sup>rd</sup> 2021*
 
@@ -47,7 +47,7 @@ The definiteness (the-form) is close to the demonstrative description like in 't
 > *det dejlige land* = the wonderful country <br>
 > *den flotte præstation* (a second 't' is added to preserve the vowel quality in *flot*)
 
-## What else triggers e-ending in adjectives in before a singular noun?
+## What else triggers e-ending in adjectives before a singular noun?
 
 In many grammar books you'll find the rule, saying that any possessive pronouns like *min/hans/sin* ... or a genetive form, like *Peters*, *byens*, *Danmarks*, trigger e-ending in the adjectives. It's true, and there is a good explanation for that. Any word of possession makes the noun specific by default and works like a definite marker similar to a definite article. That's why you will say:
 
