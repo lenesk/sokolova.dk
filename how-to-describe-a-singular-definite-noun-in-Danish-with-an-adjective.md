@@ -10,8 +10,8 @@ When describing a singular noun in a definite form like 'the apple', you should 
 
 Let’s have a look at two examples a) & b): 
 
-> a)*Flaget er rødt og hvidt.* = The flag is red and white. <br>
-> b)*Det danske flag er rødt og hvid.* = The Danish flag is red and white. 
+> a) *Flaget er rødt og hvidt.* = The flag is red and white. <br>
+> b) *Det danske flag er rødt og hvid.* = The Danish flag is red and white. 
 
 *Et flag* (a flag) is a noun of et-gender. Imagine you have a picture of many flags, and you describe one specific of the many, so you say 'the flag' - *flaget* (*et* at the end of flag works as 'the'). The adjectives in post position will follow the rule of t-matching in singular: *Flaget er rødt og hvidt.*
 
