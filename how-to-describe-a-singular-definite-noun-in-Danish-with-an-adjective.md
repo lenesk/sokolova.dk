@@ -63,8 +63,8 @@ E-adding is not possible when an adjcetive ends en -e; and some but not all adje
 
 However, even if e-adding is not possible, t-matching may still be required. And it's normal that some adjectives make t-matching and no e-matching and vice versa due to their spelling and phonetic properties.  
 
-> *det blå hav = the blue sea/ocean
-> *den blå himmel = the blue sky
+> *det blå hav* = the blue sea/ocean
+> *den blå himmel* = the blue sky
 No e-adding is possible in the two examples above. But in *Havet er blåt* = The see is blue, t-mathcing is possible. 
 
 So in some sense, one may say that e-adding and t-matching live their own lives independent of each other.  
