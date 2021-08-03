@@ -44,8 +44,8 @@ The definiteness (the-form) is close to the demonstrative description like in 't
 > *det nye byggegri* = the new construction <br>
 > *det byggeri var nyt i området* = that construction was new in the area.
 
-> *det dejlige land* = the wonderful country
-> *den flotte præstation* (a second 't' is added in the e-form to preserve the vowel quality)
+> *det dejlige land* = the wonderful country <br>
+> *den flotte præstation* (a second 't' is added to preserve the vowel quality in *flot*)
 
 ## What else triggers e-ending in adjectives in before a singular noun?
 
