@@ -49,7 +49,7 @@ The definiteness (the-form) is close to the demonstrative description like in 't
 
 ## What else triggers e-ending in adjectives in before a singular noun?
 
-In many grammar books you'll find the rule, saying that any possessive pronouns like *min/hans/sin ... * or a genetive form, like *Peters, byens, Danmarks*, trigger e-ending in the adjectives. It's true, and there is a good explanation for that. Any word of possession makes the noun specific by default and works like a definite marker similar to a definite article. That's why you will say:
+In many grammar books you'll find the rule, saying that any possessive pronouns like *min/hans/sin* ... or a genetive form, like *Peters*, *byens*, *Danmarks*, trigger e-ending in the adjectives. It's true, and there is a good explanation for that. Any word of possession makes the noun specific by default and works like a definite marker similar to a definite article. That's why you will say:
 
 > *Vores store spisebord af massivt træ var familiens samlingspunkt om aftenen.* = Our dining table of solid tree was the familys gathering point in the evening. 
 
