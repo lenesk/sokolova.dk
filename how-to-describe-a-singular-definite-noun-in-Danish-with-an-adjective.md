@@ -21,7 +21,7 @@ Suppose you attribute a quality/description to the specific noun already in its 
 
 I choose to say *det danske flag*, where *det* = 'the'; while for en-gender nouns, I will choose 'den', e.g. *den høje bygning* = 'the tall building'. *Den* or *det* in front of the adjective mark the definiteness of the noun in case an adjective precedes this noun. Gender t-matching as we see does not disappear totally. It is reflected in the choice of the definite article of the singular noun preceded by an adjective - *den* or *det*.
 
-> *Den høje bygning i centrum var grim. = The tall building in the city centre was ugly. 
+> *Den høje bygning i centrum var grim.* = The tall building in the city centre was ugly. 
 I choose *den* ='the', since *bygning* belong to en-gender group of nouns.
 
 ## Definite or indefinite noun?
