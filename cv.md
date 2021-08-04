@@ -3,7 +3,7 @@
 
 ## Erhvervserfaring
 
-### Dansklærer 2020/07– 2020/10 	
+### Dansklærer 2020/07–i dag 	
 [SokolovaDK](https://sokolova.dk) 
 
 Ejer og stifter af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog.
