@@ -10,7 +10,7 @@ For the Writing task (let us call it further an essay), you receive an exam set 
 
 > *Punkt 1: Gør ud fra faktainformationen kort rede for* … .
 
-The data material is usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. The data description part is usually the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover).
+The data material is usually given in a graphical representation (a table, a diagram, a figure or a pie-chart) about a specific process, a social or an economic issue, or a social trend over a period time. The data description part is usually the first ‘real’ paragraph of the essay after an optional short introduction (Introduction is not compulsory and is not on the list of the assessment criteria). You can find an example of the previous year’s exam set here: [Studieprøven, November-December 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png).
 
 ## Why describing data is the most predictable part of the essay?
 
