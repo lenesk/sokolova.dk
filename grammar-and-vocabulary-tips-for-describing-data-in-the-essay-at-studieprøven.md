@@ -78,7 +78,7 @@ Finally, it may be sometimes relevant to use the word *opgørelse*, if the data 
 
 ## What grammatical tense of the verbs to use?
 
-As based on the set from [Studieprøven, November-December 2019](https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover), the following to examples are possible: 
+As based on the set from [Studieprøven, November-December 2019](opgave-2-Danskernes-opfattelse-af-kriminalitet-winter-2019.png), the following to examples are possible: 
 
 > *Ifølge tabellen fra 'Danskernes opfattelse af kriminalitet i samfundet' udgivet af Justitsministeriet i 2017 svarede næsten halvdelen af de adspurgte, at der var forekommet flere eller langt flere overtrædelser af straffeloven i perioden fra 2011 til 2016.*
 
