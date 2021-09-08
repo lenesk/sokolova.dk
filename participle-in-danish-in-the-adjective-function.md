@@ -12,7 +12,7 @@ Remember:
  
 The present participle behaves like an adjective but never undergoes t-matching with the gender of the noun, e.g. 
 
-> *et krævende job* = a demanding job (from *kræve* - to demand; no t-matching is needed with an 'et-noun'. 
+> *et krævende job* = a demanding job (from *kræve* - to demand; no t-matching is needed with an 'et-noun'). 
  
 It does not have the e-ending, unlike 'pure' adjectives for describing a plural noun/definite noun (after triggers like *den/det/de/possessive words*). It seems natural since it has already '-e', and phonetic combinability does not allow an extra -e.
  
