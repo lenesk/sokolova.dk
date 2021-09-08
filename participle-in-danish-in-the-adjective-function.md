@@ -18,7 +18,7 @@ It does not have the e-ending, unlike 'pure' adjectives for describing a plural 
  
 See some examples:
  
-> *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
+> a) *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
  
 > *en stigende arbejdsløshed* = an increasing unemployment
  
@@ -29,8 +29,10 @@ See some examples:
 > *de stigende priser* = the increasing prices
  
 > *til en stigende pris* = for an increasing price <br>
+
  
-> *at vokse* - to grow => + *-nde* => *voksende* = growing
+> b) *at vokse* = to grow => + *-nde* => *voksende* = growing
+
 > *en voksende ulighed* = a growing inequality; 
  
 > *den voksende ulighed i samfundet* = the increasing inequality in the society;
