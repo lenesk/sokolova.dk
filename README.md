@@ -41,6 +41,9 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
 
 ## Blog  
+
+* [Participle in Danish in the adjective function](participle-in-danish-in-the-adjective-function)
+
 * [How to describe a singular definite noun in Danish with an adjective](how-to-describe-a-singular-definite-noun-in-Danish-with-an-adjective)
 
 * [T-matching of adjectives in Danish](t-matching-of-adjectives-in-danish-in-front-of-the-noun-in-the-singular-indefinite)
