@@ -61,7 +61,7 @@ While adding the e-ending to the past participle, spelling changes may occur if 
 After the e-adding *-et* it will change to *-ede*.
 
 > * *et diskuteret emne* = a disucussed topic
-> * *ét af de mest omdiskuterede emner i valgdebatten - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
+> * *ét af de mest omdiskuterede emner i valgdebatten* - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
 
 > * *en strikket trøje* = a knitted shirt
 > * *min strikkede trøje* = my knitted shirt (e-adding after a possive trigger) 
