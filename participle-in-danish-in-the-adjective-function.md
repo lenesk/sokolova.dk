@@ -63,7 +63,7 @@ After the e-adding *-et* it will change to *-ede*.
 > * *et diskuteret emne* = a disucussed topic
 > * *ét af de mest omdiskuterede emner i valgdebatten - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
 
-> *en strikket trøje* - *min strikkede trøje* (e-adding after a possive trigger). 
+> * *en strikket trøje* - *min strikkede trøje* (e-adding after a possive trigger). 
  
  
 ## Guess why e- in *malede* - is it a verb in the past simple tense (datid)?
