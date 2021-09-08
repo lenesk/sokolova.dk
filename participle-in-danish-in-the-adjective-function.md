@@ -54,8 +54,8 @@ See some examples:
  
 > * *at indføre* (conjugation: *indførte* - *indført*) = to implement 
 
-> * *den indførte brugerbetaling i sundhedsvæsenet* = the implemented healthcare fee; 
-e-adding here is necessary, since *brugerbetaling* is definite with the participle in front of it. 
+> * *den indførte brugerbetaling i sundhedsvæsenet* = the implemented healthcare fee 
+E-adding here is necessary, since *brugerbetaling* is definite with the participle in front of it. 
  
 While adding the e-ending to the past participle, spelling changes may occur if the verb's past participle form ends en *-et*. 
 After the e-adding *-et* it will change to *-ede*.
