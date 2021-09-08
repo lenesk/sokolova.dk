@@ -14,7 +14,7 @@ The present participle behaves like an adjective but never undergoes t-matching 
 
 > *et krævende job* = a demanding job (from *kræve* - to demand; no t-matching is needed with an 'et-noun'). 
  
-It does not have the e-ending, unlike 'pure' adjectives for describing a plural noun/definite noun (after triggers like *den/det/de/possessive words*). It seems natural since it has already '-e', and phonetic combinability does not allow an extra -e.
+It does not have the e-ending, unlike 'pure' adjectives for describing a plural noun/definite noun (after triggers like *den/det/de*/possessive words). It seems natural since it has already '-e', and phonetic combinability does not allow an extra -e.
  
 See some examples:
  
@@ -40,7 +40,7 @@ See some examples:
  
 > *at afvise* (conjugation: *afviste*-*afvist*) = to reject => *et afvist forslag* = a rejected suggestion <br>
  
-> *at diskutere* (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgmål = a discussed question <br>
+> *at diskutere* (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgsmål = a discussed question <br>
  
 > *at forbyde* (conjugation: *forbød* - *forbudt*) = to prohibit => *en forbudt medicin* = *a banned medicine* <br>
 
@@ -48,7 +48,7 @@ See some examples:
 Unlike present participle, the past participle may undergo some changes, just like adjectives. 
 Remember that the present participle never undergoes t-matching with the gender of the noun. 
  
-However, past participles of the verbs undergo the e-adding when there is a necessary trigger (for describing a plural noun/definite noun & after triggers like *den/det/de/possessive words*). 
+However, past participles of the verbs undergo the e-adding when there is a necessary trigger (for describing a plural noun/definite noun & after triggers like *den/det/de*/possessive words). 
  
 See some examples:
  
@@ -63,16 +63,17 @@ After the e-adding *-et* it will change to *-ede*.
 > * *et diskuteret emne* = a disucussed topic
 > * *ét af de mest omdiskuterede emner i valgdebatten - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
 
-> * *en strikket trøje* - *min strikkede trøje* (e-adding after a possive trigger). 
+> * *en strikket trøje* = a knitted shirt
+>  *min strikkede trøje* = my knitted shirt (e-adding after a possive trigger) 
  
  
 ## Guess why e- in *malede* - is it a verb in the past simple tense (datid)?
  
 > a) *Alle væggene i huset blev malet*. = All the walls in the house were painted. 
-Focus on the activity, i.e. someone has come and painted the walls; i.e. traditional passive voice)
+Focus on the activity, i.e. someone has come and painted the walls; i.e. traditional passive voice.
  
 > b) *Alle væggene i huset var malede*. = All the walls in the house were painted. 
-Focus on the quality of the walls and how they looked like, i.e. they were not worn out and looked freshly painted). 
+Focus on the quality of the walls and how they looked like, i.e. they were not worn out and looked freshly painted. 
  
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
