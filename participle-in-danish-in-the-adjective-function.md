@@ -19,26 +19,17 @@ It does not have the e-ending, unlike 'pure' adjectives for describing a plural 
 See some examples:
  
 > * *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
- 
 > * *en stigende arbejdsløshed* = an increasing unemployment
- 
 > * *landets stigende arbejdsløshed* = the country's increasing unemployment
- 
 > * *jeres stigende interesse* = your increasing interest
- 
 > * *de stigende priser* = the increasing prices
- 
 > * *til en stigende pris* = for an increasing price <br>
 
  
-> b) *at vokse* = to grow => + *-nde* => *voksende* = growing
-
+> * *at vokse* = to grow => + *-nde* => *voksende* = growing
 > * *en voksende ulighed* = a growing inequality; 
- 
 > * *den voksende ulighed i samfundet* = the increasing inequality in the society;
- 
 > * *voksende smittetal* (pl. et tal, mange tal) = growing infection rates
- 
 
  
 ## Past participle (Præteritum participium/kort participium)
