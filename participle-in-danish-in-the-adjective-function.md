@@ -47,9 +47,9 @@ Past participle in Danish is often used as an adjective to describe a passive ac
  
 See some examples:
  
-> *at afvise (conjugation: afviste-afvist) = to reject => *et afvist forslag* = a rejected suggestion <br>
+> *at afvise* (conjugation: *afviste*-*afvist*) = to reject => *et afvist forslag* = a rejected suggestion <br>
  
-> *at diskutere (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgmål = a discussed question <br>
+> *at diskutere* (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgmål = a discussed question <br>
  
 > *at forbyde* (conjugation: *forbød* - *forbudt*) = to prohibit => *en forbudt medicin* = *a banned medicine* <br>
 
