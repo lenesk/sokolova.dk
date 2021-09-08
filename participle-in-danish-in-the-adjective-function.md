@@ -1,4 +1,4 @@
-# Participle in Danish in the adjective function
+# Participle in Danish in the adjective function (sokolova.dk)
 
 *Elena Sokolova, September 8 <sup>th</sup> 2021*
 
@@ -20,24 +20,24 @@ See some examples:
  
 > *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
  
-> *en stigende arbejdsløshed* - an increasing unemployment
+> *en stigende arbejdsløshed* = an increasing unemployment
  
-> *landets stigende arbejdsløshed* - the country's increasing unemployment
+> *landets stigende arbejdsløshed* = the country's increasing unemployment
  
-> *jeres stigende interesse* - your increasing interest
+> *jeres stigende interesse* = your increasing interest
  
-> *de stigende priser* - the increasing prices
+> *de stigende priser* = the increasing prices
  
-> *til en stigende pris* - for an increasing price <br>
+> *til en stigende pris* = for an increasing price <br>
  
 > *at vokse* - to grow => + *-nde* => *voksende* = growing
-> *en voksende ulighed* - a growing inequality; 
+> *en voksende ulighed* = a growing inequality; 
  
-> *den voksende ulighed i samfundet* - the increasing inequality in the society;
+> *den voksende ulighed i samfundet* = the increasing inequality in the society;
  
-> *voksende smittetal* (pl. et tal, mange tal) - growing infection rates
+> *voksende smittetal* (pl. et tal, mange tal) = growing infection rates
  
- 
+
  
 ## Past participle (Præteritum participium/kort participium)
  
@@ -45,11 +45,11 @@ Past participle in Danish is often used as an adjective to describe a passive ac
  
 See some examples:
  
-> *at afvise (conjugation: afviste-afvist) = to reject => *et afvist forslag* - a rejected suggestion <br>
+> *at afvise (conjugation: afviste-afvist) = to reject => *et afvist forslag* = a rejected suggestion <br>
  
-> *at diskutere (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgmål - a discussed question <br>
+> *at diskutere (conjugation: *diskuterede* - *diskuteret*) = to discuss => et diskuteret spørgmål = a discussed question <br>
  
-> *at forbyde* (conjugation: *forbød* - *forbudt*) = to prohibit => *en forbudt medicin* - *a banned medicine* <br>
+> *at forbyde* (conjugation: *forbød* - *forbudt*) = to prohibit => *en forbudt medicin* = *a banned medicine* <br>
 
  
 Unlike present participle, the past participle may undergo some changes, just like adjectives. 
@@ -75,10 +75,10 @@ After the e-adding *-et* it will change to *-ede*.
  
 ## Guess why e- in *malede* - is it a verb in the past simple tense (datid)?
  
-> a) *Alle væggene i huset blev malet*. - All the walls in the house were painted. 
+> a) *Alle væggene i huset blev malet*. = All the walls in the house were painted. 
 Focus on the activity, i.e. someone has come and painted the walls; i.e. traditional passive voice)
  
-> b) *Alle væggene i huset var malede*. - All the walls in the house were painted. 
+> b) *Alle væggene i huset var malede*. = All the walls in the house were painted. 
 Focus on the quality of the walls and how they looked like, i.e. they were not worn out and looked freshly painted). 
  
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
