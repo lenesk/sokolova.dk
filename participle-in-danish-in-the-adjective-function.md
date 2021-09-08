@@ -2,7 +2,7 @@
 
 *Elena Sokolova, September 8 <sup>th</sup> 2021*
 
-I am pretty sure you have sometimes mumbled the ending in words like *stresset/stressende*; *vosket/voksende*, since such 'pairs' are occasionally confusing and look similar. In this blog post, you can learn about 'adjectives' which resemble verbs but are not verbs by their pure definition. 
+I am pretty sure you have sometimes doubted about the endings in words like *stresset/stressende*; *vosket/voksende*, since such 'pairs' are occasionally confusing and look similar. In this blog post, you can learn about 'adjectives' which resemble verbs but are not verbs by their pure definition. 
  
 ## Present participle (in Danish called præsens participium/langt participium)
  
