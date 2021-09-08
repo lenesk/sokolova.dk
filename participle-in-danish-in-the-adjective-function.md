@@ -18,26 +18,26 @@ It does not have the e-ending, unlike 'pure' adjectives for describing a plural 
  
 See some examples:
  
-> a) *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
+> * *at stige* = to increase => *stige* (infinitive) + *-nde* => *stigende* = increasing 
  
-> *en stigende arbejdsløshed* = an increasing unemployment
+> * *en stigende arbejdsløshed* = an increasing unemployment
  
-> *landets stigende arbejdsløshed* = the country's increasing unemployment
+> * *landets stigende arbejdsløshed* = the country's increasing unemployment
  
-> *jeres stigende interesse* = your increasing interest
+> * *jeres stigende interesse* = your increasing interest
  
-> *de stigende priser* = the increasing prices
+> * *de stigende priser* = the increasing prices
  
-> *til en stigende pris* = for an increasing price <br>
+> * *til en stigende pris* = for an increasing price <br>
 
  
 > b) *at vokse* = to grow => + *-nde* => *voksende* = growing
 
-> *en voksende ulighed* = a growing inequality; 
+> * *en voksende ulighed* = a growing inequality; 
  
-> *den voksende ulighed i samfundet* = the increasing inequality in the society;
+> * *den voksende ulighed i samfundet* = the increasing inequality in the society;
  
-> *voksende smittetal* (pl. et tal, mange tal) = growing infection rates
+> * *voksende smittetal* (pl. et tal, mange tal) = growing infection rates
  
 
  
@@ -61,16 +61,16 @@ However, past participles of the verbs undergo the e-adding when there is a nece
  
 See some examples:
  
-> *at indføre* (conjugation: *indførte* - *indført*) = to implement 
+> * *at indføre* (conjugation: *indførte* - *indført*) = to implement 
 
-> *den indførte brugerbetaling i sundhedsvæsenet* = the implemented healthcare fee; 
+> * *den indførte brugerbetaling i sundhedsvæsenet* = the implemented healthcare fee; 
 e-adding here is necessary, since *brugerbetaling* is definite with the participle in front of it. 
  
 While adding the e-ending to the past participle, spelling changes may occur if the verb's past participle form ends en *-et*. 
 After the e-adding *-et* it will change to *-ede*.
 
-> *et diskuteret emne* = a disucussed topic
-> *ét af de mest omdiskuterede emner i valgdebatten - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
+> * *et diskuteret emne* = a disucussed topic
+> * *ét af de mest omdiskuterede emner i valgdebatten - one of the most discussed topics in the election debate (e-adding in 'diskuteret' for plural matching & defitine form of the noun; + changing of -et to -ede) <br>
 
 > *en strikket trøje* - *min strikkede trøje* (e-adding after a possive trigger). 
  
