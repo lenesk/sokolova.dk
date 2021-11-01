@@ -38,7 +38,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Danish video courses for self-study
 
-* [Online Video course on Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
+* [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
  
 
 ## Blog  
