@@ -35,8 +35,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
-* Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Register & pay 920 DKK to get access to the video course</a>
+* [Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md) <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Register & pay 920 DKK to get access to the video course</a>
 
  
 
