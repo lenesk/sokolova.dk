@@ -1,4 +1,4 @@
-# Online video course for self-study 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
+# Online video course for self-study 'Learn how to write a reply mail and an argumentational essay at Prøve i Dansk 3'
 
 <style>
 .btn {
