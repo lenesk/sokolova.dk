@@ -1,4 +1,4 @@
-# Online video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
+# Online video course for self-study 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
 
 <style>
 .btn {
