@@ -1,5 +1,29 @@
-# Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Register & pay 920 DKK to get access to the video course</a>
+# Online video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
+
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK </a>
+
+
 
 ## How may this course help you?
 
@@ -67,7 +91,7 @@ Typical mistakes at Delprøve 2B (continued)
 
 ## Practical information
 You can buy access to the course Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3' here
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Register & pay 920 DKK to get access to the video course</a>  
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK </a>
 
 You are welcome to direcet any questions/suggestions/issues related to the course at elena@sokolova.dk 
 
