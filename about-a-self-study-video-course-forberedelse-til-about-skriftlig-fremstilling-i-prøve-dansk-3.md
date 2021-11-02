@@ -55,8 +55,8 @@ All the slide materials are available for download on the course page for regist
 
 ### The total length of the course is 180 minutes - 3 hours. 
 
-#### Part 1 
-(8 minutes) Introduction: format, assessment criteria, types of tasks
+#### Part 1 (8 minutes) 
+Introduction: format, assessment criteria, types of tasks
 
 #### Part 2 (11 minutes)
 Plan and structure for Delprøve 1
