@@ -23,7 +23,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK incl. VAT </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK inc. VAT </a>
 
 
 
