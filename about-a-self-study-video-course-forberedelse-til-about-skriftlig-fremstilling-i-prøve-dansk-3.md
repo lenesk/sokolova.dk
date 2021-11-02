@@ -93,7 +93,7 @@ Typical mistakes at Delprøve 2B (continued)
 
 ## Practical information
 You can buy access to the course Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3' here
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK inc. VAT </a>
 
 You are welcome to direct any questions/suggestions/issues related to the course at elena@sokolova.dk. 
 
