@@ -1,6 +1,8 @@
 # Online video course for self-study 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'
 
-## Learn how to write a reply mail and an argumentational essay at Prøve i Dansk 3
+## Watch a preview from Part 6: How to explain reasons in Delprøve 2A
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FJk9uIGnRx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <style>
 .btn {
@@ -23,7 +25,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Access for 920 DKK inc. VAT </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Get full access for 920 DKK inc. VAT </a>
 
 
 
@@ -49,7 +51,7 @@ The aim is to give you an overview of each task and relate vocabulary and senten
 I put it clearly in the course that Delprøve 2A and 2B have much in common, but I also explain and give examples of how they differ. 
 
 ## Slides for a download
-All the slide materials are available for download on the course page for registered useres, so you can print them out before you start watching, follow the videos and make notes to the slide/translation while watching. 
+All the slide materials are available for download on the course page for registered users, so you can print them out before you start watching, follow the videos and make notes to the slide/translation while watching. 
 
 ## The length and contents of the course
 
