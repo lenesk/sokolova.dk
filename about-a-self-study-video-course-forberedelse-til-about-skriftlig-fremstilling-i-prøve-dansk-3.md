@@ -25,7 +25,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Extended Black Friday Offer on 25th-29th November: get full access for 550 DKK (normal price is 920 DKK) </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Get full access for 920 DKK </a>
 
 
 ## How may this course help you?
