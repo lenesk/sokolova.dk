@@ -34,12 +34,12 @@ It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident a
 
 After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
 
-### Four reasons to take a training course running right up to the exam:
+### Four reasons to take a training course for the exam:
 
 * you get ready for the exam in a smaller group class (8-10 students);
 * prep curriculum is stretched over 12 sessions for efficient assimilation of material;
 * access to preparing materials;
-* well-structured lessons with a focus on all the aspects of the exam content. 
+* well-structured lessons with a focus on all the aspects of the exam content and assessment criteria. 
 
 
 ### Why choose a once-per-week course? 
