@@ -1,6 +1,6 @@
 # Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)
 
-You can find more information about and samples of the exam tasks in some of my blog posts: https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven
+You can find more information about and samples of the exam tasks in some of my [blog posts](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
 
 12.01.-06.04.2022| Wednesdays 18:45-21:00 (Copenhagen)| 36 lessons/12 weeks <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-studieproven-danish-c1/buy"> Enroll & pay 5100 DKK </a>
 
@@ -75,7 +75,7 @@ The course has a focus on building a substantial vocabulary at C1 level and prac
 
 ### What is Studieprøven? 
 
-Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark https://www.ug.dk/videregaaendeuddannelse/altomoptagelse/dansk-som-optagelseskrav-paa-de-videregaaende-uddannelser. 
+Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for [admission to a higher education program in Denmark](https://www.ug.dk/videregaaendeuddannelse/altomoptagelse/dansk-som-optagelseskrav-paa-de-videregaaende-uddannelser). 
 
 ### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can also schedule a short meeting in Zoom, if you want to ask questions in person. 
 
