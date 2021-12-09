@@ -42,6 +42,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
  
  
  ## Current enrolment
+ 
 * [Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course)
 
 
