@@ -40,6 +40,10 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
  
+ 
+ ## Current enrolment
+* [Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course)
+
 
 ## Blog  
 
