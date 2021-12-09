@@ -72,8 +72,7 @@ The course has a focus on building a substantial vocabulary at C1 level and prac
 
 ### What is Studieprøven? 
 
-Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark. 
-You can find samples of exam sets from last year here to assess the level of complexity: https://uim.dk/arbejdsomrader/danskundervisning-og-prover-for-udlaendinge/prover/danskprover/eksempler-pa-tidligere-afholdte-prover
+Studieprøven is the Higher Education Examination and the last level on Danish Language 3, Module 6. It is the most advanced test of the Danish Language System. You can use the results of Studieprøven to apply for admission to a higher education program in Denmark.https://www.ug.dk/videregaaendeuddannelse/altomoptagelse/dansk-som-optagelseskrav-paa-de-videregaaende-uddannelser 
 
 ### Do not hesitate to mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have any questions concerning the course. We can also schedule a short meeting in Zoom, if you want to ask questions in person. 
 
