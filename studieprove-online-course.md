@@ -1,6 +1,5 @@
-# Online skriftlig forberedelse til Studieprøven 
-
-C1 Studieprøven Prep Course med fokus på den skriftlige fremstilling (8-10 students)| .01.2021 - 21.04.2021 | 17:00-19:30 | 42 lessons/14 weeks | 4578 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
+# Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)
+|12.01.2021 - 21.04.2021 | 18:45-21:00 | 36 lessons/12 weeks | 5400 DKK | <a class="btn" href="https://elenasokolova.podia.com/c1-studieproven-prep-course/buy">Enroll & pay </a>
 
 The course has a first-come-first-served admission. 
 
@@ -27,17 +26,15 @@ The course has a first-come-first-served admission.
 
 
 ### Admission requirements
-This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing.
-
-Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course or would know more about the sign up.  
+This course is for those who have acquired Danish level B2 or passed Prøve i Dansk 3. 
+It is not a prerequisite to pass Prøve i Dansk 3, but you should be confident at Danish level B2, especially in writing. Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you have questions about the course, would know more about the sign up, or would like to receive a free level-placement task.    
 
 After the course has started, no running enrollment is possible to ensure the homogeneity of the class. 
-Should you change your mind after the first class, you have an unconditional money-back guarantee of the total course price. 
 
 ### Four reasons to take a training course running right up to the exam:
 
 * you get ready for the exam in a smaller group class (8-10 students);
-* prep curriculum is stretched over 11 sessions for efficient assimilation of material;
+* prep curriculum is stretched over 12 sessions for efficient assimilation of material;
 * access to preparing materials;
 * well-structured lessons with a focus on all the aspects of the exam content. 
 
@@ -55,7 +52,7 @@ Should you change your mind after the first class, you have an unconditional mon
 * An online class/session of 3 academic hours per day in a small group will give you plenty of opportunities to practice the language, discuss, automate vocabulary, and get personal feedback.  
 
 
-### Why 11 sessions?
+### Why 12 sessions?
 
 It takes time to get ready to Studieprøven, to understand the structure of the exam, and try writing an essay one step at a time. Think that you had to write an academic essay about genetically modified foods or analyze statistics about the education policy in Denmark? Think of the length of the exam - 3 hours for Writing the essay part of the written exam and the Reading part of 1,5 hours. Hence, you need time to practice the language and accumulate vocabulary to develop reading, writing, and speaking skills in academic Danish (C1). You have probably been learning English for years to master a language, so the time matters. 
 
