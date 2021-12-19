@@ -15,11 +15,11 @@ B2.2 | 8 weeks | 2 class | 4 | 4 hours
 B2.3 | 8 weeks | 2 class   | 4 | 4 hours
 B2.4 | 8 weeks | 2 class  | 4 | 4 hours
   |   |   |   |  
-C1 | 11 weeks | 1 class | 4 | 6–8 hours
+C1 | 11-12 weeks | 1 class | 4 | 6–8 hours
 
 ### B2 courses can be taken in any order.
 
-### Price per lesson (45 min.) in a group of 6-8/8-10 students is 120 DKK.
+### Price per lesson (45 min.) in a group of 6-8/8-10 students may vary from 120 DKK to 150 DKK depending on the level and amount of preparation.
 
 ### The course price does not include the price for the study book, and you need to order a book on your own.
 
@@ -33,10 +33,6 @@ C1 | 11 weeks | 1 class | 4 | 6–8 hours
 ## No current admission is possible 
 * All my group courses have а closed admission. A no-current-enrollment practice ensures the class's homogeneity for the sake of continuity in the curriculum. 
 
-
-# [Online group classes starting soon](current-courses-for-sign-up)
-
-If you have questions while signing up online for the course, e.g., if you are in doubt what level to choose, do not hesitate to write me directly by mail, [elena@sokolova.dk](mailto:elena@sokolova.dk). We can always discuss your needs and preferences, it would be also helpful for me to know your previous background in studying Danish to help you choose the writing level. 
 
 ## We use a study book even for a Zoom class 
 Group classes use a study book. The book's price is included in the course price. I have selected the best-structured books, with a recognizable format of lessons from chapter to chapter. You can catch up or review a new lesson on your own, in case you have missed a class. Your book is your offline material for doing homework and studying. I strive to integrate and adapt the best practices and methods from my teaching experience from a usual physical class into an online course. I belive that the language input should be feasible, even if you go offline, moreover, you avoid having hundreds of photocopies. All the materials and exercises from my online sessions will be available for a download. 
