@@ -29,11 +29,9 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 }
 </style>
 
-## Danish lessons
+## Private Danish lessons
 
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
-
-* [Levels & duration for online group classes](online-group-classes-levels-and-schedule)
 
 
 ## Danish video courses for self-study
@@ -41,7 +39,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 * [Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
  
  
-## Current enrolment
+## Current enrolment for group courses
  
 * [Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)](studieprove-online-course)
 
