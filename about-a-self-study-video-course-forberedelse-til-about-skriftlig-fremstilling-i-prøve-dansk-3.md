@@ -25,7 +25,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Get full access for 550 DKK (40% off 22nd-25th December, normal price 920) </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Get full access for 550 DKK (40% off 22nd-25th December, normal price 920 DKK) </a>
 
 
 ## How may this course help you?
