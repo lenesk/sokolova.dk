@@ -1,4 +1,4 @@
-# Learn to structure Danish sentences correctly - intriducing my upcoming video course for selv-study
+# Learn to structure Danish sentences correctly - introducing my upcoming video course for self-study
 
 ## Introduction: how to approach learning sentence structure in Danish
 
@@ -14,7 +14,7 @@ Danish sentence structure is precise and allows a limited variation. Each buildi
 
 ## Where do confusions in word order come from?
 
-An intermediate and even advanced learner may have confusions in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
+An intermediate and even advanced learner may have confusion in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
 To clarify from the beginning, the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word  - a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
 
@@ -66,7 +66,7 @@ Lesson #20 	How to feel about the inversion in general
 
 ## The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
 
-Subscribe to get a notification by mail, when the course is ready for acess. 
+Subscribe to get a notification by mail when the course is ready for access. 
 
 <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
