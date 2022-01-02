@@ -1,4 +1,4 @@
-# Learn to structure Danish sentences correctly - introducing my upcoming video course for self-study
+# Learn to structure Danish sentences correctly: introducing my upcoming video course for self-study including access to the test tasks on structuring the sentences on which you will get a persoanl video screen feedback by mail.  
 
 ## Introduction: how to approach learning sentence structure in Danish
 
@@ -63,6 +63,12 @@ Lesson #18 	Conjunction of purpose
 Lesson #19 	Hv-subclauses without inversion
 
 Lesson #20 	How to feel about the inversion in general
+
+Lesson #21  Test youself in structuring the Danish sentence: main clause
+
+Lesson #22  Test youself in structuring the Danish sentence: subclauses
+
+Lesson #23  Test youself in structuring the Danish sentence: main clause & subclause in a complex sentence
 
 ## The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
 
