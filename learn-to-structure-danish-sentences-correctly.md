@@ -1,6 +1,6 @@
-Learn to structure Danish sentences correctly
+#Learn to structure Danish sentences correctly
 
-Introduction: how to approach learning sentence structure in Danish
+## Introduction: how to approach learning sentence structure in Danish
 
 While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, and an adult learner wants to construct a more extended sentence, one may realize that a conscious effort is needed to master the sentence structure. 
 
@@ -8,11 +8,13 @@ I believe it is necessary to consciously systematize the basic principles of str
 
 Danish sentence structure is precise and allows a limited variation. Each building brick should stay at its place, and the changes in the word order may completely change the meaning of the phrase, as in the case with ‘så’ as the main clause conjunction of consequence (a) and the subclause conjunction of purpose (b).  
 
-Naboerne spillede høj musik, så (therefore=result/consequence) jeg kunne ikke sove. = The neighbours were playing loud music, that’s why I could not sleep. 
+*Naboerne spillede høj musik, så* (therefore=result/consequence) *jeg kunne ikke sove*. = The neighbours were playing loud music, that’s why I could not sleep. 
 
-Naboerne spillede høj musik, så (so that=purpose) jeg ikke kunne sove. = The neighbours were playing loud music so that I could not sleep. (They wanted me not to sleep). 
+*Naboerne spillede høj musik, så* (so that=purpose) *jeg ikke kunne sove*. = The neighbours were playing loud music (on purpose) so that I could not sleep. (They wanted me not to sleep). 
 
-An intermediate and even advanced learner have many confusions in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
+Where do confusions in word order come from?
+
+An intermediate and even advanced learner may have confusions in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
 To clarify from the beginning, the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word  - a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
 
@@ -20,8 +22,9 @@ e.g. Hvor miljøvenligt økologiske fødevarer er (main clause as a subject) afh
  
 As for the verb, I will imply the verb as the first personal verbal form in the utterance. Since often the verbal phrase may consist of 2-3 verb forms as in skulle have gjort = should have done; or vil indføre - will implement, I will from now on refer to the first personal verb form in the phrase, i.e. skulle, vil in the examples above.  
 
-The course will have the following structure: 
-Lesson #1
+My upcoming video course will have the following structure: 
+
+Lesson #1 Introduction
 
 Lesson #2 	Learn to spot and define the main clause? 
 
@@ -61,5 +64,10 @@ Lesson #19 	Hv-subclauses without inversion
 
 Lesson #20 	How to feel about the inversion in general
 
+The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
+
+Subscribe to get a notification by mail, when the course is ready for acess. 
+
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
 
