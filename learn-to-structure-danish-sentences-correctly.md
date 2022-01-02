@@ -14,9 +14,9 @@ While learning to speak Danish as a child or a teenager, one may unconsciously a
 
 Danish sentence structure is precise and allows a limited variation. Each building brick should stay at its place, and the changes in the word order may completely change the meaning of the phrase, as in the case with ‘så’ as the main clause conjunction of consequence (a) and the subclause conjunction of purpose (b).  
 
-*Naboerne spillede høj musik, så* (therefore=result/consequence) *jeg kunne ikke sove*. = The neighbours were playing loud music, that’s why I could not sleep. 
+> *Naboerne spillede høj musik, så* (therefore=result/consequence) *jeg kunne ikke sove*. = The neighbours were playing loud music, that’s why I could not sleep. 
 
-*Naboerne spillede høj musik, så* (so that=purpose) *jeg ikke kunne sove*. = The neighbours were playing loud music (on purpose) so that I could not sleep. (They wanted me not to sleep). 
+> *Naboerne spillede høj musik, så* (so that=purpose) *jeg ikke kunne sove*. = The neighbours were playing loud music (on purpose) so that I could not sleep. (They wanted me not to sleep). 
 
 An intermediate and even advanced learner may have confusion in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
