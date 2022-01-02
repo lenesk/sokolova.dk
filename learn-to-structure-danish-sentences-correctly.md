@@ -8,7 +8,7 @@ Subscribe to get a notification by mail when the course is ready for access.
 
 ## Introducing the course
 
-### How to approach learning sentence structure in Danish
+### Where do confusions in word order come from and how to tackle that?
 
 While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, a conscious effort is needed to master the sentence structure. Therefore, I believe it is necessary to consciously systematize the basic principles of structuring a Danish sentence. The way I teach word order in Danish is mainly based on my learning practices, which turned out to be effective. I also apply my teaching experience of tackling a word order issue in adult learners in a short time, e.g. before an exam or as a repair of the acquired wrong sentence structure. 
 
@@ -17,8 +17,6 @@ Danish sentence structure is precise and allows a limited variation. Each buildi
 *Naboerne spillede høj musik, så* (therefore=result/consequence) *jeg kunne ikke sove*. = The neighbours were playing loud music, that’s why I could not sleep. 
 
 *Naboerne spillede høj musik, så* (so that=purpose) *jeg ikke kunne sove*. = The neighbours were playing loud music (on purpose) so that I could not sleep. (They wanted me not to sleep). 
-
-### Where do confusions in word order come from?
 
 An intermediate and even advanced learner may have confusion in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
