@@ -48,7 +48,7 @@ Lesson #11 	The subclause conjunctions.
 
 Lesson #12 	Time conjunctions
 
-Lesson #13 	Description & reference conjunctions in a post-position
+Lesson #13 	Description & reference conjunctions in a post-position subclauses
 
 Lesson #14 	Conjunctions of condition and alternative 
 
