@@ -22,13 +22,15 @@ Danish sentence structure is precise and allows a limited variation. Each buildi
 
 An intermediate and even advanced learner may have confusion in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
-During the course the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word, e.g. a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
+### No specific linguistic knowledge is needed to follow the course
+
+The main building blocks I will operate with will be the verb and the subject during the course. However, it’s not necessarily that a subject is a single word, e.g. a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
 
 e.g. *Hvor miljøvenligt økologiske fødevarer er* (main clause as a subject) *afhænger blandt andet af, hvordan de bliver transporteret*. - How environmentaly friendly ogranic foods are depends particularly on how they are tranposrted.
  
 As for the verb, I will imply the verb as the first personal verbal form (action/activity word) in the utterance, since often the verbal phrase may consist of 2-3 verb forms as in *skulle have gjort* = should have done; or *vil indføre* = will implement.
 
-Other terms like inversion, inversion trigger, main and subclause, central adverbs, free adverb, post-position of a subclause and others will be gradually intrdocued in the course, so no specific linguistic knowlegde is needed to follow the course.  
+Other terms like inversion, inversion trigger, main and subclause, central adverbs,  а free adverb, the post-position of a subclause and others, will be gradually introduced in the course, so no specific linguistic knowledge is needed to follow the course.  
 
 ### My upcoming video course will have the following structure: 
 
