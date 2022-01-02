@@ -1,6 +1,8 @@
-# Learn to structure Danish sentences correctly: introducing my upcoming video course for self-study including access to the test tasks on structuring the sentences on which you will get a persoanl video screen feedback by mail.  
+# Learn to structure Danish sentences correctly 
 
-## Introduction: how to approach learning sentence structure in Danish
+## Introducing my upcoming video course for self-study including access to the test tasks on structuring the sentences on which you will get a persoanl video screen feedback by mail.  
+
+## How to approach learning sentence structure in Danish
 
 While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, and an adult learner wants to construct a more extended sentence, one may realize that a conscious effort is needed to master the sentence structure. 
 
