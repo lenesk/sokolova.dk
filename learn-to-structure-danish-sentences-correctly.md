@@ -44,7 +44,7 @@ Lesson #9 	The central adverb and how to categorize & spot it?
 
 Lesson #10 	What is the difference between a free and a central adverb?
 
-Lesson #11 	The subclause conjunctions. 
+Lesson #11 	The subclause conjunctions
 
 Lesson #12 	Time conjunctions
 
