@@ -1,4 +1,4 @@
-# Learn to structure Danish sentences correctly: theory & explanations in English, examples and tasks in Danish
+# Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish
 
 ### *Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The course will include access to the self-correcting test tasks on structuring the sentences. The video course will be available for purchase via sokolova.dk starting from week 6 in 2022*. See the course structure below. 
 
