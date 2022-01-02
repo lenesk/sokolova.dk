@@ -1,4 +1,4 @@
-# Learn to structure Danish sentences correctly
+# Learn to structure Danish sentences correctly - intriducing my upcoming video course for selv-study
 
 ## Introduction: how to approach learning sentence structure in Danish
 
