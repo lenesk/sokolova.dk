@@ -1,6 +1,6 @@
 # Learn to structure Danish sentences correctly: theory & explanations in English, examples and tasks in Danish
 
-### *Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The course will include access to the test tasks on structuring the sentences, on which you will get personal video screen feedback by mail. See the course structure below. The video course will be available for full access from sokolova.dk starting from week 5 in 2022*. 
+### *Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The course will include access to the self-correcting test tasks on structuring the sentences. See the course structure below. The video course will be available for full access from sokolova.dk starting from week 5 in 2022*. 
 
 Subscribe to get a notification by mail when the course is ready for access. 
 
@@ -10,9 +10,7 @@ Subscribe to get a notification by mail when the course is ready for access.
 
 ### How to approach learning sentence structure in Danish
 
-While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, and an adult learner wants to construct a more extended sentence, one may realize that a conscious effort is needed to master the sentence structure. 
-
-I believe it is necessary to consciously systematize the basic principles of structuring a Danish sentence. The way I teach word order in Danish is mainly based on my learning practices, which turned out to be effective. I also apply my teaching experience of tackling a word order issue in adult learners in a short time, e.g. before an exam or as a repair of the acquired wrong sentence structure. 
+While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, a conscious effort is needed to master the sentence structure. Therefore, I believe it is necessary to consciously systematize the basic principles of structuring a Danish sentence. The way I teach word order in Danish is mainly based on my learning practices, which turned out to be effective. I also apply my teaching experience of tackling a word order issue in adult learners in a short time, e.g. before an exam or as a repair of the acquired wrong sentence structure. 
 
 Danish sentence structure is precise and allows a limited variation. Each building brick should stay at its place, and the changes in the word order may completely change the meaning of the phrase, as in the case with ‘så’ as the main clause conjunction of consequence (a) and the subclause conjunction of purpose (b).  
 
@@ -24,11 +22,13 @@ Danish sentence structure is precise and allows a limited variation. Each buildi
 
 An intermediate and even advanced learner may have confusion in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
-To clarify from the beginning, the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word  - a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
+During the course the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word, e.g. a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
 
-e.g. Hvor miljøvenligt økologiske fødevarer er (main clause as a subject) afhænger blandt andet af, hvordan de bliver transporteret. - How environmentaly friendly ogranic foods are depends particularly on how they are tranposrted.
+e.g. *Hvor miljøvenligt økologiske fødevarer er* (main clause as a subject) *afhænger blandt andet af, hvordan de bliver transporteret*. - How environmentaly friendly ogranic foods are depends particularly on how they are tranposrted.
  
-As for the verb, I will imply the verb as the first personal verbal form in the utterance. Since often the verbal phrase may consist of 2-3 verb forms as in skulle have gjort = should have done; or vil indføre - will implement, I will from now on refer to the first personal verb form in the phrase, i.e. skulle, vil in the examples above.  
+As for the verb, I will imply the verb as the first personal verbal form (action/activity word) in the utterance, since often the verbal phrase may consist of 2-3 verb forms as in *skulle have gjort* = should have done; or *vil indføre* = will implement.
+
+Other terms like inversion, inversion trigger, main and subclause, central adverbs, free adverb, post-position of a subclause and others will be gradually intrdocued in the course, so no specific linguistic knowlegde is needed to follow the course.  
 
 ### My upcoming video course will have the following structure: 
 
