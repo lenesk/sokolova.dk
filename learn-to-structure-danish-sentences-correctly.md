@@ -74,4 +74,6 @@ Lesson #23  Test youself in structuring the Danish sentence: main clause & subcl
 
 ### The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
 
+Subscribe to get a notification by mail when the course is ready for access. 
 
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
