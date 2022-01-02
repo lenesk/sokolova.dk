@@ -1,4 +1,4 @@
-#Learn to structure Danish sentences correctly
+# Learn to structure Danish sentences correctly
 
 ## Introduction: how to approach learning sentence structure in Danish
 
@@ -12,7 +12,7 @@ Danish sentence structure is precise and allows a limited variation. Each buildi
 
 *Naboerne spillede høj musik, så* (so that=purpose) *jeg ikke kunne sove*. = The neighbours were playing loud music (on purpose) so that I could not sleep. (They wanted me not to sleep). 
 
-Where do confusions in word order come from?
+## Where do confusions in word order come from?
 
 An intermediate and even advanced learner may have confusions in the word order. These confusions are caused by missing the distinction between the main clause and subclause in a complex sentence. Therefore it is crucial to learn how to distinguish the main clause from the subclause and structure each of the two types. 
 
@@ -22,7 +22,7 @@ e.g. Hvor miljøvenligt økologiske fødevarer er (main clause as a subject) afh
  
 As for the verb, I will imply the verb as the first personal verbal form in the utterance. Since often the verbal phrase may consist of 2-3 verb forms as in skulle have gjort = should have done; or vil indføre - will implement, I will from now on refer to the first personal verb form in the phrase, i.e. skulle, vil in the examples above.  
 
-My upcoming video course will have the following structure: 
+## My upcoming video course will have the following structure: 
 
 Lesson #1 Introduction
 
@@ -64,7 +64,7 @@ Lesson #19 	Hv-subclauses without inversion
 
 Lesson #20 	How to feel about the inversion in general
 
-The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
+## The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
 
 Subscribe to get a notification by mail, when the course is ready for acess. 
 
