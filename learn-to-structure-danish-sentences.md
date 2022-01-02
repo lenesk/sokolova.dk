@@ -72,7 +72,7 @@ Lesson #22  Test youself in structuring the Danish sentence: subclauses
 
 Lesson #23  Test youself in structuring the Danish sentence: main clause & subclause in a complex sentence
 
-### The video course will be available for full access from sokolova.dk starting from week 5 in 2022. 
+### The video course will be available for full access from sokolova.dk starting from week 6 in 2022. 
 
 Subscribe to get a notification by mail when the course is ready for access. 
 
