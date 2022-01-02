@@ -8,7 +8,7 @@ Subscribe to get a notification by mail when the course is ready for access.
 
 ## Introducing the course
 
-### Where do confusions in word order come from and how to tackle that?
+### Where do confusions in word order come from and how to tackle them?
 
 While learning to speak Danish as a child or a teenager, one may unconsciously acquire word order structure from regular language input. When an adult learner formulates a Danish phrase, especially when the level is getting more advanced, a conscious effort is needed to master the sentence structure. Therefore, I believe it is necessary to consciously systematize the basic principles of structuring a Danish sentence. The way I teach word order in Danish is mainly based on my learning practices, which turned out to be effective. I also apply my teaching experience of tackling a word order issue in adult learners in a short time, e.g. before an exam or as a repair of the acquired wrong sentence structure. 
 
