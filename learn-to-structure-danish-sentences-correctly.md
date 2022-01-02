@@ -26,7 +26,7 @@ An intermediate and even advanced learner may have confusion in the word order. 
 
 To clarify from the beginning, the main building blocks I will operate with will be the verb and the subject. However, it’s not necessarily that a subject is a single word  - a noun or a pronoun. A whole main clause can also be a subject inside a complex sentence.
 
-e.g. Hvor miljøvenligt økologiske fødevarer er (main clause as a subject) afhænger blandt andet af, hvordan de bliver transporteret. - How environmetaly friendly ogranic foods are depends particularly on how they are tranposrted.
+e.g. Hvor miljøvenligt økologiske fødevarer er (main clause as a subject) afhænger blandt andet af, hvordan de bliver transporteret. - How environmentaly friendly ogranic foods are depends particularly on how they are tranposrted.
  
 As for the verb, I will imply the verb as the first personal verbal form in the utterance. Since often the verbal phrase may consist of 2-3 verb forms as in skulle have gjort = should have done; or vil indføre - will implement, I will from now on refer to the first personal verb form in the phrase, i.e. skulle, vil in the examples above.  
 
