@@ -40,6 +40,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
 
+## Open sign-up for upcoming group lessons
+* [Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig): aftenhold 8-10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022) <a class="btn" href="https://buy.stripe.com/5kAeYih2G7sb43C7sv"> Register for 4680 DKK </a>
 
 ## Blog  
 
