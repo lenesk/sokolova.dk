@@ -75,7 +75,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
-* Du øver dig i samtale ud fra billeder. Du lærer at beskrive billeder.  
+* Du øver dig i samtale ud fra billeder. Du lærer at beskrive situationer på billeder.  
 
 Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, byer & cykelkultur, det politiske system i Danmark. 
 
