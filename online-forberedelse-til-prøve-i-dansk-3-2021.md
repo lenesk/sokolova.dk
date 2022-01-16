@@ -3,7 +3,7 @@
 ## Datoer og tid 
 * den 22. februar 2021 - den 28. april 2021 (påskeferie i uge 15)
 * 36 lektioner 
-* 4 lektioner om ugen (2X2 lektioner à 45 min)
+* 4 lektioner om ugen (36 lektioner i alt)
 * tirsdag & torsdag 17:00-18:30 
 
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.5520
