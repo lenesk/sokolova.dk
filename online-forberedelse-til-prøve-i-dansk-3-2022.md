@@ -1,7 +1,7 @@
 # Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 8-10 deltagere)
 
 ## Datoer og tid 
-* den 22. februar 2021 - den 28. april 2021 (påskeferie i uge 15)
+* den 22. februar 2022 - den 28. april 2022 (påskeferie i uge 15)
 * 36 lektioner 
 * 4 lektioner om ugen (36 lektioner i alt)
 * tirsdag & torsdag 17:00-18:30 
