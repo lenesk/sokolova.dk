@@ -71,7 +71,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du vil øve dig i at formulere dele af en argumenterende tekst. 
 * Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
 * Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
-* Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling. .
+* Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling.
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
