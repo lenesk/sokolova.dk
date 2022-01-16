@@ -7,7 +7,7 @@
 * tirsdag & torsdag 17:00-18:30 
 * Tilmeld dig senest den 11. februar 2022
 
-<a class="btn" href="https://buy.stripe.com/5kAeYih2G7sb43C7sv"> Tilmeld dig kurset & betal kr.4680
+<a class="btn" href="https://buy.stripe.com/5kAeYih2G7sb43C7sv"> Tilmeld dig kurset for kr.4680
 </a>
 
 ## Niveauet
