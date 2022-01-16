@@ -6,7 +6,7 @@
 * 4 lektioner om ugen (36 lektioner i alt)
 * tirsdag & torsdag 17:00-18:30 
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.5520
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig-aftenhold-8-10-deltagere/buy"> Tilmeld dig kurset kr.5520
 </a>
 
 ## Niveauet
