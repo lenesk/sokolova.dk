@@ -1,10 +1,10 @@
-# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 4-8 deltagere)
+# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 8-10 deltagere)
 
 ## Datoer og tid 
-* den 15. februar 2021 - den 4. maj 2021
-* 46 lektioner 
+* den 22. februar 2021 - den 28. april 2021 (påskeferie i uge 15)
+* 36 lektioner 
 * 4 lektioner om ugen (2X2 lektioner à 45 min)
-* mandage & onsdage 19:00-20:30 
+* tirsdag & torsdag 17:00-18:30 
 
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3-mundtlig-skriftlig/buy"> Tilmeld dig kurset kr.5520
 </a>
@@ -16,10 +16,10 @@ Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
 Du skal have bestået modul 4(DU3) og være færdig med modul 5 eller være tilmeldt den sidste del af DU3 modul 5. 
 
 ## Praktiske oplysninger
-* Der er maksimum 8 deltagere på holdet. 
+* Der er maksimum 10 deltagere på holdet. 
 * Tilmelding efter først–til–mølle–princippet.  
 * Efter dagens undervisning får du tilsendt hjemmearbejde på e-mail. 
-* Det er obligatorisk at lave hjemmearbejde, og man skal afsætte circa 8 timer om ugen til forberedelse hjemme.  
+* Det er obligatorisk at lave hjemmearbejde, og man skal afsætte circa 6-8 timer om ugen til forberedelse hjemme.  
 
 ## Undervisningsmaterialet
 
@@ -31,11 +31,9 @@ Undervisningsmaterialet er bøger ‘At skrive’ og 'Bliv klar til Prøve i Dan
 
 <img src="at-skrive-forside.jpg" alt="At skrive" width="200" height="300" />
 
-Bogen ‘At skrive’  i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/skrive#">Køb *At skrive*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/skrive-tekstsammenhaeng-og-argumentation-i-bog#">Køb i-bog *At skrive*</a>
+Bogen ‘At skrive’  i trykt form  <a class="btn" href="https://praxis.dk/skrive#">Køb *At skrive*</a> 
 
-Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar-til-proeve-i-dansk-3##">Køb *Bliv klar til Prøve i Dansk 3*</a> 
-Digital bog (i-bog) med enkeltbrugerlicens (online/offline) og profiloprettelse <a class="btn" href="https://www.alfabetaforlag.dk/bliv-klar-til-proeve-i-dansk-3-i-bog-enkeltbrugerlicens">Køb i-bog *Bliv klar til Prøve i Dansk 3*</a>
+Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-3#">Køb *Bliv klar til Prøve i Dansk 3*</a> 
 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
@@ -77,10 +75,10 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 * Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
 * Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
-* Du øver dig i samtale ud fra billeder. 
+* Du øver dig i samtale ud fra billeder. Du lærer at beskrive billeder.  
 
 Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, byer & cykelkultur, det politiske system i Danmark. 
 
-Der er ca. 7 længere skriftlige afleveringer i løbet af kurset. 
+Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
 
 SokolovaDK CVR-nr.: 41433876
