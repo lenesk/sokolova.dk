@@ -7,8 +7,7 @@
 * tirsdag & torsdag 17:00-18:30 
 * Tilmeld dig senest den 11. februar 2022
 
-<a class="btn" href="<a href="https://sowl.co/bjET4H"> Tilmeld dig kurset for kr.4680
-</a>
+<a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK </a>
 
 ## Niveauet
 
