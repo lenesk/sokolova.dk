@@ -7,7 +7,7 @@
 * tirsdag & torsdag 17:00-18:30 
 * Tilmeld dig senest den 11. februar 2022
 
-<a class="btn" href="https://buy.stripe.com/5kAeYih2G7sb43C7sv"> Tilmeld dig kurset for kr.4680
+<a class="btn" href="<a href="https://transactions.sendowl.com/products/78652448/A89128C3/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/v2/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>"> Tilmeld dig kurset for kr.4680
 </a>
 
 ## Niveauet
