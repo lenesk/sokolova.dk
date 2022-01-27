@@ -93,7 +93,7 @@ Remember that free adverbs or adverbial phrases, e.g. adverbs/adverbial phrases 
 
 Examples of free adverbs: *måske/selvfølgelig/for eksempel/derfor/til gengæld*(=on the contrary & in compensation for smth)/*bagefter/på den måde* (=in that why/therefore)/*på den ene side/på den anden side/derimod* (on the contrary/however); *dog* (however); *tværtimod* (even on the contrary)...   
 
-Look up in the Danish-Danish dictionary, if you are in doubt, whether you deal with an adverb. Especially if you have come across a new word. https://ordnet.dk/ddo/ordbog?query=derimod&tab=for
+Look up in the Danish-Danish dictionary, if you are in doubt, whether you deal with an adverb. Especially if you have come across a new word.
 
 Examples of scenario 2:
 
