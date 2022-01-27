@@ -24,24 +24,9 @@ An adverb is a word or an expression that describes a verb, adjective, another a
 
 Often they extend the verb giving details about modality (a speakers' attitude to the sentence), e.g. degree of certanty (*desværre, ikke, næppe, gerne*), time (*bagefter, sommetider*), place (*hertil, deroppe*), logical relations (consequense: *derfor; reasoning: *nemlig*); pure manner of action (*hurtigt, effektivt, pludselig*). 
 
-## Free and central adverbs in the main clause: Scenario 1.
-In the Danish sentence, we should distinguish between free and central adverbs. There can be two scenarios of the word order in the main clause where the adverbs are optional fields. If we take adverbs out, the supplementary meaning will be affected, but the core of the sentence will remain the same. So how do we place the adverbs in the main clause? Let's analyse two possible scenarios.
+## Gategories of central adverbs
 
-### Scenario 1: starting with a subject + verb1+ optional field 
-
-> *Anne* (subject/doing person/thing) *drikker* (verb1) *altid* (adverb) *grøn te* (object) *hver morgen* (adverb of time). = Anne always drinks green tea every morning. 
-
-This optional field right after the verb can be often immediately filled with an object (grøn te) or an adverb.
-
-> *Alex* (subject) *er* (verb 1) *også/altid/ikke/aldrig/sommetider/nogle gange/derfor* (adverb) *glad* for sine arbejdsopgaver.
-
-or 
-
-> *Anna* (subject) *elsker* (verb 1) *selvfølgelig* (adverb) *at drikke* (verb 2) *grøn te* (object) *om morgenen* (free adverbs).
-
-Both free and central adverbs can fill the place of the optional field right of the verb in the formula according to Scenario 1 of the main clause: Subject+Verb1 + optional field. What is special about the central adverbs is that they in scenario 1 only come after the verb 1, while free adverbs may also come later in the sentence. So it is important to know which adverbs are central and come right after the verb 1, and which are free adverbs and more free citizens in the sentence, but often also choose the residence right after the verb 1. 
-
-### Gategories of central adverbs:
+In the Danish sentence, we should distinguish between free and central adverbs. Free adverbs can appear in the middle, beginning or the end of the main sentence. The central adverbs belong to the fixed place. This place differs depending on whether it is a main or a subordinate clause. We will take both cases. The common central adverbs are: 
 
 * adverbs of time: *altid* (never), *aldrig* (never), *tit/ofte* (often), *snart* (soon), *straks* (immediately/at once), *lige* (just/like in ‘just now’/'shortly', or 'very recently' or 'in a moment'), *allerede* (already), *sjældent* (seldom, rarely), *stadig*, *stadigvæk* (=still), *længe* (for a long time), *nogensinde* (ever); 
 
@@ -57,7 +42,24 @@ Both free and central adverbs can fill the place of the optional field right of 
 
 It is easy to conclude that all the other adverbs, which are not central, are free. So learn the list of central adverbs, and you will be safe. If you know, you dead with the central adverbs, do not start a sentence with them. 
 
-### Central adverbs vs. free adverbs 
+## Free and central adverbs in the main clause: two scenarios.
+There can be two scenarios of the word order in the main clause where the adverbs (free and central) are optional fields. If we take adverbs out, the supplementary meaning they add to the sentence, will be affected, but the core of the sentence will remain the same. So how do we place the adverbs in the main clause? Let's analyse two possible scenarios.
+
+### Scenario 1 for the main clause without inversion: a subject + verb1+ optional field 
+
+> *Anne* (subject/doing person/thing) *drikker* (verb1) *altid* (adverb) *grøn te* (object) *hver morgen* (adverb of time). = Anne drinks always green tea every morning. 
+
+This optional field right after the verb can be often immediately filled with an object (*grøn te*) or an adverb.
+
+> *Alex* (subject) *er* (verb 1) *også/altid/ikke/aldrig/sommetider/nogle gange/derfor* (adverb) *glad* for sine arbejdsopgaver.
+
+or 
+
+> *Anna* (subject) *elsker* (verb 1) *selvfølgelig* (adverb) *at drikke* (verb 2) *grøn te* (object) *om morgenen* (free adverbs).
+
+Both free and central adverbs can fill the place of the optional field right of the verb in the formula according to Scenario 1 of the main clause: Subject+Verb1 + optional field. What is special about the central adverbs is that they in scenario 1 only come after the verb 1, while free adverbs may also come later in the sentence. So it is important to know which adverbs are central and come right after the verb 1, and which are free adverbs and more free citizens in the sentence, but often also choose the residence right after the verb 1. 
+
+### Central adverbs vs. free adverbs in scenario 1
 
 > *Anne* (subject/doing person/thing) *elsker* (verb1) *altid* (central adverb)/*selvfølgelig*(free adverbs) *at drikke* (verb 2) *grøn te* (obejct) *hver morgen/alene/selvfølgelig* (free adverbs, which comes after the optional field). 
 
@@ -70,7 +72,8 @@ As you can see, free adverbs in scenario 1 one may be placed:
 
 > *Man skal derfor* (free adverb in the central place) *tænke på at finde et studierelevant job tidligt* (free adverb) *under uddannelsen*.
  
-### Free and central adverbs in the main clause: Scenario 2 with inversion 
+
+### Scenario 2 of the main clause with inversion: inversion trigger + Verb1 + Subject + optional field (cenrtal or free adverb) + (optional Verb2) + object
 
 Imagine starting your main sentence not with the subject, but something else, which can be called an INVERSION TRIGGER. The possible inversion triggers are an obejct, a subordinate clause, a free adverb or an adverbal phrase. Then the sentence will have the following scenario:  
 
