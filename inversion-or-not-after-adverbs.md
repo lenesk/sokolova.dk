@@ -157,10 +157,11 @@ The word order of the subclause is almost frozen. Some learners feel it sounds w
 
 ### Turn main clauses into subclauses and see what will happen. 
 
-Turn main clauses into subclauses and see what will happen: the adverbs will reside to the place right after the subject; central adverbs always, and free 
+Turn main clauses into subclauses and see what will happen: the adverbs will reside to the place right after the subject; central adverbs always, and free adverbs in most cases, but can be also placed at the end sometimes. But none of the advebs may initiate a subordinate clause, even though it may sound OK for you, because it is a logical accent. Free advebs may only come first, if it is a main clause. 
+
 > *Jeg er kun delvist (adverbs) enig i, at det er effektivt at indføre øremærket barsel*. => the first main clause becomes a subordinate clause in the new sentence, where I report the statement. => *Peter siger, at han kun delvist* (adverb) *er enig i, at det er effektivt at indføre barsel*. 
 
-> *Besparelser i sundhedsvæsenet kan derfor øge risiko for, at nogle patienter ikke får behandling i tide. => Jeg er enig i, => subclause: at besparelser i sundhedsvæsenet derfor kan øge risiko for, at nogle patienter ikke får behandling i tide. 
+> *Besparelser i sundhedsvæsenet kan derfor øge risiko for, at nogle patienter ikke får behandling i tide*. => *Jeg er enig i*, => subclause: *at besparelser i sundhedsvæsenet derfor kan øge risiko for, at nogle patienter ikke får behandling i tide*. 
 
 ### Preserve or insert conjunction into subclause to place the adverb correctly
 
