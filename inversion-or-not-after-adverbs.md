@@ -1,4 +1,4 @@
-# Inversion or not - how free and central adverbs may guide you to correct word order in a main and subordinate clasue
+# Inversion or not - how free and central adverbs can guide you to correct word order in a main and subordinate clasue
 
 * How to distinguish between central or free adverbs in Danish, and how do they affect the sentence structure? 
 * Which adverbs trigger inversion and which seldom work as inversion triggers? 
