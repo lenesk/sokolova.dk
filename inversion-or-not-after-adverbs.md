@@ -54,9 +54,9 @@ Both free and central adverbs can fill the place of the optional field right of 
 
 It is easy to conclude that all the other adverbs, which are not central, are free. So learn the list of central adverbs, and you will be safe. If you know, you dead with the central adverbs, do not start a sentence with them. 
 
-### 3.3. Central adverbs vs. free adverbs 
+### Central adverbs vs. free adverbs 
 
-> * Anne* (subject/doing person/thing) *elsker* (verb1) *altid* (central adverb)/*selvfølgelig*(free adverbs) *at drikke* (verb 2) *grøn te* (obejct) *hver morgen/alene/selvfølgelig* (free adverbs, which comes after the optional field). 
+> *Anne* (subject/doing person/thing) *elsker* (verb1) *altid* (central adverb)/*selvfølgelig*(free adverbs) *at drikke* (verb 2) *grøn te* (obejct) *hver morgen/alene/selvfølgelig* (free adverbs, which comes after the optional field). 
 
 As you can see, free adverbs in scenario 1 one may be placed:
 
