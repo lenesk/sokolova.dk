@@ -177,6 +177,13 @@ Here both parts of the senctence looks identical to scenario 1 of the main claus
 
 > *1c) *Det er den mest spændende film, som jeg nogensinde har set*.
 
-So for further studies, you may need a list of subclause conjunctions to learn them and to distinguish them from adverbs.
-You can learn more word order,different types of subordinate clauses and the subcluse conjunction in my upcoming video-recorded course on sentence formation. 
+## Further studies: 
+So for further studies, you may need a list of subclause conjunctions to learn them and to distinguish them from adverbs. If you know the central adverbs and the subordinate clause conjunctions - and there are not so many of them, then all the rest 'logical connectors' are usually adverbs. 
+
+You can learn more about word order, different types of subordinate clauses and the subcluse conjunction in my upcoming video-recorded course on sentence formation. Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The video course will be available for purchase via sokolova.dk starting around week 6 in 2022*. 
+
+Subscribe to get a notification by mail when the course is ready for access. 
+
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
+
  
