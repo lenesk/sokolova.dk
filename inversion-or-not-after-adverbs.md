@@ -1,11 +1,14 @@
 # Inversion or not - how free and central adverbs can guide you to correct word order in a main and subordinate clasue
 
+*Elena Sokolova, January 27<sup>th</sup> 2022*
+
 * How to distinguish between central or free adverbs in Danish, and how do they affect the sentence structure? 
 * Which adverbs trigger inversion and which seldom work as inversion triggers? 
+* What is the main and a subordinate clause?
 * Why are there so many inversion cases, which I do not understand? 
 * How to place the adverb correctly in a sentence? 
 
-These are probably the questions you have asked yourself while doing a written assignment or even preparing for the exam's reading part. This blog post will help you feel less annoyed while structuring the Danish phrase (I know it can be even frustrating). You will learn specific rules about treating adverbs properly because they deserve your attention. They serve to express a lot of what you want to say, e.g. your attitude to things,  and make it easier for a listener to understand your intention. Moreover, the adverbs are the markers you can use during your exam to indicate that you are explaining, assessing, reasoning, giving arguments for and/or against. They also help the examiner assess your presentation or a  writing task according to the assessment criteri. 
+These are probably the questions you have asked yourself while doing a written assignment or even preparing for the exam's reading part. This blog post will help you feel less annoyed while structuring the Danish phrase (I know it can be even frustrating). You will learn specific rules about treating adverbs properly because they deserve your attention. They serve to express a lot of what you want to say, e.g. your attitude to things,  and make it easier for a listener to understand your intention. Moreover, the adverbs are the markers you can use during your exam to indicate that you are explaining, assessing, reasoning, giving arguments for and/or against. They also help the examiner assess your presentation or a  writing task according to the assessment criteria. 
 
 ## Adverbs are an optional field in the sentence
 
