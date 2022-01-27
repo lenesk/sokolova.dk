@@ -22,9 +22,9 @@ In this example, *pludselig* is an adverb in the main clause.
 
 An adverb is a word or an expression that describes a verb, adjective, another adverb, a whole clause, even a preposition, or sentence. Adverbs can describe manner, place, time, frequency, degree, level of certainty, etc., answering questions such as *hvordan?*, *på hvilken måde?*, *hvornår?*, *hvor?*, and *i hvor høj grad?*. They may be single words  (*måske, derfor, nemlig, effektivt*) or multi-word adverbial phrases like *under alle omstændigheder* (=under all circumstances), *på den måde* (=in that way), *på vej til arbejde* (=on the way to work), *ved at indføre nye regler* (=by introducing new rules); *på den ene side* - *på den anden side* (on the one-other hand).
 
-Often they extend the verb giving details about modality (a speakers' attitude to the sentence), e.g. degree of certanty (*desværre, ikke, næppe, gerne*), time (*bagefter, sommetider*), place (*hertil, deroppe*), logical relations (consequense: *derfor; reasoning: *nemlig*); pure manner of action (*hurtigt, effektivt, pludselig*). 
+Often they extend the verb giving details about modality (a speakers' attitude to the sentence), e.g. degree of certanty (*desværre, ikke, næppe, gerne*), time (*bagefter, sommetider*), place (*hertil, deroppe*), logical relations (consequense: *derfor; reasoning*: *nemlig*); pure manner of action (*hurtigt, effektivt, pludselig*). 
 
-## Categories of central adverbshttps://sokolova.dk/inversion-or-not-after-adverb
+## Categories of central adverbs
 
 In the Danish sentence, we should distinguish between free and central adverbs. Free adverbs can appear in the main sentence's middle, beginning, or end. The central adverbs belong to the fixed place. This place differs depending on whether it is a main or a subordinate clause. We will take both cases. The common central adverbs are: 
 
