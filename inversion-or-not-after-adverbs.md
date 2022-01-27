@@ -176,11 +176,11 @@ If *som* is omitted, you may place nogle *gange & også* wrong, so make sure you
 
 ### How to aviod mistakes in the adverb placement in a subordinate clause:
 
-Which examples is correct:
+Which example is correct 1a) or 1b):
 
 > *1a) Det er den mest spændende film, jeg nogensinde har set*. or  *1b) Det er den mest spændende film, jeg har nogensinde set*.
 
-Here both parts of the senctence looks identical to scenario 1 of the main clause, so one may think they are both main clauses, but as soon as you insert the omitted 'som' into the second part, you will see that you need to choose the subclause word order scenario. This will help you to place the adverb correctly, if you'll need to do so by the meaning. Nogensinde - after the subject as in 1)a. See the full version in 1c). 
+Here both parts of the senctence look identical to scenario 1 of the main clause, so one may think they are both main clauses, but as soon as you insert the omitted 'som' into the second part, you will see that you need to choose the subclause word order scenario S(A)V. This will help you to place the adverb correctly, if you'll need to do so by the meaning. *Nogensinde* should be after the subject as in 1a). See the full version in 1c). 
 
 > *1c) Det er den mest spændende film, som jeg nogensinde har set*.
 
