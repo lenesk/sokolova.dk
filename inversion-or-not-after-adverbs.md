@@ -1,4 +1,4 @@
-# Inversion or not - how free and central adverbs can guide you to correct word order in a main and subordinate clasue
+# Inversion or not? How to make a correct main and subordinate sentence with adverbs in Danish
 
 *Elena Sokolova, January 27<sup>th</sup> 2022*
 
@@ -170,7 +170,7 @@ Subclauses may or may not have an explicit conjucntion, so check out, whether th
 
 If *som* is omitted, you may place nogle *gange & også* wrong, so make sure you have checked, whether you deal with a main or subclause. 
 
-How to aviod mistake in the adverb placement:
+### How to aviod mistakes in the adverb placement in a subordinate clause:
 
 Which examples is correct:
 
@@ -180,7 +180,8 @@ Here both parts of the senctence looks identical to scenario 1 of the main claus
 
 > *1c) *Det er den mest spændende film, som jeg nogensinde har set*.
 
-## Further studies: 
+## Further studies
+
 So for further studies, you may need a list of subclause conjunctions to learn them and to distinguish them from adverbs. If you know the central adverbs and the subordinate clause conjunctions - and there are not so many of them, then all the rest 'logical connectors' are usually adverbs. 
 
 You can learn more about word order, different types of subordinate clauses and the subcluse conjunction in my upcoming video-recorded course on sentence formation. Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The video course will be available for purchase via sokolova.dk starting around week 6 in 2022*. 
