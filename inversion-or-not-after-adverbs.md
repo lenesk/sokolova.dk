@@ -42,7 +42,7 @@ In the Danish sentence, we should distinguish between free and central adverbs. 
 
 It is easy to conclude that all the other adverbs, which are not central, are free. So learn the list of central adverbs, and you will be safe. If you know, you dead with the central adverbs, do not start a sentence with them. 
 
-## Free and central adverbs in the main clause: two scenarios.
+## Free and central adverbs in the main clause: two scenarios
 There can be two scenarios of the word order in the main clause where the adverbs (free and central) are optional fields. If we take adverbs out, the supplementary meaning they add to the sentence, will be affected, but the core of the sentence will remain the same. So how do we place the adverbs in the main clause? Let's analyse two possible scenarios.
 
 ### Scenario 1 for the main clause without inversion: a subject + verb1+ optional field 
@@ -109,7 +109,8 @@ The formula for the second main clause here is: free adverb + Verb1 + subject+ o
 
 > *Dog* (However) *er jeg ikke enig i, at forbud mod biler i centrum kan løse trafikproblemer i store byer*.  = However, I do not agrre on that a ban on cars in the city center can solve the traffic problems. 
 
-### Mini exercise: try rephrasing these five sentences above, so that the free adverbs, inversion triggers, stay as central adverbs in the main clause. In that case, there will not be an inversion in the main clause.
+### Mini exercise: try rephrasing these five sentences above, so that the free adverbs, inversion triggers, stay as central adverbs in the main clause. In that case, there will not be an inversion in the main clause
+
 E.g. *Der* (subject) *kommer* (verb1) *dermed* (free adverb =with that) *flere udfordringer i forhold til ansættelsesaftaler*. = Consequently there come more challenges with emplyoment contracts. 
 
 ## Adverbs in the dependent clause
