@@ -34,7 +34,7 @@ This optional field right after the verb can be often immediately filled with an
 
 or 
 
-> *Anna (subject) 8\*elsker* (verb 1) *selvfølgelig* (adverb) *at drikke* (verb 2) *grøn te* (object) *om morgenen* (free adverbs).
+> *Anna* (subject) *elsker* (verb 1) *selvfølgelig* (adverb) *at drikke* (verb 2) *grøn te* (object) *om morgenen* (free adverbs).
 
 Both free and central adverbs can fill the place of the optional field right of the verb in the formula according to Scenario 1 of the main clause: Subject+Verb1 + optional field. What is special about the central adverbs is that they in scenario 1 only come after the verb 1, while free adverbs may also come later in the sentence. So it is important to know which adverbs are central and come right after the verb 1, and which are free adverbs and more free citizens in the sentence, but often also choose the residence right after the verb 1. 
 
