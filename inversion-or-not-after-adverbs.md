@@ -73,7 +73,7 @@ As you can see, free adverbs in scenario 1 one may be placed:
 > *Man skal derfor* (free adverb in the central place) *tænke på at finde et studierelevant job tidligt* (free adverb) *under uddannelsen*.
  
 
-### Scenario 2 of the main clause with inversion: inversion trigger + Verb1 + Subject + optional field (cenrtal or free adverb) + (optional Verb2) + object
+### Scenario 2 of the main clause with inversion: inversion trigger + Verb1 + Subject + optional field (central or free adverb) + (optional Verb2) + object
 
 Imagine starting your main sentence not with the subject, but something else, which can be called an INVERSION TRIGGER. The possible inversion triggers are an object, a subordinate clause, a free adverb or an adverbial phrase. Then the sentence will have the following scenario:  
 
@@ -97,7 +97,7 @@ Look up in the Danish-Danish dictionary, if you are in doubt, whether you deal w
 
 Examples of scenario 2:
 
-> *Selvfølgelig* (free adverb as an inversion trigger => choose scenario 2)) *har (verb 1) *Jens* (subject) *også* (også =central adverb in the optional field)/*heldigvis* (free adverb) *mange gode venner* (obejct phrase) *i København*. = Of course Jens have fortunately many good friends in Copenhagen. 
+> *Selvfølgelig* (free adverb as an inversion trigger => choose scenario 2)) *har* (verb 1) *Jens* (subject) *også* (også =central adverb in the optional field)/*heldigvis* (free adverb) *mange gode venner* (obejct phrase) *i København*. = Of course Jens have fortunately many good friends in Copenhagen. 
 The formula here is: free adverb + Verb1 + subject + central adverb/another free adverb +obeject
 
 > *Folkeskoler tilbyder gratis undervising. Til gengæld* (free adverb 'on the contrary'/while) *har private skoler færre elever i klassen*. = Municipal secondary schools offer free education. On the contrary, private schools have fewer pupils in a class. 
