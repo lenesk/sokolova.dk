@@ -35,7 +35,7 @@ You can also express wishes about something that can’t be changed, since it’
 
 #### Pattern 1: *Hvis bare jeg* + *førdatid* => *Hvis bare jeg havde gjort noget* => 
 E.g. 
-> *Hvis bare jeg ikke havde droppet dansetimer, ville jeg have været bedre til at danse tango. = If only I had not dropped my dansing classes, I would have beeb better now to danse tango. (Now it is too late).* 
+> *Hvis bare jeg ikke havde droppet dansetimer, ville jeg have været bedre til at danse tango. = If only I had not dropped my dansing classes, I would have been better now to danse tango. (Now it is too late).* 
 
 #### Pattern 2: *Bare jeg (ikke)* + *førdatid* => *Bare jeg (ikke) + havde gjort noget*
 E.g. 
