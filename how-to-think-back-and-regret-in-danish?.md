@@ -10,7 +10,7 @@ Situation:
 
 ## Jeg skulle (ikke) have gjort det
 
-Normally you use *skulle* + (*ikke*/*også*/*aldrig*/*altid*/other adverb* + *have*) + the verb’s short participle (*verbets korte participium*). 
+Normally you use *skulle* + (*ikke*/*også*/*aldrig*/*altid*/other adverb + *have*) + the verb’s short participle (*verbets korte participium*). 
 The verb *have* is used as a helping verb to form the past infinitive for most verbs. 
 
 NB! If the main meaningful verb expresses a one time movement e.g. *komme, gå, rejse, flytte, køre, cykle, løbe, flyve* or change of state e.g. *begynde, starte, blive, vågne, stoppe*, you need to use *være* as a helping verb before the participle (the verb's 3rd form). 
