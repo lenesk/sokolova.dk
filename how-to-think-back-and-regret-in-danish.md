@@ -2,7 +2,7 @@
 
 *Elena Sokolova, February 3<sup>rd</sup> 2022*
 
-What structures to use when you want to express that you regret you have done something wrong, reprimand yourself or someone, or may reflect on what could have been otherwise, if something had been different. These structures may be useful in your everyday speech, as it's human to reflect on what you have done. I hope you would not be too hard to yourself while practising these phrases in Danish. 
+What structures to use when you want to express that you regret you have done something wrong, reprimand yourself or someone, or may reflect on what could have been otherwise, if something had been different. These structures may be useful in your everyday speech, as it's human to reflect on what you have done. I hope you will not be too hard to yourself while practising these phrases in Danish. 
 
 Situation:
 
