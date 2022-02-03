@@ -29,26 +29,27 @@ Regretting sentences may be positive or negative med ‘ikke’.
 
 > *Jeg havde tusind fejl i min opgave. Jeg skulle have gennemlæst den flere gange.* = I had a thousand mistakes in my assignement. I should have checked it several times. 
  
-## Four other patterns: 'If only...', I wish...'
+## Four other patterns other ways to regret
 
 You can also express wishes about something that can’t be changed, since it’s too late, or your regrets using the following constructions with *førdatid* (=Past Perfect). Adverbs would come just like in the subclause before the first verb in part with *Hvis bare/Bare*... 
 
-#### Pattern 1: *‘Hvis bare jeg havde gjort noget* => 
+#### Pattern 1: *‘Hvis bare jeg* + *førdatid* => *‘Hvis bare jeg havde gjort noget* => 
 E.g. 
 > *Hvis bare jeg ikke havde droppet dansetimer, ville jeg have været bedre til at danse tango. = If only I had not dropped my dansing classes, I would have beeb better now to danse tango. (Now it is too late).* 
 
-#### Pattern 2: *Bare jeg (ikke) + førdatid* => 
+#### Pattern 2: *Bare jeg (ikke)* + *førdatid* => *Bare jeg (ikke) + havde gjort noget*
 E.g. 
 > *Bare jeg ikke havde skældt ham ud, (så) ville han ikke have sagt, at han ville skilles med mig.* = If i had not shouted at him, then he would not have said, that he wanted to get divorce. 
 
-#### Pattern 3: *Jeg ville ønske, (at) jeg (ikke) havde gjort noget*=> 
+#### Pattern 3: *Jeg ville ønske, jeg (ikke)* + *førdatid* => *Jeg ville ønske, jeg (ikke) havde gjort noget*=> 
 E.g. 
-
 > *Jeg ville ønske, (at) jeg ikke havde glemt min adgangskode.* = I wish, (that) I had not have forgotten my password. 
 
-#### Pattern 4: *Gid jeg (ikke) have gjort noget* => 
+#### Pattern 4: *Gid jeg (ikke)* + *førdatid* => *Gid jeg (ikke) havde gjort noget* => 
 E.g.
 > *Gid (=I wish) jeg ikke var kommet for sent til jobsamtalen, så ville jeg have fået jobbet.* = I wish, I had not come late for the job interview, then I would have receiceved the job offer.  
+
+> *Gid jeg havde besøgt ham tidligere* = I wish, I had visited him earlier. 
 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
