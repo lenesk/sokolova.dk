@@ -19,7 +19,7 @@ NB! If the main meaningful verb expresses a one time movement e.g. *komme, gå, 
 
 > *Jeg dumpede køreprøven og tænker: jeg skulle ikke være startet at læse til eksamen dagen før. (at starte - change of state).* = I failed the driving exam and think back: I should not have started studying for the exam the day before. 
 
-Regretting sentences may be positive or negative med ‘ikke’.
+Regretting sentences may be positive or negative with ‘ikke’ or without it.
 
 > *Jeg er dødtræt. Jeg skulle ikke have arbejdet så meget. = I am deadly tired. I should not have worked so much.*
 
