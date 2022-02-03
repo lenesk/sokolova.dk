@@ -33,7 +33,7 @@ Regretting sentences may be positive or negative with ‘ikke’ or without it.
 
 You can also express wishes about something that can’t be changed, since it’s too late, or your regrets using the following constructions with *førdatid* (=Past Perfect). Adverbs would come just like in the subclause before the first verb in part with *Hvis bare/Bare*... 
 
-#### Pattern 1: *‘Hvis bare jeg* + *førdatid* => *‘Hvis bare jeg havde gjort noget* => 
+#### Pattern 1: *Hvis bare jeg* + *førdatid* => *Hvis bare jeg havde gjort noget* => 
 E.g. 
 > *Hvis bare jeg ikke havde droppet dansetimer, ville jeg have været bedre til at danse tango. = If only I had not dropped my dansing classes, I would have beeb better now to danse tango. (Now it is too late).* 
 
