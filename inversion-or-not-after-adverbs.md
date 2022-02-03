@@ -28,7 +28,7 @@ Often they extend the verb giving details about modality (a speakers' attitude t
 
 In the Danish sentence, we should distinguish between free and central adverbs. Free adverbs can appear in the main sentence's middle, beginning, or end. The central adverbs belong to the fixed place. This place differs depending on whether it is a main or a subordinate clause. We will take both cases. The common central adverbs are: 
 
-* adverbs of time: *altid* (never), *aldrig* (never), *tit/ofte* (often), *snart* (soon), *straks* (immediately/at once), *lige* (just/like in ‘just now’/'shortly', or 'very recently' or 'in a moment'), *allerede* (already), *sjældent* (seldom, rarely), *stadig*, *stadigvæk* (=still), *længe* (for a long time), *nogensinde* (ever); 
+* adverbs of time: *altid* (always), *aldrig* (never), *tit/ofte* (often), *snart* (soon), *straks* (immediately/at once), *lige* (just/like in ‘just now’/'shortly', or 'very recently' or 'in a moment'), *allerede* (already), *sjældent* (seldom, rarely), *stadig*, *stadigvæk* (=still), *længe* (for a long time), *nogensinde* (ever); 
 
 * modal adverbs like *da* (indeed), *vel* (a tag 'right?'), *nok* (for sure), *vist* (obviously), *jo* (=as you know);
 
