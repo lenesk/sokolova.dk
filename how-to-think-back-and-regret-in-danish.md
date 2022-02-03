@@ -44,7 +44,7 @@ E.g.
 #### Pattern 3: *Jeg ville ønske, (at) jeg (ikke) havde gjort noget*=> 
 E.g. 
 
-> *Jeg ville ønske, at jeg ikke havde glemt min adgangskode. = I wish, (that) I had not have forgotten my password. 
+> *Jeg ville ønske, (at) jeg ikke havde glemt min adgangskode.* = I wish, (that) I had not have forgotten my password. 
 
 #### Pattern 4: *Gid jeg (ikke) have gjort noget* => 
 E.g.
