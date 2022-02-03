@@ -2,7 +2,7 @@
 
 *Elena Sokolova, February 3<sup>rd</sup> 2022*
 
-What structures to use when you want to express that you regret you have done something, reprimand yourself or someone, or may reflect on what could have been otherwise if something had been different. 
+What structures to use when you want to express that you regret you have done something wrong, reprimand yourself or someone, or may reflect on what could have been otherwise, if something had been different. 
 
 Situation:
 
