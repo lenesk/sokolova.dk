@@ -1,4 +1,4 @@
-# How to think back and regret in Danish? 
+# How to think back and regret in Danish 
 
 *Elena Sokolova, February 3<sup>rd</sup> 2022*
 
