@@ -17,7 +17,7 @@ NB! If the main meaningful verb expresses a one time movement e.g. *komme, gå, 
 
 > *Jeg kom for sent på arbejde i dag. Jeg skulle være gået tidligere hjemmefra i dag (at gå = bevægelse).*= I came late to work today. I should have left earlier from home. 
 
-> *Jeg dumpede køreprøven og tænker: jeg skulle ikke være startet at læse til eksamen dagen før. (at starte - change of state).* = I failed the driving exam and think back: I shoudl have started studying for the exam earlier. 
+> *Jeg dumpede køreprøven og tænker: jeg skulle ikke være startet at læse til eksamen dagen før. (at starte - change of state).* = I failed the driving exam and think back: I should not have started studying for the exam the day before. 
 
 Regretting sentences may be positive or negative med ‘ikke’.
 > *Jeg er dødtræt. Jeg skulle ikke have arbejdet så meget. = I am deadly tired. I should not have worked so much.*
