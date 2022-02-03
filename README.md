@@ -44,6 +44,8 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 * [Online Forberedelse til Prøve i Dansk 3: mundtlig + skriftlig (aftenhold 8-10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022) <a class="btn" href="https://sowl.co/bjET4H"> Register for 4680 DKK </a>
 
 ## Blog  
+* [How to think back and regret in Danish?](how-to-think-back-and-regret-in-danish?.md)
+
 * [Inversion or not? How to make a correct main and subordinate sentence with adverbs in Danish](inversion-or-not-after-adverbs)
 
 * [Participle in Danish in the adjective function](participle-in-danish-in-the-adjective-function)
