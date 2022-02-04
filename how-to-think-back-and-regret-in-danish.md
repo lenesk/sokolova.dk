@@ -25,7 +25,7 @@ Regretting sentences may be positive or negative with ‘ikke’ or without it.
 
 > *Nej, hvor jeg fryser! Jeg skulle have taget min vinterjakke på. = It’s cold! I should have taken my winter jacket on.*
 
-> *Hold da op! Vi kommer for sent! Vi skulle være taget tidligere af sted.* = Common, we are being late! We should have left earlier from home. 
+> *Hold da op! Vi kommer for sent! Vi skulle være taget tidligere af sted.* = Come on, we are late! We should have left earlier from home. 
 
 > *Jeg havde tusind fejl i min opgave. Jeg skulle have gennemlæst den flere gange.* = I had a thousand mistakes in my assignement. I should have checked it several times. 
  
