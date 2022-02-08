@@ -7,7 +7,9 @@
 * tirsdag & torsdag 17:00-18:30 
 * Tilmeld dig senest den 11. februar 2022
 
-<a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK </a>
+<a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK/split betaling i 2 via individuel faktura </a>
+
+Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål.
 
 ## Niveauet
 
@@ -34,9 +36,7 @@ Undervisningsmaterialet er bøger ‘At skrive’ og 'Bliv klar til Prøve i Dan
 Bogen ‘At skrive’  i trykt form  <a class="btn" href="https://praxis.dk/skrive#">Køb *At skrive*</a> 
 
 Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-3#">Køb *Bliv klar til Prøve i Dansk 3*</a> 
-
-
-Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
+ 
 
 <style>
 .btn {
