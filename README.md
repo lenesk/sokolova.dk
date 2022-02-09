@@ -36,7 +36,7 @@ I have been teaching Danish for ten years (online in Zoom, blended courses, regu
 
 ## Danish video courses for self-study
 
-* [Get ready for Wrting in PD3 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md) <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3/buy"> Get full access for 920 DKK </a>
+* [Get ready for Wrting in PD3 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md) 
 
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
 
