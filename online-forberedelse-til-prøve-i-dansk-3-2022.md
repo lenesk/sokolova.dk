@@ -1,4 +1,4 @@
-# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold 8-10 deltagere)
+# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold maks. 8 deltagere)
 
 ## Datoer og tid 
 * den 22. februar 2022 - den 28. april 2022 (påskeferie i uge 15)
