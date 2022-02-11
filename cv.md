@@ -5,17 +5,17 @@
 
 ### Dansklærer, ejer og stifter af kursusvirksomhed [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
-*Primære opagaver*:
+*Primære opagaver*
 
 * Daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog. 
-* Hold- og eneundervisning af voksne udlændinge i dansk online i zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
-* tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer; 
-* tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister;
-* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
-* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven) 
-* Udtaleundervisning
-* SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/); [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw)
-* [Blogging & Content marketing](https://sokolova.dk/#blog)
+* Hold- og eneundervisning af voksne udlændinge i dansk online i zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven.
+* Tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer. 
+* Tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister.
+* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md).
+* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven).
+* Udtaleundervisning.
+* SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/); [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw).
+* [Blogging & Content marketing](https://sokolova.dk/#blog).
 * Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3. 
 
 
