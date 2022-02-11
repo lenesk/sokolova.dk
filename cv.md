@@ -98,7 +98,7 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 * Dansk – modersmålskompetence, både mundtligt og skriftligt
 * Engelsk – modersmålskompetence, både mundtligt og skriftligt 
 * Fransk – flydende, både mundtligt og skriftligt
-* Russisk – Modersmål
+* Russisk – modersmål
 
 ## Uddannelse
 [Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
