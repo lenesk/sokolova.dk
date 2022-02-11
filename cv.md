@@ -3,7 +3,7 @@
 
 ## Erhvervserfaring
 
-### Dansklærer & ejer og stifter af [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
+### Dansklærer, ejer og stifter af kursusvirksomhed [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
 *Primære opagaver*:
 
