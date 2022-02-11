@@ -115,7 +115,7 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 
 ## It-kundskaber
 
-Windows, Mac OS, GitHub, LMS (Moodle), Office 365, 
+Windows, Mac OS, GitHub, LMS (Moodle),
 
 ## E-Commerce
 
