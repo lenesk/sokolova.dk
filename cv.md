@@ -83,9 +83,9 @@ UEFA Championship i Moskva
 
 ## Relevante erfaringer, jeg bringer
 
-I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig også til pædagogisk udviklingsarbejde. Jeg har bl.a.
+I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig også til pædagogisk udviklingsarbejde. Jeg var bl.a.
 
-* været medlem af pædagogisk udvalg (med to andre kolleger) og stået for planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen; 
+* været medlem af pædagogisk udvalg på Studieskolen og stået for planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen; 
 
 * udarbejdet referater af møder, samt indholdsmæssigt anvendt resultaterne af lærermøder i udviklingsarbejde;
 i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
