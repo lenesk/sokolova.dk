@@ -4,7 +4,7 @@
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
 I have graduate-level degrees in translation, linguistics and second language pedagogy. 
-I have been teaching Danish for ten years (online in Zoom, blended courses, regular classroom groups and one-to-one), including levels B2 & C1 (Prøve i Dansk 3 & Studieprøven). 
+I have been teaching Danish for 12 years (online in Zoom, blended courses, regular classroom groups and one-to-one lessons), including prep-courses for Prøve i Dansk 3, Prøve i Dansk 2 & Studieprøven. 
 
 [CV (Danish)](cv.md) 
 
@@ -83,11 +83,6 @@ My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Lingu
 * [Danish vowels part 2: front, labialized](https://youtu.be/IG1LCKSYbxI)
 * [Danish vowels part 3: back labialized](https://youtu.be/cQX8SRfQ9Z8)
 * [Gender and grammatical forms of nouns in Danish](https://www.youtube.com/watch?v=94aFjF9Z6QY)
-
-## PDF files for video tutorials
-
-* [Gender and grammatical forms of nouns in Danish](grammar-nouns.pdf)
-* [How to make Questions](How to make Questions.pdf)
 
 
 ## Papers and writings
