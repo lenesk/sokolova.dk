@@ -9,11 +9,11 @@
 
 * Daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog. 
 * Hold- og eneundervisning af voksne udlændinge i dansk online i zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
-* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3] (https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html)
-* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven] (https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven) 
+* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
+* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven) 
 * Udtaleundervisning
 * SoME (Facebook & Twitter)
-* Content marketing https://sokolova.dk/#blog via https://convertkit.com/ & https://www.podia.com/
+* [Blogging & Content marketing](https://sokolova.dk/#blog)
 * Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3. 
 
 
