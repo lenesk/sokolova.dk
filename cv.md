@@ -17,6 +17,7 @@
 * SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/); [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw).
 * [Blogging & Content marketing](https://sokolova.dk/#blog).
 * Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3. 
+* E-Commerce: Convertkit, Podia, Stipe
 
 
 ### Dansklærer, 2012/09–2020/06		
@@ -117,9 +118,6 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 
 Windows, Mac OS, GitHub, LMS (Moodle),
 
-## E-Commerce
-
-Convertkit, Podia, Stipe
 
 ## Øvrige interesser
 
