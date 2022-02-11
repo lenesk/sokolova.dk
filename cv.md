@@ -3,17 +3,26 @@
 
 ## Erhvervserfaring
 
-### Dansklærer 2020/07–i dag 	
-[SokolovaDK](https://sokolova.dk) 
+### Dansklærer & ejer og stifter af [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
-Ejer og stifter af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog.
+*Primære opagaver*:
+
+* Daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog. 
+* Hold- og eneundervisning af voksne udlændinge i dansk online i zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
+* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3] (https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html)
+* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven] (https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven) 
+* Udtaleundervisning
+* SoME (Facebook & Twitter)
+* Content marketing https://sokolova.dk/#blog via https://convertkit.com/ & https://www.podia.com/
+* Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3. 
+
 
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
 *Primære opagaver*: sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
 
-Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
+Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
 
 ### Dansklærer, 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
@@ -84,10 +93,10 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 
 ## Sprog
 
-* Dansk–Flydende, både mundtligt og skriftligt
-* Engelsk–Flydende, både mundtligt og skriftligt 
-* Fransk–Godt niveau, både mundtligt og skriftligt
-* Russisk–Modersmål
+* Dansk – modersmålskompetence, både mundtligt og skriftligt
+* Engelsk – modersmålskompetence, både mundtligt og skriftligt 
+* Fransk – flydende, både mundtligt og skriftligt
+* Russisk – Modersmål
 
 ## Uddannelse
 [Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
@@ -104,7 +113,7 @@ i tæt samarbejde med tre andre kolleger startet udvikling af sprogtest til hver
 
 ## It-kundskaber
 
-Windows, Mac OS, GitHub, LMS (Moodle), Office 365
+Windows, Mac OS, GitHub, LMS (Moodle), Office 365, E-Commerce (https://convertkit.com/ & https://www.podia.com; https://stripe.com/en-dk)
 
 ## Øvrige interesser
 
