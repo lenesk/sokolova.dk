@@ -14,7 +14,7 @@
 * Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
 * Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven) 
 * Udtaleundervisning
-* SoME [Facebook](https://www.facebook.com/elena.sokolova.92798072/); [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw)
+* SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/); [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw)
 * [Blogging & Content marketing](https://sokolova.dk/#blog)
 * Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3. 
 
