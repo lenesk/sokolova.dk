@@ -8,7 +8,7 @@
 *Primære opagaver*
 
 * Daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikatinsarbejde & regnskab, bogholderi, udviklingsopgaver)
-* Hold- og eneundervisning af voksne udlændinge i dansk online i zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
+* Hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
 * Tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer 
 * Tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister
 * Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
@@ -24,9 +24,13 @@
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-*Primære opagaver*: sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; projektledelse og pædagogisk udviklingsarbejde. 
+*Primære opagaver*: 
+* sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; 
+* projektledelse og pædagogisk udviklingsarbejde (2019-2020), bl.a. var jeg medlem af pædagogisk udvalg på Studieskolen (planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen); 
+* udvikling af intern trintest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
+* udvikling af modeller for nye kurser og holdtyper (inkl. markedsanalyse & kundeundersøgelser).
 
-Jeg har undervist i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, og Studieprøven; afviklet modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagt og afviklet danskkurser med blended learning, kurser med en ugentlig mødegang, samt intensive crash-courses; anvendt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, hvor kursister får mundtlig og skriftlig feedback digitalt via Moodle og fx ved hjælp af Screencast-O-Matic; undervist via Zoom, både aften- og daghold. 
+Jeg underviste i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, og Studieprøven; afviklede modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagde og afviklede danskkurser med blended learning, bl.a. kurser med én ugentlig mødegang, samt intensive crash-courses; anvendte aktivt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, underviste via Zoom, både aften- og daghold. 
 
 ### Dansklærer, 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
@@ -54,7 +58,7 @@ UEFA Championship i Moskva
 
 * interkulturel kommunikation med internationale studerende og udenlandske medarbejdere, der lærer dansk som andet- eller fremmedsprog; 
 
-* voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer;
+* voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer af DU2 & DU3;
 
 * tilrettelæggelse af undervisningsforløb; udarbejdelse af kursusprogrammer, samt evaluering, test- og eksamensafvikling; rapportskrivning;
 
@@ -68,11 +72,9 @@ UEFA Championship i Moskva
 
 * gode formidlingsevner både i skrift og tale;
 
-* stærke it-kundskaber (Windows, MS Office, Mac OS); online og it-baseret undervisning; 
+* stærke it-kundskaber; 
 
-* kendskab til administrative systemer, fx LUDUS, samt undervisnings- og intranetplatformer, fx Moodle, Fronter, kursistintra, Absalon (KU), FirstClass;
-
-* alle typer tolkning, oversættelse, simultantolkning, samt korrekturlæsning; 
+* alle typer tolkning, oversættelse, simultantolkning, samt korrekturlæsning (dansk/russisk/engelsk); 
 
 * god forstand på forretningsforhold, økonomi, politik og internationale organisationer samt statistik;
 
@@ -81,19 +83,6 @@ UEFA Championship i Moskva
 * erfaring med administrative opgaver i forbindelse med tilmeldinger, test- og eksamensafvikling, gentilmeldinger, registrering af fravær, henvisning til andre sprogcentre; 
 
 * serviceminded og fleksibel.
-
-## Relevante erfaringer, jeg bringer
-
-I løbet af de sidste år har mine arbejdsopgaver ud over sprogundervisning, eksamensafvikling og tilrettelæggelsen af kursusforløb spredt sig også til pædagogisk udviklingsarbejde. 
-
-* var medlem af pædagogisk udvalg på Studieskolen og stod for planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen; 
-
-* udarbejdede referater af møder, samt indholdsmæssigt anvendt resultaterne af lærermøder i udviklingsarbejde;
-i tæt samarbejde med tre andre kolleger startede udvikling af sprogtest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
-
-* udviklede modeller for nye kurser og holdtyper, samt aktivt arbejdet med markedsanalysen, udarbejdelsen og analysen af kundeundersøgelser;
- 
-* bidrog til fastholdelsen af nuværende kursister gennem kommunikationsarbejdet.
 
 ## Sprog
 
@@ -117,7 +106,9 @@ i tæt samarbejde med tre andre kolleger startede udvikling af sprogtest til hve
 
 ## It-kundskaber
 
-Windows, Mac OS, GitHub, LMS (Moodle),
+Windows, Mac OS, GitHub, LMS (Moodle)
+E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home)
+* Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk)
 
 
 ## Øvrige interesser
