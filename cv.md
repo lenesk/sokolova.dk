@@ -3,7 +3,7 @@
 
 ## Erhvervserfaring
 
-### Dansklærer, ejer og stifter af kursusvirksomhed [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
+### Еjer og stifter af kursusvirksomhed & dansklærer [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
 *Primære opagaver*:
 
@@ -56,21 +56,19 @@ UEFA Championship i Moskva
 
 ## Primære kompetencer
 
-* interkulturel kommunikation med internationale studerende og udenlandske medarbejdere, der lærer dansk som andet- eller fremmedsprog; 
-
 * voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer af DU2 & DU3;
 
 * tilrettelæggelse af undervisningsforløb; udarbejdelse af kursusprogrammer, samt evaluering, test- og eksamensafvikling; rapportskrivning;
 
-* evne til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for universitetsområdet;
+* evne til at navigere, analysere og vejleder inden for de formelle rammer, krav, bekendtgørelser, studieordninger og lovgiving inden for danskuddannelse;
 
 * evne til at planlægge og strukturere arbejdsopgaver, samt at arbejde med lidt supervision;
 
-* kendskab til didaktik og vejledningsmetoder;
+* kendskab til sprogpædagogik, didaktik og vejledningsmetoder;
 
 * erfaring med anerkendende og/eller udfordrende læringsorienterede samtaler;
 
-* gode formidlingsevner både i skrift og tale;
+* interkulturel kommunikation med internationale studerende og udenlandske medarbejdere, der lærer dansk som andet- eller fremmedsprog; 
 
 * stærke it-kundskaber; 
 
@@ -86,10 +84,10 @@ UEFA Championship i Moskva
 
 ## Sprog
 
-* Dansk – modersmålskompetence, både mundtligt og skriftligt
-* Engelsk – modersmålskompetence, både mundtligt og skriftligt 
-* Fransk – flydende, både mundtligt og skriftligt
-* Russisk – modersmål
+* dansk – modersmålskompetence, både mundtligt og skriftligt
+* engelsk – modersmålskompetence, både mundtligt og skriftligt 
+* fransk – flydende, både mundtligt og skriftligt
+* russisk – modersmål
 
 ## Uddannelse
 [Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
