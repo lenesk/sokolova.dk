@@ -106,14 +106,13 @@ UEFA Championship i Moskva
 
 ## It-kundskaber
 
-Windows, Mac OS, GitHub, LMS (Moodle);
-E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home);
+* Windows, Mac OS, LMS (Moodle); Zoom
+* E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home);
 * Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
-
 
 ## Øvrige interesser
 
-Atletik * rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
+Atletik, rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
 
 * * *
 
