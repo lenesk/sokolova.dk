@@ -24,7 +24,7 @@
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-*Primære opagaver*: 
+*Primære opagaver* 
 * sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; 
 * projektledelse og pædagogisk udviklingsarbejde (2019-2020), bl.a. var jeg medlem af pædagogisk udvalg på Studieskolen (planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen); 
 * udvikling af intern trintest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
