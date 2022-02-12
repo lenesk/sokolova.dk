@@ -18,7 +18,7 @@
 * [Blogging & Content marketing](https://sokolova.dk/#blog)
 * Afvikling af Online workshops med fokus på forberedelse til Prøve i Dansk 3
 * E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk)
-* [Webudvikling] (markdown GitHub Pages)(https://github.com/lenesk/sokolova.dk)
+* Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk)
 
 
 ### Dansklærer, 2012/09–2020/06		
