@@ -5,26 +5,26 @@
 
 ### Dansklærer, ejer og stifter af kursusvirksomhed [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
-*Primære opagaver*
+*Primære opagaver*:
 
-* Daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikatinsarbejde & regnskab, bogholderi, udviklingsopgaver)
-* Hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven
-* Tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer 
-* Tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister
-* Udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md)
-* Udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven)
-* Udtaleundervisning
+* daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikationsarbejde, regnskab & bogholderi, udviklingsopgaver);
+* hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven;
+* tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer; 
+* tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister;
+* udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md);
+* udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven);
 * SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/), [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw)
-* [Blogging & Content marketing](https://sokolova.dk/#blog)
-* Afvikling af online workshops med fokus på forberedelse til Prøve i Dansk 3 
-* E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home)
-* Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk)
+* [blogging & content marketing](https://sokolova.dk/#blog);
+* afvikling af online workshops via zoom med fokus på forberedelse til Prøve i Dansk 3; 
+* E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk), PayPal(https://www.paypal.com/dk/home);
+* webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
 
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-*Primære opagaver* 
+*Primære opagaver*:
+
 * sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; 
 * projektledelse og pædagogisk udviklingsarbejde (2019-2020), bl.a. var jeg medlem af pædagogisk udvalg på Studieskolen (planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen); 
 * udvikling af intern trintest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
@@ -102,18 +102,18 @@ UEFA Championship i Moskva
 (engelsk, dansk, fransk)](https://www.linguanet.ru/en/studies/programmes-courses/masters/linguistics-45-04-02-translation-and-interpreting-studies/)<br/>
 2005–2010 Moskvas Statslige Lingvistiske Universitet, Rusland, Moskva
 
-2003–2005 		gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
+2003–2005 gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
 ## It-kundskaber
 
-Windows, Mac OS, GitHub, LMS (Moodle)
-E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home)
-* Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk)
+Windows, Mac OS, GitHub, LMS (Moodle);
+E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),PayPal(https://www.paypal.com/dk/home);
+* Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
 
 ## Øvrige interesser
 
-Atletik, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
+Atletik * rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
 
 * * *
 
