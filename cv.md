@@ -7,7 +7,6 @@
 [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
 *Primære opgaver*:
-
 * daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikationsarbejde, regnskab & bogholderi, udviklingsopgaver);
 * hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven;
 * tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer; 
@@ -25,7 +24,6 @@
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
 
 *Primære opgaver*:
-
 * sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; 
 * projektledelse og pædagogisk udviklingsarbejde (2019-2020), bl.a. var jeg medlem af pædagogisk udvalg på Studieskolen (planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen); 
 * udvikling af intern trintest til hvert trin af danskkurser ifølge Common European Framework of Reference for Languages;
@@ -56,7 +54,6 @@ Danmarks Kongelige Ambassade i Moskva<br/>
 UEFA Championship i Moskva
 
 ## Primære kompetencer
-
 * voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer af DU2 & DU3;
 
 * tilrettelæggelse af undervisningsforløb; udarbejdelse af kursusprogrammer, samt evaluering, test- og eksamensafvikling; rapportskrivning;
@@ -84,7 +81,6 @@ UEFA Championship i Moskva
 * serviceminded og fleksibel.
 
 ## Sprog
-
 * dansk – modersmålskompetence, både mundtligt og skriftligt
 * engelsk – modersmålskompetence, både mundtligt og skriftligt 
 * fransk – flydende, både mundtligt og skriftligt
@@ -104,13 +100,11 @@ UEFA Championship i Moskva
 2003–2005 gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
 ## It-kundskaber
-
 * Windows, Mac OS, LMS (Moodle); Zoom
 * E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),[PayPal](https://www.paypal.com/dk/home);
 * Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
 ## Øvrige interesser
-
 Atletik, rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
 
 * * *
