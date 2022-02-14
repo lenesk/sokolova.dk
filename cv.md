@@ -5,7 +5,7 @@
 
 ### Еjer og stifter af kursusvirksomhed & dansklærer [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
 
-*Primære opagaver*:
+*Primære opgaver*:
 
 * daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikationsarbejde, regnskab & bogholderi, udviklingsopgaver);
 * hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven;
@@ -23,7 +23,7 @@
 ### Dansklærer, 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
 
-*Primære opagaver*:
+*Primære opgaver*:
 
 * sprogundervisning, eksamensafvikling og tilrettelæggelse af kursusforløb; 
 * projektledelse og pædagogisk udviklingsarbejde (2019-2020), bl.a. var jeg medlem af pædagogisk udvalg på Studieskolen (planlægning og afholdelse af lærermøder ca. hver 8. uge med deltagelsen af lærerkollegiet og ledelsen); 
