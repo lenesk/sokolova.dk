@@ -19,6 +19,7 @@
 * e-commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk), [PayPal](https://www.paypal.com/dk/home);
 * webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
+<div style='break-after:always'></div>
 
 ### Dansklærer 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
@@ -45,6 +46,8 @@ Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
 ### Simultantolk fra dansk til engelsk 2011/10
 EU-kontrolbesøg i Sønderborg Kommune
+
+<div style='break-after:always'></div>
 
 ### Praktik & feltarbejde 2011/03
 AOF Aabenraa, VUC Sønderborg 
@@ -81,6 +84,7 @@ UEFA Championship i Moskva
 
 * serviceminded og fleksibel.
 
+<div style='break-after:always'></div>
 
 ## Sprog
 * dansk – modersmålskompetence, både mundtligt og skriftligt
@@ -88,6 +92,7 @@ UEFA Championship i Moskva
 * fransk – flydende, både mundtligt og skriftligt
 * russisk – modersmål
 
+<div style='break-after:always'></div>
 
 ## Uddannelse
 [Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
