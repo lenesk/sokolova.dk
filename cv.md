@@ -21,8 +21,8 @@
 * webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
 
-### Dansklærer, 2012/09–2020/06		
-[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København. 
+### Dansklærer 2012/09–2020/06		
+[Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
 
 *Primære opgaver*:
 
@@ -33,22 +33,22 @@
 
 Jeg underviste i dansk som andet- og fremmedsprog, primært på Danskuddannelse 3 (på alle CEFRL-trin), inklusive kurser i forberedelse til Prøve i Dansk 3, og Studieprøven; afviklede modultest for DU3, samt mundtlige eksaminer på KUA [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), som både censor og eksaminator; tilrettelagde og afviklede danskkurser med blended learning, bl.a. kurser med én ugentlig mødegang, samt intensive crash-courses; anvendte aktivt it-redskaber og learning management systems i undervisning, især i forbindelse med blended learning, underviste via Zoom, både aften- og daghold. 
 
-### Dansklærer, 2017/09–10/2018
+### Dansklærer 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
-### Freelance russisk tolk, 2012/08–2013/12 
+### Freelance russisk tolk 2012/08–2013/12 
 International Tolkeservice, København og omegn
 
-### Oversætter (dansk-russisk), 2011/05–2011/07	
+### Oversætter (dansk-russisk) 2011/05–2011/07	
 uddrag fra ‘Kronprinsessen’ af Hanne-Vibeke Holst
 
-### Dansklærer, 2010/10–2011/12
+### Dansklærer 2010/10–2011/12
 Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
-### Simultantolk fra dansk til engelsk, 2011/10
+### Simultantolk fra dansk til engelsk 2011/10
 EU-kontrolbesøg i Sønderborg Kommune
 
-### Praktik & feltarbejde, 2011/03
+### Praktik & feltarbejde 2011/03
 AOF Aabenraa, VUC Sønderborg 
 
 ### Freelance oversætter & tolk 2008-2010
