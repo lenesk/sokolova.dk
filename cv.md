@@ -19,7 +19,7 @@
 * e-commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk), [PayPal](https://www.paypal.com/dk/home);
 * webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
-<div style='break-after:always'></div>
+<div style='break-after:page'></div>
 
 ### Dansklærer 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
