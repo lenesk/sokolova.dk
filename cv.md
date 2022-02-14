@@ -11,7 +11,7 @@
 * hold- og eneundervisning af voksne udlændinge i dansk online via zoom, inklusive kurser i forberedelse til Prøve i Dansk 3, Prøve i Dansk 2 og Studieprøven;
 * tilrettelæggelse af holdundervisningsforløb fra starten; udarbejdelse af kursusprogrammer; 
 * tilrettelæggelse af eneundervisning inklusive sproglig vejledning og vurdering af kursister;
-* udvikling af videokurser og undervisningsmaterialer til selv-stuider med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md);
+* udvikling af videokurser og undervisningsmaterialer til selvstuide med fokus på [forberedelse til Prøve i Dansk 3](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md);
 * udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven);
 * SoMe [Facebook](https://www.facebook.com/elena.sokolova.92798072/), [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw);
 * [blogging & content marketing](https://sokolova.dk/#blog);
