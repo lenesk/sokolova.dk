@@ -53,6 +53,7 @@ AOF Aabenraa, VUC Sønderborg
 Danmarks Kongelige Ambassade i Moskva<br/>
 UEFA Championship i Moskva
 
+
 ## Primære kompetencer
 * voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer af DU2 & DU3;
 
@@ -80,11 +81,13 @@ UEFA Championship i Moskva
 
 * serviceminded og fleksibel.
 
+
 ## Sprog
 * dansk – modersmålskompetence, både mundtligt og skriftligt
 * engelsk – modersmålskompetence, både mundtligt og skriftligt 
 * fransk – flydende, både mundtligt og skriftligt
 * russisk – modersmål
+
 
 ## Uddannelse
 [Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
@@ -99,10 +102,12 @@ UEFA Championship i Moskva
 
 2003–2005 gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
+
 ## It-kundskaber
 * Windows, Mac OS, LMS (Moodle); Zoom
 * E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),[PayPal](https://www.paypal.com/dk/home);
 * Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
+
 
 ## Øvrige interesser
 Atletik, rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
