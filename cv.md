@@ -47,7 +47,7 @@ Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 ### Simultantolk fra dansk til engelsk 2011/10
 EU-kontrolbesøg i Sønderborg Kommune
 
-<div style='break-after:always'></div>
+<div style='break-after:page'></div>
 
 ### Praktik & feltarbejde 2011/03
 AOF Aabenraa, VUC Sønderborg 
@@ -84,7 +84,7 @@ UEFA Championship i Moskva
 
 * serviceminded og fleksibel.
 
-<div style='break-after:always'></div>
+<div style='break-after:page'></div>
 
 ## Sprog
 * dansk – modersmålskompetence, både mundtligt og skriftligt
@@ -107,12 +107,10 @@ UEFA Championship i Moskva
 
 2003–2005 gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
-
 ## It-kundskaber
 * Windows, Mac OS, LMS (Moodle); Zoom
 * E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),[PayPal](https://www.paypal.com/dk/home);
 * Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
-
 
 ## Øvrige interesser
 Atletik, rulleski, oversættelse af børnelitteratur, datalingvistik, Natural Language Processing
