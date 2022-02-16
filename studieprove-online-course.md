@@ -2,7 +2,7 @@
 
 You can find more information about Studieprøven and samples of some exam tasks in some of my [blog posts](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven).
 
-04.03.22-03.06.2022| Fridays 18:45-21:00 (Copenhagen time & online in zoom)| 36 lessons <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-studieproven-danish-c1/buy"> Enroll & pay 5625 DKK/3x1875 DKK </a>
+04.03.22-03.06.2022| Fridays 18:45-21:15 (Copenhagen time & online in zoom)| 36 lessons <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-studieproven-danish-c1/buy"> Enroll & pay 5625 DKK/3x1875 DKK </a>
 
 The course has a first-come-first-served admission. 
 
