@@ -41,7 +41,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
 
 ## Open sign-up for upcoming group lessons
-* [Online Forberedelse til Prøve i Dansk 3: mundtlig + skriftlig (aftenhold 8-10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022)
+* [Online forberedelse til Prøve i Dansk 3: mundtlig + skriftlig (aftenhold 8-10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022)
 * [Online forberedelse til Studieprøven - C1 Studieprøven Prep Course](studieprove-online-course.md)
 
 ## Blog  
