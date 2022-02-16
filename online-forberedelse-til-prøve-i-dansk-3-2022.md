@@ -5,7 +5,6 @@
 * 36 lektioner 
 * 4 lektioner om ugen (36 lektioner i alt)
 * tirsdag & torsdag 17:00-18:30 
-* Tilmeld dig senest den 11. februar 2022
 
 <a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK </a>
  
