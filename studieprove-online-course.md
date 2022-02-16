@@ -1,8 +1,8 @@
-# Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (8-10 students)
+# Online forberedelse til Studieprøven - C1 Studieprøven Prep Course (6-8 students)
 
 You can find more information about Studieprøven and samples of some exam tasks in some of my [blog posts](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven).
 
-12.01.-06.04.2022| Wednesdays 18:45-21:00 (Copenhagen)| 36 lessons/12 weeks <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-studieproven-danish-c1/buy"> Enroll & pay 5100 DKK/2x2550 DKK </a>
+04.03.22-03.06.2022| Fridays 18:45-21:00 (Copenhagen time & online in zoom)| 36 lessons <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-studieproven-danish-c1/buy"> Enroll & pay 5760 DKK/3x1920 DKK </a>
 
 The course has a first-come-first-served admission. 
 
@@ -36,7 +36,7 @@ After the course has started, no running enrollment is possible to ensure the ho
 
 ### Four reasons to take a training course for the exam:
 
-* you get ready for the exam in a smaller group class (8-10 students);
+* you get ready for the exam in a smaller group class (6-8 students);
 * prep curriculum is stretched over 12 sessions for efficient assimilation of material;
 * access to preparing materials;
 * well-structured lessons with a focus on all the aspects of the exam content and assessment criteria. 
