@@ -1,4 +1,4 @@
-# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) (Aftenhold maks. 8 deltagere)
+# Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) 
 
 ## Datoer og tid 
 * den 22. februar 2022 - den 28. april 2022 (påskeferie i uge 15)
@@ -65,20 +65,11 @@ Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https:
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
 * Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbindeord. 
-* Du vil lære, hvad enkelte forbinderord betyder.
-* Du vil lære at skrive komplekse sætninger.   
-* Vi arbejder med at analysere eksempeler på en argumenterende tekst og lærer om strukturen af en argumenterende tekst. 
-* Du øver dig i at begrunde din argumentation og udtrykke holdninger, hvilket du skal bruge i Delprøve 2B i Skriftlig fremstilling.
-* Du vil øve dig i at formulere dele af en argumenterende tekst. 
-* Statistiksprog. Du vil lære ord og udtryk, som du skal bruge i Delprøve 2A i Skriftlig fremstilling. 
-* Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen. 
-* Du lærer at strukturere din e-mail kommunikativt relevant for Delprøve 1 i Skriftlig fremstilling.
-* Du lærer om forskellen på formelle og uformelle breve med konkrete sproglige eksempler.  
-* Du får konkrete sproglige eksempler på, hvordan man kan foreslå, kommentere, klage, vurdere, begrunde i både den skriftlige og den mundtlige del af prøven. 
+* Du øver dig i at begrunde din argumentation og udtrykke holdninger, beskriver statistikker og bruger dem i argumentation. 
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
-* Du øver dig i samtale ud fra billeder. Du lærer at beskrive situationer på billeder.  
+* Du lærer at beskrive situationer på billeder og klare samtalen ud fra billeder.   
 
-Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, byer & cykelkultur, det politiske system i Danmark. 
+Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, transport & cykelkultur. 
 
 Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
 
