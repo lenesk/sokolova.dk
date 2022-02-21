@@ -7,10 +7,8 @@
 * tirsdag & torsdag 17:00-18:30 
 
 <a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK </a>
- 
-#### Split betalingen i 2 dele: kontakt elena@sokolova.dk
 
-Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål.
+#### Ønsker du at splitte betalingen i 2 dele, kontakt elena@sokolova.dk. 
 
 ## Niveauet
 
