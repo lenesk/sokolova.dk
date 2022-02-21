@@ -62,14 +62,14 @@ Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https:
 
 # Kursusprogram og fokusområder
 
-* Du vil lære om opgavetyper i skriftlig fremstilling og gode eksamensstrategier, samt tidsplanlægning under prøven. 
-* Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
-* Du vil øve dig i at kategorisere forbinderord og vil øve dig i at konstruere sætninger med forbindeord. 
+* Du vil lære at skrive alle opgavetyper i skriftlig fremstilling. 
+* Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem forskellige typer forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
+* Du vil øve dig i at kategorisere forbinderord og konstruere sætninger med forbindeord. 
 * Du øver dig i at begrunde din argumentation og udtrykke holdninger, beskriver statistikker og bruger dem i argumentation. 
 * Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewopgaven.
 * Du lærer at beskrive situationer på billeder og klare samtalen ud fra billeder.   
 
-Kursusprogrammet er opbygget omkring følgende emner : det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, transport & cykelkultur. 
+Kursusprogrammet er opbygget omkring følgende emner: det moderne arbejdsliv, det danske arbejdsmarked, ligestilling, uddannelse, velfærdssystem & velfærdssamfund, klima (miljø og økologi, bæredygtighed), det danske sundhedsvæsen, børneopdragelse, transport & cykelkultur. 
 
 Der er ca. 5 længere skriftlige afleveringer i løbet af kurset. 
 
