@@ -1,6 +1,6 @@
 # Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
-## ## Introducing the course
+## Introducing the course
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ9Nlqtz6hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
