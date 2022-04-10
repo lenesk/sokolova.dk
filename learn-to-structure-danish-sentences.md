@@ -1,12 +1,37 @@
-# Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish
+# Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
-### *Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The course will include access to the self-correcting test tasks on structuring the sentences. The video course will be available for purchase via sokolova.dk in April in 2022*. See the course structure below. 
+## ## Introducing the course
 
-Subscribe to get a notification by mail when the course is ready for access. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJ9Nlqtz6hM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
+## Watch a preview: Lesson 8 Learn to detect a subordinate clause
 
-## Introducing the course
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyjKy0EEzcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>
+  
+  
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
+
 
 ### Where do confusions in word order come from and how to tackle them?
 
@@ -22,58 +47,61 @@ An intermediate and even advanced learner may have confusion in the word order. 
 
 ### No specific linguistic knowledge is needed to follow the course
 
-The main terms like the verb and the subject, inversion, inversion triggers, the main clause and subclause, central adverbs, а free adverb, the post-position of a subclause and others, will be gradually introduced in the course, so no specific linguistic knowledge is needed to follow the course.  
+The main terms like the verb and the subject, inversion, inversion triggers, the main clause and subclause, central adverbs, а free adverb, the post-position of a subclause and others, are gradually introduced in the course, so no specific linguistic knowledge is needed to follow the course.  
 
-### My upcoming video course will have the following structure: 
+### Video screens for a download
 
-Lesson #1 Introduction
+All the video screens and test tasks are available for download on the course page for registered users, so you can print them out before you start watching, follow the videos and make notes to the slide/translation while watching.
 
-Lesson #2 	Learn to spot and define the main clause? 
+### The length and contents of the course
 
-Lesson #3	 Spot your scenario of the main clause
+The total length of the course is appx. 280 minutes.
 
-Lesson #4 	Learn inversion triggers in the main clause - so you can talk like Yoda 
+Lesson #1   How to approach learning sentence structure in Danish
 
-Lesson #5 	Learn to spot the dependent clause
+Lesson #2 	Subject & verb
 
-Lesson #6 	What is the dependent clause?
+Lesson #3	  Learn to spot the main clause. What is the main clause (hovedsætning) logically? 
 
-Lesson #7 	How to detect the subclause?
+Lesson #4 	Lesson 4 Optional field in the main sentence
+ 
+Lesson #5 	Scenario 1: main clause without inversion
 
-Lesson #8 	The boring word order of the subclauses 
+Lesson #6 	Scenario 2 of the main clause with inversion
 
-Lesson #9 	The central adverb and how to categorize & spot it?
+Lesson #7 	Possible inversion triggers in the main clause (only Scenario 2)
 
-Lesson #10 	What is the difference between a free and a central adverb?
+Lesson #8 	Learn to detect a subordinate clause
 
-Lesson #11 	The subclause conjunctions
+Lesson #9 	One scenario for word order in subordinate clauses
 
-Lesson #12 	Time conjunctions
+Lesson #10 	Control lesson: main clause or subclause?
 
-Lesson #13 	Description & reference conjunctions in a post-position subclauses
+Lesson #11 	Subordinate clause conjunctions 
 
-Lesson #14 	Conjunctions of condition and alternative 
+Lesson #12 	Time subclauses
 
-Lesson #15 	Explanatory conjunctions
+Lesson #13 	Subclauses of description & reference
 
-Lesson #16 	Conjunctions of contrast and opposition
+Lesson #14 	Subclauses of reasoning 
 
-Lesson #17 	Conjunctions adding information
+Lesson #15 	Subclauses of comparison, condition & alternative
 
-Lesson #18 	Conjunction of purpose
+Lesson #16 	Subclauses of contrast/contradiction & admission (of a paradox)
 
-Lesson #19 	Hv-subclauses without inversion
+Lesson #17 	Subclauses of additional information with ‘at’ and ‘hv-words
 
-Lesson #20 	How to feel about the inversion in general
+Lesson #18 	Subclauses of purpose
 
-Lesson #21  Test youself in structuring the Danish sentence: main clause
+Lesson #19 	Summmary & Control questions
 
-Lesson #22  Test youself in structuring the Danish sentence: subclauses
+Lesson #20 	Test yourself: free adverbs in the main clause without a subordinate clause
 
-Lesson #23  Test youself in structuring the Danish sentence: main clause & subclause in a complex sentence
+Lesson #21  Test youself: central adverbs in the main clause without a subordinate clause
 
-### The video course will be available for full access from sokolova.dk starting from week 6 in 2022. 
+Lesson #22  Test youself: central/Free adverbs in the subordinate clause
 
-Subscribe to get a notification by mail when the course is ready for access. 
+Lesson #23  Test youself: Main clause & subclause in one complex sentence
 
-<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
+
+
