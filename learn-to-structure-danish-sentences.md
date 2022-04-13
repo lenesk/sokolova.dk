@@ -1,5 +1,7 @@
 # Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
+
 ## Introducing the course
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ9Nlqtz6hM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -8,9 +10,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyXvwn-33usrel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyjKy0EEzcU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<style>
-  
   
 .btn {
   color: white;
@@ -105,5 +104,5 @@ Lesson #22  Test youself: central/Free adverbs in the subordinate clause
 
 Lesson #23  Test youself: Main clause & subclause in one complex sentence
 
-
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
 
