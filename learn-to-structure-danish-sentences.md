@@ -7,6 +7,8 @@
 
 ### The length and contents of the course
 
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
+
 The total length of the course is appx. 280 minutes.
 
 Lesson #1   How to approach learning sentence structure in Danish
@@ -60,6 +62,7 @@ Lesson #23  Test youself: Main clause & subclause in one complex sentence
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyXvwn-33us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+<style>
 .btn {
   color: white;
   background-color: #2ea44f;
@@ -80,7 +83,6 @@ Lesson #23  Test youself: Main clause & subclause in one complex sentence
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
 
 ### Where do confusions in word order come from and how to tackle them?
 
