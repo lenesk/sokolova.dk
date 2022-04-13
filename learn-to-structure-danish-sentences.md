@@ -4,7 +4,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ9Nlqtz6hM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Watch a preview: Lesson 8 Learn to detect a subordinate clause
+## Watch a preview: Lesson 6 Scenario 2 of the main clause_with inversion
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oyXvwn-33usrel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyjKy0EEzcU?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <style>
