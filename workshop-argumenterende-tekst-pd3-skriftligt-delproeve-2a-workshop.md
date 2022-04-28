@@ -1,4 +1,5 @@
-# Lær at skrive en argumenterende tekst med statistik (PD3 Delprøve 2A)
+# Lær at skrive en argumenterende tekst med statistik 
+# PD3 Delprøve 2A
 
 <style>
 .btn {
@@ -26,17 +27,15 @@
 ## Mandag den 2. maj kl. 19:30-20:30 online i zoom 
 
 Du vil lære:
-- at struktuerere din opgave og forstå dokus i opagven;
+- at struktuerere din opgave og forstå fokus i opagven;
 - at beskrive hovedtræk i diagrammet med statistik; du får ordforråd til at beskrive diagrammet;
 - at forklare årsager ud fra de vigtigste punkter i statistik; at uddybe din forklaring og give eksempler; 
 - at vurdere fordele og ulemper, udtrykke din mening, ræsonnere, argumentere for og imod;
-- at undgå typiske fejl;
+- at undgå typiske fejl i argumentation;
 - at planlægge tiden;
 - at tjekke din egen opgave.
 
-Alle materialer er inklusive i prisen, og du får tilsendt alle undervisningsnoter efter kurset til din e-mail adresse. 
-Undervisningen foregår i zoom, du får tilsendt linket til mødet snarest efter tilmeldingen. 
+Alle materialer er inklusive i prisen, og du får tilsendt alle undervisningsnoter til din e-mail adresse. 
+Undervisningen foregår online i zoom, du får tilsendt linket til mødet snarest efter tilmeldingen. 
 
-Undervisningssproget er dansk
-
-
+Undervisningssproget er dansk. Men du er velkommen til at stille spørgsmål på engelsk i løbet af undervisningen. 
