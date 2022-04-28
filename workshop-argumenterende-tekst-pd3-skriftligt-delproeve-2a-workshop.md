@@ -1,6 +1,6 @@
 # Workshop for PD3 Delprøve 2A: Lær at skrive en argumenterende tekst med statistik 
 
-## Mandag den 2. maj kl. 19:30-20:30 online i zoom 
+## Mandag den 2.maj kl.19:30-20:30 online i zoom 
 
 <style>
 .btn {
@@ -30,10 +30,11 @@ Tilmeld dig for 150 kr.
 </a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
 Du vil lære:
-- at struktuerere din opgave og forstå fokus i opagven;
+- at strukturere din opgave og forstå fokus i opgaven;
 - at beskrive hovedtræk i diagrammet med statistik; du får ordforråd til at beskrive diagrammet;
-- at forklare årsager ud fra de vigtigste punkter i statistik; at uddybe din forklaring og give eksempler; 
-- at vurdere fordele og ulemper, udtrykke din mening, ræsonnere, argumentere for og imod;
+- at forklare årsager og uddybe din forklaring, samt at give relevante eksempler; 
+- at vurdere fordele og ulemper ved eller betydning af noget;
+- at udtrykke din mening, ræsonnere, argumentere for og imod;
 - at undgå typiske fejl i argumentation;
 - at planlægge tiden;
 - at tjekke din egen opgave.
