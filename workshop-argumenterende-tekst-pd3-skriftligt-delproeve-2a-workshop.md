@@ -25,6 +25,8 @@
 
 <a class="btn" href="https://sowl.co/P9SRT"> Tilmeld dig for 150 kr.</a>
 
+<a href="https://transactions.sendowl.com/products/78702742/EC32E25B/purchase" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/v2/buy-now.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+
 Du vil lære:
 - at struktuerere din opgave og forstå fokus i opagven;
 - at beskrive hovedtræk i diagrammet med statistik; du får ordforråd til at beskrive diagrammet;
