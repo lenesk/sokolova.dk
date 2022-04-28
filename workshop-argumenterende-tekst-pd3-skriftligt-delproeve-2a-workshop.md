@@ -25,7 +25,7 @@
 
 <!-- <a class="btn" href="https://sowl.co/P9SRT"> Tilmeld dig for 150 kr.</a> -->
 
-<a href="https://transactions.sendowl.com/products/78702742/EC32E25B/purchase" rel="nofollow">
+<a class="btn" href="https://transactions.sendowl.com/products/78702742/EC32E25B/purchase" rel="nofollow">
 Tilmeld dig for 150 kr.
 </a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
 
