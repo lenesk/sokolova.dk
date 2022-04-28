@@ -33,6 +33,10 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
 
+## Kommende online workshops 
+
+* [Workshop for PD3 Delprøve 2A: Lær at skrive en argumenterende tekst med statistik](workshop-argumenterende-tekst-pd3-skriftligt-delproeve-2a-workshop)
+
 
 ## Video lessons/courses for self-study
 
