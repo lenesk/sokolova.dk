@@ -1,5 +1,6 @@
-# Lær at skrive en argumenterende tekst med statistik 
-# PD3 Delprøve 2A
+# Workshop for PD3 Delprøve 2A: Lær at skrive en argumenterende tekst med statistik 
+
+## Mandag den 2. maj kl. 19:30-20:30 online i zoom 
 
 <style>
 .btn {
@@ -23,8 +24,6 @@
 </style>
 
 <a class="btn" href="https://sowl.co/P9SRT"> Tilmeld dig for 150 kr.</a>
-
-## Mandag den 2. maj kl. 19:30-20:30 online i zoom 
 
 Du vil lære:
 - at struktuerere din opgave og forstå fokus i opagven;
