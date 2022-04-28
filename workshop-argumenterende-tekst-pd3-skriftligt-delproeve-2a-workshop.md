@@ -39,3 +39,5 @@ Alle materialer er inklusive i prisen, og du får tilsendt alle undervisningsnot
 Undervisningen foregår online i zoom, du får tilsendt linket til mødet snarest efter tilmeldingen. 
 
 Undervisningssproget er dansk. Men du er velkommen til at stille spørgsmål på engelsk i løbet af undervisningen. 
+
+Skriv gerne til elena@sokolova.dk, hvis du har spørgsmål. 
