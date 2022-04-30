@@ -191,9 +191,7 @@ Here both parts of the sentence look identical to scenario 1 of the main clause,
 
 So for further studies, you may need a list of subclause conjunctions to learn them and to distinguish them from adverbs. If you know the central adverbs and the subordinate clause conjunctions - and there are not so many of them, then all the rest 'logical connectors' are usually adverbs. 
 
-You can learn more about word order, different types of subordinate clauses and the subclause conjunctions in my upcoming video-recorded course on sentence formation. Мy upcoming video course for self-study will help intermediate and advanced learners of Danish (i.e. CEFR LEVEL A2+) get confidence in structuring a Danish sentence. The video course will be available for purchase via sokolova.dk in April 2022. 
-
-Subscribe to get a notification by mail when the course is ready for access. 
+You can learn more about word order, different types of subordinate clauses and the subclause conjunctions in my video-recorded course on sentence formation. [Structuring Danish sentence correctly](https://sokolova.dk/learn-to-structure-danish-sentences.html)
 
 <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
