@@ -7,7 +7,7 @@
 
 ### The length and contents of the course
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
 
 The total length of the course is appx. 280 minutes.
 
@@ -105,5 +105,5 @@ The main terms like the verb and the subject, inversion, inversion triggers, the
 All the video screens and test tasks are available for download on the course page for registered users, so you can print them out before you start watching, follow the videos and make notes to the slide/translation while watching.
 
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
 
