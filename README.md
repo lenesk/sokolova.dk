@@ -35,7 +35,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 ## Upcoming online workshops 
 
-* [Workshop for PD3 Delprøve 2A: Lær at skrive en argumenterende tekst med statistik](workshop-argumenterende-tekst-pd3-skriftligt-delproeve-2a-workshop)
+* [Workshop for PD3 Delprøve 2B: Lær at skrive en argumenterende tekst med kommentar](workshop-argumenterende-tekst-pd3-skriftligt-delproeve-2a-workshop)
 
 
 ## Video lessons/courses for self-study
