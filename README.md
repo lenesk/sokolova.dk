@@ -35,9 +35,6 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 ## Upcoming online workshops 
 
-* [Workshop for PD3 Delprøve 2B: Lær at skrive en argumenterende tekst med kommentar](workshop-argumenterende-tekst-pd3-skriftligt-delproeve-2b-workshop)
-
-
 ## Video lessons/courses for self-study
 
 * [Get ready for Wrting in PD3 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md) 
