@@ -35,12 +35,6 @@ Jeg underviste i dansk som andet- og fremmedsprog, primært på Danskuddannelse 
 ### Dansklærer 2017/09–10/2018
 Speak, School of Danish (DTU campus & Microsoft), Lyngby
 
-### Freelance russisk tolk 2012/08–2013/12 
-International Tolkeservice, København og omegn
-
-### Oversætter (dansk-russisk) 2011/05–2011/07	
-uddrag fra ‘Kronprinsessen’ af Hanne-Vibeke Holst
-
 ### Dansklærer 2010/10–2011/12
 Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
@@ -74,7 +68,7 @@ UEFA Championship i Moskva
 
 * stærke it-kundskaber; 
 
-* alle typer tolkning, oversættelse, simultantolkning, samt korrekturlæsning (dansk/russisk/engelsk); 
+* alle typer tolkning, oversættelse, simultantolkning, samt korrekturlæsning (dansk/engelsk); 
 
 * god forstand på forretningsforhold, økonomi, politik og internationale organisationer samt statistik;
 
@@ -90,7 +84,7 @@ UEFA Championship i Moskva
 * dansk – modersmålskompetence, både mundtligt og skriftligt
 * engelsk – modersmålskompetence, både mundtligt og skriftligt 
 * fransk – flydende, både mundtligt og skriftligt
-* russisk – modersmål
+* russisk - modersmålskompetence, både mundtligt og skriftligt
 
 <div style='break-after:always'></div>
 
@@ -101,11 +95,6 @@ UEFA Championship i Moskva
 [Cand.mag. i lingvistik](http://kandidat.au.dk/lingvistik/)<br/>
 2010/09–2012/04 Aarhus Universitet
 
-[Cand.phil. i oversættelse, tolkning, lingvistik og simultantolkning
-(engelsk, dansk, fransk)](https://www.linguanet.ru/en/studies/programmes-courses/masters/linguistics-45-04-02-translation-and-interpreting-studies/)<br/>
-2005–2010 Moskvas Statslige Lingvistiske Universitet, Rusland, Moskva
-
-2003–2005 gymnasieuddannelse (Attestat) med avanceret undervisning i engelsk
 
 ## It-kundskaber
 * Windows, Mac OS, LMS (Moodle); Zoom
