@@ -64,8 +64,6 @@ AOF Aabenraa, VUC Sønderborg
 
 * serviceminded og fleksibel.
 
-<div style='break-after:page'></div>
-
 ## Sprog
 * dansk – modersmålskompetence, både mundtligt og skriftligt
 * engelsk – modersmålskompetence, både mundtligt og skriftligt 
