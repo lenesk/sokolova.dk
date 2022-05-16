@@ -46,11 +46,6 @@ EU-kontrolbesøg i Sønderborg Kommune
 ### Praktik & feltarbejde 2011/03
 AOF Aabenraa, VUC Sønderborg 
 
-### Freelance oversætter & tolk 2008-2010
-Danmarks Kongelige Ambassade i Moskva<br/>
-UEFA Championship i Moskva
-
-
 ## Primære kompetencer
 * voksenundervisning i dansk som andet- og fremmedsprog på alle niveauer af DU2 & DU3;
 
