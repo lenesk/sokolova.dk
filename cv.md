@@ -19,7 +19,6 @@
 * e-commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk), [PayPal](https://www.paypal.com/dk/home);
 * webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
-<div style='break-after:page'></div>
 
 ### Dansklærer 2012/09–2020/06		
 [Studieskolen](http://www.studieskolen.dk/) & [Københavns Universitet](http://nors.ku.dk/english/education/danish_courses/), København 
@@ -40,8 +39,6 @@ Lærdansk Sønderborg, Syddansk Universitet, Danfoss Drives A/S
 
 ### Simultantolk fra dansk til engelsk 2011/10
 EU-kontrolbesøg i Sønderborg Kommune
-
-<div style='break-after:page'></div>
 
 ### Praktik & feltarbejde 2011/03
 AOF Aabenraa, VUC Sønderborg 
@@ -67,6 +64,7 @@ AOF Aabenraa, VUC Sønderborg
 
 * serviceminded og fleksibel.
 
+<div style='break-after:page'></div>
 
 ## Sprog
 * dansk – modersmålskompetence, både mundtligt og skriftligt
