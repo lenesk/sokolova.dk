@@ -33,6 +33,9 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
 
+## Current sign up for group classes
+* [Mundtlig forberedelse til Prøve i Dansk 3](mundtlig-forberedelse-til-pd3)
+
 
 ## Video lessons/courses for self-study
 
