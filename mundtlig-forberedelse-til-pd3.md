@@ -1,8 +1,8 @@
-# Mundtlig forberedelse til PD3: 4 sessions (6.-9.juni 19:15-20:15)
+# Mundtlig forberedelse til PD3
 
 ## Datoer og tid
 * den 6. juni  - den 10. juni 2022
-* 5 online sessioner à 60 minutter kl. 19:00-20:00
+* 5 online sessioner i zoom à 60 minutter kl. 19:00-20:00
 
 Kursusprogram:
 
@@ -11,7 +11,7 @@ Du vil lære at strukturere din mundtlige præsentation og øve dig i interviewo
 Du får individuel feedback på din emne/præsentation. 
 Du lærer at beskrive situationer på billeder og klare samtalen ud fra billeder.
 
-<a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-5-sessions/buy"> Tilmeld dig kurset kr.4200 eller kr. 2x kr.2100 </a>
+<a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-5-sessions/buy"> Tilmeld dig kurset kr.1450 </a>
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
 <style>
