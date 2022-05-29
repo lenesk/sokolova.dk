@@ -1,6 +1,6 @@
 # Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly"> Get full access to the lessons for 550 DKK </a>
 
 ## Introducing the course
 
