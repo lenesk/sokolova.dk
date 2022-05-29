@@ -1,15 +1,13 @@
 # Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly"> Get full access to the lessons for 550 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
 
 ## Introducing the course
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJ9Nlqtz6hM?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Watch a preview: Lesson 6 Scenario 2 of the main clause_with inversion
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oyXvwn-33us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly"> Watch some preview lessons free  </a>
 
 
 <style>
