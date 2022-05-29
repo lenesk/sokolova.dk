@@ -9,6 +9,9 @@
 ## Watch a preview: Lesson 6 Scenario 2 of the main clause_with inversion
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyXvwn-33us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
+
   
 <style>
 .btn {
@@ -49,8 +52,6 @@ All the video screens and test tasks are available for download on the course pa
 
 ### The length and contents of the course
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 550 DKK </a>
-
 The total length of the course is appx. 280 minutes.
 
 Lesson #1   How to approach learning sentence structure in Danish
@@ -74,6 +75,7 @@ Lesson #9 	One scenario for word order in subordinate clauses
 Lesson #10 	Control lesson: main clause or subclause?
 
 Lesson #11 	Subordinate clause conjunctions 
+
 Lesson #12 	Time subclauses
 
 Lesson #13 	Subclauses of description & reference
