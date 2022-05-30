@@ -12,7 +12,9 @@ Kursusprogram:
 * Du lærer at beskrive situationer på billeder og klare samtalen ud fra billeder.
 
 <a class="btn" href="https://elenasokolova.podia.com/mundtlig-forberedelse-til-pd3-5-sessions/buy"> Tilmeld dig kurset kr.1450 </a>
-Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål eller hvis du vil tilmelde dig via MobilePay. 
+Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
+
+Hvis du vil tilmelde dig via MobilePay, er mit nummer +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.  
 
 <style>
 .btn {
