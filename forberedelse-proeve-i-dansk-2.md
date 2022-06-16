@@ -1,23 +1,22 @@
 # Online forberedelse til Prøve i Dansk 2 
-(6-10 deltagere på holdet online i Zoom)
+(max. 10 deltagere på holdet online i Zoom)
 
 ## Datoer og tid
-* den 6. september - 19. november 2021
-* tirsdage & fredage kl. 16:30-18:00
-* 10 uger; 40 lektioner i alt
+* den 22. august - 2. november 2022
+* mandag & onsdag kl. 20:00-21:15 
+30 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.5600 eller kr. 2x kr.2800 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.3600 </a>
 
 
 ## Niveauet
 
 Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog.
-Du skal f.eks. have bestået modul 3 på DU3/'Danish for Intermediate learners' og være tilmeldt DU3 modul 4 eller have bestået DU2 modul 2.5. 
-
+Du skal f.eks. have bestået modul 2 på DU3/'Danish for Intermediate learners' og være tilmeldt DU3 modul 3 eller højere eller have bestået DU2 modul 2.5. 
 
 ## Praktisk information  
 * Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde. Det er frivilligt at lave hjemmearbejde, men du får individuel feedback med i prisen. 
+* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde, samt undervisningsnoter. 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
