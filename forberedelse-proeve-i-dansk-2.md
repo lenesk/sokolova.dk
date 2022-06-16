@@ -1,7 +1,7 @@
 # Online forberedelse til Prøve i Dansk 2 
 (max. 10 deltagere på holdet online i Zoom)
 
-## Datoer og tid
+## Datoer, tid og tilmelding
 * den 22. august - 2. november 2022
 * mandag & onsdag kl. 20:00-21:15 
 30 lektioner i alt
