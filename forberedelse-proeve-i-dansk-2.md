@@ -2,9 +2,9 @@
 (max. 10 deltagere på holdet online i Zoom)
 
 ## Datoer, tid og tilmelding
-* den 22. august - 2. november 2022
+* den 22. august - 2. november 2022 (ferie i uge 42)
 * mandag & onsdag kl. 20:00-21:15 
-30 lektioner i alt
+* 30 lektioner i alt
 
 <a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.3875 </a>
 
