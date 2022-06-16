@@ -53,5 +53,8 @@ Bogen i trykt form  <a href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#">
 
 Læreren vil også supplere undervisning med andre digitale materialer.
 
+The course will cover training in all the tasks at the exam integrated in the following topics: Arbejde i Danmark; Fritid og rejser; Frivilligt arbejde; Bolig, Min hverdag.  
+
+
 
 SokolovaDK CVR-nr.: 41433876
