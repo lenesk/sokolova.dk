@@ -6,8 +6,9 @@
 * mandag & onsdag kl. 20:00-21:15 
 30 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.3600 </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.3875 </a>
 
+Hvis du vil tilmelde dig via MobilePay, er mit nummer for betaling +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.
 
 ## Niveauet
 
