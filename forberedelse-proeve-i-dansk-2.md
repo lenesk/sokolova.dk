@@ -49,7 +49,7 @@ Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der,
 Undervisningsmaterialet er bogen ‘Bliv klar til prøve i dansk 2’. Du skal selv anskaffe dig bogen. 
 Læreren vil skaffe andre supplerende materialer. 
 
-Bogen i trykt form  <a class="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#">Køb *Bliv klar til prøve i dansk 2*</a> 
+Bogen i trykt form  <a href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#">Køb *Bliv klar til prøve i dansk 2*</a> 
 
 Læreren vil også supplere undervisning med andre digitale materialer.
 
