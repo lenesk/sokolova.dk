@@ -1,14 +1,16 @@
 # Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig) 
 
 ## Datoer og tid 
-* den 22. februar 2022 - den 28. april 2022 (påskeferie i uge 15)
-* 36 lektioner 
-* 4 lektioner om ugen (36 lektioner i alt)
-* tirsdag & torsdag 17:00-18:30 
+* den 24.august 2022 - den 4.november 2022 (ferie i uge 42)
+* 30 lektioner i alt
+* onsdag & fredag
+* Vælg mellem aften- eller daghold 18:30-19:50 eller 09:30-10:50. 
 
-<a class="btn" href="https://sowl.co/bjET4H"> Tilmeld dig kurset for 4680 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3_aftenhold/buy"> Tilmeld dig aftenhold for 3875 DKK </a>
 
-#### Ønsker du at splitte betalingen i 2 dele, kontakt elena@sokolova.dk. 
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3_aftenhold/buy"> Tilmeld dig daghold for 3875 DKK </a>
+
+## Hvis du vil tilmelde dig via MobilePay, er mit nummer for betaling +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.
 
 ## Niveauet
 
