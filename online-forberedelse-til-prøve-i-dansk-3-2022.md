@@ -1,7 +1,7 @@
 # Online Forberedelse til Prøve i Dansk 3 (Mundtlig + Skriftlig max. 10 deltagere) 
 
 ## Datoer og tid 
-* den 24. august 2022 - den 4. november 2022 (ferie i uge 42)
+* den 24.august 2022 - den 4.november 2022 (ferie i uge 42)
 * 30 lektioner i alt
 * onsdag & fredag
 * Aften-/daghold 18:30-19:50 eller 09:30-10:50. 
