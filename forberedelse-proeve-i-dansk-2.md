@@ -6,7 +6,7 @@
 * mandag & onsdag kl. 20:00-21:15 
 * 30 lektioner i alt
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-2/buy"> Tilmeld dig kurset kr.3875 </a>
+<a class="btn" href="https://sowl.co/s/zhGSQ"> Tilmeld dig kurset kr.3875 </a>
 
 Hvis du vil tilmelde dig via MobilePay, er mit nummer for betaling +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.
 
@@ -49,11 +49,11 @@ Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der,
 Undervisningsmaterialet er bogen ‘Bliv klar til prøve i dansk 2’. Du skal selv anskaffe dig bogen. 
 Læreren vil skaffe andre supplerende materialer. 
 
-Bogen i trykt form  <a href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#">Køb *Bliv klar til prøve i dansk 2*</a> 
+Bogen i trykt form  <a href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#"> Køb *Bliv klar til prøve i dansk 2*</a> 
 
 Læreren vil også supplere undervisning med andre digitale materialer.
 
-The course will cover training in all the tasks at the exam integrated in the following topics: Arbejde i Danmark; Fritid og rejser; Frivilligt arbejde; Bolig, Min hverdag.  
+Du får træning i alle delelementer af PD2. Undervisningsemner: ' Arbejde i Danmark; Fritid og rejser; Frivilligt arbejde; Bolig, Min hverdag & Fritid.' 
 
 
 
