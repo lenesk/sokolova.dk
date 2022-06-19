@@ -35,6 +35,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 ## Current sign up for group classes
 * [Online forberedelse til Prøve i Dansk 2](forberedelse-proeve-i-dansk-2)
+* [Online Forberedelse til Prøve i Dansk 3 (max. 10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022)
 
 
 ## Video lessons/courses for self-study
