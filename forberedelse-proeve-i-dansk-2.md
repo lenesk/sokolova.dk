@@ -8,7 +8,7 @@
 
 <a class="btn" href="https://sowl.co/s/zhGSQ"> Tilmeld dig kurset kr.3875 </a>
 
-Hvis du vil tilmelde dig via MobilePay, er mit nummer for betaling +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.
+## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
 
 ## Niveauet
 
