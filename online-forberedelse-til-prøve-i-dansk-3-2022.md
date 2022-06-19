@@ -10,7 +10,7 @@
 
 <a class="btn" href="https://transactions.sendowl.com/products/78723606/C9A8AEB8/purchase"> Tilmeld dig daghold for 3875 DKK </a>
 
-## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg individuel faktura, som kan betales via MobilePay.
+## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
 
 ## Niveauet
 
