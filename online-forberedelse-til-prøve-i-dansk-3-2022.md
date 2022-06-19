@@ -6,11 +6,11 @@
 * onsdag & fredag
 * Aften-/daghold 18:30-19:50 eller 09:30-10:50. 
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-prove-i-dansk-3_aftenhold/buy"> Tilmeld dig aftenhold for 3875 DKK </a>
+<a class="btn" href="https://transactions.sendowl.com/products/78723604/4919C0FB/purchase"> Tilmeld dig aftenhold for 3875 DKK </a>
 
-<a class="btn" href="https://elenasokolova.podia.com/forberedelse-til-prove-i-dansk-3_daghold/buy"> Tilmeld dig daghold for 3875 DKK </a>
+<a class="btn" href="https://transactions.sendowl.com/products/78723606/C9A8AEB8/purchase"> Tilmeld dig daghold for 3875 DKK </a>
 
-## Hvis du vil tilmelde dig via MobilePay, er mit nummer for betaling +45 6018 5321, men husk at skrive din e-mailadresse og fuldt navn i kommentar, så jeg kan sende kvittering til dig.
+## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg individuel faktura, som kan betales via MobilePay.
 
 ## Niveauet
 
