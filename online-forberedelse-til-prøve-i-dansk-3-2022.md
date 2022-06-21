@@ -6,9 +6,9 @@
 * onsdag & fredag
 * Aften-/daghold 18:30-19:50 eller 09:30-10:50. 
 
-<a class="btn" href="https://transactions.sendowl.com/products/78723604/4919C0FB/purchase"> Tilmeld dig aftenhold for 3875 DKK </a>
+<a class="btn" href="https://buy.stripe.com/cN24jE9Ae9Aj1Vu5kq"> Tilmeld dig aftenhold for 3875 DKK </a>
 
-<a class="btn" href="https://transactions.sendowl.com/products/78723606/C9A8AEB8/purchase"> Tilmeld dig daghold for 3875 DKK </a>
+<a class="btn" href="https://buy.stripe.com/14k5nIdQufYHfMk4gn"> Tilmeld dig daghold for 3875 DKK </a>
 
 ## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
 
