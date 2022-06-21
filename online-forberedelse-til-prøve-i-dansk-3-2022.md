@@ -60,7 +60,7 @@ Bogen 'Bliv klar til Prøve i Dansk 3' i trykt form  <a class="btn" href="https:
 }
 </style>
 
-# Kursusprogram og fokusområder
+# Kursusprogram
 
 * Du vil lære at skrive alle opgavetyper i skriftlig fremstilling. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem forskellige typer forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). 
