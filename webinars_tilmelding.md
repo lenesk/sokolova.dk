@@ -45,5 +45,8 @@ If you have any particular individual questions, you what to get answer to durin
 
 You will the get zoom link for the webinar by mail soonest after the registration. 
 
-If you want to sign up via MobilePay, do not hesitate to write me an email to elena@sokolova.dk. 
+### If you want to sign up via MobilePay, do not hesitate to write me an email to elena@sokolova.dk. 
+
+
+
 
