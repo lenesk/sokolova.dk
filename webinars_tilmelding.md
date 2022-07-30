@@ -1,7 +1,7 @@
 
 # Online webinar (in English): How to prepare for Prøve i Dansk 3 
 
-## August 3rd, 20:00-21:00 
+## August 3rd, 20:00-21:30 
 
 ## You will get tips and guidelines on:
 
