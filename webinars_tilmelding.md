@@ -41,7 +41,7 @@ If you have any particular individual questions, you what to get answer to durin
 
 ### Sign up deanline is August 2nd, 18:00
 
-<a class="btn" href="https://buy.stripe.com/14k5nIfYC7sbbw46ow"> Sign up her for 89 kr </a>
+<a class="btn" href="https://buy.stripe.com/14k5nIfYC7sbbw46ow"> Sign up for 89 kr </a>
 
 You will get zoom link for the webiran soonest after the registration. 
 
