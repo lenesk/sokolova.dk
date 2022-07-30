@@ -1,7 +1,7 @@
 
 # Online webinar (in English): How to prepare for Prøve i Dansk 3 
 
-## August 2nd, 20:00-21:00 
+## August 3rd, 20:00-21:00 
 
 ## You will get tips and guidelines on:
 
@@ -15,7 +15,7 @@
 
 The webinar will not be recorded due to privacy reasons, but you will get the notes after the meeting as a pdf copy. 
 
-If you have any particular individual questions, you what to get answer to during the webinar, you are more than welcome to send them directly to elena@sokolova.dk before August 2nd, 18:00, so I will be ready to answer them during the meeting. 
+If you have any particular individual questions, you what to get answer to during the webinar, you are more than welcome to send them directly to elena@sokolova.dk before August 3rd, 18:00, so I will be ready to answer them during the meeting. 
 
 
 <style>
@@ -39,7 +39,7 @@ If you have any particular individual questions, you what to get answer to durin
 }
 </style>
 
-### Sign up deanline is August 2nd, 18:00
+### Sign up deanline is August 3rd, 18:00
 
 <a class="btn" href="https://buy.stripe.com/14k5nIfYC7sbbw46ow"> Sign up for 89 kr </a>
 
