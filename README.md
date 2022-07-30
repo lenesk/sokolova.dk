@@ -45,7 +45,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
 
 ## Webinars
-* [Online webinar (in English): How to prepare for Prøve i Dansk 3](sokolova.dk/webinars_tilmelding.md)
+* [Online webinar (in English): How to prepare for Prøve i Dansk 3](sokolova.dk/webinars_tilmelding)
 
 
 ## Blog  
