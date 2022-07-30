@@ -13,8 +13,6 @@
 
 * typical mistakes in preparation. 
 
-The webinar will not be recorded due to privacy reasons, but you will get the notes after the meeting as a pdf copy. 
-
 If you have any particular individual questions, you what to get answer to during the webinar, you are more than welcome to send them directly to elena@sokolova.dk before August 3rd, 18:00, so I will be ready to answer them during the meeting. 
 
 
