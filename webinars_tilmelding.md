@@ -43,7 +43,7 @@ If you have any particular individual questions, you what to get answer to durin
 
 <a class="btn" href="https://buy.stripe.com/14k5nIfYC7sbbw46ow"> Sign up for 89 kr </a>
 
-You will get zoom link for the webiran soonest after the registration. 
+You will the get zoom link for the webinar by mail soonest after the registration. 
 
 If you want to sign up via MobilePay, do not hesitate to write me an email to elena@sokolova.dk. 
 
