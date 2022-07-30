@@ -5,17 +5,17 @@
 
 ## You will get tips and guidelines on:
 
-* exam structure & assessment criteria.
+* exam structure & assessment criteria;
 
-* how to self-study for each task.
+* how to self-study for each task;
 
-* tips for study materials.
+* what study materials to choose;
 
 * typical mistakes in preparation. 
 
 The webinar will not be recorded due to privacy reasons, but you will get the notes after the meeting as a pdf copy. 
 
-If you have any particular individual questions, you what to get answer to during the webinar, you are more than welcome to send them directly to elena@sokolova.dk, so I will be ready to answer them during the meeting. 
+If you have any particular individual questions, you what to get answer to during the webinar, you are more than welcome to send them directly to elena@sokolova.dk before August 2nd, 18:00, so I will be ready to answer them during the meeting. 
 
 
 <style>
