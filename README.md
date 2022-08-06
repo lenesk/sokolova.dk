@@ -38,11 +38,13 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 * [Online Forberedelse til Prøve i Dansk 3 (max. 10 deltagere)](online-forberedelse-til-prøve-i-dansk-3-2022)
 
 
-## Video lessons/courses for self-study
+## Study Materials/Video lessons for self-study
 
 * [Get ready for Writing in PD3 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3'](about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.md) 
 
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
+
+* [A guick guide: How to prepare for PD3](https://sokolova.dk/how-to-prepare-for-proeve-i-dansk-3-a-quick-free-guide)
 
 ## Webinars
 * [Online webinar (in English): How to prepare for Prøve i Dansk 3](webinars_tilmelding)
