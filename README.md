@@ -29,6 +29,8 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 }
 </style>
 
+<script async data-uid="7a1315e1ac" src="https://fantastic-artisan-8379.ck.page/7a1315e1ac/index.js"></script>
+
 ## Private Danish lessons
 
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
