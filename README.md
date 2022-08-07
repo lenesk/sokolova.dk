@@ -70,7 +70,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
  
 * [Så - is not just a function word: learn how the word order may change the meaning](saa-is-not-just-a-function-word.md)
  
-* [Describing percentage in Danish](describing-percentage-in-danish.md)
+* [Describing percentage in Danish](describing-percentage-in-danish)
  
 * [Grammar and vocabulary tips for writing an email at Prøve i Dansk 3 (Delprøve 1)](grammar-and-vocabulary-tips-for-writing-a-mail-proeve-i-dansk-3-delprøve-1.md)
 
