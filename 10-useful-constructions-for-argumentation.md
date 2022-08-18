@@ -52,7 +52,7 @@ To avoid writing two times ‘om’, as after 'spørge' use ‘hvorvidt’ in th
 
 ### 10. på den ene side = on the one side - på den anden side = on the another side; til gengæld = on the contrary (only in the compensatory meaning)
  
-> *På den anden side kan det være lidt hårdt for dig at at bo et nyt sted uden familie eller venner i nærheden af, og lønnen er heller ikke særlig høj. Til gengæld/På den anden side er priser i Tyskland heller ikke så høje som i Danmark, så du kan bruge dine opsparinger i længere tid.* = On the other hand, living in a new place without family or friends nearby can be a little hard for you, and the salary is not very high either. On the other hand/On the other hand, prices in Germany are also not as high as in Denmark, so you can use your savings for a longer time. 
+> *På den ene side kan det være lidt hårdt for dig at at bo et nyt sted uden familie eller venner i nærheden af, og lønnen er heller ikke særlig høj. Til gengæld/På den anden side er priser i Tyskland heller ikke så høje som i Danmark, så du kan bruge dine opsparinger i længere tid.* = On the one hand, living in a new place without family or friends nearby can be a little hard for you, and the salary is not very high either. On the other hand/On the contrary, prices in Germany are also not as high as in Denmark, so you can use your savings for a longer time. 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
