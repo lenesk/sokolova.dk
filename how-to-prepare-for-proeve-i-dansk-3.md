@@ -22,6 +22,6 @@ If I come in possession of a sample/examples of the new format of Reading 2 (Rea
 
 I hope sincerely, this note will comfort your concerns, if you may have any, in case you are self-studying and heard about the changes from other students. 
 
-I am planning to make changes in my guide the upcoming weeks, and I will send you a new copy of that directly as a news mail.
+I am planning to make changes in my guide the upcoming weeks, and I will send you a new copy of that directly as a news mail, if you are my subscriber.  
 
-So far you are welcome to download the version of the guide issed on August 7th. 
+So far you are welcome to download the version of the guide issued on August 7th. 
