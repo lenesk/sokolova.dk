@@ -48,6 +48,8 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
+* [10 useful constructions for argumentation and reference](sokolova.dk/10-useful-constructions-for-argumentation)
+
 * [How to think back and regret in Danish](how-to-think-back-and-regret-in-danish)
 
 * [Inversion or not? How to make a correct main and subordinate sentence with adverbs in Danish](inversion-or-not-after-adverbs)
