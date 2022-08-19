@@ -2,7 +2,7 @@
 
 *Elena Sokolova, August 19<sup>th</sup> 2022*
 
-While writing a reply to a mail or an argumentation, you may need to refer to an idea or structure your argumentation. There are many tools for that in Danish. In this blog post, you can learn some of the most common ones. 
+While replying to an email or writing an argumentation, you may need to refer to an idea or structure your argumentation. There are many tools for that in Danish. In this blog post, you can learn some of the most common ones. 
 
 
 ### 1. angående = regarding 
