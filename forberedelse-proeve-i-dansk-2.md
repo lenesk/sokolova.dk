@@ -6,7 +6,6 @@
 * mandag & onsdag kl. 20:00-21:15 
 * 30 lektioner i alt
 
-<a class="btn" href="https://buy.stripe.com/fZe9DYaEih2Las03ch"> Tilmeld dig kurset kr.3875 </a>
 
 ## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
 
