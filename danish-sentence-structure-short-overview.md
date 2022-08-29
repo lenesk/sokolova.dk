@@ -1,5 +1,7 @@
 # Danish sentence structure: a short overview 
 
+*Elena Sokolova, August 29 <sup>th</sup> 2022*
+
 Many mistakes in word order in Danish appear due to confusion betweet the main and the subclause. 
 Additionally, knowing the rules about Danish structure may be very helpful while doing Reading tasks in Prøve i Dansk 2 and Prøve i Dansk 3. 
 Here is the short overview of the main rules of Danish word order. 
