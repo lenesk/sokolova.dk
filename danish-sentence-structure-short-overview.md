@@ -33,13 +33,13 @@ In order to know if you need to main inversion or not, you need to decide a) whe
 
 ##### 1) Free adverbs/adverbial phrases of time, place, modality/attitude, purpose, manner of action. 
 They are usually a single word or a longer adverbial phrase. To know whether you deal with a free adverb, you should just see that it's not a central one, by the method of exclusion. The central adverbs can be learned from a list, while the number of free adverbs is larger and they are vary varied. You usually do not start any sentence with central adverbs, so they are not inversion triggers.  The list of central adverbs can be found here: [Categories of central adverbs](https://sokolova.dk/inversion-or-not-after-adverbs#categories-of-central-adverbs). 
-> *Først A skal V1 man S bestå V2 (pass) en danskprøve for at få en permanent opholdstilladelse i Danmark. 
+> *Først A skal V1 man S bestå V2 (pass) en danskprøve for at få en permanent opholdstilladelse i Danmark*. = First one should pass a Danish exam to get a permanent residence permit in Denmark.  
 
 ##### 2) A subordinate clause (*ledsætning*) susually starting with a subclause conjunction;
-> *Hvis man har bestået en dansk prøve (a subordinate clause of condition), kan (V1) man søge om statsborgerskab*. - If one has passed a Danish exax, one can apply for a Danish citizenshsip.  
+> *Hvis man har bestået en dansk prøve (a subordinate clause of condition), kan (V1) man søge om statsborgerskab*. = If one has passed a Danish exax, one can apply for a Danish citizenshsip.  
 
 ##### 3) An object with or with out preposition
-> *Danskprøven bestod jeg for 2 år siden.* - A Danish exam - I passed it two years ago.   
+> *Danskprøven bestod jeg for 2 år siden.* = A Danish exam, I passed it two years ago.   
 
 ##### 4) In questions: 
 > *Hvad er V betingelserne S for at få en permanent opholdstilladelse i Danmark?* = What are the conditions for obtaining a permanent residence permit in Denmark? 
@@ -52,9 +52,10 @@ The subordiante clause is an utterance which:
 * should normally at least have a subject and a verb;
 * answers/complements the logicall idea of the main clasue;
 * normally never has inversion. 
-* has 
 
-> *Han siger (main clause), (=>> What does he say is subclause) at (that) han (S) også/altid/ikke/aldrig/sommetider/nogle gange (A) er træt af sine arbejdsopgaver* .
+
+> *Han siger (main clause), (=>> What does he say is subclause) at (that) han (S) også/altid/ikke/aldrig/sommetider/nogle gange (A) er træt af sine arbejdsopgaver*. = He says, that he also/always/not/never/sometimes/from time to time happy about his working tasks.   
+
  
 Here after comma, *at* is a subclause conjunction, which connects the main and the subclause. It can be omitted unlike many other subclause conjucntions, but usually it is a good idea to use the subclasue conjunciton explicitely to signal for yourself, that you deal now with a subclause, where inversion is not normal and occurs only in cases you have a complex sentence with several subclauses in a row... 
 Conjunctions of subclause can also have a double rolle, they may also at the same time be a subcejt. 
