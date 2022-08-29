@@ -27,24 +27,24 @@ All kinds of adverbs and the second verb are optional as wel as object(s) and th
 By inversion we mean that the first verb comes before the subcject. Do not call other trasformations of word order inversion, becasue it is confusing. 
 All kinds of adverbs and the second verb are optional as well as object(s), and their presence depends on the context.
 
-> *For at få en permanent opholdstilladelse i Danmark (Inversion trigger) skal (V1) man (S) først (Free adverb) bestå (V2) en danskprøve (Object). 
+> *For at få en permanent opholdstilladelse i Danmark (Inversion trigger) skal (V1) man (S) først (Free adverb) bestå (V2) en danskprøve (Object)*. 
 
 In order to know if you need to make inversion or not, you need to decide a) whether you deal with a main clause (see conditions above) and 2) whether you start with an inversion trigger. So you need to learn types of inversion triggers. 
 
 #### Inversion triggers in the main clause: 
 
-##### 1) Free adverbs/adverbial phrases of time, place, modality/attitude, purpose, manner of action. 
+##### 1) Free adverbs/adverbial phrases of time, place, modality/attitude, purpose, manner of action 
 They are usually a single word or a longer adverbial phrase. To know whether you deal with a free adverb, you should just see that it's not a central one, by the method of exclusion. The central adverbs can be learned from a list, while the number of free adverbs is larger and they are vary varied. You usually do not start any sentence with central adverbs, so they are not inversion triggers.  The list of central adverbs can be found here: [Categories of central adverbs](https://sokolova.dk/inversion-or-not-after-adverbs#categories-of-central-adverbs). 
 > *Først A skal V1 man S bestå V2 (pass) en danskprøve for at få en permanent opholdstilladelse i Danmark*. = First one should pass a Danish exam to get a permanent residence permit in Denmark.  
 
-##### 2) A subordinate clause (*ledsætning*) susually starting with a subclause conjunction;
+##### 2) A subordinate clause (*ledsætning*) susually starting with a subclause conjunction
 > *Hvis man har bestået en dansk prøve (a subordinate clause of condition), kan (V1) man søge om statsborgerskab*. = If one has passed a Danish exax, one can apply for a Danish citizenshsip.  
 
 ##### 3) An object with or with out preposition
 > *Danskprøven bestod jeg for 2 år siden.* = A Danish exam, I passed it two years ago.   
 
-##### 4) In questions: 
-> *Hvad er V betingelserne S for at få en permanent opholdstilladelse i Danmark?* = What are the conditions for obtaining a permanent residence permit in Denmark? 
+##### 4) Questions are normally only with inversion
+> *Hvad er (V1) betingelserne (S) for at få en permanent opholdstilladelse i Danmark?* = What are the conditions for obtaining a permanent residence permit in Denmark? 
 
 
 ## What is the subordinate clause (*ledsætning*) and how to structure it?
@@ -56,7 +56,7 @@ The subordiante clause is an utterance which:
 * normally never has inversion. 
 
 
-> *Han siger (main clause), (=>> What does he say is subclause) at (that) han (S) også/altid/ikke/aldrig/sommetider/nogle gange (A) er træt af sine arbejdsopgaver*. = He says, that he also/always/not/never/sometimes/from time to time happy about his working tasks.   
+> *Han siger (main clause), (=>> What he says is subclause) at (that) han (S) også/altid/ikke/aldrig/sommetider/nogle gange (A) er træt af sine arbejdsopgaver*. = He says, that he also/always/not/never/sometimes/from time to time happy about his working tasks.   
 
  
 Here after comma, *at* is a subclause conjunction, which connects the main and the subclause. It can be omitted unlike many other subclause conjucntions, but usually it is a good idea to use the subclasue conjunciton explicitely to signal for yourself, that you deal now with a subclause, where inversion is not normal and occurs only in cases you have a complex sentence with several subclauses in a row... 
@@ -73,7 +73,7 @@ See the same sentence as above, but with the subclause, coming firsrt.
 
 > *Hvis jeg (S) heldigvis (A) få (V1) forlænget min kontrakt (frozen), kan (V1) jeg (S) måske (Free adverb) fortsætte (V2) med at arebjde i samme firma*. 
 
-To navigate confidently in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-Danish-subclause-conjunctions-ledsætningskonjunktioner). 
+To navigate confidently in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-danish-subclause-conjunctions-ledsætningskonjunktioner). 
 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
