@@ -61,15 +61,17 @@ Here after comma, *at* is a subclause conjunction, which connects the main and t
 Conjunctions of subclause can also have a double rolle, they may also at the same time be a subcejt. 
 
 ## One kind of word order in the subordinate clause: Subject + (Free or central adverb(s)) + Verb1 + (Verb2) + (Object with or without a preposition) + (Another adverb)
-> *Jeg har et krævende (=demanding) arbejde (main clause), =>(subclause of reference) der/som (conj.='which' is also a subjcet here) nogle gange (Adverb 1) også (Adverb 2) kan (V1) være (V2) stressende.  = I have a demanding job, which sometimes can be stressfull. 
+> *Jeg har et krævende* (=demanding) *arbejde* (main clause), =>(subclause of reference) *der/som* (conj.='which' is also a subjcet here) *nogle gange* (Adverb 1) *også* (Adverb 2) *kan* (V1) *være* (V2) *stressende*.  = I have a demanding job, which sometimes can be stressfull. 
 
-> *Jeg kan fortsætte (continue) med at arbejde i samme firma (mail clause), => (subclause of condition) hvis ('if') jeg (S) heldigvis (A) (fortunately) kan (V1) få (V2) forlænget (get extended) min kontrakt*
+> *Jeg kan fortsætte med at arbejde i samme firma (mail clause), => (subclause of condition) hvis ('if') jeg (S) heldigvis (A) (fortunately) kan (V1) få (V2) forlænget (get extended) min kontrakt*. = I can continue to work in the same company, if I fortunately get my contract extended. 
 
 Remember, that the word order inside the subclause does not change and is sort of 'frozen', now matter whether it comes before or after the main clause. While the word order of the main clause becomes with inversion, if the subclasue comes before the main, as mentioned above the subclasue is a intersion trigger in the main one. 
 
-> *Hvis jeg (S) heldigvis (A) få (V1) forlænget min kontrakt (frozen), kan (V1) jeg (S) måske (Free adverb) fortsætte (V2) med at arebjde i samme firma. 
+See the same sentence as above, but with the subclause, coming firsrt. 
 
-To navigate confidennly in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-Danish-subclause-conjunctions-ledsætningskonjunktioner).
+> *Hvis jeg (S) heldigvis (A) få (V1) forlænget min kontrakt (frozen), kan (V1) jeg (S) måske (Free adverb) fortsætte (V2) med at arebjde i samme firma*. 
+
+To navigate confidently in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-Danish-subclause-conjunctions-ledsætningskonjunktioner). 
 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
