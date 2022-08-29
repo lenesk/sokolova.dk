@@ -1,6 +1,6 @@
 # Danish sentence structure: a short overview 
 
-Many mistakes in work order in Danish appear due to confusion betweet main and subclase. 
+Many mistakes in word order in Danish appear due to confusion betweet main and subclase. 
 Additionally, knowing the rules about Danish structure may be very helpful while doing Reading tasks in Prøve i Dansk 2 and Prøve i Dansk 3. 
 Here is the short overview of the main rules of Danish word order. 
 
