@@ -1,6 +1,7 @@
 # Subordinate clause conjunctions in Danish devided in logical groups
 
-You can watch my video lessons on each group of subclause conjuntions with examples in Danish in my video course on [Structuring Danish sentence correctly](https://elenasokolova.podia.com/structuring-danish-sentence-correctly)
+You can watch my video lessons on each group of subclause conjuntions with examples in Danish [in my video course on 'Structuring Danish sentence correctly'](https://elenasokolova.podia.com/structuring-danish-sentence-correctly)
+
 
 ## Time conjunctions:
 da, efter at, før, idet, imens, indtil, inden, lige siden, mens, når, når som helst, siden (since a point of time), så længe som, så ofte som, så snart som
