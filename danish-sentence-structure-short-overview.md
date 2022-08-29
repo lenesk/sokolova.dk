@@ -68,7 +68,7 @@ Remember, that the word order inside the subclause does not change and is sort o
 
 > *Hvis jeg (S) heldigvis (A) få (V1) forlænget min kontrakt (frozen), kan (V1) jeg (S) måske (Free adverb) fortsætte (V2) med at arebjde i samme firma. 
 
-To navigate confidennly in the sphere of subclauses you need to learn the list of subclause conjunctions, you can find them here and you can also watch a video about subclause conjuctions here:
+To navigate confidennly in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-Danish-subclause-conjunctions-ledsætningskonjunktioner).
 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
