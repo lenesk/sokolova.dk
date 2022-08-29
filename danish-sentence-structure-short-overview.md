@@ -1,6 +1,6 @@
 # Danish sentence structure: a short overview 
 
-Many mistakes in word order in Danish appear due to confusion betweet main and subclase. 
+Many mistakes in word order in Danish appear due to confusion betweet the main and the subclause. 
 Additionally, knowing the rules about Danish structure may be very helpful while doing Reading tasks in Prøve i Dansk 2 and Prøve i Dansk 3. 
 Here is the short overview of the main rules of Danish word order. 
 
@@ -13,7 +13,8 @@ The main clause is an utterance which:
 
 ## Two kinds of word order in the main clause.
 
-### Without inversion: Subject + Verb1 + (Free or central adverb) + (Verb2) + (Object with or without a preposition) + (Another adverb)
+### Without inversion: 
+### Subject + Verb1 + (Free or central adverb) + (Verb2) + (Object with or without a preposition) + (Another adverb)
 All kinds of adverbs and the second verb are optional as wel as object(s) and their presence depends on the context. 
 
 > *Han (S) er (V1) også/altid/ikke/aldrig/sommetider/nogle gange (Central adverb) glad for sine arbejdsopgaver (Object)*. = He is also/always/not/never/sometimes/from time to time happy about his working tasks.   
@@ -21,13 +22,14 @@ All kinds of adverbs and the second verb are optional as wel as object(s) and th
 > *Man (S) skal (V1) først (Free Adverb) bestå (Verb2) en dansprøve (Object) for at få en permanent opholdstilladelse i Danmark* (Adverb). - One should first pass a Danish exam in order to obtain a permanent residence permit. 
 
 
-### With inversion: Inversion trigger + Verb1 + Subject + (Free or central adverb) + (Verb2) + (Obejcet with or without a preposition) + (Another adverb)
-All kinds of adverbs and the second verb are optional as wel as object(s) and their presence depends on the context.
-By inversion we mean that the forst verb comes before the subcject. Do not call other trasformations of word order inversion, becasue it is confusing. 
- 
+### With inversion: 
+### Inversion trigger + Verb1 + Subject + (Free or central adverb) + (Verb2) + (Obejcet with or without a preposition) + (Another adverb)
+By inversion we mean that the first verb comes before the subcject. Do not call other trasformations of word order inversion, becasue it is confusing. 
+All kinds of adverbs and the second verb are optional as well as object(s), and their presence depends on the context.
+
 > *For at få en permanent opholdstilladelse i Danmark (Inversion trigger) skal (V1) man (S) først (Free adverb) bestå (V2) en danskprøve (Object). 
 
-In order to know if you need to main inversion or not, you need to decide a) whether you dead with a main clause (see conditions above) and 2) whether you start with an inversion trigger. So you need to learn types of inversion triggers. 
+In order to know if you need to make inversion or not, you need to decide a) whether you deal with a main clause (see conditions above) and 2) whether you start with an inversion trigger. So you need to learn types of inversion triggers. 
 
 #### Inversion triggers in the main clause: 
 
