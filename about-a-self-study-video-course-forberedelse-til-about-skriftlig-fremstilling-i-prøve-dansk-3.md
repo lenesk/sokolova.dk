@@ -25,7 +25,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Get full access to the lessons for 920 DKK inc. VAT </a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Get full access to the lessons for 736 DKK inc. VAT </a>
 
 ## Why such a structure of the course?
 
