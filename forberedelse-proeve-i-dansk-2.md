@@ -1,22 +1,24 @@
-# Online forberedelse til Prøve i Dansk 2 
+# Crash course: Get ready for Prøve i Dansk 2 
 (max. 10 deltagere på holdet online i Zoom)
 
 ## Datoer, tid og tilmelding
-* den 22. august - 2. november 2022 (ferie i uge 42)
-* mandag & onsdag kl. 20:00-21:15 
-* 30 lektioner i alt
-
-
-## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
+* den 25., 27., 28., 29. oktober
+* 20:00-21:00 
+* 5 mødegange online i zoom
+* 
+<a class="btn" href="https://buy.stripe.com/9AQdUecMq7sbas03cl"> Tilmeld dig for 1570 DKK </a>
 
 ## Niveauet
 
-Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog.
-Du skal f.eks. have bestået modul 2 på DU3/'Danish for Intermediate learners' og være tilmeldt DU3 modul 3 eller højere eller have bestået DU2 modul 2.5. 
+Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog. Du skal kunne skrive og forstår simpelt dansk.
+
+## Du får træning i alle delelementer af PD2: læseforståelse, skriftlig fremstilling, mundtlig kommunikation. 
+
+## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
 
 ## Praktisk information  
 * Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Efter dagens program får du tilsendt en skriftlig opgave som hjemmearbejde, samt undervisningsnoter. 
+* Efter dagens program får du tilsendt hjemmearbejde, samt undervisningsnoter. 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
@@ -42,18 +44,7 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 </style>
 
 ## Undervisningsmaterialet
-<img src="bliv-klar-til-proeve-i-dansk-2-undervisning-online.png" alt="Bliv klar til prøve i dansk 2" width="200" height="300" />
 
-Undervisningssproget er dansk, men vi bruger gerne engelsk som hjælpesprog der, hvor det er relevant.
-Undervisningsmaterialet er bogen ‘Bliv klar til prøve i dansk 2’. Du skal selv anskaffe dig bogen. 
-Læreren vil skaffe andre supplerende materialer. 
-
-Bogen i trykt form  <a href="https://praxis.dk/bliv-klar-til-proeve-i-dansk-2#"> Køb *Bliv klar til prøve i dansk 2*</a> 
-
-Læreren vil også supplere undervisning med andre digitale materialer.
-
-Du får træning i alle delelementer af PD2. Undervisningsemner: ' Arbejde i Danmark; Fritid og rejser; Frivilligt arbejde; Bolig, Min hverdag & Fritid.' 
-
-
+Undervisningsmaterialer skaffes af læreren.  med andre digitale materialer.
 
 SokolovaDK CVR-nr.: 41433876
