@@ -1,4 +1,4 @@
-# ABC Crash course: Get ready for Prøve i Dansk 2 
+# Crash course: Get ready for Prøve i Dansk 2 
 (max. 10 deltagere på holdet online i Zoom)
 
 ## Datoer, tid og tilmelding
