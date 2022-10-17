@@ -2,10 +2,10 @@
 (max. 10 deltagere på holdet online i Zoom)
 
 ## Datoer, tid og tilmelding
-* den 25., 27., 28., 29. oktober
+* den 25., 27., 28., 29., 30. oktober
 * 20:00-21:00 
 * 5 mødegange online i zoom
-* 
+
 <a class="btn" href="https://buy.stripe.com/9AQdUecMq7sbas03cl"> Tilmeld dig for 1570 DKK </a>
 
 ## Niveauet
