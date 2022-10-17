@@ -10,7 +10,7 @@
 
 ## Niveauet
 
-Kurset er på niveau B1+ på Den Fælles Europæiske Referenceramme for Sprog. Du skal kunne skrive og forstår simpelt dansk.
+Du skal kunne skrive og forstå simpelt dansk.
 
 ## Du får træning i alle delelementer af PD2: læseforståelse, skriftlig fremstilling, mundtlig kommunikation. 
 
@@ -45,6 +45,6 @@ Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du
 
 ## Undervisningsmaterialet
 
-Undervisningsmaterialer skaffes af læreren.  med andre digitale materialer.
+Undervisningsmaterialer skaffes af læreren.
 
 SokolovaDK CVR-nr.: 41433876
