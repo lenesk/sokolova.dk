@@ -1,5 +1,5 @@
 # Crash course: Get ready for Prøve i Dansk 2 
-(max. 10 deltagere på holdet online i Zoom)
+(maks. 10 deltagere på holdet online i Zoom)
 
 ## Datoer, tid og tilmelding
 * den 25., 27., 28., 29., 30. oktober
