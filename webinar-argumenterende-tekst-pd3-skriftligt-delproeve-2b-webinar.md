@@ -1,4 +1,4 @@
-# Webinar: Skriftlig fremstilling til PD3, Delprøve 2B: 
+# Webinar: Skriftlig fremstilling til PD3, Delprøve 2B
 Lær at skrive en argumenterende tekst med kommentar og vurdering, inklusive individuel feedback på din opgave efter webinar. 
 
 ## Tirsdag den 25 oktober kl.19:30-21:00 online i zoom 
