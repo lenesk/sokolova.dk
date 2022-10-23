@@ -1,6 +1,7 @@
-# Workshop for PD3 Delprøve 2B: Lær at skrive en argumenterende tekst med kommentar 
+# Webinar: Skriftlig fremstilling til PD3, Delprøve 2B: 
+Lær at skrive en argumenterende tekst med kommentar og vurdering, inklusive individuel feedback på din opgave efter webinar. 
 
-## Mandag den 9.maj kl.19:30-20:30 online i zoom 
+## Tirsdag den 25 oktober kl.19:30-21:00 online i zoom 
 
 <style>
 .btn {
@@ -23,11 +24,8 @@
 }
 </style>
 
-<!-- <a class="btn" href="https://sowl.co/P9SRT"> Tilmeld dig for 150 kr.</a> -->
-
-<a class="btn" href="https://transactions.sendowl.com/products/78702742/EC32E25B/purchase" rel="nofollow">
-Tilmeld dig for 150 kr.
-</a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+<a class="btn" href="https://buy.stripe.com/fZebM613I9Aj7fO3cn"> Tilmeld dig for 480 kr. </a>
+## Tilmelding via MobilePay via +45 6018 5321. Skriv venligst dit navn og din e-mailadresse i kommentar for fakturering. 
 
 Du vil lære:
 - at strukturere din opgave og forstå fokus i opgaven;
@@ -39,7 +37,8 @@ Du vil lære:
 - at planlægge tiden;
 - at tjekke din egen opgave.
 
-Alle materialer er inklusive i prisen, og du får tilsendt alle undervisningsnoter til din e-mail adresse. 
+Alle materialer er inklusive i prisen, og du får tilsendt alle undervisningsnoter til din e-mail adresse efter webinar. 
+Prisen inkluderer også en rettelse af og feedback på en individuel opgave. 
 Undervisningen foregår online i zoom, du får tilsendt linket til mødet snarest efter tilmeldingen. 
 
 Undervisningssproget er dansk. Men du er velkommen til at stille spørgsmål på engelsk i løbet af undervisningen. 
