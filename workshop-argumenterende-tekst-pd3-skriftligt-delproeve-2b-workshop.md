@@ -24,8 +24,10 @@ Lær at skrive en argumenterende tekst med kommentar og vurdering, inklusive ind
 }
 </style>
 
-<a class="btn" href="https://buy.stripe.com/fZebM613I9Aj7fO3cn"> Tilmeld dig for 480 kr. </a>
-## Tilmelding via MobilePay via +45 6018 5321. Skriv venligst dit navn og din e-mailadresse i kommentar for fakturering. 
+## Tilmelding online
+<a class="btn" href="https://buy.stripe.com/fZebM613I9Aj7fO3cn"> Tilmeld dig online for 480 kr. </a>
+
+## Tilmelding via MobilePay til +45 6018 5321. Skriv venligst dit navn og din e-mailadresse i kommentar for fakturering. 
 
 Du vil lære:
 - at strukturere din opgave og forstå fokus i opgaven;
