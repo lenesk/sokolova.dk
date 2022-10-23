@@ -1,5 +1,6 @@
-# Webinar: Skriftlig fremstilling til PD3, Delprøve 2B
-Lær at skrive en argumenterende tekst med kommentar og vurdering, inklusive individuel feedback på din opgave efter webinar. 
+# Webinar: Skriftlig fremstilling til PD3, Delprøve 2B, inklusive individuel feedback på din opgave
+
+Lær at skrive en argumenterende tekst med kommentar og vurdering og få individuel feedback på din opgave efter webinar. 
 
 ## Tirsdag den 25. oktober kl.19:30-21:00 online i zoom 
 
@@ -24,8 +25,7 @@ Lær at skrive en argumenterende tekst med kommentar og vurdering, inklusive ind
 }
 </style>
 
-## Tilmelding online
-<a class="btn" href="https://buy.stripe.com/fZebM613I9Aj7fO3cn"> Tilmeld dig online for 480 kr. </a>
+## Tilmelding online <a class="btn" href="https://buy.stripe.com/fZebM613I9Aj7fO3cn"> Tilmeld dig online for 480 kr. </a>
 
 ## Tilmelding via MobilePay til +45 6018 5321. Skriv venligst dit navn og din e-mailadresse i kommentar for fakturering. 
 
