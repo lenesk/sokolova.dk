@@ -17,7 +17,7 @@ While replying to an email or writing an argumentation, you may need to refer to
 
 
 
-### 3. med hensyn til noget/Med hensnyt til, at … = as to something/As to the fact, that ...
+### 3. med hensyn til noget/Med hensnyn til, at … = as to something/As to the fact, that ...
 > *Med hensyn til jobsøgning er der mange nyuddannede, der har det svært ved at finde deres første rigtige job efter en afsluttet uddannelse.* = As to the job search, there are many new graduates who find it difficult to find their first real job after completing their education. 
 
 
