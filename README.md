@@ -44,7 +44,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
-* [10 useful logical connector in Danish](10-useful-logical-connectors-in-danish)
+* [10 useful logical connectors in Danish](10-useful-logical-connectors-in-danish)
 
 * [Danish sentence structure: a short overview](danish-sentence-structure-short-overview)
 
