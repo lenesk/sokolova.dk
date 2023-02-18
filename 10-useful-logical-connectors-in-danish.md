@@ -47,6 +47,8 @@ Use *fordi* (because), and never make inversion inside the clasue with *fordi*. 
 > *Jeg kan godt lide mit arbejde, fordi jeg kan lære mange nye ting, når jeg laver opgaverne*.= I like my job, becasue I can learn many new things, when I do my tasks. 
 > *Det er vigtigt at prøve at tale dansk med kollegerne, for så kan man bedre forstå danskerne*. = It is important to try to speak Danish with the colleagues, because then you can better understand Danes. 
 
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
+   <script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
 
   
