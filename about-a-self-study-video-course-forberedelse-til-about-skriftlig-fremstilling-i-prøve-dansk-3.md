@@ -61,7 +61,7 @@ Video 10	Examples of how to describe statistics
 How to explain reasons in Delprøve 2A
 
 #### Part 7 (33 minutes)
-What is Delprøve 2B about?
+How to write Delprøve 2B?
  
 Telling a short story/experienced-based note
 How to comment on the point of view/advice etc.       
