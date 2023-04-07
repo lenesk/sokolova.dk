@@ -29,7 +29,7 @@
 
 ## Why such a structure of the course?
 
-The aim is to give you an overview of each task and relate vocabulary and sentence structure tools to each task's specific tasks and even specific parts. So the nine videos are structures to meet this requirement. For example, I dedicate two videos to statistics, one to vocabulary items, and the other to show numerous examples of describing statistics. A whole video covers tips on explaining the reasons since it stands as significant vocabulary blocks in the task Delprøve 2A. At the same time, arguing for/against is a common focus area in both Delprøve 2A and Delprøve 2B, so I have united the overview of the argumentation/assessment for both tasks in Part 7. 
+The aim is to give you an overview of each task and relate vocabulary and sentence structure tools to each task's specific tasks and even specific parts. So the nine videos are structured to meet this requirement. For example, I dedicate two videos to statistics, one to vocabulary items, and the other to show numerous examples of describing statistics. A whole video covers tips on explaining the reasons since it stands as significant vocabulary blocks in the task Delprøve 2A. At the same time, arguing for/against is a common focus area in both Delprøve 2A and Delprøve 2B, so I have united the overview of the argumentation/assessment for both tasks in Part 7. 
 I put it clearly in the course that Delprøve 2A and 2B have much in common, but I also explain and give examples of how they differ. 
 
 ## Slides for a download
