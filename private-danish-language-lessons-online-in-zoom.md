@@ -1,5 +1,5 @@
 
-## Private Danish language lessons online in Zoom
+## Private Danish language lessons online in Zoom 
 
 I offer private online Danish classes in Zoom for individuals and companies' employees with a flexible start date and an individually tailored curriculum. I teach Danish at all levels according to the Common European Framework of Reference for Languages. 
 
@@ -11,19 +11,19 @@ Then, you will get a link to a Zoom meeting, where we can have a conversation ab
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
-### one-to-one Zoom lessons or pre-exam training session(s) for Prøve i Dansk 3/Dansk 2/Studieprøven (45 min.): 650 DKK
+### a single one-to-one Zoom pre-exam training session for Prøve i Dansk 3/Dansk 2/Studieprøven (45 min.): 850 DKK
 
 If you decide to book 5 or more lessons, the tuition is as follows:
 
-### 5 or more x one-to-one Zoom sessions (45 min.): 600 kr. per lesson
+### 5 one-to-one Zoom sessions (45 min.): 700 kr. per lesson
 
 ### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
- * online sessions on weekdays before 17:00: 480 DKK per 45 min. 
+ * online sessions on weekdays before 17:00: 590 DKK per 45 min. 
 
- * online sessions on weekdays after 17:00 or anytime on Saturdays and Sundays: 550 DKK per 45 min. 
+ * online sessions on weekdays after 17:00 or Saturdays and Sundays: 650 DKK per 45 min. 
 
-When you buy ten or more lessons, there is an option to split the payment. For example, you can divide the price in two charges. 
+When you buy 10 or more lessons, there is an option to split the payment. For example, you can divide the price in two charges. 
 
 
 ## Cancellations 
@@ -46,3 +46,4 @@ student or have a detailed conversation about the student's needs and wishes for
 
 
 SokolovaDK CVR-nr.: 41433876
+* Prices valid from April 11th, 2023 for new customers
