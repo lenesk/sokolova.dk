@@ -1,6 +1,6 @@
 # Video course for self-study 'Structuring Danish sentence correctly: theory & explanations in English, examples and tasks in Danish'
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 440 DKK excl. VAT </a>
 
 ## Introducing the course
 
@@ -98,5 +98,5 @@ Lesson #22  Test youself: central/Free adverbs in the subordinate clause
 Lesson #23  Test youself: Main clause & subclause in one complex sentence
 
 
-<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 920 DKK </a>
+<a class="btn" href="https://elenasokolova.podia.com/structuring-danish-sentence-correctly/buy"> Get full access to the lessons for 440 DKK excl. VAT </a>
 
