@@ -7,7 +7,7 @@ Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you
 
 Then, you will get a link to a Zoom meeting, where we can have a conversation about your needs and wishes for teaching. 
 
-# Prices for individual online classes tailored to your needs (NB: new prices from August 1st, 2023):
+# Prices for individual online classes tailored to your needs:
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
@@ -46,4 +46,3 @@ student or have a detailed conversation about the student's needs and wishes for
 
 
 SokolovaDK CVR-nr.: 41433876
-* Prices valid from April 11th, 2023 for new customers
