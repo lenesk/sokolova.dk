@@ -11,5 +11,5 @@ Elena
 
 The first version of the guide was issued on August 7th, 2022. 
 
-In January 2023, I have uploaded an updated version of the guide. 
+Latest version is from March 2024. 
 
