@@ -64,7 +64,7 @@ A good expression to use is *med hensyn til noget* = 'as far as something is con
 
 Here below are several examples of how to refer to the original email:
 
-> *Med hensyn til ideer til, hvad man kan gøre for at lære dansk hurtigere, synes jeg, at man tilmelde sig et internsivt kursus på en sprogskole.*
+> *Med hensyn til ideer til, hvad man kan gøre for at lære dansk hurtigere, synes jeg, at man tilmelde sig et intensivt kursus på en sprogskole.*
 > *Mht. hvordan man kan lære dansk hurtigere, synes jeg, at det er en god ide at tilmelde sig et kursus på en sprogskole.* 
 
 Synonyms for *med hensyn til* are *angående* = 'regarding', and *Når det kommer til …*= 'when it comes to ...'
