@@ -79,6 +79,7 @@ See the same sentence as above, but with the subclause, coming firsrt.
 
 To navigate confidently in the sphere of subclauses you need to learn the [list of subclause conjunctions](list-of-danish-subclause-conjunctions-ledsætningskonjunktioner). When you see that you use this conjunctions, and they are from the subclause conjuntion group, you better remember to make the SAV1 order typical only of the subclasue. And you will never confuse this order with the inversion of the verb on the main clausue, beacuse the SAV order of the subclause has nothing to do with inversion.   
 
+If you need help learning sentence structure step by step, check out my video lessons ‘Structuring Danish sentence correctly [learn to-structure-danish-sentences.md](learn-to-structure-danish-sentences). 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
