@@ -3,7 +3,7 @@
 *Elena Sokolova, February 3<sup>th</sup> 2025*
 
 ## ChatGPT - a great tool to learn hundreds of examples
-I wanted to share with you some thoughts on the strategy for boosting up your level of Danish, especially in the times when we have a great tool like ChatGPT. It's a great tool that you can use as an effective way to train your brain on multiple examples (you may estimate how many you need), something close to what machines are trained like. But it is also something addictive... like sugar, and is not always available at hand, or at an exam, unlike sugar. 
+I wanted to share with you some thoughts on the strategy for boosting up your level of Danish, especially in the times when we have a great tool like ChatGPT. It's a great tool that you can use to train your brain on multiple examples (you may estimate how many you need...), something close to what machines are trained like. But it is also something addictive... like sugar, and is not always available at hand, or at an exam, unlike sugar. 
 
 ## 'Why so? - It's somehow artificial'
 To be able to write and produce sentences without the help of ChatGPT requires some conscious control of your phrase, especially in Danish, where the sentence structure is fixed, and for non-native Danish speakers may be hard to get used to. So it's quite normal, that when you learn Danish you need an extra effort to word your sentence, and you may think 'Why so? - It's somehow artificial'. Can you recognize the feeling? 
@@ -14,7 +14,7 @@ For native speakers though the sentence structure is something they expect to be
 
 I am not a native speaker of Danish, and asked some native speakers, what an inversion mistake sounds like. They told me that a certain wording (word order) is the kind of a thing they expect. If you say e.g. ‘måske', then the native language perception is tuned to hear a verb. Of course, native speakers do think in parts of speech (e.g. a noun, a verb…), but a particular part of speech triggers a particular rhythm due to the meaning, so a word order is not just a pure grammatical thing. It works in correlation with syntactical (sentence) stress and melody. 
 
-## Learn like ChatGPT?
+## Learn rules once or millions of examples
 
 ChatGPT is based on language models, and is trained on millions of phrases where a prompt triggers a particular match, based on some probability rules in usage. If you want to train producing sentences like that with millions of examples, maybe it is a good way to learn, but how long will it take? It's my belief that it is actually faster to understand what is behind this probability in usage - some few rules on the sentence structure and some tools to do so. Having a sample of a language in your learning phase, will boost your learning from the models you hear and read. In other words, you will extend your models. I do not think that ChatGPT has been developed without algorithms/models. So learning algorithms is faster than learning by hearing, at least for adult learners. 
 
