@@ -14,7 +14,7 @@ For native speakers though the sentence structure is something they expect to be
 
 I am not a native speaker of Danish, and asked some natives speakers, what an inversion mistake sounds like. They told me, that a certain wording (word order) is a kind of a thing they expect. If you say e.g. ‘måske', then the native language perception is tuned to hear a verb. Of course, native speakers do think in parts of speech (e.g. a nouns, a verb…), but a particular part of speech triggers a particular rhythm due to the meaning, so a word order is not just a pure grammatical thing. It works in correlation with syntactical (sentence) stress and melody. 
 
-## Learn like ChatGPT or go for the ?
+## Learn like ChatGPT?
 
 ChatGPT is based on language models, and is trained on millions of phrases where a prompt triggers a particular match, based on some probability rules in usage. If you want to train producing sentences like that with millions of examples, may be it is a good way to learn, but how long time will it take? It's my belief, that is is actually faster to understand what is behind this probability in usage - some few rules on the sentence structure and some tools to do so. Having a sample of a language in your learning phase, will boost your learning from the models you hear and read. In other words, you will extend your models. I do not think that ChatGPT has been developed without algorithms/models. So to learn knowing algorithms is faster then learning by hearing, at least for adults learners. 
 
