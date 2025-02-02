@@ -2,7 +2,7 @@
 
 *Elena Sokolova, February 3<sup>th</sup> 2025*
 
-## ChatGPT - a great tool to lear hundreds of example
+## ChatGPT - a great tool to learn hundreds of examples
 I wanted to share with you some thoughts on the strategy for boosting up your level of Danish, especially in the times, when we have a great tool like ChatGPT. It's a great tool, that you can use is an effective way to train your brain on multiply examples (you may estimate how many you need), something close to what machines are trained like. But it is also something addictive... like sugar, and is not always available at hand, or at an exam, unlike sugar. 
 
 ## 'Why so? - It's somehow artificial'
