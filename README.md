@@ -44,6 +44,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
+* [](okolova.dk feel stuck at level A2-B1 in Danish?.md)
 * [10 useful logical connectors in Danish](10-useful-logical-connectors-in-danish)
 
 * [Danish sentence structure: a short overview](danish-sentence-structure-short-overview)
