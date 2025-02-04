@@ -40,4 +40,8 @@ A similar problem may arise when learners pass PD3, but are unsatisfied with the
 
 Learning language through actually understanding and knowing the rules is probably not the most popular method today, but it has proved to be quite solid so far, especially if you want to improve and grow in how you use the language. 
 
-You can learn the rules on sentence structure in my blog [Danish sentence structure: a short overview](sokolova.dk/danish-sentence-structure-short-overview.md) 
+You can learn the rules on sentence structure in my blog [Danish sentence structure: a short overview](sokolova.dk/danish-sentence-structure-short-overview.md)
+
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
+
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
