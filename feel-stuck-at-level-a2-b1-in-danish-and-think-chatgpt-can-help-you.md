@@ -1,6 +1,4 @@
 
-
-
  *Elena Sokolova, February 4<sup>th</sup> 2025* 
 
 ## Feel stuck at level A2-B1 in Danish and think ChatGPT can help you?
