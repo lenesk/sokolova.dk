@@ -18,7 +18,6 @@
 * udvikling af undervisningsmaterialer for [forberedelse til Studieprøven](https://sokolova.dk/grammar-and-vocabulary-tips-for-describing-data-in-the-essay-at-studieprøven);
 * SoMe: [Facebook](https://www.facebook.com/elena.sokolova.92798072/), [YouTube](https://www.youtube.com/channel/UC9Y6VV8O3UrWC-A0WMlWxNw);
 * [blogging & content marketing](https://sokolova.dk/#blog);
-* afvikling af online workshops via zoom med fokus på forberedelse til Prøve i Dansk 3; 
 * e-commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk), [PayPal](https://www.paypal.com/dk/home);
 * webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
