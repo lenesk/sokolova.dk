@@ -7,7 +7,7 @@
 [UCplus København](https://ucplusdansk.dk/sprogcentre/sprogcenter-koebenhavn/) 2022/11–i dag
 
 ### Еjer og stifter af kursusvirksomhed & dansklærer 
-[SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
+[SokolovaDK](https://sokolova.dk) 2021/01–i dag 	
 
 *Primære opgaver*:
 * daglig drift af kursusvirksomhed inden for undervisning af udlændinge i dansk som andet- og fremmedsprog (kommunikationsarbejde, regnskab & bogholderi, udviklingsopgaver);
