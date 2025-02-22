@@ -4,7 +4,7 @@
 ## Erhvervserfaring
 
 ### Sprogkonsulent 
-[UCplus København](https://ucplusdansk.dk/sprogcentre/sprogcenter-koebenhavn/)2022/11–i dag
+[UCplus København](https://ucplusdansk.dk/sprogcentre/sprogcenter-koebenhavn/) 2022/11–i dag
 
 ### Еjer og stifter af kursusvirksomhed & dansklærer 
 [SokolovaDK](https://sokolova.dk) 2020/07–i dag 	
