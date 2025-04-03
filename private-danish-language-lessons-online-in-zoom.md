@@ -11,11 +11,11 @@ Then, you will get a link to a Zoom meeting, where we can have a conversation ab
 
 Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
 
-### a single one-to-one Zoom lesson/meeting (45 min.): 950 DKK day/evening/weekend
+### a single one-to-one Zoom lesson/meeting (45 min.): 1100 DKK day/evening/weekend
 
 If you decide to book 5 or more lessons, the tuition is as follows:
 
-### 5 one-to-one Zoom sessions (45 min.): 800 kr. per lesson
+### 5 one-to-one Zoom sessions (45 min.): 850 kr. per lesson
 
 ### 10 or more x one-to-one Zoom sessions (45 min.) are priced as follows:
 
