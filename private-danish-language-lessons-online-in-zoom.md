@@ -39,7 +39,7 @@ When you buy 10 or more lessons, there is an option to split the payment. For ex
 
 ## Other
 
-* All the teaching materials other than the coursebook are included in the price. 
+* All the teaching materials other than the coursebook are included in the price,as well as correction of/feedback for the given assignments. 
 
 * Upon the wish of a student a free-of-charge language coaching session may be included in the course to evaluate the current progression of the
 student or have a detailed conversation about the student's needs and wishes for the classes. 
