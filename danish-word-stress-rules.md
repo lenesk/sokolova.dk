@@ -7,7 +7,7 @@ A wrong word stress in Danish may cause misunderstandings or a stronger foreign 
 
 In the Danish-Danish dictionaries like <https://ordnet.dk> or at <https://udtaleordbog.dk>, you can check the pronunciation of most of the words in Danish, if you have time and need to practice your oral presentation for an exam for example. But often, there is no time for checking the word stress or when you read aloud you need to pronounce here and now. Then, some rules about general word stress patterns can be of great help to know. I will refer to those, systematized by Grønnum, Nina (2005) in *Fonetik og fonologi: almen og dansk.* 
 
-  * Word stress can only fall on the syllable with the full vowel, not a reduced one. Like in *selvfølgelig* [sεlˈføljəli], where *[ə]* can not bear stress. 
+  * Word stress can only fall on the syllable with the full vowel, not a reduced one. Like in *selvfølgelig* [sεlˈføljəli], where [ə] can not bear stress. 
     
   * If there are more than one full vowel in the word, and one of them is a long one/with glottal stop called 'stød' in Danish, then the syllable with the long vowel (which is normally a vowel ending a syllable, and not closed by a consonant) will take the stress. Like in *bevægelse*  [beˈvεˀjəlsə], *banegård* [ˈbæːnəˌgɒˀ], *forespørgsel* [ˈfɒːɒsbɶɐ̯səl]. Or like in *forståelse* [fʌˈsdɔˀəlsə], where *å* is a full vowel with glottal stop/long by nature.  
     
