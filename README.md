@@ -44,6 +44,9 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
+
+* [Danish word stress rules](danish-word-stress-rules.md)
+  
 * [Feel stuck at level A2-B1 in Danish and think ChatGPT can help you?](feel-stuck-at-level-a2-b1-in-danish-and-think-chatgpt-can-help-you.md)
   
 * [10 useful logical connectors in Danish](10-useful-logical-connectors-in-danish)
