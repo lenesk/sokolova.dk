@@ -30,9 +30,9 @@ Double main/primary stress is possible in Danish, but is not a common feature. I
  * adjectives and verbs with the first stem which indicates a very high degree of the second one e.g. *ˈisˈkold*, *ˈlynˈhurtig*.
 A common foreign accent in word stress here would be on the contrary that a single main stress will be given.
 
-In Danish, the secondary stress is also typical of some suffixes in non-compound words, ending in for example, -dom, -hed, -skab, -som, -vis, -bar, mæssig, -dømme. Like in *barndom* [ˈbɑːnˌdʌmˀ], *delvis* [ˈdeːlˌviˀs], *arbejdssom* [ɑˈbɑjˀdˌsʌmˀ]. However, the secondary stress generally is more typical of compounds in Danish, as mentioned above, and the words having the mentioned suffixes may sound like having one stess for some native speakers, as the secondary stress is very weak. 
+In Danish, the secondary stress is also typical of some suffixes in non-compound words, ending in for example, *-dom, -hed, -skab, -som, -vis, -bar, mæssig, -dømme*. Like in *barndom* [ˈbɑːnˌdʌmˀ], *delvis* [ˈdeːlˌviˀs], *arbejdssom* [ɑˈbɑjˀdˌsʌmˀ]. However, the secondary stress generally is more typical of compounds in Danish, as mentioned above, and the words having the mentioned suffixes may sound like having one stess for some native speakers, as the secondary stress is very weak. 
 
-If you are interested in further reading on Danish word stess, check out http://basby.dk/H/H-oversigt.html and https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/
+If you are interested in further reading on Danish word stess, check out <http://basby.dk/H/H-oversigt.html> and <https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/>
 
 * * *
 
