@@ -34,4 +34,10 @@ In Danish, the secondary stress is also typical of some suffixes in non-compound
 
 If you are interested in further reading on Danish word stess, check out http://basby.dk/H/H-oversigt.html and https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/
 
+* * *
+
+Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
+
+<script async data-uid="135a810818" src="https://fantastic-artisan-8379.ck.page/135a810818/index.js"></script>
+
 
