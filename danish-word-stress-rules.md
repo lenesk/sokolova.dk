@@ -3,9 +3,9 @@
 
 ## Danish word stress 
 
-A wrong word stress in Danish may cause misunderstandings or a stronger foreign accent in non-native speakers of Danish, in other words, native speakers can perceive your Danish as more accented, not because of vowels or consonants mispronunciation, but because of moved stress patterns. Word stress is also connected with sentence stress and melody, so to improve stress assignment has a great value for your Danish. 
+A wrong word stress in Danish may cause misunderstandings or a stronger foreign accent in non-native speakers of Danish, in other words, native speakers can perceive your Danish as more accented, not because of vowels or consonants mispronunciation, but because of moved stress patterns. Word stress is also connected with sentence stress and melody, so to improve word stress assignment has a great value for your Danish. 
 
-In the Danish-Danish dictionaries like https://ordnet.dk or at https://udtaleordbog.dk, you can check the pronunciation of most of the words in Danish, if you have time and need to practice your oral presentation for an exam for example. But often, there is no time for checking the word stress or when you read aloud you need to pronounce here and now. Then, some rules about general word stress patterns can be of great help to know. I will refer to those, systematized by Grønnum, Nina (2005) in *Fonetik og fonologi: almen og dansk.* 
+In the Danish-Danish dictionaries like <https://ordnet.dk> or at <https://udtaleordbog.dk>, you can check the pronunciation of most of the words in Danish, if you have time and need to practice your oral presentation for an exam for example. But often, there is no time for checking the word stress or when you read aloud you need to pronounce here and now. Then, some rules about general word stress patterns can be of great help to know. I will refer to those, systematized by Grønnum, Nina (2005) in *Fonetik og fonologi: almen og dansk.* 
 
   * Word stress can only fall on the syllable with the full vowel, not a reduced one. Like in *selvfølgelig* [sεlˈføljəli], where *[ə]* can not bear stress. 
     
@@ -15,9 +15,9 @@ In the Danish-Danish dictionaries like https://ordnet.dk or at https://udtaleord
     
 * If there are no long vowels in the word, the last syllable with a short full vowel followed by a consonant will take the stress. Like in *stakit* [sdaˈkid].
   
-  * Borrowings from French have stress on the last syllable. Like in *arrangement* [ɑɑŋɕəˈmɑŋ].
+* Borrowings from French have stress on the last syllable. Like in *arrangement* [ɑɑŋɕəˈmɑŋ].
     
-  * Prefixes, such as be-, ge-, er-, for-, are usually unstressed, like in *betænksom, erfaring, gevaldig, gevinst, forbygge*. Some of them, such as u-, und-, mis-, van- can be either stressed or not. E.g. in *uheld*, the first vowel is stess, while in the related adjective *uhelidg*, the prefix 'u-' is unstressed. 
+* Prefixes, such as *be-, ge-, er-, for-*, are usually unstressed, like in *betænksom, erfaring, gevaldig, gevinst, forbygge*. Some of them, such as *u-, und-, mis-, van-* can be either stressed or not. E.g. in *uheld*, the first vowel is stess, while in the related adjective *uhelidg*, the prefix *'u-'* is unstressed. 
 
 Above, I mentioned rules about primary stress. The secondary stress generally (like a weaker stress echo) is more typical of compounds in Danish, i.e. words formed by adding several stems/words together. The general rule about the assignment of the secondary stress in compound words is that the first stem of the compound carries the main stress on that syllable, which carries the main stress in an isolated pronunciation of the stem. The secondary stress is assigned to the last stem of the compound on that syllable, which carries the main stress in an isolated pronunciation of this stem, as for instance, *ˈengelskˌlærer*, *morgenˌmenneske*. However, there are numerous exceptions to this rule.
 
