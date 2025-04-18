@@ -33,7 +33,7 @@ Double main/primary stress is possible in Danish, but is not a common feature. I
 A common foreign accent in word stress here would be on the contrary that a single main stress will be given.
 
 
-If you are interested in further reading on Danish word stess, sentence stress and melody, check out <http://basby.dk/H/H-oversigt.html> and <https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/>
+If you are interested in further reading on Danish word stess, sentence stress and melody, check out <http://basby.dk/H/H-oversigt.html>, <https://dialekt.ku.dk> and <https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/>
 
 * * *
 
