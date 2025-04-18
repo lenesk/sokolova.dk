@@ -21,6 +21,8 @@ In the Danish-Danish dictionaries like <https://ordnet.dk> or at <https://udtale
 
 Above I mentioned the common rules about primary stress. Some words in Danish are pronounced with a main and a secondary stress. The secondary stress generally (like a weaker stress echo) is more typical of compounds in Danish, i.e. words formed by adding several stems/words together. The general rule about the assignment of the secondary stress in compound words is that the first stem of the compound carries the main stress on that syllable, which carries the main stress in an isolated pronunciation of the stem. The secondary stress is assigned to the last stem of the compound on that syllable, which carries the main stress in an isolated pronunciation of this stem, as for instance, *ˈengelskˌlærer*, *'morgenˌmenneske*. The second stress is marked with a stress sign underneath. However, there are numerous exceptions to this rule.
 
+In Danish, the secondary stress is also typical of some suffixes in non-compound words, ending in for example, *-dom, -hed, -skab, -som, -vis, -bar, mæssig, -dømme*. Like in *barndom* [ˈbɑːnˌdʌmˀ], *delvis* [ˈdeːlˌviˀs], *arbejdssom* [ɑˈbɑjˀdˌsʌmˀ]. However, the secondary stress generally is more typical of compounds in Danish, as mentioned above, and the words having the mentioned suffixes may sound like having one stess for some native speakers, as the secondary stress is very weak. 
+
 Typical mispronunciation may occur when non-native speakers pronounce compound words with two main stresses. E.g. in *æbletærte*, the main/primary stress in on *æble-*; but a non-native speaker can pronounce the word with two main stresses, like *'æble'tærte* (considered wrong). Or e.g. in *mi'ljøforurening* the main stress in on *mi'ljø*, not on both stems. 
 
 Double main/primary stress is possible in Danish, but is not a common feature. It occurs in:
@@ -30,7 +32,6 @@ Double main/primary stress is possible in Danish, but is not a common feature. I
  * adjectives and verbs with the first stem which indicates a very high degree of the second one e.g. *ˈisˈkold*, *ˈlynˈhurtig*.
 A common foreign accent in word stress here would be on the contrary that a single main stress will be given.
 
-In Danish, the secondary stress is also typical of some suffixes in non-compound words, ending in for example, *-dom, -hed, -skab, -som, -vis, -bar, mæssig, -dømme*. Like in *barndom* [ˈbɑːnˌdʌmˀ], *delvis* [ˈdeːlˌviˀs], *arbejdssom* [ɑˈbɑjˀdˌsʌmˀ]. However, the secondary stress generally is more typical of compounds in Danish, as mentioned above, and the words having the mentioned suffixes may sound like having one stess for some native speakers, as the secondary stress is very weak. 
 
 If you are interested in further reading on Danish word stess, sentence stress and melody, check out <http://basby.dk/H/H-oversigt.html> and <https://sproget.dk/sprogviden/sprogtemaer/udtale/tryk-laengde-og-stoed/>
 
