@@ -9,7 +9,5 @@ Best regards,
 
 Elena
 
-The first version of the guide was issued on August 7th, 2022. 
-
-Latest version is from March 2024. 
+Latest version is from April 2025. 
 
