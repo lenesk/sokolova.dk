@@ -45,7 +45,7 @@ Any known context sounds easier in Danish, so choose a book you have read or a m
 Choose some classics from <https://ereolen.dk/>. Almost all the cartoons about Tintin are e.g. now available at dr.dk <https://www.dr.dk/drtv/serie/tintin_418974>, a free account to login is needed. There are more episodes of the cartoon on dr.dk than on Netflix. Boost your Danish with some quality cartoons.
 
 ## Work on one semantic field at a time
-Not coincidentally, many study materials are designed around topics, and chapters. It’s just easier to systematize new words and structures around the same topic, so extend and elaborate your reading, speaking, and watching around one topic at a time. You learn Danish by learning samples of the language, you can’t learn everything at a time. 
+Not coincidentally, many study materials are designed around topics and chapters. It’s just easier to systematize new words and structures around the same topic, so extend and elaborate your reading, speaking, and watching around one topic at a time. You learn Danish by learning samples of the language, you can’t learn everything at a time. 
 
 ## Do what you are asked to do
 Finally, if you want to pass a certain exam or get high grades, study the information about the exam and the criteria for passing before making a study plan. Then while sitting the exam, answer the question you are asked. Sometimes learners speak fluent colloquial Danish, but they simply do not follow the instructions in the exam task, give vague answers, argue not to the point, or simply their level does not correspond in criteria to the aspiration level. 
