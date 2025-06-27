@@ -36,7 +36,7 @@ It is easy to answer a question with one word or in half a phrase—also, it is 
 
 Invest time installing an app or buying a paper dictionary to check the grammar of new words and their meaning, especially if you need to pass an exam, where the use of digital dictionaries is not allowed. Google Translate can work for many tasks as a dictionary, but it may also result in part-of-speech-mistakes; situations like looking up ‘access’ as a verb, and getting the variant *adgang*, which is ‘an access’—a noun. So looking for an equivalent in Danish without checking parts of speech may again compromise the quality of the texts you write and your understanding of the input. Also, a good Danish-Danish dictionary may help you learn different meanings of the same word, and it shows grammatical forms of the word. See this good video to learn more about a Danish-Danish dictionary: <https://www.youtube.com/watch?v=qTqMcIvmGng>.
 
-## Be picky
+## Be picky - do not overuse empty words
 If you want to improve your vocabulary, make it a habit to integrate new words rather than using ‘give’, ‘be’, ‘take’, ‘go’, ‘work’, ‘do’, ‘have’ in all possible situations. There are plenty of synonyms for *give*, e.g. *tilbyde, sikre, tildele, overrække, yde*, ‘medføre’, depending on the context. This strategy will help you express your ideas in a detailed and precise way, and while finding a more suitable synonym, you will simply learn more new words and their meanings.
 
 ## Make known input sound in Danish
