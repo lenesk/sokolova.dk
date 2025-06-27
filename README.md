@@ -44,6 +44,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
+* [Update 9-unusual-tips-on-learning-Danish.md](Unusual tips on learning Danish)
 
 * [Danish word stress rules](danish-word-stress-rules.md)
   
