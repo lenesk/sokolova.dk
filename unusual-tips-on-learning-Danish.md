@@ -23,7 +23,7 @@ You can read more about shadowing, which is a sort of this audio-lingual method,
 
 ## Do not frustrate yourself
 
-Trying to pass PD3 (B2 level) six months after scoring a mediocre grade for PD2 (B1+) is not a realistic plan normally, unless you are a language genius. Be realistic about your goals and level. Choose material with a +1 level of difficulty compared to your current level. This keeps you motivated and you avoid frustration. If you are not studying for an exam, choose to work with study materials that have a level description and guidelines, so that you can appropriately level up continuously, as normally all the study books are designed according to CEFR levels (you know them from the module system probably, those A1, A2… levels).
+Trying to pass PD3 (B2 level) six months after scoring a mediocre grade for PD2 (B1+) is not a realistic plan normally, unless you are a language genius. Be realistic about your goals and level. Choose material with a +1 level of difficulty compared to your current level. This keeps you motivated and you avoid frustration. If you are not studying for an exam, choose to work with study materials that have a level description and guidelines. This will continuously level up your language, because normally all the study books are designed according to CEFR levels (you know them from the module system probably, those A1, A2… levels).
 
 ## Slow food for the brain, especially for beginners
 
