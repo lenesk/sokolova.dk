@@ -86,7 +86,7 @@ In affirmative sentences, it is often used with the verb in the past tense and e
 
 * *Skam*
 
-*Skam* expresses often a clarification of a truth or a fact, which the receiver is in doubt about. In English, there would be often an auxiliary verb for reassuring. But unlike *da*, *skam* is rather an explaning one than showing the disagreement. 
+*Skam* expresses often a clarification of a truth or a fact, which the receiver is in doubt about. In English, there would be often an auxiliary verb for reassuring. But unlike *da*, *skam* is rather an explaining one than showing the disagreement. 
 
 > * *Jeg elsker dig skam, sagde hun til sin tvivlende mand*. - I DO love you, she said to her sceptical husband.
 
@@ -126,7 +126,7 @@ The difference between *nok*, *vel* and *vist* lies mainly in the degree of the 
 
 ## Pronunciation & syntax remarks
 
-It is impornat to distinguish modal adverbs from the corresponding adverbs, which are not specific modal word. The modal adverbs are usually unstressed syntactically (have no phrasal stress) and take the position of a traditional central adverb. However, when they function as adverbs without particular modality, they **do** bear syntactic stress, may initiate the clause, and as a rule, have a different meaning from that in the modal function. 
+It is important to distinguish modal adverbs from the corresponding adverbs, which are not specific modal words. The modal adverbs are usually unstressed syntactically (have no phrasal stress) and take the position of a traditional central adverb. However, when they function as adverbs without particular modality, they **do** bear syntactic stress, may initiate the clause, and as a rule, have a different meaning from that in the modal function. 
 
 > * *Nu (time adverb) har jeg spist min morgenmad*.
 > * *Indtil da* (time adverb 'then') havde jeg ikke lagt mærke til noget.
