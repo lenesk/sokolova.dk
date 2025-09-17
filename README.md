@@ -3,8 +3,7 @@
 # Elena Sokolova 
 [elena@sokolova.dk](mailto:elena@sokolova.dk)<br/>
 
-I have graduate-level degrees in translation, linguistics and second language pedagogy. 
-I have been teaching Danish for 12 years (online in Zoom, blended courses, regular classroom groups and one-to-one lessons), including prep-courses for Prøve i Dansk 3, Prøve i Dansk 2 & Studieprøven. 
+I have been teaching Danish for 15 years (online in Zoom, blended courses, regular classroom groups and one-to-one lessons), including prep-courses for Prøve i Dansk 3, Prøve i Dansk 2 & Studieprøven. 
 
 [CV (Danish)](cv.md) 
 
@@ -85,17 +84,7 @@ I have been teaching Danish for 12 years (online in Zoom, blended courses, regul
 
 ## About me
 
-My name is Elena Sokolova. I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts and essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
-
-
-## Video tutorials on youtube
-
-* [Danish consonants and diphthongs](https://youtu.be/eD3BYwY6jDE)
-* [Danish vowels part 1: front, unlabialized](https://youtu.be/gs1maKrlBEw)
-* [Danish vowels part 2: front, labialized](https://youtu.be/IG1LCKSYbxI)
-* [Danish vowels part 3: back labialized](https://youtu.be/cQX8SRfQ9Z8)
-* [Gender and grammatical forms of nouns in Danish](https://www.youtube.com/watch?v=94aFjF9Z6QY)
-
+I moved to Denmark in 2010 to do my Master's in Linguistics at Aarhus University. I have always been interested in bilingualism, so I have chosen a bilingual track in my life. To learn a new language, you need to build a language personality over time, and then you'll start feeling this language. But nothing comes from nothing, so personal efforts, essential guidance and scaffold should support you in learning a new language. I believe that adults can master a foreign language and become near-native users of this language through conscious learning, living into the language, and using it actively. 
 
 ## Papers and writings
 * [Narrative competence of children with migrant background](./sokolova-2010-narration-in-migrant-children.pdf)
