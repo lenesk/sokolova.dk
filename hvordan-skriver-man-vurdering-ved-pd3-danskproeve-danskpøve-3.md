@@ -8,6 +8,8 @@ Mange kan nok synes, det er svært at forstå, hvordan man skriver vurdering ved
 I det her blogindlæg fortæller jeg om tyspiske modeller for vurdreing med udgangspunkt i de variationer af vurderinger, kan forekommer i PD3-opgaver, dog tager ikke reele opgaver som ekesmepler af hensyn til ophavsret, men formulerer mine egne variatner at vurderingsopgaver inspireret af relle PD3-opgager. 
 Hvis du har prøvet at løse dem, vil du nok genkende modellerne/de typer vurderinger, som indgår i PD3-opgaver. 
 
+Der er tre hovedkriterier i bedømmelse af PD3: 1) det lingvistiske (det sproglige - dvs. hvor korrekt og kompekst du skriver), det diskursive (hvordan du organiserer tekstens struktur), og det pragmatiske (hvordan du kommunikerer dine synspunkter, holdninger og argumentation i opgavens konkekst, bl.a. relevant eller ikke-relevant, begrundet eller ej). 
+
 ## Hvad betyder det - at vurdere?
 
 I punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3 skal du vise, at du kan udtrykke dine holdninger, synspunkter og argumenter klart og præcist. Det er ikke nok at sige sin holdning, man skal begrunde hvorfor man synes sådan. 
@@ -17,7 +19,9 @@ Du vælger indirekte en linje for din vurdering, hvor du udtrykker din egen hold
 
 ## Tre typer vurderinger i opgaven
 
-### Type  1: vurdér fordele eller ulemper med fokus på et element i emnet
+### Type  1: vurdér fordele eller ulemper med fokus på et element i emnet.
+
+I stedet for 'ordene fordele og ulemper' står der nogle gange 'betydning af noget fot noget'. I princippet er det samme, man kan så skrive om positiv eller negative betydning/positive og negative konsekvenser. Hvis der står fordele eller ulemper skal man skrive om begge, ikke kun om det ene eller det andet. Det samme med betydning, man skal jo vurdere, analysere, så skriv om både negativ og positiv betydning af noget. 
 
 > *Eksempel på opgaveformulering: vurder fordele og ulemper for samfundet ved, at der er obligatorisk arbejdsmarkedspension for lønmodtagere.
 Hvis en PD3-opgaver indeholder et begreb eller et svært ord, som vurderes til at være svær at forstå, gives der en forklaring af dette begreb i selve ogpaven. Se her forklaringen af hvad obligatorisk arbejdsmarkedspension er.* 
