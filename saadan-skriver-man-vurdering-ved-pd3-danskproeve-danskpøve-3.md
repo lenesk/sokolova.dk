@@ -62,7 +62,7 @@ Opgaven er ikke at skrive om fordele og ulemper ved frivilligt personale inden f
 
 Du kan få mere hjælp til at blive klar til skriftlig fremstiling ved PD3 i mit videokursus med forklaringer på engelsk og eksempler på dansk[Online video course for self-study ‘Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3] (https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html). 
 
-Se bl.a. mere om vurdering i samme videokursus i del 2, del 7 mht. Delprøve 2B, og typiske fejl i Delprøve 2B bl.a. mulige fejl i vurdering om, hvilken betydning en mere ligelig fordeling af barselsorlov har for antallet af kvindelige ledere. 
+Se bl.a. mere om vurdering i samme videokursus i del 2, del 7 mht. Delprøve 2B og typiske fejl i Delprøve 2B bl.a. mulige fejl i vurdering om, hvilken betydning en mere ligelig fordeling af barselsorlov har for antallet af kvindelige ledere. 
 
 Do you have questions, comments or suggestions - email to [elena@sokolova.dk](mailto:elena@sokolova.dk). 
 
