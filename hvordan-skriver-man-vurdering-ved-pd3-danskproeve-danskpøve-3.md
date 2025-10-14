@@ -17,7 +17,7 @@ At vurdere betyder med andre ord at analysere og fx argumentér for og/eller imo
 
 Du vælger indirekte en linje for din vurdering, hvor du udtrykker din egen holdning og analysere problemstillingen. 
 
-## Tre typer vurderinger i opgaven
+## Tre typer vurderinger i PD3-opgaver
 
 ### Type  1: vurdér fordele eller ulemper med fokus på et element i emnet.
 
