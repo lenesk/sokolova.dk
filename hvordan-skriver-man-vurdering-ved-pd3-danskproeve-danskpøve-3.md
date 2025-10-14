@@ -23,10 +23,12 @@ Du vælger indirekte en linje for din vurdering, hvor du udtrykker din egen hold
 
 I stedet for 'ordene fordele og ulemper' står der nogle gange 'betydning af noget fot noget'. I princippet er det samme, man kan så skrive om positiv eller negative betydning/positive og negative konsekvenser. Hvis der står fordele eller ulemper skal man skrive om begge, ikke kun om det ene eller det andet. Det samme med betydning, man skal jo vurdere, analysere, så skriv om både negativ og positiv betydning af noget. 
 
-> *Eksempel på opgaveformulering: vurder fordele og ulemper for samfundet ved, at der er obligatorisk arbejdsmarkedspension for lønmodtagere.
+> *Eksempel på opgaveformulering:
+*vurder fordele og ulemper for samfundet ved, at der er obligatorisk arbejdsmarkedspension for lønmodtagere.
 Hvis en PD3-opgaver indeholder et begreb eller et svært ord, som vurderes til at være svær at forstå, gives der en forklaring af dette begreb i selve ogpaven. Se her forklaringen af hvad obligatorisk arbejdsmarkedspension er.* 
 
-> *Kommentar til opgaveformulering: *Medarbejdere, hvis ansættelse er dækket af en overenskomst eller en individuel pensionsaftale, er normalt omfattet af en arbejdsmarkedspensionsordning. Arbejdsgiveren betaler typisk en større del (2/3), mens medarbejderen betaler resten (1/3). Bidrag til pension trækkes typisk automatisk fra medarbejderens løn og indbetales af arbejdsgiveren til pensionsselskab/fond, som investerer disse penge, før medarbejderen går på pension. Den samlede indbetaling er ofte omkring 12% af lønnen.*
+> *Kommentar til opgaveformulering:
+*Medarbejdere, hvis ansættelse er dækket af en overenskomst eller en individuel pensionsaftale, er normalt omfattet af en arbejdsmarkedspensionsordning. Arbejdsgiveren betaler typisk en større del (2/3), mens medarbejderen betaler resten (1/3). Bidrag til pension trækkes typisk automatisk fra medarbejderens løn og indbetales af arbejdsgiveren til pensionsselskab/fond, som investerer disse penge, før medarbejderen går på pension. Den samlede indbetaling er ofte omkring 12% af lønnen.*
 
 Før du går i gang med at skrive om fordele og ulemper, skal du lave en liste over/mindmap med fordele og ulemper med argumenter for hver af dem og opveje dem imod hinanden. Hvis der står i opgaven, at du skal vurdere fordele og ulemper, skal du skrive om både fordele og ulemper, ikke kun om det ene eller det andet.
 
