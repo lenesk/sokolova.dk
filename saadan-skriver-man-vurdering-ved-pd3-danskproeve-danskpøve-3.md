@@ -3,30 +3,35 @@
 
 *Elena Sokolova, den 14. oktober 2025*
 
-Mange kan nok synes, det er svært at forstå, hvordan man skriver vurdering ved PD3 (punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3. Du kan læse mere om oficielle bedømmelseskriterier for skriftlige fremstilling i [Bedømmelsesvejledning Skriftlig del af Prøve i Dansk 3](https://danskogproever.dk/media/awxhrdxb/bedoemmelsesvejledning-pd3-skr-maj-2025.pdf).   
+Mange kan nok synes, det er svært at forstå, hvordan man skriver vurdering ved PD3 - det er punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3. Du kan læse mere om oficielle bedømmelseskriterier for den skriftlige fremstilling ved PD3 i [Bedømmelsesvejledning Skriftlig del af Prøve i Dansk 3](https://danskogproever.dk/media/awxhrdxb/bedoemmelsesvejledning-pd3-skr-maj-2025.pdf).   
 
-I det her blogindlæg fortæller jeg om typiske modeller for vurdering med udgangspunkt i de variationer af vurderinger, kan forekommer i PD3-opgaver, dog tager ikke reelle opgaver som eksempler af hensyn til ophavsret, men formulerer mine egne varianter at vurderingsopgaver inspireret af reelle PD3-opgaver. 
-Hvis du har prøvet at løse dem, vil du nok genkende modellerne/de typer vurderinger, som indgår i PD3-opgaver. 
+I det her blogindlæg fortæller jeg om typiske modeller for vurdering med udgangspunkt i de variationer af vurderinger, der kan forekommer i PD3-opgaver, dog tager jeg ikke reelle opgaver som eksempler af hensyn til ophavsret og på grund af at reelle PD3-opgaver er fortrolige (konfidentielle) fra vinter 2024. Jeg formulerer her mine egne varianter at vurderingsopgaver inspireret af PD3-opgaver. Hvis du har prøvet at løse dem, vil du nok genkende modellerne/de typer vurderinger, som indgår i PD3-opgaver. 
 
-Der er tre hovedkriterier i bedømmelse af PD3: 1) det lingvistiske (det sproglige - dvs. hvor korrekt og komplekst du skriver), det diskursive (hvordan du organiserer tekstens struktur), og det pragmatiske (hvordan du kommunikerer dine synspunkter, holdninger og argumentation i opgavens kontekst, bl.a. relevant eller ikke-relevant, begrundet eller ej). 
+Der er tre hovedkriterier i bedømmelsen af PD3: 
+1) det lingvistiske (det sproglige - dvs. hvor korrekt og komplekst du skriver);
+2) det diskursive (hvordan du organiserer tekstens struktur);
+3) det pragmatiske (hvordan du kommunikerer dine synspunkter, holdninger og argumentation i opgavens kontekst, bl.a. relevant eller ikke-relevant, begrundet eller ej).
+   
+I det her blogindlæg fokuserer jeg på det pragmatiske aspekt af besvarelsen. Hvis du har brug for at fokusere dig mere på andre aspekter og endnu mere på det pragmatiske for andre punkter i skriftlige opgaver, kan du se mit videokursus [Online video course for self-study ‘Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3] (https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html).
 
 ## Hvad betyder det - at vurdere?
 
-I punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3 skal du vise, at du kan udtrykke dine holdninger, synspunkter og argumenter klart og præcist. Det er ikke nok at sige sin holdning, man skal begrunde hvorfor man synes sådan. 
-At vurdere betyder med andre ord at analysere og fx argumentere for og/eller imod eller opveje det ene aspekt imod det andet. At begrunde argumenter betyder, at man skal give eksempler og uddybninger, som er relevante for opgavens fokus. 
+I punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3 skal du vise, at du kan udtrykke dine holdninger, synspunkter og argumenter klart og præcist med komplekst sprog på B2 CEFR-niveau. Det er ikke nok at sige sin holdning, man skal begrunde, hvorfor man synes sådan. 
 
-Du vælger indirekte en linje for din vurdering, hvor du udtrykker din egen holdning og analyserer problemstillingen. 
+At vurdere betyder med andre ord at analysere og fx argumentere for og/eller imod eller opveje det ene aspekt imod det andet. At begrunde sine argumenter betyder, at man skal give eksempler og uddybninger, som er relevante for opgavens fokus. Du vælger en linje for din vurdering, hvor du udtrykker din egen holdning og analyserer problemstillingen. 
 
 ## Tre typer vurderinger i PD3-opgaver
 
 ### Type  1: vurdér fordele eller ulemper med fokus på et element i emnet.
 
-I stedet for 'ordene fordele og ulemper' står der nogle gange 'betydning af noget for noget'. I princippet er det samme, man kan så skrive om positive eller negative betydning/positive og negative konsekvenser. Hvis der står fordele eller ulemper, skal man skrive om begge, ikke kun om det ene eller det andet. Det samme med betydning, man skal jo vurdere, analysere, så du skal skrive om både negativ og positiv betydning af noget. 
+I stedet for ordene 'fordele og ulemper' står der nogle gange 'betydning af noget for noget'. I princippet er det det samme, man kan så skrive om positiv eller negativ betydning eller positive og negative konsekvenser for noget. Hvis der står fordele eller ulemper, skal man skrive om begge, ikke kun om det ene eller det andet. Det samme med betydning, man skal jo vurdere, analysere, så du skal skrive om både negativ og positiv betydning af noget for noget i opgaven. Eksemplerne og begrundelser skal være på det samfundmæssige, ikke på det personlige niveau. 
+
 #### Eksempel på opgaveformulering for type 1: vurdér fordele og ulemper for samfundet ved, at der er obligatorisk arbejdsmarkedspension for lønmodtagere.
 
-Hvis en PD3-opgave indeholder et begreb eller et svært ord, som vurderes til at være svært at forstå, gives der en forklaring på dette begreb i selve opgaven. Se her forklaringen på, hvad obligatorisk arbejdsmarkedspension er. 
+Hvis en PD3-opgave indeholder et begreb eller et svært ord, som vurderes til at være svært at forstå, gives der en forklaring på dette begreb/ord i selve opgaven. 
 
-*Medarbejdere, hvis ansættelse er dækket af en overenskomst eller en individuel pensionsaftale, er normalt omfattet af en arbejdsmarkedspensionsordning. Arbejdsgiveren betaler typisk en større del (2/3), mens medarbejderen betaler resten (1/3). Bidrag til pension trækkes typisk automatisk fra medarbejderens løn og indbetales af arbejdsgiveren til pensionsselskab/fond, som investerer disse penge, før medarbejderen går på pension. Den samlede indbetaling er ofte omkring 12% af lønnen.*
+Se her fx forklaringen på, hvad 'obligatorisk arbejdsmarkedspension' er: 
+*medarbejdere, hvis ansættelse er dækket af en overenskomst eller en individuel pensionsaftale, er normalt omfattet af en arbejdsmarkedspensionsordning. Arbejdsgiveren betaler typisk en større del (2/3), mens medarbejderen betaler resten (1/3). Bidrag til pension trækkes typisk automatisk fra medarbejderens løn og indbetales af arbejdsgiveren til pensionsselskab/fond, som investerer disse penge, før medarbejderen går på pension. Den samlede indbetaling er ofte omkring 12% af lønnen. Arbejdsmarkedspension er ikke det samme som fx folkepension eller [andre lovbaserede pensioner er de pensioner](https://www.borger.dk/pension-og-efterloen/Pensionssystemet-i-Danmark/Om-pension)*
 
 Før du går i gang med at skrive om fordele og ulemper, skal du lave en liste over/mindmap med fordele og ulemper med argumenter for hver af dem og opveje dem imod hinanden. Hvis der står i opgaven, at du skal vurdere fordele og ulemper, skal du skrive om både fordele og ulemper, ikke kun om det ene eller det andet.
 
