@@ -43,6 +43,7 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 
 
 ## Blog  
+* [Sådan skriver man vurdering ved PD3](saadan-skriver-man-vurdering-ved-pd3-danskproeve-danskpøve-3.md)
 * [Unusual tips on learning Danish](unusual-tips-on-learning-Danish.md)
 
 * [Danish word stress rules](danish-word-stress-rules.md)
