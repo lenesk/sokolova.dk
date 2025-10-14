@@ -12,7 +12,7 @@ Der er tre hovedkriterier i bedømmelsen af PD3:
 2) det diskursive (hvordan du organiserer tekstens struktur);
 3) det pragmatiske (hvordan du kommunikerer dine synspunkter, holdninger og argumentation i opgavens kontekst, bl.a. relevant eller ikke-relevant, begrundet eller ej).
    
-I det her blogindlæg fokuserer jeg på det pragmatiske aspekt af besvarelsen. Hvis du har brug for at fokusere dig mere på andre aspekter og endnu mere på det pragmatiske for andre punkter i skriftlige opgaver, kan du se mit videokursus [Online video course for self-study ‘Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3] (https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html).
+I det her blogindlæg fokuserer jeg på det pragmatiske aspekt af besvarelsen. Hvis du har brug for at fokusere dig mere på andre aspekter og endnu mere på det pragmatiske for andre punkter i skriftlige opgaver, kan du se mit videokursus [Online video course for self-study ‘Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3](https://sokolova.dk/about-a-self-study-video-course-forberedelse-til-about-skriftlig-fremstilling-i-prøve-dansk-3.html).
 
 ## Hvad betyder det - at vurdere?
 
