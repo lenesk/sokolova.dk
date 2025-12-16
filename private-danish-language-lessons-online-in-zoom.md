@@ -1,7 +1,7 @@
 
 ## Private Danish language lessons online in Zoom 
 
-I offer again from April 1st, 2025 private online Danish classes in Zoom for individuals and companies' employees with a flexible start date and an individually tailored curriculum. I am not offering group classes at the moment. I teach Danish at all levels according to the Common European Framework of Reference for Languages. 
+I offer private online Danish classes in Zoom for individuals and companies' employees with a flexible start date and an individually tailored curriculum. I am not offering group classes at the moment. I teach Danish at all levels according to the Common European Framework of Reference for Languages. 
 
 Please, contact me by mail [elena@sokolova.dk](mailto:elena@sokolova.dk), if you would like to schedule private lessons.
 
@@ -9,7 +9,8 @@ Then, you will get a link to a Zoom meeting, where we can have a conversation ab
 
 # Prices for individual online classes tailored to your needs:
 
-Private students do not pay VAT; companies pay VAT of 25% added to the listed prices.
+Private students do not pay VAT companies pay VAT of 25% added to the listed prices.
+From January 1st 2026, both companies and private students from 30 year old and above pay VAT of 25% added to the listen prices. 
 
 ### a single one-to-one Zoom lesson/meeting (45 min.): 1100 DKK day/evening/weekend
 
