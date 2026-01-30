@@ -25,7 +25,7 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 736 DKK excl. VAT to get time-unlimited access to English version</a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to English version</a>
 
 <a class="btn" href="https://elenasokolova.podia.com/dansk-version-online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to Danish version </a>
 
