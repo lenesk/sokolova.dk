@@ -56,7 +56,7 @@ Du skal være konsekvent i din argumentation og ikke modsige dig selv. Så enten
 
 #### Eksempel på opgaveformulering: vurdér, om brugen af frivillige kan løse problemet med manglende personale i børnepasningsinstitutioner.
 
-Se mere om emnet, hvis du vil læse mere: [Udfordringen med at få nok pædagoger i daginstitutionerne...] (https://eva.dk/dagtilbud-for-boern/personale-og-rekruttering/rekruttering/ny-undersoegelse-mangel-paa-paedagoger-i-daginstitutioner-er-isaer-et-storbyfaenomen)
+Se mere om emnet, hvis du vil læse mere: [Udfordringen med at få nok pædagoger i daginstitutionerne...](https://eva.dk/dagtilbud-for-boern/personale-og-rekruttering/rekruttering/ny-undersoegelse-mangel-paa-paedagoger-i-daginstitutioner-er-isaer-et-storbyfaenomen)
 
 Opgaven er ikke at skrive om fordele og ulemper ved frivilligt personale inden for børnepasning. Opgaven handler heller ikke om, at du skal skrive om, hvordan daginstitutioner for børn kan finde flere frivillige. Man skal skrive om, hvorvidt det frivillige pædagogiske personale kan løse problemet med, at børnehaver og vuggestuer har det svært ved at ansætte personale og mangler voksne. Det, hvorfor der er mangel på personalet er sekundært i denne kontekst, og du behøver ikke skrive om det.  Det kan være fordi der ikke er interesserede nok til at søge stillinger i disse institutioner, eller fordi der er mangel på personale grundet andre faktorer, som sygefraværet af personale, et højt antal ansatte, der stopper, osv. Men det er ikke det, der er fokus i opgaven. Du skal med andre ord skrive, om frivillige kan passe børn i stedet for lønnede pædagoger/lønnede pædagogmedhjælpere, som institutioner ikke kan finde nok af. 
 
