@@ -3,7 +3,7 @@
 
 *Elena Sokolova, den 14. oktober 2025*
 
-Det kan være svært at forstå, hvordan man skriver vurdering ved PD3 - det er punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i dansk 3. Du kan læse mere om oficielle bedømmelseskriterier for den skriftlige fremstilling ved PD3 i [Bedømmelsesvejledning Skriftlig del af Prøve i Dansk 3](https://danskogproever.dk/media/awxhrdxb/bedoemmelsesvejledning-pd3-skr-maj-2025.pdf).   
+Det kan være svært at forstå, hvordan man skriver vurdering ved PD3 - det er punkt 3 i Delprøve 2A eller 2B i den skriftlige fremstilling ved Prøve i Dansk 3. Du kan læse mere om officielle bedømmelseskriterier for den skriftlige fremstilling ved PD3 i [Bedømmelsesvejledning Skriftlig del af Prøve i Dansk 3](https://danskogproever.dk/media/awxhrdxb/bedoemmelsesvejledning-pd3-skr-maj-2025.pdf).   
 
 I det her blogindlæg fortæller jeg om typiske modeller for vurdering med udgangspunkt i de variationer af vurderinger, der kan forekommer i PD3-opgaver, dog tager jeg ikke reelle opgaver som eksempler af hensyn til ophavsret og på grund af at reelle PD3-opgaver er fortrolige (konfidentielle) fra vinter 2024. Jeg formulerer her mine egne varianter at vurderingsopgaver inspireret af PD3-opgaver. Hvis du har prøvet at løse dem, vil du nok genkende modellerne/de typer vurderinger, som indgår i PD3-opgaver. 
 
