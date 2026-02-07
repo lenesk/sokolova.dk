@@ -39,6 +39,9 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 
 * [Learn to structure Danish sentences: theory & explanations in English, examples and tasks in Danish](learn-to-structure-danish-sentences.md)
 
+* [Free Guide Feb 2026 'How to prepare for Prøve i Dansk 3'](how-to-prepare-for-proeve-i-dansk-3.md)
+  
+
 
 ## Blog  
 * [Sådan skriver man vurdering ved PD3](saadan-skriver-man-vurdering-ved-pd3-danskproeve-danskpøve-3.md)
