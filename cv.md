@@ -75,14 +75,14 @@ AOF Aabenraa, VUC Sønderborg
 <div style='break-after:always'></div>
 
 ## Uddannelse
-[Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](http://edu.au.dk/uddannelse/kurserogefteruddannelse/dansksomandetsprog/)<br/>
+[Diplomuddannelse i dansk som andet- og fremmedsprog for unge og voksne](https://dpu.au.dk/masteruddannelser/dansk-som-andetsprog)<br/>
 2011/02–2014/06 Aarhus Universitet, Danmarks Institut for Pædagogik og Uddannelse, Emdrup
 
 [Cand.mag. i lingvistik](http://kandidat.au.dk/lingvistik/)<br/>
 2010/09–2012/04 Aarhus Universitet
 
 ## It-kundskaber
-* Windows, Mac OS, LMS (Moodle); Zoom
+* Windows, Mac OS, LMS (Moodle); Zoom; Teams; Ludus WEB; 
 * E-Commerce: [Convertkit](https://convertkit.com), [Podia](https://elenasokolova.podia.com), [Stipe](https://stripe.com/en-dk),[PayPal](https://www.paypal.com/dk/home);
 * Webudvikling: markdown, [GitHub Pages](https://github.com/lenesk/sokolova.dk).
 
