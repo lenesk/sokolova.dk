@@ -38,8 +38,8 @@ Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med d
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode strategier, samt tidsplanlægning under prøven. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). Du vil lære, hvad enkelte forbinderord betyder. 
 * Forbinderord med samme betydning: du lærer, hvordan man bruger synonymer på tværs af forskellige grupper forbinderord. 
-* Du vil lære at bruge verber om udvikling og betydning på B2 niveau, at bruge naboord med fokus på 
-* Du vil lære at skrive komplekse sætninger, når du skal forklare/begrunde, fortælle om konsekvenser, argumentere for/imod, angive eksempler og udtrykke din holdning.  
+* Du vil lære at bruge verber om udvikling og betydning på B2 niveau, at bruge naboord i argumentation. 
+* Du vil lære at skrive komplekse sætninger, når du skal forklare/begrunde, fortælle om konsekvenser, argumentere for/imod, kommentere, give eksempler og udtrykke din holdning.  
 *  Statistiksprog. Du lærer at forstå statistikkerne og beskrive dem. Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen og vurdering. 
 *  Du får konkrete eksempler på, hvordan man kan skrive opgave Delprøve 2A og 2B. 
 *  Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst og kommentere.  
