@@ -11,7 +11,7 @@ Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 ## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere online in Zoom)
 
 * aftenundervisning (8 mødegange):
-mandage kl.20:00-21:00; datoer 24.08, 31.08, 14.09, 21.09., 05.10, 19.1-, 26.10, 02.11.
+mandage kl.20:00-21:00; datoer 24.08, 31.08, 14.09, 21.09., 05.10, 19.10, 26.10, 02.11.
 
 * dagundervisning (8 mødegange)
 onsdage kl.10:00-11:00; datoer 26.08, 9.09, 16.09, 23.09, 07.10, 21.10, 28.10, 04.11. 
