@@ -48,26 +48,6 @@ Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med d
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
 
-<style>
-.btn {
-  color: white;
-  background-color: #2ea44f;
-  border-color: rgba(27,31,35,.1);
-  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
-  position: relative;
-  display: inline-block;
-  padding: 5px 16px;
-  font-size: 14px
-  font-weight: 500;
-  line-height: 20px;
-  white-space: nowrap;
-  vertical-align: middle;
-  cursor: pointer;
-  border: 1px solid;
-  border-radius: 6px;
-  text-decoration: none;
-}
-</style>
 
 
 SokolovaDK CVR-nr.: 41433876
