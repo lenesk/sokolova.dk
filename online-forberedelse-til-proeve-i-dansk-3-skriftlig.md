@@ -20,7 +20,7 @@ onsdage kl.10:00-11:00; datoer 26.08, 9.09, 16.09, 23.09, 07.10, 21.10, 28.10, 0
 
 Tilmeldingsfrist er fredag den 25. august. 
 
-Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven og lidt om dine særlige ønsker eller udfordringer.   
+Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven, og lidt om dine særlige ønsker eller udfordringer.   
 
 Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med den 1. januar 2026. Privatpersoner under 30 år er fritaget for at betale moms. Så ved tilmelding skriv venligst, om du er over eller under 30 år, så jeg kan lave en rigtig digital faktura. 
 
