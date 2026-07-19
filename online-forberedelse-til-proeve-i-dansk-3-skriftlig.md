@@ -32,6 +32,7 @@ Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med d
 * Du skal selv skaffe dig øvebogen i papirformat ['Bliv klar til Prøve i Dansk 3'](https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/bliv-klar/bliv-klar-til-prove-i-dansk-3-ovebog), andre materialer får du af læreren.
 * Efter dagens program får du tilsendt to skriftlige opgaver som hjemmearbejde til næste undervisningsgang.
 * Du får individuel feedback med i prisen på dine opgaver - 16 i alt.
+* Selv om fokus i undervisning lægges på skrivning, er der også mulighed for at øve læsning, for læseopgaver gives som hjemmearbedjde som forberedelse til skrivning. 
 
 ## Kursusprogram
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode strategier, samt tidsplanlægning under prøven. 
