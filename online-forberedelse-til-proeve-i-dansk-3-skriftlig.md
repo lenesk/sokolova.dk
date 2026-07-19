@@ -1,6 +1,6 @@
 
 # Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3 (online i Zoom)
-## Bliv bedre til at skrive på dansk og få en højere karakter ved PD3. 
+Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 
 ## Niveauet og adgangskriterier
 
