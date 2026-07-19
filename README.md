@@ -33,7 +33,7 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
 
 ## Group courses online live
-* [Get ready for writing in PD3 August-November 2026](online-forberedelse-til-proeve-i-dansk-3-skriftlig.md)
+* [Get ready for Writing in PD3 August-November 2026](online-forberedelse-til-proeve-i-dansk-3-skriftlig.md)
 
 
 ## Study Materials/Video lessons for self-study
@@ -44,7 +44,6 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 
 * [Free Guide Feb 2026 'How to prepare for Prøve i Dansk 3'](how-to-prepare-for-proeve-i-dansk-3.md)
   
-
 
 ## Blog  
 * [Sådan skriver man vurdering ved PD3](saadan-skriver-man-vurdering-ved-pd3-danskproeve-danskpøve-3.md)
