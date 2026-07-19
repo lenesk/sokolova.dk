@@ -1,5 +1,5 @@
 
-# Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3 (online i Zoom)
+# Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
 Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 
 ## Niveauet og adgangskriterier
@@ -8,7 +8,7 @@ Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 * Kurset er for dig, der allerede har bestået PD3, men vil forbedre resultat i skrivning,
 * Kurset er fx også for dig, der er god til dansk, men din ret til gratis dansk er udløbet, og du kan ikke tage gratis undervisning via sprogcenter/på sprogskole. 
 
-## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere)
+## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere online in Zoom)
 
 * aftenundervisning (8 mødegange):
 mandage kl.20:00-21:00; datoer 24.08, 31.08, 14.09, 21.09., 05.10, 19.1-, 26.10, 02.11.
