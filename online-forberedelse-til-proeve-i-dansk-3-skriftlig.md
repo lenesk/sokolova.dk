@@ -9,10 +9,10 @@
 ## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere)
 
 * aftenundervisning (8 mødegange):
-mandage kl.20:00-21:00 datoer: 24.08, 31.08, 14.09, 21.09., 5.10, 19.1-, 26.10, 2.11.
+mandage kl.20:00-21:00; datoer 24.08, 31.08, 14.09, 21.09., 5.10, 19.1-, 26.10, 2.11.
 
 * dagundervisning (8 mødegange)
-onsdage kl.10:00-11:00: 26.08,9.09,16.09, 23.09, 7.10, 21.10, 28.10, 4.11. 
+onsdage kl.10:00-11:00; datoer 26.08,9.09,16.09, 23.09, 7.10, 21.10, 28.10, 4.11. 
 
 ## Tilmelding og betaling
 
