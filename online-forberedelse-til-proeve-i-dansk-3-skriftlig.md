@@ -5,7 +5,7 @@ Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 ## Niveauet og adgangskriterier
 
 * Kurset er på niveau B2+ på Den Fælles Europæiske Referenceramme for Sprog.
-* Kurset er for dig, der allerede har bestået PD3, men vil forbedre resultat i skrivning,
+* Kurset er for dig, der allerede har bestået PD3, men vil forbedre resultat i skrivning.
 * Kurset er fx også for dig, der er god til dansk, men din ret til gratis dansk er udløbet, og du kan ikke tage gratis undervisning via sprogcenter/på sprogskole. 
 
 ## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere online in Zoom)
