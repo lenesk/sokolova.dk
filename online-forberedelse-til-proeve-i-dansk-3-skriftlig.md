@@ -18,7 +18,7 @@ onsdage kl.10:00-11:00; datoer 26.08, 9.09, 16.09, 23.09, 07.10, 21.10, 28.10, 0
 
 ## Pris, tilmelding og betaling
 
-Tilmeldingsfrist er den 26. august 2026. 
+Tilmeldingsfrist er den 25. august 2026. 
 
 Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven, og lidt om dine særlige ønsker eller udfordringer.   
 
