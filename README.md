@@ -32,6 +32,9 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 
 * [One-to-one lessons in Zoom: tuition prices & terms](private-danish-language-lessons-online-in-zoom)
 
+## Group courses online
+[Get ready for writing at PD3 August-November 2026](online-forberedelse-til-proeve-i-dansk-3-skriftlig.md)
+
 
 ## Study Materials/Video lessons for self-study
 
