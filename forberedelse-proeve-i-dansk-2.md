@@ -1,50 +1,39 @@
-# Crash course: Get ready for Prøve i Dansk 2 
-(maks. 10 deltagere på holdet online i Zoom)
+# Get ready for Prøve i Dansk 2 Winter 2026
+(max. 10 participants in a group)
 
-## Datoer, tid og tilmelding
-* den 25., 27., 28., 29., 30. oktober
-* 20:00-21:00 
-* 5 mødegange online i zoom
+## Dates, time and enrollment 
+* 10 online sessions on Fridays 
+* August 21st, 24th, September 4th, 11th, 18th, October 2nd, 9th, 23rd, 30th, November 6th
 
-<a class="btn" href="https://buy.stripe.com/9AQdUecMq7sbas03cl"> Tilmeld dig for 1570 DKK </a>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
 
-## Niveauet
+<stripe-buy-button
+  buy-button-id="buy_btn_1U2HZQAmj5ZMjL2KUNeiHPvJ"
+  publishable-key="pk_live_51GxJd6Amj5ZMjL2K9Lu2nBGV6KUOPlagpmXRsWw3U54Hit4unW83uBjMgMreJ1ZeCvKEKhj1ON2d63Ooa4IM3C91003yfS0unx"
+>
+</stripe-buy-button>
 
-Du skal kunne skrive og forstå simpelt dansk.
+Sign up for 4500 DKK (incl. VAT) </a> By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality. 
 
-## Du får træning i alle delelementer af PD2: læseforståelse, skriftlig fremstilling, mundtlig kommunikation. 
+If you want to sign up via MobilePay, let me know by mail elena@sokolova.dk, so I can make an invoice for your MobilePayment. 
 
-## Hvis du vil tilmelde dig via MobilePay, skriv venligst på elena@sokolova.dk, så laver jeg en individuel faktura til dig, som kan betales via MobilePay.
+## Your current level
+You must be able to write and understand simple Danish.
 
-## Praktisk information  
-* Der er maksimum 10 deltagere. Tilmeld dig efter først–til–mølle–princippet. 
-* Efter dagens program får du tilsendt hjemmearbejde, samt undervisningsnoter. 
+## What to expect from the course
+You will get training in all the components of PD2: reading comprehension, written expression, and oral communication. After the day's programme, you will be sent homework as well as course notes.
 
-Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
+Practical information
+There is a maximum of 10 participants. Registration is on a first-come, first-served basis.
+After the day's programme, you will be sent homework as well as course notes.
 
-<style>
-.btn {
-  color: white;
-  background-color: #2ea44f;
-  border-color: rgba(27,31,35,.1);
-  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
-  position: relative;
-  display: inline-block;
-  padding: 5px 16px;
-  font-size: 14px
-  font-weight: 500;
-  line-height: 20px;
-  white-space: nowrap;
-  vertical-align: middle;
-  cursor: pointer;
-  border: 1px solid;
-  border-radius: 6px;
-  text-decoration: none;
-}
-</style>
+Feel free to send an email to elena@sokolova.dk if you have any questions.
 
-## Undervisningsmaterialet
+ 
+## Teaching materials
 
-Undervisningsmaterialer skaffes af læreren.
+Your teacher will provide you with needed materials. But you need to have a book 'Bliv klar til PD2.'
 
 SokolovaDK CVR-nr.: 41433876
