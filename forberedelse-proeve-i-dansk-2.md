@@ -6,7 +6,9 @@
 * Dates: August 21st, 24th; September 4th, 11th, 18th; October 2nd, 9th, 23rd 30th; November 6th.
 
 ## Enrollment
-### By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality.[ ](https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c)
+### By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality.
+
+<a class="btn" href="https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c"> Pay once 4500 DKK incl. VAT </a>
 
 <style>
 .btn {
