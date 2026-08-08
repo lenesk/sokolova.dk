@@ -2,7 +2,7 @@
 (max. 10 participants in a group)
 
 ## Dates and time 
-* 10 online sessions on Fridays
+* 10 online sessions on Fridays 17:00-18:30
 * Dates: August 21st, 24th; September 4th, 11th, 18th; October 2nd, 9th, 23rd 30th; November 6th.
 
 ## Enrollment
