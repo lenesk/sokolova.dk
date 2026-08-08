@@ -8,6 +8,29 @@
 ## Enrollment
 ### By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality. 
 
+<a class="https://js.stripe.com/v3/buy-button.js" href="> Enroll & pay once 4500 DKK incl. VAT </a>
+
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
 
 ## Your current level
 You must be able to write and understand simple spoken and written Danish (A2 level is enough).
