@@ -1,21 +1,16 @@
 # Get ready for Prøve i Dansk 2 Winter 2026
 (max. 10 participants in a group)
 
-## Dates, time and enrollment 
-* 10 online sessions on Fridays 
-* August 21st, 24th, September 4th, 11th, 18th, October 2nd, 9th, 23rd, 30th, November 6th
+## Dates and time 
+* 10 online sessions on Fridays
+* Dates: August 21st, 24th; September 4th, 11th, 18th; October 2nd, 9th, 23rd 30th; November 6th.
+
+## Enrollment
+By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality. 
 
 <script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1U2HZQAmj5ZMjL2KUNeiHPvJ"
-  publishable-key="pk_live_51GxJd6Amj5ZMjL2K9Lu2nBGV6KUOPlagpmXRsWw3U54Hit4unW83uBjMgMreJ1ZeCvKEKhj1ON2d63Ooa4IM3C91003yfS0unx"
->
-</stripe-buy-button>
-
-Sign up for 4500 DKK (incl. VAT) </a> By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality. 
+  src="https://js.stripe.com/v3/buy-button.js"> 
+Sign up for 4500 DKK (incl. VAT) </a> 
 
 If you want to sign up via MobilePay, let me know by mail elena@sokolova.dk, so I can make an invoice for your MobilePayment. 
 
