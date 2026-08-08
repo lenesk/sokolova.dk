@@ -6,16 +6,8 @@
 * Dates: August 21st, 24th; September 4th, 11th, 18th; October 2nd, 9th, 23rd 30th; November 6th.
 
 ## Enrollment
-### By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality. 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+### By signing up you confirm, that you are not eligible for free Danish classes via language school through your municipality.[ ](https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1U2HZQAmj5ZMjL2KUNeiHPvJ"
-  publishable-key="pk_live_51GxJd6Amj5ZMjL2K9Lu2nBGV6KUOPlagpmXRsWw3U54Hit4unW83uBjMgMreJ1ZeCvKEKhj1ON2d63Ooa4IM3C91003yfS0unx"
->
-</stripe-buy-button>
 
 
 ## Your current level
