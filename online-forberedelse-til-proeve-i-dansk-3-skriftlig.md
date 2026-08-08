@@ -24,9 +24,7 @@ Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde d
 
 Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med den 1. januar 2026. Privatpersoner under 30 år er fritaget for at betale moms. Så ved tilmelding skriv venligst, om du er over eller under 30 år, så jeg kan lave en rigtig digital faktura. 
 
-### Kursuspris uden moms 4200 DKK (under 30 år)
-### Kursuspris med moms 5250 DKK (over 30 år)
-
+### Kursuspris er 5250 DKK, hvis du betaler som privat person. 
 
 ## Praktisk information og undervisningsmaterialet
 * Du skal selv skaffe dig øvebogen i papirformat ['Bliv klar til Prøve i Dansk 3'](https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/bliv-klar/bliv-klar-til-prove-i-dansk-3-ovebog), andre materialer får du af læreren.
