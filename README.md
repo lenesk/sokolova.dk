@@ -34,6 +34,7 @@ I have been teaching Danish for 15 years (online in Zoom, blended courses, regul
 
 ## Group courses online live
 * [Get ready for Writing in PD3 August-November 2026](online-forberedelse-til-proeve-i-dansk-3-skriftlig.md)
+* [Get ready for Prøve i Dansk 2 Winter 2026](forberedelse-proeve-i-dansk-2-preparation-pd2.md)
 
 
 ## Study Materials/Video lessons for self-study
