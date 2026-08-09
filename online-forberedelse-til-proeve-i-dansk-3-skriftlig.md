@@ -47,8 +47,6 @@ Tilmeldingsfrist er den 20. august 2026. Prisen er 4400 DKK inklusive rettelsen 
 
 Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven, og lidt om dine særlige ønsker eller udfordringer.   
 
-### Kursuspris er 5250 DKK, hvis du betaler som privat person. 
-
 ## Praktisk information og undervisningsmaterialet
 * Du skal selv skaffe dig øvebogen i papirformat ['Bliv klar til Prøve i Dansk 3'](https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/bliv-klar/bliv-klar-til-prove-i-dansk-3-ovebog), andre materialer får du af læreren.
 * Efter dagens program får du tilsendt to skriftlige opgaver som hjemmearbejde til næste undervisningsgang.
