@@ -44,7 +44,7 @@ Tilmeldingsfrist er den 20. august 2026. Prisen er 4400 DKK inklusive rettelsen 
   text-decoration: none;
 }
 </style>  
-### By signing up for the course you confirm that you are not eligible for free Danish classes via language school through your municipality. If you are still eligible for free Danish classes and want to have private teaching, you can book my one-to-one sessions online via elena@sokolova.dk. 
+> By signing up for the course you confirm that you are not eligible for free Danish classes via language school through your municipality. If you are still eligible for free Danish classes and want to have private teaching, you can book my one-to-one sessions online via elena@sokolova.dk. 
 
 ## Praktisk information og undervisningsmaterialet
 * Du skal selv skaffe dig øvebogen i papirformat ['Bliv klar til Prøve i Dansk 3'](https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/bliv-klar/bliv-klar-til-prove-i-dansk-3-ovebog), andre materialer får du af læreren.
