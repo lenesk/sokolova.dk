@@ -1,6 +1,6 @@
 
-# Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3
-Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
+# Forberedelse til Skriftlig del af Prøve i Dansk 3
+Bliv bedre til at skrive og læse på dansk og få en højere karakter ved PD3.
 
 ## Niveauet og adgangskriterier
 
@@ -8,7 +8,7 @@ Bliv bedre til at skrive på dansk og få en højere karakter ved PD3.
 * Kurset er for dig, der allerede har bestået PD3, men vil forbedre resultat i skrivning.
 * Kurset er fx også for dig, der er god til dansk, men din ret til gratis dansk er udløbet, og du kan ikke tage gratis undervisning via sprogcenter/på sprogskole. 
 
-## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere online in Zoom)
+## Datoer og tid: vælg mellem aften- eller dagundervisning på et mindre hold (maks. 6 deltagere på hold online i Zoom)
 
 * aftenundervisning (8 mødegange):
 mandage kl.20:00-21:00; datoer 24.08, 31.08, 14.09, 21.09., 05.10, 19.10, 26.10, 02.11.
@@ -20,9 +20,31 @@ onsdage kl.10:00-11:00; datoer 26.08, 9.09, 16.09, 23.09, 07.10, 21.10, 28.10, 0
 
 Tilmeldingsfrist er den 20. august 2026. 
 
-Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven, og lidt om dine særlige ønsker eller udfordringer.   
+<a class="btn" href="https://buy.stripe.com/7sY8wO1zFebe8Od40PfQI0d"> Tilmeld dig daghold </a>
+<a class="btn" href="https://buy.stripe.com/aFaaEWdin0ko1lL0ODfQI0e"> Tilmeld dig aftenhold </a>
 
-Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med den 1. januar 2026. Privatpersoner under 30 år er fritaget for at betale moms. Så ved tilmelding skriv venligst, om du er over eller under 30 år, så jeg kan lave en rigtig digital faktura. 
+<style>
+.btn {
+  color: white;
+  background-color: #2ea44f;
+  border-color: rgba(27,31,35,.1);
+  box-shadow: 0 0px 0 rgba(27,31,35,.1),inset 0 1px 0 hsla(0,0%,100%,.03);
+  position: relative;
+  display: inline-block;
+  padding: 5px 16px;
+  font-size: 14px
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 6px;
+  text-decoration: none;
+}
+</style>
+
+Tilmeld dig kurset via mail elena@sokolova.dk. Skriv, at du gerne vil tilmelde dig kurset, så laver jeg en individuel faktura til dig (betaling med kort via Stripe/MobilePay). Skriv også gerne kort, hvad du fik i skrivningen til PD3 sidste gang, du var til prøven, og lidt om dine særlige ønsker eller udfordringer.   
 
 ### Kursuspris er 5250 DKK, hvis du betaler som privat person. 
 
@@ -30,19 +52,20 @@ Pga. et EU-regulativ skal både virksomheder og private betale moms fra og med d
 * Du skal selv skaffe dig øvebogen i papirformat ['Bliv klar til Prøve i Dansk 3'](https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/bliv-klar/bliv-klar-til-prove-i-dansk-3-ovebog), andre materialer får du af læreren.
 * Efter dagens program får du tilsendt to skriftlige opgaver som hjemmearbejde til næste undervisningsgang.
 * Du får individuel feedback med i prisen på dine opgaver - 16 i alt.
-* Selv om fokus i undervisning lægges på skrivning, er der også mulighed for at øve læsning, for læseopgaver gives som hjemmearbedjde som forberedelse til skrivning. 
+* Selv om fokus i undervisning lægges primært på skrivning, er der også mulighed for at øve læsning, for læseopgaver gives som hjemmearbejde som forberedelse til skrivning. 
 
 ## Kursusprogram
 * Du vil lære om opgavetyper i skriftlig fremstilling og gode strategier, samt tidsplanlægning under prøven. 
 * Forbinderord & syntaks og tekstsammenhæng: du vil lære, hvad forskellen er mellem tre type forbinderord (adverbier, ledsætningskonjunktioner og hovedsætningskonjunktioner). Du vil lære, hvad enkelte forbinderord betyder. 
 * Forbinderord med samme betydning: du lærer, hvordan man bruger synonymer på tværs af forskellige grupper forbinderord. 
-* Du vil lære at bruge verber om udvikling og betydning på B2 niveau, at bruge naboord i argumentation. 
+* Du vil lære at bruge verber om udvikling og betydning på B2 niveau og at bruge naboord i argumentation. 
 * Du vil lære at skrive komplekse sætninger, når du skal forklare/begrunde, fortælle om konsekvenser, argumentere for/imod, kommentere, give eksempler og udtrykke din holdning.  
 *  Statistiksprog. Du lærer at forstå statistikkerne og beskrive dem. Du lærer, hvordan man kan forbinde statistikken med sin argumentation, dvs. bruge faktainformation i begrundelsen og vurdering. 
 *  Du får konkrete eksempler på, hvordan man kan skrive opgave Delprøve 2A og 2B. 
 *  Du får konkrete eksempler på, hvordan man kan starte alle afsnit i en argumenterende tekst og kommentere.  
 *  Du øver dig i at begrunde din argumentation og udtrykke holdninger. 
-*  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mail opgaven (at fortælle om fremtiden og fortiden). 
+*  Du øver dig i at bruge verbernes tidsformer korrekt afhængigt af det kommunikative fokus og spørgsmålene i e-mail opgaven (at fortælle om fremtiden og fortiden).
+
 
 
 Skriv gerne en e-mail til [elena@sokolova.dk](mailto:elena@sokolova.dk), hvis du har spørgsmål. 
