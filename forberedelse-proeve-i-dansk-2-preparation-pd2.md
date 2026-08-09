@@ -35,7 +35,7 @@
 You must be able to write and understand simple spoken and written Danish (A2 level is enough).
 
 ## What to expect from the course
-You will get training in all the components of PD2: reading comprehension, written expression, and oral communication. After the day's programme, you will be sent homework as well as course notes. The course required around 6 hours of regular self-study per week including submission of assignments in reading and writing. 
+You will get training in all the components of PD2: reading comprehension, written expression, and oral communication. After the day's programme, you will be sent homework as well as course notes. The course requires around 5-6 hours of regular self-study per week including submission of assignments in reading and writing. 
 
 ## Teaching materials & practical information
 
