@@ -6,7 +6,7 @@
 * Dates: August 21st, 28th; September 4th, 11th, 18th; October 2nd, 9th, 23rd, 30th; November 6th, 13th, 20th, 27th. 
 
 ## Enrollment
-### By signing up for the course you confirm that you are not eligible for free Danish classes via language school through your municipality, as I only provide group classes for this target group. If you are still eligible for free Danish classes and want to have private teaching, you can book my one-to-one sessions online via elena@sokolova.dk. 
+### By signing up for the course you confirm that you are not eligible for free Danish classes via language school through your municipality. If you are still eligible for free Danish classes and want to have private teaching, you can book my one-to-one sessions online via elena@sokolova.dk. 
 
 <a class="btn" href="https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c"> Pay once 4500 DKK incl. VAT </a>
 
