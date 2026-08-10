@@ -20,9 +20,9 @@ onsdage kl.10:00-11:00; datoer 26.08, 9.09, 16.09, 23.09, 07.10, 21.10, 28.10, 0
 
 Tilmeldingsfrist er den 20. august 2026. Prisen er 4400 DKK inklusive rettelsen af dine opgaver. 
 
-<a class="btn" href="https://buy.stripe.com/7sY8wO1zFebe8Od40PfQI0d"> Tilmeld dig daghold for 4400 DKK </a>
+<a class="btn" href="https://buy.stripe.com/00w4gybaf6IM9Sh54TfQI0g"> Tilmeld dig daghold for 4600 inkl. moms DKK </a>
 
-<a class="btn" href="https://buy.stripe.com/aFaaEWdin0ko1lL0ODfQI0e"> Tilmeld dig aftenhold for 4400 DKK </a>
+<a class="btn" href="https://buy.stripe.com/9B63cu3HN0ko4xX0ODfQI0h"> Tilmeld dig aftenhold for 4600 DKK inkl.moms </a>
 
 <style>
 .btn {
