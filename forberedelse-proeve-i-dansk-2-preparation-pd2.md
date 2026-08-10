@@ -8,7 +8,8 @@
 ## Enrollment
 > By signing up for the course you confirm that you are not eligible for free Danish classes via language school through your municipality. If you are still eligible for free Danish classes and want to have private teaching, you can book my one-to-one sessions online via elena@sokolova.dk. 
 
-<a class="btn" href="https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c"> Sign up for 4500 DKK </a>
+<a class="btn" href="https://buy.stripe.com/cNi4gy3HNffi9Sh2WLfQI0c"> Sign up for 4500 DKK incl. VAT </a>
+If you are under 30 years old at the time of the payment, you can contact me by mail elena@sokolova.dk, document your age and get a VAT-free price, see more about [VAT rules for group classes/teaching] (https://skat.dk/erhverv/moms/andre-momsemner/moms-paa-motions-og-musikundervisning-tankesport-og-andre-aktiviteter-1) 
 
 <style>
 .btn {
