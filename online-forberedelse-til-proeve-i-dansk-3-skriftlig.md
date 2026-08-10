@@ -22,7 +22,7 @@ Tilmeldingsfrist er den 20. august 2026. Prisen er 4600 DKK inklusive rettelsen 
 
 <a class="btn" href="https://buy.stripe.com/00w4gybaf6IM9Sh54TfQI0g"> Tilmeld dig daghold for 4600 kr.(inkl. moms) </a>
 
-<a class="btn" href="https://buy.stripe.com/9B63cu3HN0ko4xX0ODfQI0h"> Tilmeld dig aftenhold for 4600 kr. (inkl. moms) </a>
+<a class="btn" href="https://buy.stripe.com/9B63cu3HN0ko4xX0ODfQI0h"> Tilmeld dig aftenhold for 4600 kr.(inkl. moms) </a>
 
 <style>
 .btn {
