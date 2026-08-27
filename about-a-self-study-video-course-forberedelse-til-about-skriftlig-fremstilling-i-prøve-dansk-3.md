@@ -25,9 +25,9 @@
 }
 </style>
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 736 DKK excl. VAT to get time-unlimited access to English version</a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to English version</a>
 
-<a class="btn" href="https://elenasokolova.podia.com/dansk-version-online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 736 DKK excl. VAT to get time-unlimited access to Danish version </a>
+<a class="btn" href="https://elenasokolova.podia.com/dansk-version-online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to Danish version </a>
 
 ## Why such a structure of the course?
 
@@ -97,9 +97,9 @@ The course material contains plenty of examples in Danish, whole paragraphs, whe
 ## Practical information
 You can buy access to the course Online Video course on 'Forberedelse til Skriftlig fremstilling i Prøve i Dansk 3' here
 
-<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 736 DKK excl. VAT to get time-unlimited access to English version</a>
+<a class="btn" href="https://elenasokolova.podia.com/online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to English version</a>
 
-<a class="btn" href="https://elenasokolova.podia.com/dansk-version-online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 736 DKK excl. VAT to get time-unlimited access to Danish version </a>
+<a class="btn" href="https://elenasokolova.podia.com/dansk-version-online-forberedelse-til-skriftlig-fremstilling-i-prove-i-dansk-3"> Pay once 220 DKK excl. VAT to get time-unlimited access to Danish version </a>
 
 You are welcome to direct any questions/suggestions/issues related to the course at elena@sokolova.dk. 
 
